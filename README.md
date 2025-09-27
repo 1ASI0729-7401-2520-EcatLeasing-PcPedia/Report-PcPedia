@@ -374,6 +374,168 @@ _Estadística de la problemática_
 
 ## 3.1. User Stories
 
+<!-- ================== EPICS ================== -->
+<h2>Epics</h2>
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <th>ID de Epic</th>
+    <th>Título</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>EP01</td>
+    <td>Control de cuenta</td>
+    <td>Como usuario deseo contar con una cuenta con la cual registrarme en la plataforma.</td>
+  </tr>
+  <tr>
+    <td>EP02</td>
+    <td>Información del servicio</td>
+    <td>Como usuario deseo contar con un apartado en el cual conocer del funcionamiento y costo del servicio.</td>
+  </tr>
+  <tr>
+    <td>EP03</td>
+    <td>Contacto y mensajería</td>
+    <td>Como usuario deseo contar con un apartado con el cual comunicarme cómodamente con el personal de la plataforma.</td>
+  </tr>
+  <tr>
+    <td>EP04</td>
+    <td>Auditoría de equipos</td>
+    <td>Como usuario deseo contar con ayuda para conocer que equipos satisfacen mis necesidades.</td>
+  </tr>
+  <tr>
+    <td>EP05</td>
+    <td>Contratación del servicio</td>
+    <td>Como usuario deseo contar con un apartado para realizar finalmente la contratación del servicio.</td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ================== HU01 ================== -->
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr><th>ID de HU</th><td>HU01</td><th>ID de Epic</th><td>EP01</td></tr>
+  <tr><th>Título</th><td>Registro de cuenta</td><th>Prioridad en el negocio</th><td>Alta</td></tr>
+  <tr><th>Descripción</th><td colspan="3"><b>Como</b> usuario <b>quiero</b> registrarme en la plataforma indicando mis datos <b>para</b> interactuar con las funciones de la misma.</td></tr>
+  <tr><th>Criterios de Aceptación</th><td colspan="3"><b>Escenario: El usuario se ha interesado por la adquisición  o venta un producto</b>   <br><br><b>Dado que</b> el usuario se ha interesado por el servicio <br><b>Y</b> no posee una cuenta aún  <br><b>Cuando</b> seleccione la opción “Registrarme”  <br><b>Entonces</b> la aplicación mostrará el formulario de registro de  datos necesarios para crear una cuenta.</td></tr>
+</table>
+<br>
+
+<!-- ================== HU02 ================== -->
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr><th>ID de HU</th><td>HU02</td><th>ID de Epic</th><td>EP01</td></tr>
+  <tr><th>Título</th><td>Inicio y cierre de sesión</td><th>Prioridad en el negocio</th><td>Alta</td></tr>
+  <tr><th>Descripción</th><td colspan="3"><b>Como</b> usuario <b>quiero</b> ser capaz ingresar y salir de mi cuenta  <b>para</b> mantener la privacidad de los datos de la misma.</td></tr>
+  <tr><th>Criterios de Aceptación</th><td colspan="3"><b>Escenario 1: El usuario quiere acceder a los datos de su cuenta</b>    <br><br><b>Dado que</b> el usuario posee una cuenta  <br><b>Y</b> quiere comprar o vender un producto  <br><b>Cuando</b> seleccione la opción “Iniciar sesión”  <br><b>Entonces</b> accede al apartado de inicio de sesión.    <br><br><b>Escenario 2: El usuario desea cerrar su sesión</b>    <br><b>Dado que</b> el usuario está usando su cuenta  <br><b>Y</b> quiere cerrar la sesión de la misma  <br><b>Cuando</b> seleccione la opción “Cerrar sesión”  <br><b>Entonces</b> la plataforma pasará a modo “Invitado”.</td></tr>
+</table>
+<br>
+
+<!-- ================== HU03 ================== -->
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr><th>ID de HU</th><td>HU03</td><th>ID de Epic</th><td>EP02</td></tr>
+  <tr><th>Título</th><td>Descripción de la empresa</td><th>Prioridad en el negocio</th><td>Alta</td></tr>
+  <tr><th>Descripción</th><td colspan="3"><b>Como</b> usuario <b>quiero</b> conocer más a detalle la misión y visión de la empresa <b>para</b> saber si satisface mi necesidad.</td></tr>
+  <tr><th>Criterios de Aceptación</th><td colspan="3"><b>Escenario: El usuario ha oído hablar del servicio</b>   <br><br><b>Dado que</b> el usuario ha ingresado a la plataforma  <br><b>Y</b> quiere conocer el servicio brindado por la misma <br><b>Cuando</b> se dirija al apartado de “Quiénes somos” <br><b>Entonces</b> conocerá cual es la función de la empresa.</td></tr>
+</table>
+<br>
+
+<!-- ================== HU04 ================== -->
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr><th>ID de HU</th><td>HU04</td><th>ID de Epic</th><td>EP02</td></tr>
+  <tr><th>Título</th><td>Modalidad de cobro</td><th>Prioridad en el negocio</th><td>Alta</td></tr>
+  <tr><th>Descripción</th><td colspan="3"><b>Como</b> usuario <b>quiero</b> ser capaz de informarme del cómo se calcula el monto a pagar <b>para</b> corroborarlo con mi presupuesto.</td></tr>
+  <tr><th>Criterios de Aceptación</th><td colspan="3"><b>Escenario: El usuario se ha interesado por la  adquisición del servicio</b>    <br><br><b>Dado que</b> el usuario posee una cuenta  <br><b>Y</b> quiere adquirir el servicio <br><b>Cuando</b> se dirija al apartado de “Preguntas Frecuentes” <br><b>Entonces</b> accederá a la información del cómo se calcula el cobro.</td></tr>
+</table>
+<br>
+
+<!-- ================== HU05 ================== -->
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr><th>ID de HU</th><td>HU05</td><th>ID de Epic</th><td>EP02</td></tr>
+  <tr><th>Título</th><td>Antecedentes de servicio</td><th>Prioridad en el negocio</th><td>Media</td></tr>
+  <tr><th>Descripción</th><td colspan="3"><b>Como</b> usuario <b>quiero</b> conocer el trabajo ya realizado por la empresa <b>para</b> que mi nivel de confianza en ella incremente.</td></tr>
+  <tr><th>Criterios de Aceptación</th><td colspan="3"><b>Escenario: El usuario se ha interesado por la  adquisición del servicio</b>    <br><br><b>Dado que</b> el usuario posee una cuenta  <br><b>Y</b> quiere adquirir el servicio <br><b>Cuando</b> se dirija al apartado de “Quienes somos” <br><b>Entonces</b> accederá a evidencias de servicios ya brindados.</td></tr>
+</table>
+<br>
+
+<!-- ================== HU06 ================== -->
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr><th>ID de HU</th><td>HU06</td><th>ID de Epic</th><td>EP03</td></tr>
+  <tr><th>Título</th><td>Ubicación y número telefónico</td><th>Prioridad en el negocio</th><td>Alta</td></tr>
+  <tr><th>Descripción</th><td colspan="3"><b>Como</b> usuario <b>quiero</b> conocer dónde se ubican las oficinas y cómo puedo contactar con ellas <b>para</b> contactar al personal.</td></tr>
+  <tr><th>Criterios de Aceptación</th><td colspan="3"><b>Escenario 1: El usuario se ha interesado por la adquisición del servicio</b>    <br><br><b>Dado que</b> el usuario posee una cuenta  <br><b>Y</b> quiere adquirir el servicio <br><b>Cuando</b> se dirija al apartado de “Contacto” <br><b>Entonces</b> accederá a la ubicación y número de teléfono de las oficinas de la empresa. <br><br><b>Escenario 2: El usuario se presenta un reclamo con respecto al servicio</b>   <br><br><b>Dado que</b> el usuario ya ha contratado el servicio  <br><b>Y</b> presenta una disconformidad con el mismo <br><b>Cuando</b> se dirija al apartado de “Contacto” <br><b>Entonces</b> accederá a la ubicación y número de teléfono de las oficinas de la empresa.</td></tr>
+</table>
+<br>
+
+<!-- ================== HU07 ================== -->
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr><th>ID de HU</th><td>HU07</td><th>ID de Epic</th><td>EP03</td></tr>
+  <tr><th>Título</th><td>Chatbot asesor</td><th>Prioridad en el negocio</th><td>Media</td></tr>
+  <tr><th>Descripción</th><td colspan="3"><b>Como</b> usuario <b>quiero</b> poder acceder a una chat de respuesta rápida <b>para</b> aclarar mis dudas.</td></tr>
+  <tr><th>Criterios de Aceptación</th><td colspan="3"><b>Escenario: El usuario presenta un desconocimiento sobre el servicio</b>   <br><br><b>Dado que</b> se ha interesado por el servicio <br><b>Y</b> presenta algunas dudas sobre el mismo <br><b>Cuando</b> se dirija al apartado de “Pregunta aquí” <br><b>Entonces</b> accederá a un chat en el cual formular sus preguntas.</td></tr>
+</table>
+<br>
+
+<!-- ================== HU08 ================== -->
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr><th>ID de HU</th><td>HU08</td><th>ID de Epic</th><td>EP03</td></tr>
+  <tr><th>Título</th><td>Formulario de quejas</td><th>Prioridad en el negocio</th><td>Alta</td></tr>
+  <tr><th>Descripción</th><td colspan="3"><b>Como</b> usuario <b>quiero</b> poder presentar una queja <b>para</b> hacer llegar mi malestar a la empresa.</td></tr>
+  <tr><th>Criterios de Aceptación</th><td colspan="3"><b>Escenario: El usuario no está satisfecho con el servicio</b>   <br><br><b>Dado que</b> el usuario ya ha contratado el servicio <br><b>Y</b> no está satisfecho con el mismo <br><b>Cuando</b> se dirija al apartado de “Presentar un reclamo” <br><b>Entonces</b> accederá a un formulario en el cual describir su problema.</td></tr>
+</table>
+<br>
+
+<!-- ================== HU09 ================== -->
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr><th>ID de HU</th><td>HU09</td><th>ID de Epic</th><td>EP03</td></tr>
+  <tr><th>Título</th><td>Servicio al cliente</td><th>Prioridad en el negocio</th><td>Alta</td></tr>
+  <tr><th>Descripción</th><td colspan="3"><b>Como</b> usuario <b>quiero</b> contar con un medio por el cual tener contacto con el personal <b>para</b> recibir ayuda.</td></tr>
+  <tr><th>Criterios de Aceptación</th><td colspan="3"><b>Escenario: El usuario ya ha contratado el servicio y presenta un inconveniente</b> <br><br><b>Dado que</b> el usuario ya ha contratado el servicio <br><b>Y</b> presenta un inconveniente <br><b>Cuando</b> se dirija al apartado de “Servicio al cliente” <br><b>Entonces</b> podrá contactar al personal en busca de ayuda.</td></tr>
+</table>
+<br>
+
+<!-- ================== HU10 ================== -->
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr><th>ID de HU</th><td>HU10</td><th>ID de Epic</th><td>EP04</td></tr>
+  <tr><th>Título</th><td>Información de equipos</td><th>Prioridad en el negocio</th><td>Alta</td></tr>
+  <tr><th>Descripción</th><td colspan="3"><b>Como</b> usuario <b>quiero</b> poder conocer la función de los equipos <b>para</b> conocer cómo satisfacer mis necesidades.</td></tr>
+  <tr><th>Criterios de Aceptación</th><td colspan="3"><b>Escenario: El usuario desconoce la función de los equipos</b>   <br><br><b>Dado que</b> el usuario está interesado por el servicio <br><b>Y</b> desconoce el funcionamiento de los equipos <br><b>Cuando</b> se dirija al apartado de “Nuestro catálogo” <br><b>Entonces</b> accederá a un catálogo digital junto con información de cada equipo.</td></tr>
+</table>
+<br>
+
+<!-- ================== HU011 ================== -->
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr><th>ID de HU</th><td>HU011</td><th>ID de Epic</th><td>EP04</td></tr>
+  <tr><th>Título</th><td>Disponibilidad de equipos</td><th>Prioridad en el negocio</th><td>Alta</td></tr>
+  <tr><th>Descripción</th><td colspan="3"><b>Como</b> usuario <b>quiero</b> poder conocer la disponibilidad de un equipo <b>para</b> consultar por el mismo u otro.</td></tr>
+  <tr><th>Criterios de Aceptación</th><td colspan="3"><b>Escenario: El usuario está interesado en un equipo específicamente</b>   <br><br><b>Dado que</b> el usuario está interesado por el servicio <br><b>Y</b> desconoce de la disponibilidad del mismo <br><b>Cuando</b> se dirija al apartado de “Disponibilidad” <br><b>Entonces</b> podrá visualizar la disponibilidad del equipo en concreto.</td></tr>
+</table>
+<br>
+
+<!-- ================== HU012 ================== -->
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr><th>ID de HU</th><td>HU012</td><th>ID de Epic</th><td>EP04</td></tr>
+  <tr><th>Título</th><td>Acuerdo de auditorías</td><th>Prioridad en el negocio</th><td>Alta</td></tr>
+  <tr><th>Descripción</th><td colspan="3"><b>Como</b> usuario <b>quiero</b> poder recibir una auditoría personalizada en el área correspondiente <b>para</b> recibir ayuda de acuerdo a mis necesidades y presupuesto.</td></tr>
+  <tr><th>Criterios de Aceptación</th><td colspan="3"><b>Escenario: El usuario está interesado en contratar el servicio y recibir una cotización</b>   <br><br><b>Dado que</b> el usuario está interesado por el servicio <br><b>Y</b> desea una cotización <br><b>Cuando</b> se acuerde una auditoría con el personal <br><b>Entonces</b> se coordinará y designará una fecha para la misma.</td></tr>
+</table>
+<br>
+
+<!-- ================== HU013 ================== -->
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr><th>ID de HU</th><td>HU013</td><th>ID de Epic</th><td>EP05</td></tr>
+  <tr><th>Título</th><td>Modalidades de pago</td><th>Prioridad en el negocio</th><td>Alta</td></tr>
+  <tr><th>Descripción</th><td colspan="3"><b>Como</b> usuario <b>quiero</b> conocer las modalidades de pago disponibles <b>para</b> decidir cuál es la de mi conveniencia.</td></tr>
+  <tr><th>Criterios de Aceptación</th><td colspan="3"><b>Escenario: El usuario está interesado en contratar el servicio</b>   <br><br><b>Dado que</b> el usuario está interesado por el servicio <br><b>Y</b> desconoce cómo se puede pagar por el mismo <br><b>Cuando</b> se dirija al apartado de “Preguntas frecuentes” <br><b>Entonces</b> podrá conocer las distintas modalidades y frecuencias de pago.</td></tr>
+</table>
+<br>
+
+<!-- ================== HU014 ================== -->
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr><th>ID de HU</th><td>HU014</td><th>ID de Epic</th><td>EP05</td></tr>
+  <tr><th>Título</th><td>Apartado de pago desde la plataforma</td><th>Prioridad en el negocio</th><td>Alta</td></tr>
+  <tr><th>Descripción</th><td colspan="3"><b>Como</b> usuario <b>quiero</b> contar con un apartado de pagos desde la misma plataforma <b>para</b> una mayor comodidad.</td></tr>
+  <tr><th>Criterios de Aceptación</th><td colspan="3"><b>Escenario: El usuario ya ha contratado el servicio y está por pagar por el mismo</b> <br><br><b>Dado que</b> el usuario ya ha contratado el servicio <br><b>Y</b> está a punto de pagar por el mismo <br><b>Cuando</b> se dirija al apartado de “Realizar pago” <br><b>Entonces</b> podrá acceder a un módulo de llenado de datos bancarios.</td></tr>
+</table>
+
 ## 3.2. Impact Mapping
 
 ## 3.3. Product Backlog
