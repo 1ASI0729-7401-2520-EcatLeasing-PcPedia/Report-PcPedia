@@ -538,6 +538,8 @@ _Estadística de la problemática_
 
 ## 3.2. Impact Mapping
 
+![impact_mapping.png](/assets/chapter3/impact_mapping.png)
+
 ## 3.3. Product Backlog
 
 # Capítulo IV: Product Design
