@@ -542,6 +542,118 @@ _Estadística de la problemática_
 
 ## 3.3. Product Backlog
 
+<table>
+  <thead>
+    <tr>
+      <th># Orden</th>
+      <th>ID de HU</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Story Points (1 / 2 / 3 / 5 / 8) </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>HU01</td>
+      <td>Registro de cuenta</td>
+      <td><b>Como</b> usuario <b>quiero</b>  registrarme en la plataforma indicando mis datos <b>para</b> interactuar con las funciones de la misma.</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>HU02</td>
+      <td>Inicio y cierre de sesión</td>
+      <td><b>Como</b> usuario <b>quiero</b> ser capaz ingresar y salir de mi cuenta <b>para</b> mantener la privacidad de los datos de la misma.</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>HU03</td>
+      <td>Descripción de la empresa</td>
+      <td><b>Como</b> usuario <b>quiero</b> conocer más a detalle la misión y visión de la empresa <b>para</b> saber si satisface mi necesidad.</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>HU04</td>
+      <td>Modalidad de cobro</td>
+      <td><b>Como</b> usuario <b>quiero</b> ser capaz de informarme del cómo se calcula el monto a pagar <b>para</b> corroborarlo con mi presupuesto.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>HU05</td>
+      <td>Antecedentes de servicio</td>
+      <td><b>Como</b> usuario <b>quiero</b> conocer el trabajo ya realizado por la empresa <b>para</b> que mi nivel de confianza en ella incremente.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>HU06</td>
+      <td>Ubicación y número telefónico</td>
+      <td><b>Como</b> usuario <b>quiero</b> conocer dónde se ubican las oficinas y cómo puedo contactar con ellas <b>para</b> contactar al personal.</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>HU07</td>
+      <td>Chatbot asesor</td>
+      <td><b>Como</b> usuario <b>quiero</b> poder acceder a una chat de respuesta rápida <b>para</b> aclarar mis dudas.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>HU08</td>
+      <td>Formulario de quejas</td>
+      <td><b>Como</b> usuario <b>quiero</b> poder presentar una queja <b>para</b> hacer llegar mi malestar a la empresa.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>HU09</td>
+      <td>Servicio al cliente</td>
+      <td><b>Como</b> usuario <b>quiero</b> contar con un medio por el cual tener contacto con el personal <b>para</b> recibir ayuda.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>HU10</td>
+      <td>Información de equipos</td>
+      <td><b>Como</b> usuario <b>quiero</b> poder conocer la función de los equipos <b>para</b> conocer cómo satisfacer mis necesidades.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>HU11</td>
+      <td>Disponibilidad de equipos</td>
+      <td><b>Como</b> usuario <b>quiero</b> poder conocer la disponibilidad de un equipo <b>para</b> consultar por el mismo u otro.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>HU12</td>
+      <td>Acuerdo de auditorías</td>
+      <td><b>Como</b> usuario <b>quiero</b> poder recibir una auditoría personalizada en el área correspondiente <b>para</b> recibir ayuda de acuerdo a mis necesidades y presupuesto.</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>HU13</td>
+      <td>Modalidades de pago</td>
+      <td><b>Como</b> usuario <b>quiero</b> conocer las modalidades de pago disponibles <b>para</b> decidir cuál es la de mi conveniencia.</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>HU14</td>
+      <td>Apartado de pago desde la plataforma</td>
+      <td><b>Como</b> usuario <b>quiero</b> contar con un apartado de pagos desde la misma plataforma <b>para</b> una mayor comodidad.</td>
+      <td>3</td>
+    </tr>
+  </tbody>
+</table>
+
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines
