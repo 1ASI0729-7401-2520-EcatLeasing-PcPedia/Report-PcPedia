@@ -682,19 +682,131 @@ Finalmente, presentamos el modelo de alta fidelidad de nuestra pagina web:
 
 ## 4.5. Web Applications Prototyping
 
+El prototipo de la aplicación web adjunta la representación visual anteriomente mostrada y la vuelve interactiva, pero sin tener código real detrás.
+
+Para este proyecto, usamos figma para hacer el prototipo de la aplicación web. Véase el anexo 2 para mayor información. 
+
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Design-Level Event Storming
 
+El diseño por niveles del Event Storming es una técnica colaborativa, similar al Big Picture, pero más profunda que busca especificar los Bounded Context pertenecientes al negocio. En otras palabras, DLES es una técnica perteneciente al Domain Driven Design que nos permitirá entender los microservicios de nuestro negocio a un nivel mucho más específico que en un Big Picture.
+
+A continuación, presentaremos los pasos a seguir para ejecutar la técnica:
+
+En los primeros pasos, reutilizamos lo planteado en el Big Picture Event Storming.
+
+**a. Unstructured Exploration**
+
+![UnstructuredExploration.png](/Assets/Chapter2/UnstructuredExploration.png)
+
+**b. Chronology**
+
+![Chronology.png](/Assets/Chapter2/Chronology.png)
+
+**c. Pain Points**
+
+![PainPoints.png](/Assets/Chapter2/PainPoints.png)
+
+Para los siguientes pasos, nos tuvimos que reunir nuevamente para asignar roles a los elementos del negocio.
+
+**d. Commands**
+
+Los comandos son acciones que nosotros o el usuario podría hacer dentro del sistema, en su mayoría, resultando en eventos. Siguiendo las técnicas su color es "azul".
+
+Los comandos más importante en nuestro negocio serán la generación de incidentes, devoluciones y compras que desencadenan la mayoría de eventos y relaciones en nuestro sistema.
+
+![Commands.png](/Assets/Chapter4/Commands.png)
+
+**e. Pivotal**
+
+Pivotal es un término usado para denotar los eventos importantes sucedidos en el negocio. Siguiendo la técnica su color es "rojo" y se denota con una línea en el evento designado.
+
+En nuestro sistema, notamos momentos Pivotal en los eventos de creación de usuario, la validación de compra, cuando se solucionan incidentes y cuando finalizan los procesos de devolución o mantenimiento. Debido a que se relacionan con la validación de datos, finanzas y experiencia del cliente.
+
+![Pivotal.png](/Assets/Chapter4/Pivotal.png)
+
+**f. Policies**
+
+Policies se refiere a las políticas de nuestro sistema, en que cosas estaremos obligados a hacer. Siguiendo la técnica su color es "morado".
+
+En nuestro sistema, la manera en la que hemos hecho las políticas son siguiendo un orden causal: si sucede "x", entonces debemos hacer "y". Por ejemplo, si se inicializa una compra, debemos informar a nuestro usuario mediante los canales prestados: SMS o correoeléctronico, la razón de esta politica sería para ofrecer un método de seguridad y protección a la cuenta de nuestro usuario y sus finanzas.
+
+![Policies.png](/Assets/Chapter4/Policies.png)
+
+**g. Read Models**
+
+Read Models, en sí, no tienen lógica dentro del negocio, sino que son etiquetas que buscan apoyar la descripción de datos del sistema. Siguiendo la técnica son de color "verde".
+
+En nuestro sistema, usamos este tipo de etiquetas para funciones sencillas como describir datos que ingresa el usuario, como interactua un comando y descripciones de eventos más detallada.
+
+![ReadModels.png](/Assets/Chapter4/ReadModels.png)
+
+**h. External System**
+
+External System, como su nombre dice, son sistemas externos de los cuales nuestra aplicación se podrá apoyar. Siguiendo la técnica su color es "rojo pálido".
+
+En nuestro sistema, usaremos Outlook y Visa como sistemas externos como medio de comunicación y método de pago respectivamente.
+
+![ExternalSystem.png](/Assets/Chapter4/ExternalSystem.png)
+
+**i. Aggregates**
+
+Aggregates es una etiqueta muy especial, pues es una de las más importantes dentro del DDD y Event Storming. Representa a un objeto el cual podrá hacer los comandos, pero se diferencia de una entidad, debidoa a que estará compuestos de otros elemetos. Siguiendo la técnica su color es "amarillo" y tiene una forma alargada.
+
+Dentro del sistema, podemos denotar aggregates como Usuario, Incidente, Mantenimiento, Devolución y Orden de compra. Todos son aggregates, debido a que están compuestos de elementos anteriores a su existencia como información de usuario, incidente, mantenimiento, devolución y compra respectivamente.
+
+![Aggregates.png](/Assets/Chapter4/Aggregates.png)
+
+**j. Bounded Context**
+
+Finalmente, Bounded Context es el décimo y último paso de este tipo de diseño, se encargará de seccionar los elementos y crear un contexto en el que cada uno pueda desarrollarse.
+
+Dentro de nuestro sistema, encontramos 4 bounded context que son los siguientes:
+
+![BoundedContext,png](/Assets/Chapter4/BoundedContext.png)
+
+- **Bounded Context: Gestión de Usuario**
+
+![BoundedContextU.png](/Assets/Chapter4/BoundedContextGestUsuario.png)
+
+- **Bounded Context: Gestión de Inventario**
+
+![BoundedContextI.png](/Assets/Chapter4/BoundedContextGestInventario.png)
+
+- **Bounded Context: Gestión de Ventas**
+
+![BoundedContextV.png](/Assets/Chapter4/BoundedContextGestVentas.png)
+
+- **Bounded Context: Gestión de Servicio al cliente**
+
+![BoundedContextS.png](/Assets/Chapter4/BoundedContextGestServicio.png)
+
 ### 4.6.2. Software Architecture Context Diagram
+
+El diagrama de contexto es uno que trata en alto nivel, o sea de manera superficial el negocio. Por ejemplo, en nuestro caso, podemos ver las personas que interactuaran con nuestro sistema, el sistema y los sistemas externos que nos ayudaran a conseguir los objetivos del negocio.
+
+![Diagram_C1.png](/Assets/Chapter4/Diagram_C1.png)
 
 ### 4.6.3. Software Architecture Container Diagrams
 
+El diagrama de contenedores es similar al de contexto, pero descomponiendo nuestro sistema en los servicios que lo compondran. En este caso, nuestro sistema estara compuesto por 2 páginas web: Customer y Staff, separamos a los clientes de la web en la que se trabajará en el negocio.
+
+![Diagram_C2.png](/Assets/Chapter4/Diagram_C2.png)
+
 ### 4.6.4. Software Architecture Components Diagrams
+
+Finalmente, el diagrama de componentes nos ayuda a describir a los componentes internos, siendo el que decidimos elegir como el más importante el API.
+
+Dentro podemos ver modulos o, interpretandolo con el DDD, bounded context donde se seguiria la misma logica mostrada en el Event Storming.
+
+![Diagram_C3.png](/Assets/Chapter4/Diagram_C3.png)
 
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
+
+
 
 ## 4.8. Database Design
 
@@ -747,7 +859,7 @@ Finalmente, presentamos el modelo de alta fidelidad de nuestra pagina web:
 # Anexo
 
 - Anexo 1: [Wireframe y Mock-up](https://www.figma.com/design/goeqlKKoDYuKbrXX4b2CPS/Untitled?node-id=0-1&t=e6PofK0oCr2471Qh-1)
-- 
+- Anexo 2: [Prototipo de Web](https://www.figma.com/proto/goeqlKKoDYuKbrXX4b2CPS/Untitled?node-id=48-653&p=f&t=tkI6cxLLsYZUxYM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=48%3A653)
 
 ## Conclusiones y recomendaciones
 
