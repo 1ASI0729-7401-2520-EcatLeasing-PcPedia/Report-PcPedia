@@ -540,6 +540,11 @@ Finalmente, los botones de acción (ej. “Comparar ahora”, “Agregar a favor
 
 ### 4.3.1. Landing Page Wireframe
 
+Los wireframes son representaciones de baja fidelidad que muestran la estructura y disposición de los elementos principales de la aplicación web.
+
+A continuación, presentaremos los wireframe de nuestra landing page como guía del diseño que haremos en los siguientes paso:
+
+
 - Captura 1
 
 ![Wireframe1.png](/Assets/Chapter4/Wireframe-1.png)
@@ -560,17 +565,120 @@ Finalmente, los botones de acción (ej. “Comparar ahora”, “Agregar a favor
 
 ![Wireframe5.png](/Assets/Chapter4/Wireframe-5.png)
 
+Para más detalle, revisar el anexo 1.
+
 ### 4.3.2. Landing Page Mock-up.
+
+El Mock-up de la Landing Page es una representación de alta fidelidad de la página de inicio, donde se aplican colores, tipografía, iconografía y estilos que transmiten la identidad visual corporativa. Este mock-up permite visualizar cómo se verán realmente los componentes descritos en el wireframe.
+
+Este mock-up refleja la versión estilizada que un usuario final verá al ingresar, integrando la experiencia visual con la navegación lateral.
+
+- Captura 1
+
+![MockUp1.png](/Assets/Chapter4/Mock-up1.png)
+
+- Captura 2
+
+![MockUp2.png](/Assets/Chapter4/Mock-up2.png)
+
+- Captura 3
+
+![MockUp3.png](/Assets/Chapter4/Mock-up3.png)
+
+- Captura 4
+
+![MockUp4.png](/Assets/Chapter4/Mock-up4.png)
+
+Para más detalle, revisar el anexo 1.
+
 
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
 
+Anteriormente se mostraron los wireframes de la landing page del proyecto, ahora mostraremos el diseño de bajo nivel de fidelidad de la web de nuestro proyecto.
+
+En primer lugar, mostraremos los elementos que se podran encontrar en nuestra web.
+
+- Login, Usuario, Contraseña y Botón de acceso
+- Pantalla de inicio de sesión con campos básicos de autenticación.
+- Inicio Bienvenida Historia Servicios
+- Landing de bienvenida con mensaje principal, historia y servicios.
+- Dashboard Gráfico por modelo Gráfico por marca Exportar
+- Panel de control con métricas de activos y opción de exportar.
+- Contratos Tarjetas Estados
+- Vista de contratos listados como tarjetas.
+- Perfil Avatar Datos Configuración
+- Página de perfil con información y opciones de configuración.
+- Partners Novedades 
+- Sección de socios y novedades corporativas.
+
+**Vista 1**
+
+![WireframeWeb1.png](/Assets/Chapter4/WireframeWeb1.png)
+
+**Vista 2**
+
+![WireframeWeb2.png](/Assets/Chapter4/WireframeWeb2.png)
+
+**Vista 3**
+
+![WireframeWeb3.png](/Assets/Chapter4/WireframeWeb3.png)
+
+**Vista 4**
+
+![WireframeWeb4.png](/Assets/Chapter4/WireframeWeb4.png)
+
+**Vista 5**
+
+![WireframeWeb5.png](/Assets/Chapter4/WireframeWeb5.png)
+
+**Vista 6**
+
+![WireframeWeb6.png](/Assets/Chapter4/WireframeWeb6.png)
+
+Para más detalle, revisar el anexo 1.
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+![WireframeWeb.png](/Assets/Chapter4/WireframeWeb.png)
 
 ### 4.4.3. Web Applications Mock-ups
 
+Finalmente, presentamos el modelo de alta fidelidad de nuestra pagina web:
+
+**Vista 1**
+
+![Mock-upWeb1.png](/Assets/Chapter4/Mock-upWeb1.png)
+
+**Vista 2**
+
+![Mock-upWeb2.png](/Assets/Chapter4/Mock-upWeb2.png)
+
+**Vista 3**
+
+![Mock-upWeb3.png](/Assets/Chapter4/Mock-upWeb3.png)
+
+**Vista 4**
+
+![Mock-upWeb4.png](/Assets/Chapter4/Mock-upWeb4.png)
+
+**Vista 5**
+
+![Mock-upWeb5.png](/Assets/Chapter4/Mock-upWeb5.png)
+
+**Vista 6**
+
+![Mock-upWeb6.png](/Assets/Chapter4/Mock-upWeb6.png)
+
+**Vista 7**
+
+![Mock-upWeb7.png](/Assets/Chapter4/Mock-upWeb7.png)
+
 ### 4.4.4. Web Applications User Flow Diagrams
+
+![Mock-upWeb.png](/Assets/Chapter4/Mock-upWeb.png)
 
 ## 4.5. Web Applications Prototyping
 
@@ -634,6 +742,12 @@ Finalmente, los botones de acción (ej. “Comparar ahora”, “Agregar a favor
 
 ## 5.4. Video About-the-Product
 
-# Conclusiones
+# Bibliografia
+
+# Anexo
+
+- Anexo 1: [Wireframe y Mock-up](https://www.figma.com/design/goeqlKKoDYuKbrXX4b2CPS/Untitled?node-id=0-1&t=e6PofK0oCr2471Qh-1)
+- 
 
 ## Conclusiones y recomendaciones
+
