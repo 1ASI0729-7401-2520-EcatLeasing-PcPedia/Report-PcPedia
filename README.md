@@ -422,23 +422,143 @@ Una observación que podemos realizar es que los modelos presentados son prototi
 
 ### 4.1.1. General Style Guidelines
 
+**Tipografía**
+
+| Uso | Fuente | Ejemplo visual |
+|-----|--------|----------------|
+| Encabezados (H1, H2) | **Anton** | TÍTULO PRINCIPAL |
+| Subtítulos / Botones | **Antonio** | Subtítulo / Acción |
+| Texto general | Sans Serif del sistema | Texto de párrafo estándar |
+
+**Paleta de Colores**
+
+| Color | Hex | Uso |
+|--------|------|-----|
+| Azul principal | `#1A3458` | Headers, barra de navegación, botones primarios |
+| Azul base claro | `#F2F6FF` | Fondos generales, secciones amplias, cards |
+| Negro | `#000000` | Texto sobre fondos claros |
+| Blanco | `#FFFFFF` | Texto sobre fondos oscuros, íconos |
+| Escala de grises | `#333333` ‒ `#DDDDDD` | Wireframes, bordes, placeholders |
+
+**Espaciado y consistencia**
+
+- Márgenes y paddings en múltiplos de 8 px.
+- Bordes redondeados de 8 px para botones y tarjetas.
+- Sombras suaves (“box-shadow” ligero) para elementos elevados como cards o modales.
+
+---
+
 ### 4.1.2. Web Style Guidelines
+
+**Componentes principales**
+
+| Componente | Estilo visual |
+|------------|----------------|
+| Botón primario | Fondo `#1A3458`, texto `#FFFFFF`, borde redondeado 8 px |
+| Botón secundario | Fondo `#F2F6FF`, texto `#1A3458` |
+| Enlace | Texto `#1A3458`, subrayado al pasar el cursor |
+| Tarjeta (Card) | Fondo `#F2F6FF`, título en Anton, contenido en negro, sombra ligera |
+| Barra de navegación | Fondo `#1A3458`, texto y logo en blanco |
+| Footer | Fondo gris oscuro (`#333333`), texto en blanco |
+
+**Accesibilidad**
+
+- Contraste de al menos **4.5:1** entre texto y fondo.
+- Tipografía legible, tamaño mínimo 16px para textos largos.
+- Asegurar buen contraste también en estados hover/focus.
+
+---
 
 ## 4.2. Information Architecture
 
 ### 4.2.1. Organization Systems
 
+En esta sección se definen los sistemas de organización que permitirán estructurar y etiquetar el contenido de manera que resulte comprensible y fácil de encontrar para los usuarios. La organización de la información en *PcPedia* busca adaptarse a las necesidades tanto de estudiantes de ingeniería, técnicos de soporte como de usuarios entusiastas de hardware.
+
+**Jerarquía de contenido:**  
+Se aplica una jerarquía visual que da prioridad a los componentes principales que los usuarios buscan con mayor frecuencia. Las secciones destacadas en la interfaz incluyen categorías como Procesadores, Tarjetas Gráficas, Memorias RAM, Almacenamiento, Placas Base y Periféricos. Cada categoría cuenta con subcategorías; por ejemplo, dentro de Procesadores, se diferencian líneas como Intel Core i3, i5, i7 e i9, así como AMD Ryzen 5, 7 y 9. Esta jerarquía ayuda al usuario a identificar rápidamente dónde debe dirigirse según su necesidad.
+
+**Organización secuencial:**  
+El flujo de interacción acompaña al usuario en pasos lógicos: buscar un componente, revisar sus especificaciones técnicas, compararlo con otro producto y finalmente visualizar recomendaciones relacionadas. Este proceso está diseñado para ser intuitivo, de manera que los usuarios puedan tomar decisiones rápidas sin perderse entre pantallas o exceso de información.
+
+**Organización matricial:**  
+Se complementa con un menú y estructura de navegación que permiten combinar distintas dimensiones de filtrado. Por ejemplo, un usuario puede entrar a la categoría “Laptops”, aplicar un filtro por marca “ASUS” y luego ajustar por rango de precio. De esta forma, un mismo producto puede encontrarse a través de múltiples caminos, garantizando accesibilidad para diferentes perfiles de usuario.
+
+---
+
 ### 4.2.2. Labeling Systems
+
+En *PcPedia*, los sistemas de etiquetado son fundamentales para asegurar claridad y consistencia en la experiencia de navegación. Todas las secciones utilizan labels simples y familiares para la audiencia: “Procesadores”, “Tarjetas Gráficas”, “Almacenamiento” y “Comparador” se ubican en el menú superior, evitando términos técnicos confusos o redundantes.
+
+Cada ficha de producto incluye etiquetas técnicas claras como “Frecuencia (GHz)”, “Número de núcleos”, “VRAM” o “Tipo de memoria”. Estas etiquetas permiten que tanto un usuario novato como un experto comprendan la información sin ambigüedades. Asimismo, los botones de acción presentan mensajes directos como “Comparar”, “Ver más” o “Agregar a favoritos”, reforzando la orientación en cada paso.
+
+Gracias a este sistema, el usuario puede navegar de manera fluida y sin necesidad de decodificar terminología compleja.
+
+---
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+La plataforma *PcPedia* incorpora metaetiquetas que mejoran su posicionamiento en motores de búsqueda y aseguran que la información se interprete correctamente en navegadores.
+
+- **Title:** cada página cuenta con un título descriptivo, por ejemplo: *“PcPedia – Comparador de Procesadores y Hardware de PC”*.
+- **Codificación de caracteres:** se utiliza UTF-8 para mostrar adecuadamente caracteres especiales y símbolos técnicos.
+- **Description:** cada página integra un resumen breve y atractivo, como *“Encuentra y compara procesadores Intel y AMD con especificaciones actualizadas y comparaciones en tiempo real”*.
+- **Keywords:** se incluyen términos clave como “procesadores”, “tarjetas gráficas”, “comparador de hardware” para mejorar la indexación.
+- **Author y Copyright:** detallan el equipo desarrollador y derechos reservados.
+
+Estas prácticas garantizan que *PcPedia* sea visible en búsquedas relevantes y transmita confianza a sus usuarios desde el primer contacto.
+
+---
+
 ### 4.2.4. Searching Systems
 
+Uno de los aspectos más relevantes de *PcPedia* es la capacidad de localizar rápidamente componentes específicos dentro de un catálogo amplio. Para ello, se ha diseñado un sistema de búsqueda con varias funcionalidades:
+
+- **Barra de búsqueda global:** permite ingresar directamente el nombre del componente (ej. “Ryzen 7 5800X”).
+- **Autocompletado con sugerencias:** mientras el usuario escribe, se despliegan coincidencias relevantes como modelos y marcas.
+- **Filtros dinámicos:** posibilitan refinar los resultados por precio, fabricante, fecha de lanzamiento o nivel de rendimiento.
+- **Historial de búsqueda:** los usuarios registrados pueden guardar búsquedas previas y repetirlas con un solo clic.
+- **Comparación directa:** desde la búsqueda, los resultados pueden enviarse al comparador sin necesidad de pasos adicionales.
+
+Este sistema asegura que los usuarios no pierdan tiempo navegando por múltiples menús y puedan acceder a la información que necesitan de forma inmediata.
+
+---
+
 ### 4.2.5. Navigation Systems
+
+La navegación en *PcPedia* está diseñada para ser clara, responsiva y adaptada a distintos dispositivos. El menú principal superior incluye accesos a las secciones más relevantes: Inicio, Categorías, Comparador, Noticias y Ayuda. Esta estructura permite un acceso rápido a las funciones esenciales sin saturar al usuario.
+
+En categorías extensas, se incluyen **submenús desplegables** y **breadcrumbs (migas de pan)** que indican la ruta actual del usuario (ej. Inicio > Tarjetas Gráficas > NVIDIA). Esto ayuda a que siempre sepan dónde se encuentran dentro de la jerarquía.
+
+Para dispositivos móviles se implementa un **menú hamburguesa**, donde las opciones aparecen en un panel lateral optimizado para pantallas pequeñas. En el footer se añaden accesos a contacto, políticas de privacidad, redes sociales y mapa del sitio, lo que refuerza la usabilidad.
+
+Finalmente, los botones de acción (ej. “Comparar ahora”, “Agregar a favoritos”) se distribuyen en posiciones estratégicas para que la navegación no solo sea informativa, sino también orientada a la interacción constante del usuario.
+
+---
 
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
+
+- Captura 1
+
+![Wireframe1.png](/Assets/Chapter4/Wireframe-1.png)
+
+- Captura 2
+
+![Wireframe2.png](/Assets/Chapter4/Wireframe-2.png)
+
+- Captura 3
+
+![Wireframe3.png](/Assets/Chapter4/Wireframe-3.png)
+
+- Captura 4
+
+![Wireframe4.png](/Assets/Chapter4/Wireframe-4.png)
+
+- Captura 5
+
+![Wireframe5.png](/Assets/Chapter4/Wireframe-5.png)
 
 ### 4.3.2. Landing Page Mock-up.
 
