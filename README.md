@@ -368,44 +368,6 @@ _Estadística de la problemática_
 
 ### 2.4. Big Picture Event Storming
 
-Big Picture Event Storming es una técnica de modelado que busca ofrecer una "visión panorámica" de un software, señalando las piezas claves del negocio, identificar problemas y organizar la estructura básica de la gestión en una cronología. Para llevarlas a cabo, nuestro grupo tuvo reuniones virtuales para diálogar sobre eventos, objetos y la ubicación de estos, con respecto al negocio.
-
-A continuación, presentaremos los pasos que ejecutamos para llevar acabo la técnica Big Picture:
-
-**a. Unstructured Exploration**
-
-La exploración sin estructura consiste en exponer todo lo relacionado al negocio, sin tener una estructura definida. Para este caso, decidimos aceptar toda propuesta lanzada por los miembros del desarrollo, luego de un tiempo, fue actualizado conservando lo que se considero más pertinente.
-
-![UE.png](/Assets/Chapter2/UnstructuredExploration.png)
-
-Dentro podemos ver eventos, acciones del usuario, acciones de los miembros del negocio y sistemas externos como los métodos de pago que se usarían en nuestro negocio.
-
-**b. Chronology**
-
-En la cronología, se ordenaron los elementos del negocio, según la manera que consideramos serían llamados.
-
-![Chronology.png](/Assets/Chapter2/Chronology.png)
-
-**c. Events**
-
-Separamos los eventos de los demás elementos para llevar mejor control en los siguientes pasos.
-
-![Events.png](/Assets/Chapter2/Events.png)
-
-**d. Pain points**
-
-Añadimos los puntos de dolor que consideramos que el cliente/usuario pueda experimentar con el uso del sistema
-
-![PainPoints.png](/Assets/Chapter2/PainPoints.png)
-
-**e. Bounded Context**
-
-Seccionamos los elementos del negocio, en este caso por gestionamientos del negocio.
-
-![BoundedContext.png](/Assets/Chapter2/PainPoints.png)
-
-Una observación que podemos realizar es que los modelos presentados son prototipos planteados usando las técnicas de Big Picture Event Storming. Por ello, son diseños que podrán ser mejorados en los siguientes capítulos.
-
 ### 2.5. Ubiquitous Language
 
 # Capítulo III: Requirements Specification
@@ -806,11 +768,17 @@ Dentro podemos ver modulos o, interpretandolo con el DDD, bounded context donde 
 
 ### 4.7.1. Class Diagrams
 
+Aquí se visualiza el diagrama de clases de ECAT Leasing. Este diagrama es una representación gráfica estática que muestra la estructura de un sistema de software, detallando las clases, sus atributos, operaciones y las relaciones existentes entre ellas.
 
+![ClassDiagram.png](/Assets/Chapter4/Class_Diagram.png)
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
+
+Aquí se visualiza el diagrama de base de datos de ECAT Leasing. Este diagrama es una representación visual que muestra la estructura, las tablas, columnas y las relaciones entre ellos dentro de un sistema de base de datos, también se le conoce como esquema de base de datos.
+
+![DataBaseDiagram.png](/Assets/Chapter4/Database_Diagram.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
