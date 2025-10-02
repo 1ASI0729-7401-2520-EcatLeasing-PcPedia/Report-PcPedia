@@ -452,6 +452,16 @@ _Estadística de la problemática_
 
 #### 5.2.1.1. Sprint Planning 1
 
+<p><strong>Fecha:</strong> 10 de abril de 2025</p>
+<p><strong>Hora:</strong> 3:30 PM</p>
+<p><strong>Ubicación:</strong> Modalidad remota</p>
+<p><strong>Preparado por:</strong> Sebastián Hernández</p>
+<p><strong>Asistentes:</strong> Rubens Bendezu, Alessandro Ramiro, Jorge Retuerto, Matías Armestar, Sebastián Hernández</p>
+<p><strong>Objetivo del Sprint:</strong><br>
+El objetivo principal de este sprint es desarrollar la Landing Page (versión 1) con HTML y CSS, a partir del diseño preliminar realizado en Figma. Esta página servirá como el punto de entrada principal para la presentación de la startup. Además, se desarrollarán los wireframes de la app web y la landing page.</p>
+<p><strong>Sprint Velocity:</strong> 15</p>
+<p><strong>Sumatoria de Story Points:</strong> 15</p>
+
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
 #### 5.2.1.3. Sprint Backlog 1
