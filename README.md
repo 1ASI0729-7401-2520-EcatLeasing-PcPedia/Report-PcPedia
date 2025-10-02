@@ -464,17 +464,159 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
+<table>
+  <thead>
+    <tr>
+      <th>Integrante</th>
+      <th>Tareas Principales Realizadas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Rubens Bendezu Navarro</strong></td>
+      <td>Punto 4.1-4.2 (Style Guidelines & Information Architecture), Análisis de Competidores, Plan de Estrategia</td>
+    </tr>
+    <tr>
+      <td><strong>Alessandro Ramiro</strong></td>
+      <td>Mockup de la Landing Page, Desarrollo de la Landing Page Versión 1</td>
+    </tr>
+    <tr>
+      <td><strong>Sebastián Hernández (Yo)</strong></td>
+      <td>Wireframes de la Landing Page y App Web, Mockup de la App Web (Versión 1), Introducción sobre el negocio, Entrevistas</td>
+    </tr>
+    <tr>
+      <td><strong>Jorge Retuerto Rodríguez</strong></td>
+      <td>Punto 2.4, 4.6.1 - 4.6.4 (Domain-Driven Design), Punto 4.7 (Software Object-Oriented Design)</td>
+    </tr>
+    <tr>
+      <td><strong>Matías Armestar</strong></td>
+      <td>Historias de Usuario (User Stories), User Personas, User Journey, Empathy Mapping</td>
+    </tr>
+  </tbody>
+</table>
+
 #### 5.2.1.3. Sprint Backlog 1
+
+<table>
+  <thead>
+    <tr>
+      <th>Tarea ID</th>
+      <th>Título</th>
+      <th>Estimación (Horas)</th>
+      <th>Asignado a</th>
+      <th>Estado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>UT01</td>
+      <td>Crear wireframes de la Landing Page</td>
+      <td>4</td>
+      <td>Sebastián Hernández</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>UT02</td>
+      <td>Crear wireframes de la App Web</td>
+      <td>6</td>
+      <td>Sebastián Hernández</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>UT03</td>
+      <td>Crear mockup de la App Web (Versión 1)</td>
+      <td>5</td>
+      <td>Sebastián Hernández</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>UT04</td>
+      <td>Crear mockup de la Landing Page (Versión 1)</td>
+      <td>4</td>
+      <td>Alessandro Ramiro</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>UT05</td>
+      <td>Desarrollo de la Landing Page (HTML/CSS)</td>
+      <td>8</td>
+      <td>Alessandro Ramiro</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>UT06</td>
+      <td>Análisis de Competidores y Plan de Estrategia</td>
+      <td>6</td>
+      <td>Rubens Bendezu</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>UT07</td>
+      <td>Redacción de Introducción sobre el negocio</td>
+      <td>3</td>
+      <td>Sebastián Hernández</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>UT08</td>
+      <td>Realizar entrevistas</td>
+      <td>7</td>
+      <td>Sebastián Hernández</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>UT09</td>
+      <td>Desarrollo del punto 4.1 (Style Guidelines)</td>
+      <td>5</td>
+      <td>Rubens Bendezu</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>UT10</td>
+      <td>Desarrollo del punto 4.2 (Information Architecture)</td>
+      <td>5</td>
+      <td>Rubens Bendezu</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>UT11</td>
+      <td>Desarrollo del punto 2.4 (Big Picture Event Storming)</td>
+      <td>5</td>
+      <td>Jorge Retuerto</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
+<p><strong>Repositorio:</strong> GitHub - EcatLeasing/PcPedia</p>
+<p><strong>Rama:</strong> develop</p>
+<p><strong>Commit ID:</strong> cde40362c611bf6b6ce42b7ee0105686d4ed38e8</p>
+<p><strong>Mensaje del Commit:</strong> "chore: add first version of the landing page and app wireframes"</p>
+<p><strong>Fecha del Commit:</strong> 22/04/2025</p>
+
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
+<p>El avance del sprint se evidencia en el repositorio de GitHub donde se subieron los siguientes archivos:</p>
+<ul>
+  <li><strong>Landing Page (Versión 1)</strong>: HTML y CSS desplegados en <a href="https://1asi0729-7401-2520-ecatleasing-pcpedia.github.io/LandingPage/">GitHub Pages</a>.</li>
+  <li><strong>Wireframes y Mockups</strong>: Los wireframes de la landing page y la app web, junto con los mockups, están documentados en el repositorio.</li>
+</ul>
+
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
+<p>No se implementaron servicios backend en este sprint, ya que el enfoque estuvo en el desarrollo de la interfaz visual.</p>
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+<p>La Landing Page fue desplegada en GitHub Pages, y está accesible a través del siguiente enlace: <a href="https://1asi0729-7401-2520-ecatleasing-pcpedia.github.io/LandingPage/">Enlace a la Landing Page</a></p>
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+<p>Durante este sprint, se mantuvo una comunicación constante entre los miembros del equipo mediante reuniones semanales. Se utilizó <strong>GitHub</strong> para la gestión del código fuente y el seguimiento de tareas, y <strong>Trello</strong> para organizar el avance del sprint. Las tareas fueron gestionadas y completadas según las estimaciones, y la colaboración entre los miembros del equipo fue eficiente.</p>
 
 ## 5.3. Validation Interviews
 
