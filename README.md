@@ -477,6 +477,8 @@ El repositorio se estructuró de la siguiente manera:
 * `fix`: Para correcciones de errores.
 * `docs`: Para cambios en la documentación.
 * `refactor`: Para cambios en el código que no agregan ni corrigen funcionalidades.
+* `add`: Para la adición de archivos, recursos o contenido nuevo (ej. imágenes, configs, assets).
+* `update`: Para modificaciones o mejoras sobre algo ya existente (ej. actualizar imágenes, texto, librerías, dependencias).
 * `chore`: Estructuración de contenido
 
 ### 5.1.3. Source Code Style Guide & Conventions
@@ -553,7 +555,7 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
       <td>Mockup de la Landing Page, Desarrollo de la Landing Page Versión 1</td>
     </tr>
     <tr>
-      <td><strong>Sebastián Hernández (Yo)</strong></td>
+      <td><strong>Sebastián Hernández </strong></td>
       <td>Wireframes de la Landing Page y App Web, Mockup de la App Web (Versión 1), Introducción sobre el negocio, Entrevistas</td>
     </tr>
     <tr>
@@ -722,3 +724,64 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
 # Conclusiones
 
 ## Conclusiones y recomendaciones
+
+<p>
+Durante el Sprint 1 del proyecto PcPedia, se lograron avances significativos en el diseño de la landing page, wireframes y mockups de la aplicación web, así como en la definición de la arquitectura de información, guías de estilo y análisis de competidores. Esto permitió establecer una base sólida y coherente para el desarrollo del producto, alineada con las necesidades de los usuarios y los objetivos estratégicos de la startup EcatLeasing. Se recomienda continuar con la validación temprana de la interfaz mediante pruebas de usabilidad, integrar retroalimentación constante del equipo y de usuarios, priorizar funcionalidades críticas como registro de usuarios, panel de administración y comparador de equipos, mantener la documentación actualizada en GitHub y utilizar herramientas ágiles para seguimiento de tareas, asegurando una coordinación efectiva y la calidad técnica del desarrollo en los siguientes sprints.
+</p>
+
+# Bibliografia
+
+<ul>
+  <li>Beck, K., & Andres, C. (2005). <em>Extreme Programming Explained: Embrace Change</em> (2nd ed.). Addison-Wesley Professional.</li>
+  <li>Driessen, V. (2010). <em>A successful Git branching model</em>. Disponible en: <a href="https://nvie.com/posts/a-successful-git-branching-model/" target="_blank">https://nvie.com/posts/a-successful-git-branching-model/</a></li>
+  <li>Cucumber. (s.f.). <em>Gherkin Reference</em>. Recuperado de: <a href="https://cucumber.io/docs/gherkin/" target="_blank">https://cucumber.io/docs/gherkin/</a></li>
+  <li>Figma. (s.f.). <em>Figma: Collaborative Interface Design Tool</em>. Recuperado de: <a href="https://www.figma.com/" target="_blank">https://www.figma.com/</a></li>
+  <li>Lucidchart. (s.f.). <em>Lucidchart: Diagramming & Visualization Software</em>. Recuperado de: <a href="https://www.lucidchart.com/" target="_blank">https://www.lucidchart.com/</a></li>
+  <li>Mozilla Developer Network. (s.f.). <em>HTML, CSS y JavaScript</em>. Recuperado de: <a href="https://developer.mozilla.org/es/docs/Web" target="_blank">https://developer.mozilla.org/es/docs/Web</a></li>
+  <li>GitHub. (s.f.). <em>GitHub: Where the world builds software</em>. Recuperado de: <a href="https://github.com/" target="_blank">https://github.com/</a></li>
+  <li>Microsoft. (s.f.). <em>Visual Studio Code</em>. Recuperado de: <a href="https://code.visualstudio.com/" target="_blank">https://code.visualstudio.com/</a></li>
+  <li>W3Schools. (s.f.). <em>HTML5 Syntax</em>. Recuperado de: <a href="https://www.w3schools.com/html/html5_syntax.asp" target="_blank">https://www.w3schools.com/html/html5_syntax.asp</a></li>
+</ul>
+
+# Anexos
+
+<!-- Anexos del Proyecto PcPedia - Sprint 1 -->
+<section id="anexos">
+  <h2>Anexos</h2>
+
+  <h3>1. Organización y Repositorios en GitHub</h3>
+  <p>El proyecto PcPedia se encuentra alojado bajo la organización de GitHub del curso 1ASI0729-7401-2520-EcatLeasing-PcPedia. A continuación se detallan los repositorios principales utilizados:</p>
+  <ul>
+    <li><strong>Repositorio de la Organización:</strong> 
+      <a href="https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia" target="_blank">
+        https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia
+      </a>
+    </li>
+    <li><strong>Repositorio del Informe Final:</strong> 
+      <a href="https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Report-PcPedia" target="_blank">
+        https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/report
+      </a>
+    </li>
+    <li><strong>Repositorio de la Landing Page:</strong> 
+      <a href="https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/LandingPage" target="_blank">
+        https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/LandingPage
+      </a>
+    </li>
+  </ul>
+
+  <h3>2. Despliegue de la Landing Page</h3>
+  <p>La Landing Page fue desarrollada por Alessandro Ramiro Condori Lozano y desplegada utilizando GitHub Pages. Esta página sirve como presentación inicial del producto PcPedia y permite a los usuarios interactuar con la interfaz de manera funcional.</p>
+  <ul>
+    <li><strong>Link de la Landing Page en producción:</strong> 
+      <a href="https://1asi0729-7401-2520-ecatleasing-pcpedia.github.io/LandingPage/" target="_blank">
+        https://1asi0729-7401-2520-ecatleasing-pcpedia.github.io/LandingPage/
+      </a>
+    </li>
+    <li><strong>Link del Mock-up en Figma:</strong> 
+      <a href="https://www.figma.com/design/oiLz93LcaZJmdmEKi6h46I/FIGMA-PCPEDIA?node-id=1-15&t=wvrVBChCM91tnOsZ-1" target="_blank">
+        https://www.figma.com/design/oiLz93LcaZJmdmEKi6h46I/FIGMA-PCPEDIA
+      </a>
+    </li>
+ 
+</section>
+
