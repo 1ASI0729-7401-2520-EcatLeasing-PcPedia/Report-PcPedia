@@ -377,6 +377,7 @@ _Estadística de la problemática_
 <!-- ================== EPICS ================== -->
 <h2>Epics</h2>
 <table border="1" cellspacing="0" cellpadding="5">
+<<<<<<< HEAD
 <tr><th>ID de Epic</th><th>Título</th><th>Descripción</th></tr>
 <tr><td>EP01</td><td>Gestión de cuenta</td><td>Como usuario deseo contar con una cuenta personal con la cual registrarme, iniciar y cerrar sesión en la plataforma.</td></tr>
 <tr><td>EP02</td><td>Información del servicio</td><td>Como usuario deseo contar con un apartado en el cual conocer el funcionamiento, antecedentes y costo del servicio.</td></tr>
@@ -697,6 +698,12 @@ _Estadística de la problemática_
     </tr>
   </tbody>
 </table>
+<<<<<<< HEAD
+=======
+
+# Capítulo IV: Product Design
+
+> > > > > > > 116ea3d2770b9b36a2d9738608e216bd193ea8ef
 
 ## 4.1. Style Guidelines
 
