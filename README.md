@@ -802,6 +802,18 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
   <li><strong>Wireframes y Mockups</strong>: Los wireframes de la landing page y la app web, junto con los mockups, están documentados en el repositorio.</li>
 </ul>
 
+<!-- Sección Demostración de ejecución de la Landing -->
+<section>
+  <h2>Demostración de ejecución de la Landing</h2>
+  <div style="display: flex; flex-wrap: wrap; gap: 15px;">
+    <img src="landing2.png" alt="Landing Page 2">
+    <img src="landing3.png" alt="Landing Page 3">
+    <img src="landing4.png" alt="Landing Page 4">
+    <img src="landing5.png" alt="Landing Page 5">
+  </div>
+</section>
+
+
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
