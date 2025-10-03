@@ -569,6 +569,50 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
   </tbody>
 </table>
 
+<!-- Aspect Leaders and Collaborators - Sprint 1 (Tabla) -->
+<section id="sprint1-aspect-leaders">
+  <h2>5.2.1.2. Aspect Leaders and Collaborators</h2>
+  <p>Distribución de responsabilidades durante el Sprint 1, indicando líderes de aspecto y sus colaboradores según las tareas asignadas:</p>
+  
+  <table>
+    <thead>
+      <tr>
+        <th>Miembro del Equipo</th>
+        <th>Rol / Aspecto</th>
+        <th>Responsabilidades</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Rubens Fitzgerald Bendezu Navarro</td>
+        <td>Aspect Leader</td>
+        <td>Style Guidelines, Information Architecture, Análisis de Competidores y Plan de Estrategia. Definición de estándares visuales, estructuración de información y evaluación de competencia.</td>
+      </tr>
+      <tr>
+        <td>Alessandro Ramiro Condori Lozano</td>
+        <td>Aspect Leader</td>
+        <td>Mock-up y Landing Page versión 1. Diseño visual de la Landing Page, asegurando coherencia con la identidad del proyecto.</td>
+      </tr>
+      <tr>
+        <td>Sebastián Eduardo Hernández Poma</td>
+        <td>Aspect Leader</td>
+        <td>Wireframes de Landing y App Web, Mock-up versión 1 de la App Web, Entrevistas y Introducción del Negocio. Documentación y diseño de la interfaz de usuario y estructura inicial del proyecto.</td>
+      </tr>
+      <tr>
+        <td>Jorge Manuel Retuerto Rodríguez</td>
+        <td>Aspect Leader</td>
+        <td>Design-Level Event Storming, Diagramas de Arquitectura (Context, Container, Component), Software Object-Oriented Design. Modelado del sistema y documentación técnica de arquitectura y diseño orientado a objetos.</td>
+      </tr>
+      <tr>
+        <td>Matías Gabriel Armestar Heredia</td>
+        <td>Aspect Leader</td>
+        <td>Historias de Usuario y Product Backlog. Definición, documentación y organización de las historias de usuario para planificación y trazabilidad del proyecto.</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+
 #### 5.2.1.3. Sprint Backlog 1
 
 <table>
