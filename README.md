@@ -571,7 +571,7 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
 
 <!-- Aspect Leaders and Collaborators - Sprint 1 (Tabla) -->
 <section id="sprint1-aspect-leaders">
-  <h2>5.2.1.2. Aspect Leaders and Collaborators</h2>
+  
   <p>Distribución de responsabilidades durante el Sprint 1, indicando líderes de aspecto y sus colaboradores según las tareas asignadas:</p>
   
   <table>
@@ -607,6 +607,67 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
         <td>Matías Gabriel Armestar Heredia</td>
         <td>Aspect Leader</td>
         <td>Historias de Usuario y Product Backlog. Definición, documentación y organización de las historias de usuario para planificación y trazabilidad del proyecto.</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- Aspect Leaders and Collaborators - Sprint 1 -->
+<section id="sprint1-aspect-leaders">
+  <h2>5.2.1.2. Aspect Leaders and Collaborators</h2>
+  <p>Distribución de responsabilidades durante el Sprint 1 según las tareas asignadas:</p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Integrante</th>
+        <th>GitHub</th>
+        <th>UX/UI</th>
+        <th>Landing</th>
+        <th>Deploy</th>
+        <th>Documentación</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Sebastián Eduardo Hernández Poma</td>
+        <td>C</td>
+        <td>C</td>
+        <td>C</td>
+        <td>-</td>
+        <td>C</td>
+      </tr>
+      <tr>
+        <td>Rubens Fitzgerald Bendezu Navarro</td>
+        <td>C</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>C</td>
+      </tr>
+      <tr>
+        <td>Alessandro Ramiro Condori Lozano</td>
+        <td>C</td>
+        <td>-</td>
+        <td>C</td>
+        <td>C</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Jorge Manuel Retuerto Rodríguez</td>
+        <td>C</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>C</td>
+      </tr>
+      <tr>
+        <td>Matías Gabriel Armestar Heredia</td>
+        <td>C</td>
+        <td>C</td>
+        <td>-</td>
+        <td>-</td>
+        <td>C</td>
       </tr>
     </tbody>
   </table>
