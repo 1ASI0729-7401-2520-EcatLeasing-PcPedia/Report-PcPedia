@@ -374,11 +374,329 @@ _Estadística de la problemática_
 
 ## 3.1. User Stories
 
+<!-- ================== EPICS ================== -->
+<h2>Epics</h2>
+<table border="1" cellspacing="0" cellpadding="5">
+<tr><th>ID de Epic</th><th>Título</th><th>Descripción</th></tr>
+<tr><td>EP01</td><td>Gestión de cuenta</td><td>Como usuario deseo contar con una cuenta personal con la cual registrarme, iniciar y cerrar sesión en la plataforma.</td></tr>
+<tr><td>EP02</td><td>Información del servicio</td><td>Como usuario deseo contar con un apartado en el cual conocer el funcionamiento, antecedentes y costo del servicio.</td></tr>
+<tr><td>EP03</td><td>Atención y comunicación</td><td>Como usuario deseo contar con mecanismos de contacto, mensajería y servicio al cliente para resolver mis dudas o inconvenientes.</td></tr>
+<tr><td>EP04</td><td>Auditoría y catálogo de equipos</td><td>Como usuario deseo conocer la disponibilidad, características y auditorías de los equipos, para validar si satisfacen mis necesidades.</td></tr>
+<tr><td>EP05</td><td>Contratación y gestión del servicio</td><td>Como usuario deseo contar con un apartado para realizar la contratación del servicio y gestionar mis suscripciones.</td></tr>
+</table><br>
+
+<!-- ================== HU01 ================== -->
+<table border="1" cellspacing="0" cellpadding="5">
+<tr><th>ID de HU</th><td>HU01</td><th>ID de Epic</th><td>EP01</td></tr>
+<tr><th>Título</th><td>Registro de cuenta</td><th>Prioridad en el negocio</th><td>Alta</td></tr>
+<tr><th>Descripción</th><td colspan="3"><b>Como</b> usuario <b>quiero</b> registrarme en la plataforma indicando mis datos <b>para</b> interactuar con los servicios de Smart Leasing.</td></tr>
+<tr><th>Criterios de Aceptación</th><td colspan="3">
+<b>Escenario:</b> Registro de usuario<br><br>
+<b>Dado que</b> no poseo cuenta<br>
+<b>Cuando</b> seleccione “Registrarme” e ingrese mis datos<br>
+<b>Entonces</b> la aplicación creará mi cuenta de forma segura.
+</td></tr>
+</table><br>
+
+<!-- ================== HU02 ================== -->
+<table border="1" cellspacing="0" cellpadding="5">
+<tr><th>ID de HU</th><td>HU02</td><th>ID de Epic</th><td>EP01</td></tr>
+<tr><th>Título</th><td>Inicio de sesión</td><th>Prioridad en el negocio</th><td>Alta</td></tr>
+<tr><th>Descripción</th><td colspan="3"><b>Como</b> usuario <b>quiero</b> iniciar sesión con mis credenciales <b>para</b> acceder a mi perfil de forma segura.</td></tr>
+<tr><th>Criterios de Aceptación</th><td colspan="3">
+<b>Escenario:</b> Inicio de sesión<br><br>
+<b>Dado que</b> poseo una cuenta<br>
+<b>Cuando</b> ingrese usuario y contraseña válidos<br>
+<b>Entonces</b> accederé a mi panel personal.
+</td></tr>
+</table><br>
+
+<!-- ================== HU03 ================== -->
+<table border="1" cellspacing="0" cellpadding="5">
+<tr><th>ID de HU</th><td>HU03</td><th>ID de Epic</th><td>EP01</td></tr>
+<tr><th>Título</th><td>Cierre de sesión</td><th>Prioridad en el negocio</th><td>Media</td></tr>
+<tr><th>Descripción</th><td colspan="3"><b>Como</b> usuario <b>quiero</b> cerrar sesión <b>para</b> garantizar la privacidad de mi información.</td></tr>
+<tr><th>Criterios de Aceptación</th><td colspan="3">
+<b>Escenario:</b> Cierre de sesión<br><br>
+<b>Dado que</b> estoy logueado<br>
+<b>Cuando</b> seleccione “Cerrar sesión”<br>
+<b>Entonces</b> la aplicación finalizará la sesión y volverá al estado “Invitado”.
+</td></tr>
+</table><br>
+
+<!-- ================== HU04 ================== -->
+<table border="1" cellspacing="0" cellpadding="5">
+<tr><th>ID de HU</th><td>HU04</td><th>ID de Epic</th><td>EP02</td></tr>
+<tr><th>Título</th><td>Descripción del servicio</td><th>Prioridad en el negocio</th><td>Alta</td></tr>
+<tr><th>Descripción</th><td colspan="3"><b>Como</b> usuario <b>quiero</b> acceder a la descripción general de Smart Leasing <b>para</b> comprender sus beneficios.</td></tr>
+<tr><th>Criterios de Aceptación</th><td colspan="3">
+<b>Escenario:</b> Consulta de información<br><br>
+<b>Dado que</b> accedo a la sección “Servicio”<br>
+<b>Cuando</b> abra el apartado de información<br>
+<b>Entonces</b> visualizaré la descripción general.
+</td></tr>
+</table><br>
+
+<!-- ================== HU05 ================== -->
+<table border="1" cellspacing="0" cellpadding="5">
+<tr><th>ID de HU</th><td>HU05</td><th>ID de Epic</th><td>EP02</td></tr>
+<tr><th>Título</th><td>Consulta de planes y costos</td><th>Prioridad en el negocio</th><td>Alta</td></tr>
+<tr><th>Descripción</th><td colspan="3"><b>Como</b> usuario <b>quiero</b> consultar los planes de arrendamiento y costos <b>para</b> elegir la opción que mejor se adapte a mis necesidades.</td></tr>
+<tr><th>Criterios de Aceptación</th><td colspan="3">
+<b>Escenario:</b> Visualizar planes<br><br>
+<b>Dado que</b> accedo a la sección de “Planes”<br>
+<b>Cuando</b> revise las opciones<br>
+<b>Entonces</b> podré ver precios, características y condiciones.
+</td></tr>
+</table><br>
+
+<!-- ================== HU06 ================== -->
+<table border="1" cellspacing="0" cellpadding="5">
+<tr><th>ID de HU</th><td>HU06</td><th>ID de Epic</th><td>EP02</td></tr>
+<tr><th>Título</th><td>Casos de éxito</td><th>Prioridad en el negocio</th><td>Media</td></tr>
+<tr><th>Descripción</th><td colspan="3"><b>Como</b> usuario <b>quiero</b> conocer testimonios y casos de éxito <b>para</b> confiar en la experiencia de ECAT Leasing.</td></tr>
+<tr><th>Criterios de Aceptación</th><td colspan="3">
+<b>Escenario:</b> Revisión de testimonios<br><br>
+<b>Dado que</b> estoy evaluando la empresa<br>
+<b>Cuando</b> consulte la sección “Clientes”<br>
+<b>Entonces</b> visualizaré testimonios y referencias.
+</td></tr>
+</table><br>
+
+<!-- ================== HU07 ================== -->
+<table border="1" cellspacing="0" cellpadding="5">
+<tr><th>ID de HU</th><td>HU07</td><th>ID de Epic</th><td>EP03</td></tr>
+<tr><th>Título</th><td>Formulario de contacto</td><th>Prioridad en el negocio</th><td>Alta</td></tr>
+<tr><th>Descripción</th><td colspan="3"><b>Como</b> usuario <b>quiero</b> enviar consultas mediante un formulario <b>para</b> comunicarme con el soporte técnico.</td></tr>
+<tr><th>Criterios de Aceptación</th><td colspan="3">
+<b>Escenario:</b> Envío de consulta<br><br>
+<b>Dado que</b> tengo una duda<br>
+<b>Cuando</b> complete y envíe el formulario<br>
+<b>Entonces</b> el sistema registrará mi solicitud y enviaré confirmación.
+</td></tr>
+</table><br>
+
+<!-- ================== HU08 ================== -->
+<table border="1" cellspacing="0" cellpadding="5">
+<tr><th>ID de HU</th><td>HU08</td><th>ID de Epic</th><td>EP03</td></tr>
+<tr><th>Título</th><td>Chat de mensajería rápida</td><th>Prioridad en el negocio</th><td>Media</td></tr>
+<tr><th>Descripción</th><td colspan="3"><b>Como</b> usuario <b>quiero</b> disponer de un chat de mensajería rápida <b>para</b> resolver dudas de manera ágil.</td></tr>
+<tr><th>Criterios de Aceptación</th><td colspan="3">
+<b>Escenario:</b> Uso de chat<br><br>
+<b>Dado que</b> necesito asistencia inmediata<br>
+<b>Cuando</b> abra la sección de chat<br>
+<b>Entonces</b> podré enviar y recibir mensajes.
+</td></tr>
+</table><br>
+
+<!-- ================== HU09 ================== -->
+<table border="1" cellspacing="0" cellpadding="5">
+<tr><th>ID de HU</th><td>HU09</td><th>ID de Epic</th><td>EP03</td></tr>
+<tr><th>Título</th><td>Soporte especializado</td><th>Prioridad en el negocio</th><td>Alta</td></tr>
+<tr><th>Descripción</th><td colspan="3"><b>Como</b> usuario <b>quiero</b> acceder a soporte especializado en incidencias técnicas <b>para</b> garantizar continuidad en mis operaciones.</td></tr>
+<tr><th>Criterios de Aceptación</th><td colspan="3">
+<b>Escenario:</b> Reporte de incidencia<br><br>
+<b>Dado que</b> tengo un problema técnico<br>
+<b>Cuando</b> reporte la incidencia en el sistema<br>
+<b>Entonces</b> recibiré atención especializada en un tiempo razonable.
+</td></tr>
+</table><br>
+
+<!-- ================== HU10 ================== -->
+<table border="1" cellspacing="0" cellpadding="5">
+<tr><th>ID de HU</th><td>HU10</td><th>ID de Epic</th><td>EP04</td></tr>
+<tr><th>Título</th><td>Catálogo de equipos</td><th>Prioridad en el negocio</th><td>Alta</td></tr>
+<tr><th>Descripción</th><td colspan="3"><b>Como</b> usuario <b>quiero</b> visualizar un catálogo de equipos <b>para</b> elegir el que mejor se ajuste a mi empresa.</td></tr>
+<tr><th>Criterios de Aceptación</th><td colspan="3">
+<b>Escenario:</b> Consulta de catálogo<br><br>
+<b>Dado que</b> accedo a la sección de equipos<br>
+<b>Cuando</b> revise el listado<br>
+<b>Entonces</b> visualizaré fotos, fichas técnicas y disponibilidad.
+</td></tr>
+</table><br>
+
+<!-- ================== HU11 ================== -->
+<table border="1" cellspacing="0" cellpadding="5">
+<tr><th>ID de HU</th><td>HU11</td><th>ID de Epic</th><td>EP04</td></tr>
+<tr><th>Título</th><td>Comparación de equipos</td><th>Prioridad en el negocio</th><td>Media</td></tr>
+<tr><th>Descripción</th><td colspan="3"><b>Como</b> usuario <b>quiero</b> filtrar y comparar equipos según criterios <b>para</b> tomar una decisión informada.</td></tr>
+<tr><th>Criterios de Aceptación</th><td colspan="3">
+<b>Escenario:</b> Comparación<br><br>
+<b>Dado que</b> consulto el catálogo<br>
+<b>Cuando</b> seleccione dos o más equipos<br>
+<b>Entonces</b> la aplicación mostrará una tabla comparativa.
+</td></tr>
+</table><br>
+
+<!-- ================== HU12 ================== -->
+<table border="1" cellspacing="0" cellpadding="5">
+<tr><th>ID de HU</th><td>HU12</td><th>ID de Epic</th><td>EP04</td></tr>
+<tr><th>Título</th><td>Historial de auditorías</td><th>Prioridad en el negocio</th><td>Media</td></tr>
+<tr><th>Descripción</th><td colspan="3"><b>Como</b> usuario <b>quiero</b> consultar el historial de auditorías y mantenimientos <b>para</b> asegurar la confiabilidad del equipo.</td></tr>
+<tr><th>Criterios de Aceptación</th><td colspan="3">
+<b>Escenario:</b> Consulta de historial<br><br>
+<b>Dado que</b> selecciono un equipo<br>
+<b>Cuando</b> abra la ficha técnica<br>
+<b>Entonces</b> visualizaré fechas de auditoría y resultados.
+</td></tr>
+</table><br>
+
+<!-- ================== HU13 ================== -->
+<table border="1" cellspacing="0" cellpadding="5">
+<tr><th>ID de HU</th><td>HU13</td><th>ID de Epic</th><td>EP05</td></tr>
+<tr><th>Título</th><td>Contratación de plan</td><th>Prioridad en el negocio</th><td>Alta</td></tr>
+<tr><th>Descripción</th><td colspan="3"><b>Como</b> usuario <b>quiero</b> contratar un plan de leasing en línea <b>para</b> evitar procesos manuales.</td></tr>
+<tr><th>Criterios de Aceptación</th><td colspan="3">
+<b>Escenario:</b> Contratación<br><br>
+<b>Dado que</b> poseo una cuenta<br>
+<b>Cuando</b> seleccione un plan<br>
+<b>Entonces</b> podré confirmar la contratación con comprobante generado.
+</td></tr>
+</table><br>
+
+<!-- ================== HU14 ================== -->
+<table border="1" cellspacing="0" cellpadding="5">
+<tr><th>ID de HU</th><td>HU14</td><th>ID de Epic</th><td>EP05</td></tr>
+<tr><th>Título</th><td>Gestión de servicios contratados</td><th>Prioridad en el negocio</th><td>Alta</td></tr>
+<tr><th>Descripción</th><td colspan="3"><b>Como</b> usuario <b>quiero</b> renovar, modificar o cancelar mis servicios <b>para</b> tener control sobre mis suscripciones.</td></tr>
+<tr><th>Criterios de Aceptación</th><td colspan="3">
+<b>Escenario:</b> Gestión de plan<br><br>
+<b>Dado que</b> tengo servicios activos<br>
+<b>Cuando</b> acceda a la sección de gestión<br>
+<b>Entonces</b> podré realizar cambios o cancelaciones.
+</td></tr>
+</table><br>
+
+<!-- ================== HU15 ================== -->
+<table border="1" cellspacing="0" cellpadding="5">
+<tr><th>ID de HU</th><td>HU15</td><th>ID de Epic</th><td>EP05</td></tr>
+<tr><th>Título</th><td>Descarga de comprobantes</td><th>Prioridad en el negocio</th><td>Media</td></tr>
+<tr><th>Descripción</th><td colspan="3"><b>Como</b> usuario <b>quiero</b> descargar comprobantes y contratos <b>para</b> llevar un registro formal de mis operaciones.</td></tr>
+<tr><th>Criterios de Aceptación</th><td colspan="3">
+<b>Escenario:</b> Descarga de documento<br><br>
+<b>Dado que</b> contraté un servicio<br>
+<b>Cuando</b> acceda a mis comprobantes<br>
+<b>Entonces</b> podré descargar archivos en PDF.
+</td></tr>
+</table><br>
+
 ## 3.2. Impact Mapping
+
+![impact_mapping.png](/assets/chapter3/impact_mapping.png)
 
 ## 3.3. Product Backlog
 
-# Capítulo IV: Product Design
+<table>
+  <thead>
+    <tr>
+      <th># Orden</th>
+      <th>ID de HU</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Story Points (1 / 2 / 3 / 5 / 8) </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>HU01</td>
+      <td>Registro de cuenta</td>
+      <td><b>Como</b> usuario <b>quiero</b>  registrarme en la plataforma indicando mis datos <b>para</b> interactuar con las funciones de la misma.</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>HU02</td>
+      <td>Inicio y cierre de sesión</td>
+      <td><b>Como</b> usuario <b>quiero</b> ser capaz ingresar y salir de mi cuenta <b>para</b> mantener la privacidad de los datos de la misma.</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>HU03</td>
+      <td>Descripción de la empresa</td>
+      <td><b>Como</b> usuario <b>quiero</b> conocer más a detalle la misión y visión de la empresa <b>para</b> saber si satisface mi necesidad.</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>HU04</td>
+      <td>Modalidad de cobro</td>
+      <td><b>Como</b> usuario <b>quiero</b> ser capaz de informarme del cómo se calcula el monto a pagar <b>para</b> corroborarlo con mi presupuesto.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>HU05</td>
+      <td>Antecedentes de servicio</td>
+      <td><b>Como</b> usuario <b>quiero</b> conocer el trabajo ya realizado por la empresa <b>para</b> que mi nivel de confianza en ella incremente.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>HU06</td>
+      <td>Ubicación y número telefónico</td>
+      <td><b>Como</b> usuario <b>quiero</b> conocer dónde se ubican las oficinas y cómo puedo contactar con ellas <b>para</b> contactar al personal.</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>HU07</td>
+      <td>Chatbot asesor</td>
+      <td><b>Como</b> usuario <b>quiero</b> poder acceder a una chat de respuesta rápida <b>para</b> aclarar mis dudas.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>HU08</td>
+      <td>Formulario de quejas</td>
+      <td><b>Como</b> usuario <b>quiero</b> poder presentar una queja <b>para</b> hacer llegar mi malestar a la empresa.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>HU09</td>
+      <td>Servicio al cliente</td>
+      <td><b>Como</b> usuario <b>quiero</b> contar con un medio por el cual tener contacto con el personal <b>para</b> recibir ayuda.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>HU10</td>
+      <td>Información de equipos</td>
+      <td><b>Como</b> usuario <b>quiero</b> poder conocer la función de los equipos <b>para</b> conocer cómo satisfacer mis necesidades.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>HU11</td>
+      <td>Disponibilidad de equipos</td>
+      <td><b>Como</b> usuario <b>quiero</b> poder conocer la disponibilidad de un equipo <b>para</b> consultar por el mismo u otro.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>HU12</td>
+      <td>Acuerdo de auditorías</td>
+      <td><b>Como</b> usuario <b>quiero</b> poder recibir una auditoría personalizada en el área correspondiente <b>para</b> recibir ayuda de acuerdo a mis necesidades y presupuesto.</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>HU13</td>
+      <td>Modalidades de pago</td>
+      <td><b>Como</b> usuario <b>quiero</b> conocer las modalidades de pago disponibles <b>para</b> decidir cuál es la de mi conveniencia.</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>HU14</td>
+      <td>Apartado de pago desde la plataforma</td>
+      <td><b>Como</b> usuario <b>quiero</b> contar con un apartado de pagos desde la misma plataforma <b>para</b> una mayor comodidad.</td>
+      <td>3</td>
+    </tr>
+  </tbody>
+</table>
 
 ## 4.1. Style Guidelines
 
