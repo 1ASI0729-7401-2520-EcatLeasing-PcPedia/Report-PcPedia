@@ -468,7 +468,7 @@ Para la gestion del código fuente se utilizó GitHub, una plataforma de alojami
 El repositorio se estructuró de la siguiente manera:
 
 * Organización en Github: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia
-* Repositorio del informe final: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/report
+* Repositorio del informe final: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Report-PcPedia
 * Repositorio de la Landing Page: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/LandingPage
 
 #### Conventional Commits
