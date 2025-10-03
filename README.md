@@ -614,7 +614,6 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
 
 <!-- Aspect Leaders and Collaborators - Sprint 1 -->
 <section id="sprint1-aspect-leaders">
-  <h2>5.2.1.2. Aspect Leaders and Collaborators</h2>
   <p>Distribución de responsabilidades durante el Sprint 1 según las tareas asignadas:</p>
 
   <table>
