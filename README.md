@@ -420,6 +420,34 @@ Las preguntas fueron refinadas para identificar **problemas reales, cuellos de b
 
 ### 2.3.4. Empathy Mapping
 
+**Segmento objetivo 1:** Empresas (pequeñas, medianas y grandes)
+
+En esta sección se utiliza la herramienta del **Mapa de Empatía** para profundizar en los sentimientos, pensamientos y comportamientos de los usuarios de nuestros segmentos objetivo.  
+
+El objetivo es **comprender cómo viven los usuarios la situación problemática** (falta de confianza en servicios de arrendamiento, dificultad para gestionar contratos y equipos tecnológicos, problemas con proveedores poco confiables).  
+
+De esta manera podemos identificar no solo lo que dicen, sino también lo que **sienten, escuchan, ven y hacen** en torno a su experiencia con el servicio actual.
+
+---
+
+![user_empathy_mapping 1.png](/assets/chapter2/user_journey_mapping_1.png)
+
+En esta imagen se analizan los sentimientos y la situación del usuario que representa al segmento de **empresas**. De este cuadro, se concluye que el usuario valora principalmente la **seguridad y confiabilidad** al momento de contratar servicios de arrendamiento de equipos tecnológicos. Actualmente experimenta **desesperación, desconfianza y presión** porque los proveedores disponibles no cumplen con las expectativas y suelen entregar equipos con fallas.  
+
+El usuario observa cómo otras compañías buscan proveedores más confiables y transparentes, lo que refuerza su percepción de estar en desventaja. Finalmente, aspira a contar con una plataforma que le permita **gestionar contratos de manera centralizada**, garantizar un soporte ágil y reducir los riesgos en la operación de su empresa.  
+
+---
+
+**Segmento objetivo 2:** Instituciones Educativas (universidades, colegios, escuelas, institutos)
+
+![user_empathy_mapping 2.png](/assets/chapter2/user_journey_mapping_2.png)
+
+En esta imagen se analizan los sentimientos y la situación del usuario que representa al segmento de **instituciones educativas**. De este cuadro, se concluye que la usuaria valora la **modernización de sus aulas** para brindar a estudiantes y docentes un ambiente de aprendizaje dinámico y confiable. Sin embargo, siente **preocupación, desconfianza y presión** al notar que otras instituciones ya cuentan con equipos actualizados, mientras que ella enfrenta limitaciones presupuestales y proveedores poco confiables.  
+
+La usuaria observa cómo otras escuelas acceden a servicios de mayor calidad, lo que genera frustración y la sensación de quedarse atrás. Finalmente, aspira a tener un **sistema sencillo y transparente** que le permita **gestionar contratos, coordinar mantenimientos oportunos y optimizar el presupuesto institucional**, garantizando así un impacto positivo en la calidad educativa.  
+
+---
+
 ### 2.4. Big Picture Event Storming
 
 ### 2.5. Ubiquitous Language
