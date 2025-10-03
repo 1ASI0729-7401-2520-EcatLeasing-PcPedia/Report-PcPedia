@@ -352,6 +352,60 @@ _Estadística de la problemática_
 
 ### 2.2.1. Diseño de entrevistas
 
+Este cuestionario está diseñado para levantar información de los segmentos objetivo de **PcPedia**: **Empresas** e **Instituciones educativas**.  
+Las preguntas fueron refinadas para identificar **problemas reales, cuellos de botella y necesidades**, alineados al contexto de gestión de contratos, equipos tecnológicos y soporte TI.
+
+---
+
+##  Segmento objetivo 1: Empresas
+
+###  Gestión de contratos
+- ¿Cómo gestionan actualmente los contratos de equipos tecnológicos?  
+- ¿Qué herramientas usan? (Excel, software especializado, papel, etc.)  
+- ¿Cómo acceden y almacenan esta información?  
+
+###  Verificación de procesos
+- ¿Cómo verifican el cumplimiento de los servicios contratados (mantenimiento, upgrades, soporte)?  
+- ¿En qué momentos suelen revisar los contratos (renovación, mantenimiento, auditorías)?  
+- ¿Qué problemas han tenido por no llevar un buen control contractual?  
+- ¿Cómo registran el historial de mantenimiento y soporte?  
+- ¿Cuál es su proceso actual para pedir soporte técnico y cuánto suele demorar?  
+
+###  Comunicación y presupuesto
+- ¿Qué canales de comunicación usan con sus contratistas o proveedores de TI?  
+- ¿Cómo manejan los presupuestos y pagos de contratos y mantenimiento?  
+
+###  Satisfacción y expectativas
+- ¿Qué tan satisfechos están con las prácticas actuales de gestión de contratos?  
+- ¿Qué funcionalidades les gustaría tener en una plataforma que centralice todo esto?  
+
+---
+
+##  Segmento objetivo 2: Instituciones educativas
+
+###  Gestión de equipos y contratos
+- ¿Cómo llevan el inventario de equipos tecnológicos?  
+- ¿Qué herramientas usan para controlar la vigencia de contratos?  
+- ¿Qué dificultades enfrentan al comprar equipos o renovar contratos?  
+- ¿Qué problemas tienen al buscar información contractual?  
+- ¿Qué pasos deben seguir para contratar, renovar o cancelar contratos?  
+- ¿Existen políticas internas o procesos burocráticos que retrasen estas gestiones?  
+- ¿Cómo afecta la gestión de contratos y equipos al dictado de clases o actividades académicas?  
+
+###  Soporte y mantenimiento
+- ¿Con qué frecuencia enfrentan problemas técnicos en los equipos?  
+- ¿Qué procesos siguen para solucionarlos?  
+- ¿Cómo coordinan con su proveedor de TI las reparaciones o mantenimientos?  
+
+###  Presupuesto y comunicación
+- ¿Cómo obtienen información sobre costos de equipos y servicios TI?  
+- ¿Cómo controlan facturas y pagos de estos servicios?  
+- ¿Han tenido experiencias negativas con proveedores de TI? ¿Cuáles?  
+
+###  Satisfacción y expectativas
+- ¿Qué tan satisfechos están con los procesos actuales de gestión de equipos y contratos?  
+- ¿Qué cambios o mejoras les gustaría ver? 
+
 ### 2.2.2. Registro de entrevistas
 
 ### 2.2.3. Análisis de entrevistas
