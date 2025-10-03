@@ -592,9 +592,28 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
 
 <p><strong>Repositorio:</strong> GitHub - EcatLeasing/PcPedia</p>
 <p><strong>Rama:</strong> develop</p>
-<p><strong>Commit ID:</strong> cde40362c611bf6b6ce42b7ee0105686d4ed38e8</p>
-<p><strong>Mensaje del Commit:</strong> "chore: add first version of the landing page and app wireframes"</p>
-<p><strong>Fecha del Commit:</strong> 22/04/2025</p>
+<!-- Sección Landing -->
+<section>
+  <h2>Elaboración de Landing</h2>
+  <img src="landing1.png" alt="Landing Page">
+</section>
+
+<hr>
+
+<!-- Sección Reportes -->
+<section>
+  <h2>Reportes</h2>
+  <div style="display: flex; flex-wrap: wrap; gap: 15px;">
+    <img src="report1.png" alt="Reporte 1">
+    <img src="report2.png" alt="Reporte 2">
+    <img src="report3.png" alt="Reporte 3">
+    <img src="report4.png" alt="Reporte 4">
+    <img src="report5.png" alt="Reporte 5">
+    <img src="report6.png" alt="Reporte 6">
+    <img src="report7.png" alt="Reporte 7">
+  </div>
+</section>
+
 
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
