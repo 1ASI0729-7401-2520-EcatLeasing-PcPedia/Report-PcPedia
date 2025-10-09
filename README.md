@@ -94,7 +94,7 @@ URL del repositorio para el desarrollo del frontend web applications: (https://g
 Cada miembro del equipo realizo cambios y mejoras en sus respectivas ramas de acuerdo a la distribucion del proyecto para poder completar la entrega, posteriormente tuvimos una reunion en el cual corregiriamos ciertos detalles para poder asi cumplir correctamente con la entrega del proyecto.
 
 **Contributors Insights report:** <br>
-![Commits-report-tp1]()
+![Commits-report-tp1](Contributors%20_insights_report_tp.jpg)
 
 **Contributors Insights landing page:** <br>
 ![Commits-landing-page-tp1](Contributors%20_insights_landing_tp.jpg)
@@ -497,75 +497,227 @@ Debe transmitir confianza, modernidad y simplicidad, con una interfaz clara (si 
 
 ## 2.1. Competidores
 
+En esta sección se identifican y describen los principales competidores directos de la startup **Smart Leasing**, cuyo enfoque gira en torno al **arrendamiento inteligente de equipos tecnológicos con soporte y gestión de ciclo de vida**. Se han considerado empresas que ofrecen soluciones similares en el mercado peruano, tanto locales como internacionales.
+
+Los competidores seleccionados son:
+
+### **HardRental Perú**
+
+Empresa peruana especializada en **renting informático** para empresas, con foco en **alquiler de laptops, PCs y periféricos**. Ofrece soporte técnico, _service desk_ y mantenimiento incluidos en los contratos. Su propuesta se centra en brindar flexibilidad a corto y mediano plazo, orientada principalmente a **empresas que buscan evitar la compra de hardware y reducir la inversión inicial**.
+
+### **Thuntech**
+
+Proveedor nacional que ofrece **leasing operativo de tecnología** con plazos que van de 24 a 60 meses. Su servicio incluye **alquiler de laptops, equipos de oficina y dispositivos especializados** para empresas, bajo un modelo de suscripción. Thuntech busca posicionarse como alternativa a la compra tradicional, enfocándose en **contratos a largo plazo y planes corporativos escalables**.
+
+### **CSI Leasing Perú**
+
+Filial de la multinacional **CSI Leasing**, con presencia en más de 30 países. En Perú ofrece **leasing tecnológico** con un fuerte componente de **gestión de activos (Asset Management)** a través de su plataforma _MyCSI_, que permite a las empresas tener trazabilidad completa del ciclo de vida de sus equipos. Su propuesta está orientada a **grandes corporaciones** que buscan eficiencia financiera, seguridad en datos y soporte global.
+
 ## 2.1.1. Análisis competitivo
 
+El objetivo del presente análisis competitivo es responder a la pregunta:
+
+**¿Cómo se posiciona Smart Leasing frente a sus principales competidores en términos de funcionalidades, estrategia de mercado y propuesta de valor?**
+
+Para ello, se utiliza el modelo de análisis **Competitive Analysis Landscape**, estructurado en categorías y subcategorías.
+
+<div align="center">
+
+<table>
+  <tr>
+    <th colspan="6">Competitive Analysis Landscape</th>
+  </tr>
+
+  <!-- Motivo del análisis -->
+  <tr>
+    <td><b>¿Por qué llevar a cabo este análisis?</b></td>
+    <td colspan="5">
+      Identificar fortalezas, debilidades y oportunidades frente a competidores clave en el sector de leasing tecnológico en el Perú. <br>
+      Comparar funcionalidades, posicionamiento y estrategia de Smart Leasing con otras plataformas similares en el mercado local e internacional.
+    </td>
+  </tr>
+
+  <!-- Fila de nombres (las 2 primeras celdas combinadas y vacías) -->
+  <tr>
+    <td colspan="2"></td>
+    <td><b>Smart Leasing</b></td>
+    <td><b>HardRental Perú</b></td>
+    <td><b>Thuntech</b></td>
+    <td><b>CSI Leasing Perú</b></td>
+  </tr>
+
+  <!-- PERFIL -->
+  <tr>
+    <td rowspan="2"><b>Perfil</b></td>
+    <td>Overview</td>
+    <td>Startup peruana enfocada en el leasing tecnológico inteligente, que combina arrendamiento de equipos de TI con soporte, mantenimiento y gestión de ciclo de vida.</td>
+    <td>Empresa local de renting informático especializada en alquiler de laptops y PCs con soporte incluido.</td>
+    <td>Proveedor nacional que ofrece leasing operativo de tecnología con contratos de 24 a 60 meses.</td>
+    <td>Filial peruana de la multinacional CSI Leasing, con experiencia en más de 30 países.</td>
+  </tr>
+  <tr>
+    <td>Ventaja competitiva / Valor al cliente</td>
+    <td>Flexibilidad en contratos, soporte integral y enfoque estratégico en reducción de costos de TI. Valor: equipos actualizados, menor inversión inicial y gestión centralizada de garantías.</td>
+    <td>Rapidez en la entrega y planes flexibles. Valor: acceso inmediato sin compromisos ni inversión inicial.</td>
+    <td>Estabilidad contractual y escalabilidad. Valor: acceso a tecnología con planes de leasing a largo plazo.</td>
+    <td>Respaldo financiero internacional y plataforma MyCSI. Valor: control de ciclo de vida, seguridad y soporte global.</td>
+  </tr>
+
+  <!-- PERFIL DE MARKETING -->
+  <tr>
+    <td rowspan="2"><b>Perfil de Marketing</b></td>
+    <td>Mercado objetivo</td>
+    <td>Pymes e instituciones educativas en Perú y Latinoamérica.</td>
+    <td>Empresas locales (principalmente en Lima) que requieren equipos temporales o ágiles.</td>
+    <td>Empresas medianas y grandes con foco en estabilidad financiera.</td>
+    <td>Grandes corporaciones, bancos y multinacionales en Perú.</td>
+  </tr>
+  <tr>
+    <td>Estrategias de marketing</td>
+    <td>Marketing digital (LinkedIn, Google Ads, redes sociales), alianzas con proveedores, networking.</td>
+    <td>SEO local, catálogo web, captación rápida de clientes.</td>
+    <td>Relaciones B2B, convenios corporativos, publicidad en entornos empresariales.</td>
+    <td>Marketing corporativo global, relaciones con CIOs y CFOs.</td>
+  </tr>
+
+  <!-- PERFIL DE PRODUCTO -->
+  <tr>
+    <td rowspan="3"><b>Perfil de Producto</b></td>
+    <td>Productos & Servicios</td>
+    <td>Leasing de laptops, PCs, servidores, upgrades, soporte, mantenimiento y gestión de garantías.</td>
+    <td>Alquiler de laptops, PCs y periféricos con soporte básico.</td>
+    <td>Leasing operativo de laptops y equipos de oficina, upgrades opcionales.</td>
+    <td>Leasing tecnológico con Asset Management, borrado seguro de datos, contratos internacionales.</td>
+  </tr>
+  <tr>
+    <td>Precios & Costos</td>
+    <td>Contratos mensuales flexibles tipo SaaS/Leasing, con servicios premium opcionales.</td>
+    <td>Pago por equipo alquilado según tiempo de uso.</td>
+    <td>Cuotas fijas mensuales de arrendamiento.</td>
+    <td>Contratos internacionales con costos altos, orientados a corporativos.</td>
+  </tr>
+  <tr>
+    <td>Canales de distribución (Web/Móvil)</td>
+    <td>Plataforma web con panel de clientes y módulo administrativo interno.</td>
+    <td>Página web y atención directa a empresas.</td>
+    <td>Página web y acuerdos directos con empresas.</td>
+    <td>Plataforma MyCSI (web) y acuerdos globales.</td>
+  </tr>
+
+  <!-- ANÁLISIS SWOT -->
+  <tr>
+    <td rowspan="4"><b>Análisis SWOT</b></td>
+    <td>Fortalezas</td>
+    <td>Flexibilidad, servicio integral, foco en educación y pymes.</td>
+    <td>Rapidez de atención y flexibilidad de corto plazo.</td>
+    <td>Contratos estables y experiencia en leasing corporativo.</td>
+    <td>Respaldo global, gestión avanzada de activos, seguridad de datos.</td>
+  </tr>
+  <tr>
+    <td>Debilidades</td>
+    <td>Nueva en el mercado, poco reconocimiento de marca.</td>
+    <td>Oferta limitada al simple alquiler de hardware.</td>
+    <td>Poca flexibilidad y personalización en los contratos.</td>
+    <td>Costos elevados, poco atractivo para pymes locales.</td>
+  </tr>
+  <tr>
+    <td>Oportunidades</td>
+    <td>Digitalización creciente en Perú, modernización tecnológica en educación y pymes.</td>
+    <td>Ampliar servicios hacia educación y startups.</td>
+    <td>Creciente digitalización del mercado peruano.</td>
+    <td>Adaptar modelos más flexibles para pymes en Perú.</td>
+  </tr>
+  <tr>
+    <td>Amenazas</td>
+    <td>Competencia internacional consolidada, resistencia cultural al leasing.</td>
+    <td>Competidores con propuestas más completas.</td>
+    <td>Startups ágiles que ofrezcan leasing más flexible.</td>
+    <td>Regulaciones locales y percepción de costos excesivos.</td>
+  </tr>
+</table>
+
+</div>
+
 ## 2.1.2. Estrategias y tácticas frente a competidores
+
+Para competir de manera efectiva en el mercado de leasing tecnológico en el Perú, Smart Leasing implementará una serie de **estrategias** y **tácticas** orientadas a consolidar su posicionamiento, maximizar su alcance y diferenciarse de sus principales competidores (**HardRental Perú, Thuntech y CSI Leasing Perú**).
+
+### **Estrategias**
+
+1. **Enfoque en Pymes y Educación**  
+   Smart Leasing priorizará pequeñas y medianas empresas (Pymes) e instituciones educativas, sectores con alta necesidad de modernización tecnológica pero sin presupuestos robustos.
+2. **Modelo Integral de Smart Leasing**  
+   Leasing + soporte + mantenimiento + gestión de garantías + upgrades bajo demanda.
+3. **Flexibilidad Contractual**  
+   Contratos cortos y adaptables (desde 12 meses), frente a los plazos rígidos de otros competidores.
+4. **Educación y Confianza en el Leasing**  
+   Campañas educativas, webinars y casos de éxito para superar la resistencia cultural al modelo.
+5. **Alianzas Estratégicas con Proveedores Locales**  
+   Convenios con distribuidores de hardware, software y servicios TI para competir con el alcance internacional de CSI Leasing.
+
+### **Tácticas**
+
+- Pilotos gratuitos o con descuento para empresas interesadas.
+- Contratos escalables (ej. empezar con 10 equipos y crecer).
+- Panel digital con **dashboard financiero** para mostrar ahorros en tiempo real.
+- Soporte técnico diferenciado **24/7**.
+- Campañas digitales segmentadas en LinkedIn, Google Ads y redes sociales.
+- Casos de éxito documentados en empresas y colegios peruanos.
+- Garantía de **renovación tecnológica cada 18–24 meses**.
 
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
 
-Este cuestionario está diseñado para levantar información de los segmentos objetivo de **PcPedia**: **Empresas** e **Instituciones educativas**.  
-Las preguntas fueron refinadas para identificar **problemas reales, cuellos de botella y necesidades**, alineados al contexto de gestión de contratos, equipos tecnológicos y soporte TI.
+**Segmento objetivo 1: Empresas**
 
----
+- **Gestión de contrato**
 
-## Segmento objetivo 1: Empresas
+1. ¿Cómo llevan el control de los contratos de los equipos tecnológicos?
+2. Actualmente ¿Qué herramientas usan para la gestión de los contratos?
+3. ¿Como acceden a dicha información de los contratos? (Excel, docx, papel)
 
-### Gestión de contratos
+- **Verificación de procesos**
 
-- ¿Cómo gestionan actualmente los contratos de equipos tecnológicos?
-- ¿Qué herramientas usan? (Excel, software especializado, papel, etc.)
-- ¿Cómo acceden y almacenan esta información?
+4. ¿Cómo verifican el cumplimiento de los servicios contratados? (Software, mantenimiento, upgrades, etc.)
+5. ¿Con qué frecuencia revisa los términos del contrato? ¿Cuánta relevancia le da?
+6. ¿Cómo conservan el historial de mantenimiento?
+7. ¿Cuál es el proceso para pedir soporte técnico? ¿Cuánto demora?
 
-### Verificación de procesos
+- **Comunicación y presupuesto**
 
-- ¿Cómo verifican el cumplimiento de los servicios contratados (mantenimiento, upgrades, soporte)?
-- ¿En qué momentos suelen revisar los contratos (renovación, mantenimiento, auditorías)?
-- ¿Qué problemas han tenido por no llevar un buen control contractual?
-- ¿Cómo registran el historial de mantenimiento y soporte?
-- ¿Cuál es su proceso actual para pedir soporte técnico y cuánto suele demorar?
+8. ¿Qué canales de comunicación usa para hacer los contratos y comunicarse con el contratista?
+9. ¿Como manejan los presupuestos de sus equipos y servicios de mantenimiento?
 
-### Comunicación y presupuesto
+- **Satisfacción**
 
-- ¿Qué canales de comunicación usan con sus contratistas o proveedores de TI?
-- ¿Cómo manejan los presupuestos y pagos de contratos y mantenimiento?
+10. ¿Qué tan satisfecho se encuentra con las medidas que actualmente usa para la gestión de los contratos?
 
-### Satisfacción y expectativas
+**Segmento objetivo 2: Instituciones educativas**
 
-- ¿Qué tan satisfechos están con las prácticas actuales de gestión de contratos?
-- ¿Qué funcionalidades les gustaría tener en una plataforma que centralice todo esto?
+- **Gestión de equipos y contratos**
 
----
+1. ¿Cómo llevan registro del inventario de los equipos tecnológicos?
+2. ¿Qué herramientas usa para controlar los contratos y ver su estado de vigencia?
+3. ¿Qué dificultades enfrenta al momento de comprar un equipo?
+4. Actualmente ¿Qué problemas presenta al buscar información de los contratos?
+5. ¿Qué procesos tienen que pasar para la contratación, renovación o cancelación de los contratos?
 
-## Segmento objetivo 2: Instituciones educativas
+- **Soporte y mantenimiento**
 
-### Gestión de equipos y contratos
+6. ¿Con qué frecuencia tienen problemas técnicos?
+7. Cuando se presentan dichos problemas ¿Qué procesos suceden para solucionar el problema?
+8. ¿Cómo se comunican con su proveedor de TI para coordinar reparaciones o mantenimientos de los equipos?
 
-- ¿Cómo llevan el inventario de equipos tecnológicos?
-- ¿Qué herramientas usan para controlar la vigencia de contratos?
-- ¿Qué dificultades enfrentan al comprar equipos o renovar contratos?
-- ¿Qué problemas tienen al buscar información contractual?
-- ¿Qué pasos deben seguir para contratar, renovar o cancelar contratos?
-- ¿Existen políticas internas o procesos burocráticos que retrasen estas gestiones?
-- ¿Cómo afecta la gestión de contratos y equipos al dictado de clases o actividades académicas?
+- **Respecto al presupuesto**
 
-### Soporte y mantenimiento
+9. Actualmente ¿Qué medios usa para comunicarse y encontrar contratos?
+10. ¿Cómo obtiene información sobre los costos de los equipos y servicios TI?
+11. ¿Cómo controla las facturas y pagos al proveedor de los equipos de tecnología?
 
-- ¿Con qué frecuencia enfrentan problemas técnicos en los equipos?
-- ¿Qué procesos siguen para solucionarlos?
-- ¿Cómo coordinan con su proveedor de TI las reparaciones o mantenimientos?
+- **Satisfacción**
 
-### Presupuesto y comunicación
-
-- ¿Cómo obtienen información sobre costos de equipos y servicios TI?
-- ¿Cómo controlan facturas y pagos de estos servicios?
-- ¿Han tenido experiencias negativas con proveedores de TI? ¿Cuáles?
-
-### Satisfacción y expectativas
-
-- ¿Qué tan satisfechos están con los procesos actuales de gestión de equipos y contratos?
-- ¿Qué cambios o mejoras les gustaría ver?
+12. ¿Cuál es su nivel de satisfacción con los procesos actuales, respecto a la gestión de contratos y equipos TI?
 
 ### 2.2.2. Registro de entrevistas
 
@@ -576,7 +728,6 @@ Entrevista 1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c996_upc_e
 Entrevista 2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c996_upc_edu_pe/EX6JGgjKVRpDqRnGsSmuHI0BW4YvMS9JmuiqSS9W6gFuoQ?e=7egtCv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 Entrevista 3: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c996_upc_edu_pe/EdfTLQJ-tXxAu4BRPaYVbfQBzbuharjGDN5G7Dy5zj3Yrg?e=mc1hZj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
 
 Sector 2: Sector Educativo
 
@@ -596,7 +747,6 @@ Entrevista 3:https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c996_upc_ed
 <li><strong>Comunicación con proveedores:</strong> correo, WhatsApp y llamadas; en microempresas predomina la informalidad.</li>
 <li><strong>Nivel de satisfacción:</strong> alto en empresas grandes, bajo en microempresas.</li>
 </ul>
-
 
 <h2>3. Comparativo Educativo vs Empresarial</h2>
 <table>
@@ -635,7 +785,6 @@ Entrevista 3:https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c996_upc_ed
 </tr>
 </tbody>
 </table>
-
 
 <div class="conclusion">
 <h3>Conclusiones y Oportunidades</h3>
@@ -779,34 +928,15 @@ Existe una necesidad transversal de digitalización integral y centralización d
 
 **Segmento objetivo 1:** Empresas (pequeñas, medianas y grandes)
 
-En esta sección se utiliza la herramienta del **Mapa de Empatía** para profundizar en los sentimientos, pensamientos y comportamientos de los usuarios de nuestros segmentos objetivo.
-
-El objetivo es **comprender cómo viven los usuarios la situación problemática** (falta de confianza en servicios de arrendamiento, dificultad para gestionar contratos y equipos tecnológicos, problemas con proveedores poco confiables).
-
-De esta manera podemos identificar no solo lo que dicen, sino también lo que **sienten, escuchan, ven y hacen** en torno a su experiencia con el servicio actual.
-
----
-
-![user_empathy_mapping 1.png](/assets/chapter2/user_journey_mapping_1.png)
-
-En esta imagen se analizan los sentimientos y la situación del usuario que representa al segmento de **empresas**. De este cuadro, se concluye que el usuario valora principalmente la **seguridad y confiabilidad** al momento de contratar servicios de arrendamiento de equipos tecnológicos. Actualmente experimenta **desesperación, desconfianza y presión** porque los proveedores disponibles no cumplen con las expectativas y suelen entregar equipos con fallas.
-
-El usuario observa cómo otras compañías buscan proveedores más confiables y transparentes, lo que refuerza su percepción de estar en desventaja. Finalmente, aspira a contar con una plataforma que le permita **gestionar contratos de manera centralizada**, garantizar un soporte ágil y reducir los riesgos en la operación de su empresa.
-
----
+![empathy_mapping 1.png](/assets/chapter2/empathy_mapping_1.png)
 
 **Segmento objetivo 2:** Instituciones Educativas (universidades, colegios, escuelas, institutos)
 
-![user_empathy_mapping 2.png](/assets/chapter2/user_journey_mapping_2.png)
-
-En esta imagen se analizan los sentimientos y la situación del usuario que representa al segmento de **instituciones educativas**. De este cuadro, se concluye que la usuaria valora la **modernización de sus aulas** para brindar a estudiantes y docentes un ambiente de aprendizaje dinámico y confiable. Sin embargo, siente **preocupación, desconfianza y presión** al notar que otras instituciones ya cuentan con equipos actualizados, mientras que ella enfrenta limitaciones presupuestales y proveedores poco confiables.
-
-La usuaria observa cómo otras escuelas acceden a servicios de mayor calidad, lo que genera frustración y la sensación de quedarse atrás. Finalmente, aspira a tener un **sistema sencillo y transparente** que le permita **gestionar contratos, coordinar mantenimientos oportunos y optimizar el presupuesto institucional**, garantizando así un impacto positivo en la calidad educativa.
-
+![empathy_mapping 2.png](/assets/chapter2/empathy_mapping_2.png)
 
 ### 2.4. Big Picture Event Storming
 
-Big Picture Event Storming es una técnica de modelado que busca ofrecer una "visión panorámica" de un software, señalando las piezas claves del negocio, identificar problemas y organizar la estructura básica de la gestión en una cronología. Para llevarlas a cabo, nuestro grupo tuvo reuniones virtuales para diálogar sobre eventos, objetos y la ubicación de estos, con respecto al negocio.   
+Big Picture Event Storming es una técnica de modelado que busca ofrecer una "visión panorámica" de un software, señalando las piezas claves del negocio, identificar problemas y organizar la estructura básica de la gestión en una cronología. Para llevarlas a cabo, nuestro grupo tuvo reuniones virtuales para diálogar sobre eventos, objetos y la ubicación de estos, con respecto al negocio.
 
 A continuación, presentaremos los pasos que ejecutamos para llevar acabo la técnica Big Picture:
 
@@ -852,7 +982,7 @@ Una observación que podemos realizar es que los modelos presentados son prototi
 - Inventario: ubicación física donde los equipos son guardados hasta el proceso de venta o arrendamiento.
 - Incidencia: problema o requerimiento técnico que tiene el cliente.
 - Mantenimiento: acciones preventivas realizadas por el equipo de soporte y solicitada por el cliente.
-- Equipo de negocio: grupo encargado de la gestión de negocio, desde administración de usuarios, equipo de ventas, equipo de logística y soporte al cliente. 
+- Equipo de negocio: grupo encargado de la gestión de negocio, desde administración de usuarios, equipo de ventas, equipo de logística y soporte al cliente.
 
 # Capítulo III: Requirements Specification
 
@@ -2054,5 +2184,3 @@ Durante el Sprint 1 del proyecto PcPedia, se lograron avances significativos en 
     </li>
  
 </section>
-
-> > > > > > > c244249ee1f9b3b7f82b7c2256fd40dfff1a9c2f
