@@ -988,10 +988,9 @@ Una observación que podemos realizar es que los modelos presentados son prototi
 
 ## 3.1. User Stories
 
-<!-- ================== EPICS ================== -->
 <h2>Epics</h2>
 <table border="1" cellspacing="0" cellpadding="5">
-<<<<<<< HEAD
+    
 <tr><th>ID de Epic</th><th>Título</th><th>Descripción</th></tr>
 <tr><td>EP01</td><td>Gestión de cuenta</td><td>Como usuario deseo contar con una cuenta personal con la cual registrarme, iniciar y cerrar sesión en la plataforma.</td></tr>
 <tr><td>EP02</td><td>Información del servicio</td><td>Como usuario deseo contar con un apartado en el cual conocer el funcionamiento, antecedentes y costo del servicio.</td></tr>
@@ -1000,7 +999,6 @@ Una observación que podemos realizar es que los modelos presentados son prototi
 <tr><td>EP05</td><td>Contratación y gestión del servicio</td><td>Como usuario deseo contar con un apartado para realizar la contratación del servicio y gestionar mis suscripciones.</td></tr>
 </table><br>
 
-<!-- ================== HU01 ================== -->
 <table border="1" cellspacing="0" cellpadding="5">
 <tr><th>ID de HU</th><td>HU01</td><th>ID de Epic</th><td>EP01</td></tr>
 <tr><th>Título</th><td>Registro de cuenta</td><th>Prioridad en el negocio</th><td>Alta</td></tr>
@@ -1013,7 +1011,6 @@ Una observación que podemos realizar es que los modelos presentados son prototi
 </td></tr>
 </table><br>
 
-<!-- ================== HU02 ================== -->
 <table border="1" cellspacing="0" cellpadding="5">
 <tr><th>ID de HU</th><td>HU02</td><th>ID de Epic</th><td>EP01</td></tr>
 <tr><th>Título</th><td>Inicio de sesión</td><th>Prioridad en el negocio</th><td>Alta</td></tr>
@@ -1026,7 +1023,6 @@ Una observación que podemos realizar es que los modelos presentados son prototi
 </td></tr>
 </table><br>
 
-<!-- ================== HU03 ================== -->
 <table border="1" cellspacing="0" cellpadding="5">
 <tr><th>ID de HU</th><td>HU03</td><th>ID de Epic</th><td>EP01</td></tr>
 <tr><th>Título</th><td>Cierre de sesión</td><th>Prioridad en el negocio</th><td>Media</td></tr>
@@ -1039,7 +1035,6 @@ Una observación que podemos realizar es que los modelos presentados son prototi
 </td></tr>
 </table><br>
 
-<!-- ================== HU04 ================== -->
 <table border="1" cellspacing="0" cellpadding="5">
 <tr><th>ID de HU</th><td>HU04</td><th>ID de Epic</th><td>EP02</td></tr>
 <tr><th>Título</th><td>Descripción del servicio</td><th>Prioridad en el negocio</th><td>Alta</td></tr>
@@ -1052,7 +1047,6 @@ Una observación que podemos realizar es que los modelos presentados son prototi
 </td></tr>
 </table><br>
 
-<!-- ================== HU05 ================== -->
 <table border="1" cellspacing="0" cellpadding="5">
 <tr><th>ID de HU</th><td>HU05</td><th>ID de Epic</th><td>EP02</td></tr>
 <tr><th>Título</th><td>Consulta de planes y costos</td><th>Prioridad en el negocio</th><td>Alta</td></tr>
@@ -1065,7 +1059,6 @@ Una observación que podemos realizar es que los modelos presentados son prototi
 </td></tr>
 </table><br>
 
-<!-- ================== HU06 ================== -->
 <table border="1" cellspacing="0" cellpadding="5">
 <tr><th>ID de HU</th><td>HU06</td><th>ID de Epic</th><td>EP02</td></tr>
 <tr><th>Título</th><td>Casos de éxito</td><th>Prioridad en el negocio</th><td>Media</td></tr>
@@ -1078,7 +1071,6 @@ Una observación que podemos realizar es que los modelos presentados son prototi
 </td></tr>
 </table><br>
 
-<!-- ================== HU07 ================== -->
 <table border="1" cellspacing="0" cellpadding="5">
 <tr><th>ID de HU</th><td>HU07</td><th>ID de Epic</th><td>EP03</td></tr>
 <tr><th>Título</th><td>Formulario de contacto</td><th>Prioridad en el negocio</th><td>Alta</td></tr>
@@ -1091,7 +1083,6 @@ Una observación que podemos realizar es que los modelos presentados son prototi
 </td></tr>
 </table><br>
 
-<!-- ================== HU08 ================== -->
 <table border="1" cellspacing="0" cellpadding="5">
 <tr><th>ID de HU</th><td>HU08</td><th>ID de Epic</th><td>EP03</td></tr>
 <tr><th>Título</th><td>Chat de mensajería rápida</td><th>Prioridad en el negocio</th><td>Media</td></tr>
@@ -1104,7 +1095,6 @@ Una observación que podemos realizar es que los modelos presentados son prototi
 </td></tr>
 </table><br>
 
-<!-- ================== HU09 ================== -->
 <table border="1" cellspacing="0" cellpadding="5">
 <tr><th>ID de HU</th><td>HU09</td><th>ID de Epic</th><td>EP03</td></tr>
 <tr><th>Título</th><td>Soporte especializado</td><th>Prioridad en el negocio</th><td>Alta</td></tr>
@@ -1117,7 +1107,6 @@ Una observación que podemos realizar es que los modelos presentados son prototi
 </td></tr>
 </table><br>
 
-<!-- ================== HU10 ================== -->
 <table border="1" cellspacing="0" cellpadding="5">
 <tr><th>ID de HU</th><td>HU10</td><th>ID de Epic</th><td>EP04</td></tr>
 <tr><th>Título</th><td>Catálogo de equipos</td><th>Prioridad en el negocio</th><td>Alta</td></tr>
@@ -1130,7 +1119,6 @@ Una observación que podemos realizar es que los modelos presentados son prototi
 </td></tr>
 </table><br>
 
-<!-- ================== HU11 ================== -->
 <table border="1" cellspacing="0" cellpadding="5">
 <tr><th>ID de HU</th><td>HU11</td><th>ID de Epic</th><td>EP04</td></tr>
 <tr><th>Título</th><td>Comparación de equipos</td><th>Prioridad en el negocio</th><td>Media</td></tr>
@@ -1143,7 +1131,6 @@ Una observación que podemos realizar es que los modelos presentados son prototi
 </td></tr>
 </table><br>
 
-<!-- ================== HU12 ================== -->
 <table border="1" cellspacing="0" cellpadding="5">
 <tr><th>ID de HU</th><td>HU12</td><th>ID de Epic</th><td>EP04</td></tr>
 <tr><th>Título</th><td>Historial de auditorías</td><th>Prioridad en el negocio</th><td>Media</td></tr>
@@ -1156,7 +1143,6 @@ Una observación que podemos realizar es que los modelos presentados son prototi
 </td></tr>
 </table><br>
 
-<!-- ================== HU13 ================== -->
 <table border="1" cellspacing="0" cellpadding="5">
 <tr><th>ID de HU</th><td>HU13</td><th>ID de Epic</th><td>EP05</td></tr>
 <tr><th>Título</th><td>Contratación de plan</td><th>Prioridad en el negocio</th><td>Alta</td></tr>
@@ -1169,7 +1155,6 @@ Una observación que podemos realizar es que los modelos presentados son prototi
 </td></tr>
 </table><br>
 
-<!-- ================== HU14 ================== -->
 <table border="1" cellspacing="0" cellpadding="5">
 <tr><th>ID de HU</th><td>HU14</td><th>ID de Epic</th><td>EP05</td></tr>
 <tr><th>Título</th><td>Gestión de servicios contratados</td><th>Prioridad en el negocio</th><td>Alta</td></tr>
@@ -1182,7 +1167,6 @@ Una observación que podemos realizar es que los modelos presentados son prototi
 </td></tr>
 </table><br>
 
-<!-- ================== HU15 ================== -->
 <table border="1" cellspacing="0" cellpadding="5">
 <tr><th>ID de HU</th><td>HU15</td><th>ID de Epic</th><td>EP05</td></tr>
 <tr><th>Título</th><td>Descarga de comprobantes</td><th>Prioridad en el negocio</th><td>Media</td></tr>
@@ -2310,6 +2294,98 @@ En este sprint se tiene como objetivo desarrollar el frontend de PcPedia porque 
 </section>
 
 #### 5.2.2.3. Sprint Backlog 2
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th><strong>User Story</strong></th>
+    <th><strong>Work-item/Task</strong></th>
+    <th><strong>Description</strong></th>
+    <th><strong>Estimation (Hours)</strong></th>
+    <th><strong>Assigned To</strong></th>
+    <th><strong>Status</strong></th>
+  </tr>
+  <tr>
+    <td><strong>HU01 - Autenticación de Usuario</strong></td>
+    <td>W01 - Login functionality and validation</td>
+    <td>Implementar el formulario de inicio de sesión con validación de credenciales generadas por la empresa.</td>
+    <td align="center">3</td>
+    <td>Sebastian</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><strong>HU02 - Pantalla de Inicio Informativa</strong></td>
+    <td>W02 - Home view and service overview</td>
+    <td>Desarrollar la vista de inicio que muestre información sobre el servicio “Conoce Smart Leasing” y los beneficios del arrendamiento.</td>
+    <td align="center">4</td>
+    <td>Rubens</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><strong>HU03 - Visualización de Activos del Cliente</strong></td>
+    <td>W03 - Active assets dashboard</td>
+    <td>Crear la sección “Mis Activos” donde se listan los equipos por modelo y marca, junto con su estado actual.</td>
+    <td align="center">4</td>
+    <td>Jorge</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><strong>HU04 - Gestión de Incidencias</strong></td>
+    <td>W04 - Incidents management module</td>
+    <td>Permitir visualizar y registrar incidencias asociadas a los equipos arrendados, mostrando su estado de atención.</td>
+    <td align="center">3</td>
+    <td>Matias</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><strong>HU05 - Consulta de Contratos Activos</strong></td>
+    <td>W05 - Contracts listing and detail view</td>
+    <td>Implementar la vista “Contratos” donde se muestren los contratos activos de cada cliente, con su respectiva información.</td>
+    <td align="center">3</td>
+    <td>Alessandro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><strong>HU06 - Detalle de Contrato Seleccionado</strong></td>
+    <td>W06 - Contract detail modal</td>
+    <td>Mostrar información detallada del contrato seleccionado, incluyendo fecha, duración y tipo de equipo arrendado.</td>
+    <td align="center">2.5</td>
+    <td>Sebastian</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><strong>HU07 - Edición de Información Personal</strong></td>
+    <td>W07 - User profile management</td>
+    <td>Crear la sección “Mi Perfil” para que el usuario pueda visualizar y actualizar su información personal básica.</td>
+    <td align="center">3</td>
+    <td>jorge</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><strong>HU08 - Gestión de Sesión</strong></td>
+    <td>W08 - Logout and session persistence</td>
+    <td>Implementar la funcionalidad para cerrar sesión y mantener persistencia de usuario autenticado.</td>
+    <td align="center">2</td>
+    <td>Alessandro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><strong>HU09 - Notificaciones de Incidencias y Contratos</strong></td>
+    <td>W09 - Notification center</td>
+    <td>Incorporar un módulo de notificaciones que informe sobre incidencias actualizadas o contratos próximos a vencer.</td>
+    <td align="center">2</td>
+    <td>Matias</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><strong>HU10 - Panel Administrativo (Interno)</strong></td>
+    <td>W10 - Admin credentials and asset setup</td>
+    <td>Permitir al personal de ECAT gestionar credenciales de clientes y registrar nuevos equipos dentro del sistema.</td>
+    <td align="center">4</td>
+    <td>Sebastian</td>
+    <td>Done</td>
+  </tr>
+</table>
+
 #### 5.2.2.4. Development Evidence for Sprint Review
 #### 5.2.2.5. Execution Evidence for Sprint Review
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
@@ -2334,8 +2410,6 @@ En este sprint se tiene como objetivo desarrollar el frontend de PcPedia porque 
 - Anexo 2: [Prototipo de Web](https://www.figma.com/proto/goeqlKKoDYuKbrXX4b2CPS/Untitled?node-id=86-2&p=f&t=Ijrku1hfs8lgLsyp-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=86%3A2)
 
 ## Conclusiones y recomendaciones
-
-# <<<<<<< HEAD
 
 <p>
 Durante el Sprint 1 del proyecto PcPedia, se lograron avances significativos en el diseño de la landing page, wireframes y mockups de la aplicación web, así como en la definición de la arquitectura de información, guías de estilo y análisis de competidores. Esto permitió establecer una base sólida y coherente para el desarrollo del producto, alineada con las necesidades de los usuarios y los objetivos estratégicos de la startup EcatLeasing. Se recomienda continuar con la validación temprana de la interfaz mediante pruebas de usabilidad, integrar retroalimentación constante del equipo y de usuarios, priorizar funcionalidades críticas como registro de usuarios, panel de administración y comparador de equipos, mantener la documentación actualizada en GitHub y utilizar herramientas ágiles para seguimiento de tareas, asegurando una coordinación efectiva y la calidad técnica del desarrollo en los siguientes sprints.
