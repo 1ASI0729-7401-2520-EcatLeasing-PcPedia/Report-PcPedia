@@ -2402,6 +2402,17 @@ En este sprint, correspondiente a la segunda fase de nuestro producto final, se 
 ![evidence5](/assets/chapter5/evidence_frontend_5.png)<br>
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Para el desarrollo del Frontend en nuestra plataforma, utilizamos lo siguiente:
+
+- Angular: Este framework fue empleado para implementar el desarrollo del frontend de la aplicación web, permitiendo una estructura organizada y modular.
+
+- GitHub: Se utilizó como plataforma para almacenar y gestionar los avances del proyecto en un repositorio dedicado exclusivamente al frontend, lo que facilitó el seguimiento de los progresos y la identificación de los aportes de cada integrante del equipo.
+
+- WebStorm: Este IDE fue la herramienta principal utilizada para la creación y desarrollo del proyecto, ofreciendo un entorno eficiente y adaptado al trabajo con tecnologías web modernas.
+
+- Git: Se empleó como sistema de control de versiones, garantizando un registro ordenado de cada avance y permitiendo rastrear los cambios realizados a lo largo del desarrollo.
+
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
