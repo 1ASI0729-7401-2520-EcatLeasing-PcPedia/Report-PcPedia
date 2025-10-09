@@ -22,15 +22,15 @@
 
 **Integrantes**:
 
-Retuerto Rodríguez, Jorge Manuel - u202318612
-Hernández Poma, Sebastián Eduardo - u20231c996
-Condori Lozano, Alessandro Ramiro - u20211a118
-Armestar Heredia, Matias Gabriel - u20221a553
-Bendezu Navarro, Rubens Fitzgerald - u20231d390
+Retuerto Rodríguez, Jorge Manuel - u202318612<br>
+Hernández Poma, Sebastián Eduardo - u20231c996<br>
+Condori Lozano, Alessandro Ramiro - u20211a118<br>
+Armestar Heredia, Matias Gabriel - u20221a553<br>
+Bendezu Navarro, Rubens Fitzgerald - u20231d390<br>
 
 </div>
 
-**Agosto del 2025**
+**Octubre del 2025**
 
 </div>
 
@@ -47,9 +47,16 @@ Bendezu Navarro, Rubens Fitzgerald - u20231d390
     <tr>
         <td colspan="3">1era</td>
         <td colspan="3">30/08/2025</td>
-        <td colspan="10"></td>
-        <td colspan="5"></td>
+        <td colspan="10">Retuerto Rodríguez, Jorge Manuel <br> Hernández Poma, Sebastián Eduardo <br> Condori Lozano, Alessandro Ramiro <br> Armestar Heredia, Matias Gabriel <br> Bendezu Navarro, Rubens Fitzgerald </td>
+        <td colspan="5">Revision y entrega de cada punto, cada estudiante se repartio 1 capitulo del informe, luego de haber terminado, fue visto y corregidor por cada integrante, esto ocurrio posterior a la revision del docente, con el proposito de mejorar el informe y poder entregar un informe de acuerdo a la rubrica</td>
     </tr>
+    <tr>
+        <td colspan="3">2da</td>
+        <td colspan="3">8/10/2025</td>
+        <td colspan="10">Retuerto Rodríguez, Jorge Manuel <br> Hernández Poma, Sebastián Eduardo <br> Condori Lozano, Alessandro Ramiro <br> Armestar Heredia, Matias Gabriel <br> Bendezu Navarro, Rubens Fitzgerald </td>
+        <td colspan="5">Revision de los capitulos para lograr una correccion optima, posterior avance del front-end y del capitulo V</td>
+    </tr>
+
 </table>
 
 ---
@@ -73,17 +80,36 @@ Se crearon los artefactos necesarios usando las herramientas recomendadas, y se 
 
 Se llevaron a cabo reuniones periódicas para coordinar el avance de los puntos del informe. Estas reuniones también se utilizaron para comunicar el progreso alcanzado durante el Sprint 1, enfocado en el desarrollo de la Landing Page del proyecto.
 
-**Contributors Insights report:**
-![Commits-report-tb1]()
+---
 
-**Contributors Insights landing page:**
-![Commits-report-landing-page]()
+**Entrega N°2: TP1**
+<br>
 
-**Network Insights report:**
-![Network-report-tb1]()
+Para este avance se completo el capitulo V y el desarrollo del front end y se subio la evidencia en el repositorio de Github en los siguientes enlaces:
+
+URL del repositorio para el reporte del proyecto: (https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Report-PcPedia/tree/master)<br>
+URL del repositorio para el Landing Page: (https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Landing-Page-PcPedia)<br>
+URL del repositorio para el desarrollo del frontend web applications: (https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia)<br>
+
+Cada miembro del equipo realizo cambios y mejoras en sus respectivas ramas de acuerdo a la distribucion del proyecto para poder completar la entrega, posteriormente tuvimos una reunion en el cual corregiriamos ciertos detalles para poder asi cumplir correctamente con la entrega del proyecto.
+
+**Contributors Insights report:** <br>
+![Commits-report-tp1](Contributors%20_insights_report_tp.jpg)
+
+**Contributors Insights landing page:** <br>
+![Commits-landing-page-tp1](Contributors%20_insights_landing_tp.jpg)
+
+**Contributors Insights front end:** <br>
+![Commits-landing-page-tp1]()
 
 **Network Insights report:** <br>
-![Network-landing-tb1]()
+![Network-report-tp1](Network_graph_tb1.png)
+
+**Network Insights landing page:** <br>
+![Network-landing-page-tp](Network_graph_tb1_landing.png)
+
+**Contributors Insights front end:** <br>
+![Commits-front-end-tp1]()
 
 ---
 
@@ -100,14 +126,42 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         <th colspan="10">Conclusiones</th>
     <tr>
         <td colspan="3">Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
-        <td colspan="10">"Nombre" tb1: </td>
-        <td colspan="10">"conclusiones"</td>
+        <td colspan="10">
+            <b>TB1:</b><br>
+            Retuerto Rodríguez, Jorge Manuel: Se acordo la particion del trabajo y se realizo el desarrollo del mismo para poder completar correctamente esta entrega.<br>
+            Hernández Poma, Sebastián Eduardo: Previo acuerdo con el grupo se realizo el analisis del proyecto y se avanzo de manera colaborativa y con comunicacion eficiente para esta entrega.<br>
+            Condori Lozano, Alessandro Ramiro: Con el equipo se tomo la decision de poder avanzar en conjunto para la realizacion del proyecto.<br>
+            Armestar Heredia, Matias Gabriel: Despues de una reunion con el equipo y expresar nuestras opiniones, nos pusimos de acuerdo para poder avanzar dicho proyecto.<br>
+            Bendezu Navarro, Rubens Fitzgerald: Despues de ponernos de acuerdo con el desarrollo del reporte pudimos empezar correctamente a desarrollarlo para asi cumplir con los puntos que nos piden.<br>
+            <br><b>TP1:</b><br>
+            Retuerto Rodríguez, Jorge Manuel: Se realizo la correccion del capitulo IV previa coordinacion con todos mis compañeros para el correcto desarrollo de esta entrega posteriormente se acordo con el grupo en previa reunion el avance del front-end.<br>
+            Hernández Poma, Sebastián Eduardo: Se realizo la correccion del capitulo V previa coordinacion con el grupo ademas de poder implementar y desarrollar el front-end para esta entrega.<br>
+            Condori Lozano, Alessandro Ramiro: Se realizo la correccion del capitulo III para asi posterior a eso poder desarrollar correctamente el front-end.<br>
+            Armestar Heredia, Matias Gabriel: Se realizo la correccion del capitulo I, logrando terminar con la correccion del informe se empezo el desarrollo del front-end.<br>
+            Bendezu Navarro, Rubens Fitzgerald: Se realizo la correccion del capitulo II, Una vez se acabo con la correccion se pudo empezar con el desarrollo en conjunto del front-end.<br>
+        </td>
+        <td colspan="10">Luego de la primera entrega que fue el TB1 el equipo pudo corregir los errores que se dieron en dicha entrega, para la siguiente entrega que fue el TP, se coordino y dio visto bueno para que despues de una reunion del equipo cada uno en su respectiva rama pudiese completar y corregir segun los comentarios del profesor</td>
     </tr>
     <tr>
-        <td colspan="3">Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
-        <td colspan="10">"Nombre" tb1: </td>
-        <td colspan="10">"conclusiones"</td>
-    </tr>
+    <td colspan="3">Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+    <td colspan="10">
+        <b>TB1:</b><br>
+        Retuerto Rodríguez, Jorge Manuel: Redacté de manera clara y objetiva los avances del proyecto, estructurando correctamente las ideas y resultados para que el informe sea comprensible por diferentes lectores. <br>
+        Hernández Poma, Sebastián Eduardo: Redacté de forma ordenada el análisis del proyecto, utilizando un lenguaje técnico comprensible para distintas especialidades y niveles jerárquicos. <br>
+        Condori Lozano, Alessandro Ramiro: Contribuí en la redacción colaborativa del documento, plasmando las ideas del grupo con objetividad y precisión técnica. <br>
+        Armestar Heredia, Matias Gabriel: Participé en la redacción conjunta del informe, plasmando de manera clara los avances del proyecto con un lenguaje técnico adecuado. <br>
+        Bendezu Navarro, Rubens Fitzgerald: Contribuí en la escritura del reporte, manteniendo un estilo formal y técnico que permita transmitir las ideas del grupo con claridad. <br>   
+        <br><b>TP1:</b><br>
+        Retuerto Rodríguez, Jorge Manuel: Elaboré la parte escrita del capítulo IV aplicando una redacción técnica precisa, con la finalidad de presentar resultados objetivos y bien argumentados en el informe final. <br>
+        Hernández Poma, Sebastián Eduardo: Desarrollé por escrito el capítulo V, asegurando una comunicación clara y coherente de los resultados obtenidos y su relación con los objetivos del proyecto. <br>
+        Condori Lozano, Alessandro Ramiro: Redacté el capítulo III con un enfoque técnico y estructurado, garantizando la coherencia del informe con los resultados del desarrollo del proyecto. <br>
+        Armestar Heredia, Matias Gabriel: Redacté el capítulo I con objetividad, asegurando que la información presentada refleje correctamente los avances y resultados del equipo. <br>
+        Bendezu Navarro, Rubens Fitzgerald: Desarrollé la redacción del capítulo II, asegurando que el contenido sea comprensible para públicos con diferentes especialidades. <br>
+    </td>
+    <td colspan="10">
+        El equipo logró consolidar la información escrita del proyecto con un enfoque técnico y coherente, ademas del desarrollo del front-end. Cada integrante redactó su parte con objetividad, garantizando una comunicación clara de los resultados y conclusiones. El trabajo colaborativo permitió mantener una redacción uniforme, precisa y comprensible en todo el informe parcial.
+    </td>
+</tr>
 
 </table>
 
@@ -233,16 +287,13 @@ Además, comprendemos que cada empresa tiene necesidades y presupuestos distinto
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
-<table>
-    <tr>
-        <th colspan="3"> "codigo"</th>
-        <th colspan="10"> "nombre"</th>
-    <tr>
-        <td colspan="3"> "foto"</td>
-        <td colspan="10">"Descripcion"</td>
-    </tr>
-
-</table>
+| Foto                                                                     | Apellido y Nombre                               | Carrera                | Acerca de                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ------------------------------------------------------------------------ | ----------------------------------------------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Perfil_Retuerto_Jorge.png](assets/Perfil_Retuerto_Jorge.jpeg)          | Retuerto Rodríguez, Jorge Manuel - u202318612   | Ingeniería de Software | Mi nombre es Jorge Manuel Retuerto Rodríguez, tengo 20 años y estoy cursando el 5to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Mi conocimiento y habilidades de programación son intermedias en C++, HTML y CSS. Sin embargo, básicas en Python y Java. Me haré responsable de la comunicación del grupo, planificación y desarrollo junto a mi equipo.                                                                                                                                         |
+| ![Perfil_Hernandez_Sebastian.png](assets/Perfil_Hernandez_Sebastian.png) | Hernández Poma, Sebastián Eduardo - u20231c996  | Ingeniería de Software | Tengo 21 años y estoy cursando la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Mi objetivo es seguir desarrollando mis competencias en programación y especializarme en el área de desarrollo de software y soluciones tecnológicas innovadoras. Me caracterizo por ser una persona perseverante, con mentalidad de crecimiento y compromiso con el trabajo en equipo, buscando siempre aprender nuevas herramientas que fortalezcan mi futuro profesional y me permitan alcanzar proyectos de mayor impacto. |
+| ![Perfil_Condori_Alessandro.png](assets/Perfil_Condori_Alessandro.jpg)   | Condori Lozano, Alessandro Ramiro - u20211a118  | Ingeniería de Software | Tengo 21 años, actualmente me encuentro matriculado en la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Poseo un nivel intermedio de habilidades en programación, con conocimientos adicionales en desarrollo web. Me considero una persona competitiva, responsable y que sabe trabajar en equipo.                                                                                                                                                                                                            |
+| ![Perfil_Armestar_Heredia.jpeg](assets/Perfil_Armestar_Matias.jpeg)      | Armestar Heredia, Matias Gabriel - u20221A553   | Ingeniería de Software | Estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero un estudiante capaz de aportar significativamente a un equipo.                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ![Perfil_Bendezu_Rubens](assets/Perfil_Bendezu_Rubens.jpeg)              | Bendezu Navarro, Rúbens Fitzgerald - u20231D390 | Ingeniería de Software | Mi nombre es Rúbens Bendezu, soy estudiante de Ingeniería de Software. Me considero una persona motivada por el aprendizaje continuo y el trabajo en equipo, ya que compartir ideas y experiencias enriquece tanto el desarrollo personal como el profesional. Tengo conocimientos en tecnologías de desarrollo web y frameworks modernos, y me interesa especialmente el desarrollo de aplicaciones web que aporten soluciones innovadoras y de impacto.                                                                                           |
 
 ## 1.2 Solution Profile
 
@@ -446,113 +497,492 @@ Debe transmitir confianza, modernidad y simplicidad, con una interfaz clara (si 
 
 ## 2.1. Competidores
 
+En esta sección se identifican y describen los principales competidores directos de la startup **Smart Leasing**, cuyo enfoque gira en torno al **arrendamiento inteligente de equipos tecnológicos con soporte y gestión de ciclo de vida**. Se han considerado empresas que ofrecen soluciones similares en el mercado peruano, tanto locales como internacionales.
+
+Los competidores seleccionados son:
+
+### **HardRental Perú**
+
+Empresa peruana especializada en **renting informático** para empresas, con foco en **alquiler de laptops, PCs y periféricos**. Ofrece soporte técnico, _service desk_ y mantenimiento incluidos en los contratos. Su propuesta se centra en brindar flexibilidad a corto y mediano plazo, orientada principalmente a **empresas que buscan evitar la compra de hardware y reducir la inversión inicial**.
+
+### **Thuntech**
+
+Proveedor nacional que ofrece **leasing operativo de tecnología** con plazos que van de 24 a 60 meses. Su servicio incluye **alquiler de laptops, equipos de oficina y dispositivos especializados** para empresas, bajo un modelo de suscripción. Thuntech busca posicionarse como alternativa a la compra tradicional, enfocándose en **contratos a largo plazo y planes corporativos escalables**.
+
+### **CSI Leasing Perú**
+
+Filial de la multinacional **CSI Leasing**, con presencia en más de 30 países. En Perú ofrece **leasing tecnológico** con un fuerte componente de **gestión de activos (Asset Management)** a través de su plataforma _MyCSI_, que permite a las empresas tener trazabilidad completa del ciclo de vida de sus equipos. Su propuesta está orientada a **grandes corporaciones** que buscan eficiencia financiera, seguridad en datos y soporte global.
+
 ## 2.1.1. Análisis competitivo
 
+El objetivo del presente análisis competitivo es responder a la pregunta:
+
+**¿Cómo se posiciona Smart Leasing frente a sus principales competidores en términos de funcionalidades, estrategia de mercado y propuesta de valor?**
+
+Para ello, se utiliza el modelo de análisis **Competitive Analysis Landscape**, estructurado en categorías y subcategorías.
+
+<div align="center">
+
+<table>
+  <tr>
+    <th colspan="6">Competitive Analysis Landscape</th>
+  </tr>
+
+  <!-- Motivo del análisis -->
+  <tr>
+    <td><b>¿Por qué llevar a cabo este análisis?</b></td>
+    <td colspan="5">
+      Identificar fortalezas, debilidades y oportunidades frente a competidores clave en el sector de leasing tecnológico en el Perú. <br>
+      Comparar funcionalidades, posicionamiento y estrategia de Smart Leasing con otras plataformas similares en el mercado local e internacional.
+    </td>
+  </tr>
+
+  <!-- Fila de nombres (las 2 primeras celdas combinadas y vacías) -->
+  <tr>
+    <td colspan="2"></td>
+    <td><b>Smart Leasing</b></td>
+    <td><b>HardRental Perú</b></td>
+    <td><b>Thuntech</b></td>
+    <td><b>CSI Leasing Perú</b></td>
+  </tr>
+
+  <!-- PERFIL -->
+  <tr>
+    <td rowspan="2"><b>Perfil</b></td>
+    <td>Overview</td>
+    <td>Startup peruana enfocada en el leasing tecnológico inteligente, que combina arrendamiento de equipos de TI con soporte, mantenimiento y gestión de ciclo de vida.</td>
+    <td>Empresa local de renting informático especializada en alquiler de laptops y PCs con soporte incluido.</td>
+    <td>Proveedor nacional que ofrece leasing operativo de tecnología con contratos de 24 a 60 meses.</td>
+    <td>Filial peruana de la multinacional CSI Leasing, con experiencia en más de 30 países.</td>
+  </tr>
+  <tr>
+    <td>Ventaja competitiva / Valor al cliente</td>
+    <td>Flexibilidad en contratos, soporte integral y enfoque estratégico en reducción de costos de TI. Valor: equipos actualizados, menor inversión inicial y gestión centralizada de garantías.</td>
+    <td>Rapidez en la entrega y planes flexibles. Valor: acceso inmediato sin compromisos ni inversión inicial.</td>
+    <td>Estabilidad contractual y escalabilidad. Valor: acceso a tecnología con planes de leasing a largo plazo.</td>
+    <td>Respaldo financiero internacional y plataforma MyCSI. Valor: control de ciclo de vida, seguridad y soporte global.</td>
+  </tr>
+
+  <!-- PERFIL DE MARKETING -->
+  <tr>
+    <td rowspan="2"><b>Perfil de Marketing</b></td>
+    <td>Mercado objetivo</td>
+    <td>Pymes e instituciones educativas en Perú y Latinoamérica.</td>
+    <td>Empresas locales (principalmente en Lima) que requieren equipos temporales o ágiles.</td>
+    <td>Empresas medianas y grandes con foco en estabilidad financiera.</td>
+    <td>Grandes corporaciones, bancos y multinacionales en Perú.</td>
+  </tr>
+  <tr>
+    <td>Estrategias de marketing</td>
+    <td>Marketing digital (LinkedIn, Google Ads, redes sociales), alianzas con proveedores, networking.</td>
+    <td>SEO local, catálogo web, captación rápida de clientes.</td>
+    <td>Relaciones B2B, convenios corporativos, publicidad en entornos empresariales.</td>
+    <td>Marketing corporativo global, relaciones con CIOs y CFOs.</td>
+  </tr>
+
+  <!-- PERFIL DE PRODUCTO -->
+  <tr>
+    <td rowspan="3"><b>Perfil de Producto</b></td>
+    <td>Productos & Servicios</td>
+    <td>Leasing de laptops, PCs, servidores, upgrades, soporte, mantenimiento y gestión de garantías.</td>
+    <td>Alquiler de laptops, PCs y periféricos con soporte básico.</td>
+    <td>Leasing operativo de laptops y equipos de oficina, upgrades opcionales.</td>
+    <td>Leasing tecnológico con Asset Management, borrado seguro de datos, contratos internacionales.</td>
+  </tr>
+  <tr>
+    <td>Precios & Costos</td>
+    <td>Contratos mensuales flexibles tipo SaaS/Leasing, con servicios premium opcionales.</td>
+    <td>Pago por equipo alquilado según tiempo de uso.</td>
+    <td>Cuotas fijas mensuales de arrendamiento.</td>
+    <td>Contratos internacionales con costos altos, orientados a corporativos.</td>
+  </tr>
+  <tr>
+    <td>Canales de distribución (Web/Móvil)</td>
+    <td>Plataforma web con panel de clientes y módulo administrativo interno.</td>
+    <td>Página web y atención directa a empresas.</td>
+    <td>Página web y acuerdos directos con empresas.</td>
+    <td>Plataforma MyCSI (web) y acuerdos globales.</td>
+  </tr>
+
+  <!-- ANÁLISIS SWOT -->
+  <tr>
+    <td rowspan="4"><b>Análisis SWOT</b></td>
+    <td>Fortalezas</td>
+    <td>Flexibilidad, servicio integral, foco en educación y pymes.</td>
+    <td>Rapidez de atención y flexibilidad de corto plazo.</td>
+    <td>Contratos estables y experiencia en leasing corporativo.</td>
+    <td>Respaldo global, gestión avanzada de activos, seguridad de datos.</td>
+  </tr>
+  <tr>
+    <td>Debilidades</td>
+    <td>Nueva en el mercado, poco reconocimiento de marca.</td>
+    <td>Oferta limitada al simple alquiler de hardware.</td>
+    <td>Poca flexibilidad y personalización en los contratos.</td>
+    <td>Costos elevados, poco atractivo para pymes locales.</td>
+  </tr>
+  <tr>
+    <td>Oportunidades</td>
+    <td>Digitalización creciente en Perú, modernización tecnológica en educación y pymes.</td>
+    <td>Ampliar servicios hacia educación y startups.</td>
+    <td>Creciente digitalización del mercado peruano.</td>
+    <td>Adaptar modelos más flexibles para pymes en Perú.</td>
+  </tr>
+  <tr>
+    <td>Amenazas</td>
+    <td>Competencia internacional consolidada, resistencia cultural al leasing.</td>
+    <td>Competidores con propuestas más completas.</td>
+    <td>Startups ágiles que ofrezcan leasing más flexible.</td>
+    <td>Regulaciones locales y percepción de costos excesivos.</td>
+  </tr>
+</table>
+
+</div>
+
 ## 2.1.2. Estrategias y tácticas frente a competidores
+
+Para competir de manera efectiva en el mercado de leasing tecnológico en el Perú, Smart Leasing implementará una serie de **estrategias** y **tácticas** orientadas a consolidar su posicionamiento, maximizar su alcance y diferenciarse de sus principales competidores (**HardRental Perú, Thuntech y CSI Leasing Perú**).
+
+### **Estrategias**
+
+1. **Enfoque en Pymes y Educación**  
+   Smart Leasing priorizará pequeñas y medianas empresas (Pymes) e instituciones educativas, sectores con alta necesidad de modernización tecnológica pero sin presupuestos robustos.
+2. **Modelo Integral de Smart Leasing**  
+   Leasing + soporte + mantenimiento + gestión de garantías + upgrades bajo demanda.
+3. **Flexibilidad Contractual**  
+   Contratos cortos y adaptables (desde 12 meses), frente a los plazos rígidos de otros competidores.
+4. **Educación y Confianza en el Leasing**  
+   Campañas educativas, webinars y casos de éxito para superar la resistencia cultural al modelo.
+5. **Alianzas Estratégicas con Proveedores Locales**  
+   Convenios con distribuidores de hardware, software y servicios TI para competir con el alcance internacional de CSI Leasing.
+
+### **Tácticas**
+
+- Pilotos gratuitos o con descuento para empresas interesadas.
+- Contratos escalables (ej. empezar con 10 equipos y crecer).
+- Panel digital con **dashboard financiero** para mostrar ahorros en tiempo real.
+- Soporte técnico diferenciado **24/7**.
+- Campañas digitales segmentadas en LinkedIn, Google Ads y redes sociales.
+- Casos de éxito documentados en empresas y colegios peruanos.
+- Garantía de **renovación tecnológica cada 18–24 meses**.
 
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
 
-Este cuestionario está diseñado para levantar información de los segmentos objetivo de **PcPedia**: **Empresas** e **Instituciones educativas**.  
-Las preguntas fueron refinadas para identificar **problemas reales, cuellos de botella y necesidades**, alineados al contexto de gestión de contratos, equipos tecnológicos y soporte TI.
+**Segmento objetivo 1: Empresas**
 
----
+- **Gestión de contrato**
 
-##  Segmento objetivo 1: Empresas
+1. ¿Cómo llevan el control de los contratos de los equipos tecnológicos?
+2. Actualmente ¿Qué herramientas usan para la gestión de los contratos?
+3. ¿Como acceden a dicha información de los contratos? (Excel, docx, papel)
 
-###  Gestión de contratos
-- ¿Cómo gestionan actualmente los contratos de equipos tecnológicos?  
-- ¿Qué herramientas usan? (Excel, software especializado, papel, etc.)  
-- ¿Cómo acceden y almacenan esta información?  
+- **Verificación de procesos**
 
-###  Verificación de procesos
-- ¿Cómo verifican el cumplimiento de los servicios contratados (mantenimiento, upgrades, soporte)?  
-- ¿En qué momentos suelen revisar los contratos (renovación, mantenimiento, auditorías)?  
-- ¿Qué problemas han tenido por no llevar un buen control contractual?  
-- ¿Cómo registran el historial de mantenimiento y soporte?  
-- ¿Cuál es su proceso actual para pedir soporte técnico y cuánto suele demorar?  
+4. ¿Cómo verifican el cumplimiento de los servicios contratados? (Software, mantenimiento, upgrades, etc.)
+5. ¿Con qué frecuencia revisa los términos del contrato? ¿Cuánta relevancia le da?
+6. ¿Cómo conservan el historial de mantenimiento?
+7. ¿Cuál es el proceso para pedir soporte técnico? ¿Cuánto demora?
 
-###  Comunicación y presupuesto
-- ¿Qué canales de comunicación usan con sus contratistas o proveedores de TI?  
-- ¿Cómo manejan los presupuestos y pagos de contratos y mantenimiento?  
+- **Comunicación y presupuesto**
 
-###  Satisfacción y expectativas
-- ¿Qué tan satisfechos están con las prácticas actuales de gestión de contratos?  
-- ¿Qué funcionalidades les gustaría tener en una plataforma que centralice todo esto?  
+8. ¿Qué canales de comunicación usa para hacer los contratos y comunicarse con el contratista?
+9. ¿Como manejan los presupuestos de sus equipos y servicios de mantenimiento?
 
----
+- **Satisfacción**
 
-##  Segmento objetivo 2: Instituciones educativas
+10. ¿Qué tan satisfecho se encuentra con las medidas que actualmente usa para la gestión de los contratos?
 
-###  Gestión de equipos y contratos
-- ¿Cómo llevan el inventario de equipos tecnológicos?  
-- ¿Qué herramientas usan para controlar la vigencia de contratos?  
-- ¿Qué dificultades enfrentan al comprar equipos o renovar contratos?  
-- ¿Qué problemas tienen al buscar información contractual?  
-- ¿Qué pasos deben seguir para contratar, renovar o cancelar contratos?  
-- ¿Existen políticas internas o procesos burocráticos que retrasen estas gestiones?  
-- ¿Cómo afecta la gestión de contratos y equipos al dictado de clases o actividades académicas?  
+**Segmento objetivo 2: Instituciones educativas**
 
-###  Soporte y mantenimiento
-- ¿Con qué frecuencia enfrentan problemas técnicos en los equipos?  
-- ¿Qué procesos siguen para solucionarlos?  
-- ¿Cómo coordinan con su proveedor de TI las reparaciones o mantenimientos?  
+- **Gestión de equipos y contratos**
 
-###  Presupuesto y comunicación
-- ¿Cómo obtienen información sobre costos de equipos y servicios TI?  
-- ¿Cómo controlan facturas y pagos de estos servicios?  
-- ¿Han tenido experiencias negativas con proveedores de TI? ¿Cuáles?  
+1. ¿Cómo llevan registro del inventario de los equipos tecnológicos?
+2. ¿Qué herramientas usa para controlar los contratos y ver su estado de vigencia?
+3. ¿Qué dificultades enfrenta al momento de comprar un equipo?
+4. Actualmente ¿Qué problemas presenta al buscar información de los contratos?
+5. ¿Qué procesos tienen que pasar para la contratación, renovación o cancelación de los contratos?
 
-###  Satisfacción y expectativas
-- ¿Qué tan satisfechos están con los procesos actuales de gestión de equipos y contratos?  
-- ¿Qué cambios o mejoras les gustaría ver? 
+- **Soporte y mantenimiento**
+
+6. ¿Con qué frecuencia tienen problemas técnicos?
+7. Cuando se presentan dichos problemas ¿Qué procesos suceden para solucionar el problema?
+8. ¿Cómo se comunican con su proveedor de TI para coordinar reparaciones o mantenimientos de los equipos?
+
+- **Respecto al presupuesto**
+
+9. Actualmente ¿Qué medios usa para comunicarse y encontrar contratos?
+10. ¿Cómo obtiene información sobre los costos de los equipos y servicios TI?
+11. ¿Cómo controla las facturas y pagos al proveedor de los equipos de tecnología?
+
+- **Satisfacción**
+
+12. ¿Cuál es su nivel de satisfacción con los procesos actuales, respecto a la gestión de contratos y equipos TI?
 
 ### 2.2.2. Registro de entrevistas
 
+Sector 1: Empresas
+
+Entrevista 1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c996_upc_edu_pe/EWyPqHwq8ytFk0N_SQ-fNE4B-alpLDQrpDIi8Ew5h76iLA?e=bGrqa2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Entrevista 2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c996_upc_edu_pe/EX6JGgjKVRpDqRnGsSmuHI0BW4YvMS9JmuiqSS9W6gFuoQ?e=7egtCv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Entrevista 3: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c996_upc_edu_pe/EdfTLQJ-tXxAu4BRPaYVbfQBzbuharjGDN5G7Dy5zj3Yrg?e=mc1hZj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Sector 2: Sector Educativo
+
+Entrevista 1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c996_upc_edu_pe/EbhdZiD5MHVKk77PNiA09p4BVqpHBVpNQ2OtCsMNvAgnGw?e=RAMMex&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Entrevista 2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c996_upc_edu_pe/EQ8j2xFR8R9BivyEeXpBMXEBd_zudM9QoMEzeumBKOX0Kg?e=thpoX3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Entrevista 3:https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c996_upc_edu_pe/EQ8j2xFR8R9BivyEeXpBMXEBd_zudM9QoMEzeumBKOX0Kg?e=thpoX3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 ### 2.2.3. Análisis de entrevistas
+
+<h3>Hallazgos principales</h3>
+<ul>
+<li><strong>Gestión de contratos y documentación:</strong> uso de OneDrive/Drive; aún se manejan copias físicas. Empresas grandes usan integraciones con SharePoint.</li>
+<li><strong>Procesos y dificultades:</strong> microempresas con procesos lentos y desordenados; empresas grandes con procesos ágiles y claros.</li>
+<li><strong>Soporte y mantenimiento:</strong> microempresas con demoras y mala comunicación; grandes con soporte interno y escalamiento eficiente.</li>
+<li><strong>Comunicación con proveedores:</strong> correo, WhatsApp y llamadas; en microempresas predomina la informalidad.</li>
+<li><strong>Nivel de satisfacción:</strong> alto en empresas grandes, bajo en microempresas.</li>
+</ul>
+
+<h2>3. Comparativo Educativo vs Empresarial</h2>
+<table>
+<thead>
+<tr>
+<th>Aspecto</th>
+<th>Sector Educativo</th>
+<th>Sector Empresarial</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Gestión de contratos</td>
+<td>Dispersa (físico + digital). Uso de RPE, SharePoint, OneDrive.</td>
+<td>Drive/OneDrive en microempresas; SharePoint en grandes.</td>
+</tr>
+<tr>
+<td>Procesos</td>
+<td>Burocráticos, lentos en compras y renovaciones.</td>
+<td>Microempresas lentos/desordenados; grandes más ágiles.</td>
+</tr>
+<tr>
+<td>Mantenimiento</td>
+<td>Incidencias moderadas, gestionadas con tickets.</td>
+<td>Microempresas con problemas de soporte; grandes con control interno.</td>
+</tr>
+<tr>
+<td>Comunicación</td>
+<td>Principalmente formal (correo, tickets).</td>
+<td>Mixto: correo, WhatsApp, llamadas; informalidad en microempresas.</td>
+</tr>
+<tr>
+<td>Satisfacción</td>
+<td>Media: procesos funcionan pero con burocracia.</td>
+<td>Alta en grandes, baja en microempresas.</td>
+</tr>
+</tbody>
+</table>
+
+<div class="conclusion">
+<h3>Conclusiones y Oportunidades</h3>
+<p>Existe una necesidad común de <strong>centralizar y digitalizar</strong> los procesos de inventario, contratos y soporte. En el sector educativo, se prioriza reducir la burocracia y agilizar compras. En el sector empresarial, las microempresas requieren soluciones básicas y fáciles de implementar, mientras que las grandes buscan mejorar la integración y eficiencia de sus sistemas ya existentes.</p>
+</div>
 
 ### 2.3. Needfinding
 
+A partir de las entrevistas realizadas en los sectores educativo y empresarial, se identificaron las siguientes necesidades principales:
+
+Centralización de la información
+Tanto en instituciones educativas como en empresas, la gestión de inventarios, contratos y mantenimientos se encuentra fragmentada entre documentos físicos, hojas de cálculo y repositorios digitales. Existe la necesidad de una plataforma unificada que integre inventario, contratos y soporte en un solo lugar.
+
+Agilidad en los procesos de compras y renovaciones
+El sector educativo resalta la burocracia y las demoras en aprobaciones de compras. Se requiere un sistema que reduzca tiempos de cotización y validación, agilizando las decisiones de adquisición o leasing de equipos.
+
+Gestión más eficiente del mantenimiento
+En el sector empresarial, especialmente en microempresas, los procesos de soporte son lentos, desordenados y poco confiables. Se necesita un mecanismo ágil para registrar incidencias, coordinar técnicos y dar seguimiento con trazabilidad clara.
+
+Mejor comunicación con proveedores
+Si bien se usan correos y WhatsApp, los entrevistados expresan la necesidad de contar con canales más formales, integrados a los sistemas de gestión, para garantizar rapidez y respaldo en la comunicación.
+
+Optimización del presupuesto y control de gastos
+Varias organizaciones reconocen que los imprevistos y la falta de herramientas para planificación generan sobrecostos. Se necesita un módulo de control presupuestal y de facturación que permita prever gastos y registrar pagos de manera ordenada.
+
+Nivel de satisfacción y expectativas
+
+En el sector educativo: satisfacción intermedia; los procesos funcionan, pero se busca mayor agilidad.
+
+En microempresas: insatisfacción por la falta de control y eficiencia.
+
+En empresas grandes: satisfacción alta, aunque esperan mayor integración tecnológica.
+
+Conclusión del Needfinding:
+Existe una necesidad transversal de digitalización integral y centralización de procesos, acompañada de funcionalidades que reduzcan burocracia, optimicen la comunicación con proveedores y brinden control financiero. La solución ideal debe adaptarse tanto a microempresas (simplicidad y facilidad de adopción) como a instituciones educativas y empresas grandes (integración avanzada y escalabilidad).
+
 ### 2.3.1. User Personas
+
+**Segmento objetivo 1:** Empresas (pequeñas, medianas y grandes)
+
+![user persona 1.png](/assets/chapter2/user_persona_1.png)
+
+**Segmento objetivo 2:** Instituciones Educativas (universidades, colegios, escuelas, institutos)
+
+![user persona 2.png](/assets/chapter2/user_persona_2.png)
 
 ### 2.3.2. User Task Matrix
 
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2">Actividades</th>
+      <th colspan="2">Rodrigo Zevallos (Empresas)</th>
+      <th colspan="2">Carmen Paredes (Instituciones educativas)</th>
+    </tr>
+    <tr>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Registrar cuenta en la plataforma</td>
+      <td>Una vez</td>
+      <td>Muy alta</td>
+      <td>Una vez</td>
+      <td>Muy alta</td>
+    </tr>
+    <tr>
+      <td>Conocer información de equipos</td>
+      <td>Rara vez</td>
+      <td>Muy alta</td>
+      <td>Usualmente</td>
+      <td>Muy alta</td>
+    </tr>
+    <tr>
+      <td>Visualizar la disponibilidad de los equipos</td>
+      <td>Rara vez</td>
+      <td>Alta</td>
+      <td>Rara vez</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Aprender del uso de la plataforma</td>
+      <td>Rara vez</td>
+      <td>Media</td>
+      <td>Rara vez</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Escribir reseñas sobre el servicio</td>
+      <td>Rara vez</td>
+      <td>Baja</td>
+      <td>Rara vez</td>
+      <td>Baja</td>
+    </tr>
+    <tr>
+      <td>Reportar inconvenientes con el servicio</td>
+      <td>Rara vez</td>
+      <td>Alta</td>
+      <td>Usualmente</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Acordar de auditorías</td>
+      <td>Una vez</td>
+      <td>Alta</td>
+      <td>Una vez</td>
+      <td>Muy alta</td>
+    </tr>
+    <tr>
+      <td>Solicitar servicio técnico</td>
+      <td>Rara vez</td>
+      <td>Alta</td>
+      <td>Usualmente</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Realizar pago del servicio</td>
+      <td>Siempre</td>
+      <td>Muy alta</td>
+      <td>Siempre</td>
+      <td>Muy alta</td>
+    </tr>
+  </tbody>
+</table>
+
 ### 2.3.3. User Journey Mapping
+
+**Segmento objetivo 1:** Empresas (pequeñas, medianas y grandes)
+
+![user journey_mapping_1.png](/assets/chapter2/user_journey_mapping_1.png)
+
+**Segmento objetivo 2:** Instituciones Educativas (universidades, colegios, escuelas, institutos)
+
+![user journey_mapping_2.png](/assets/chapter2/user_journey_mapping_2.png)
 
 ### 2.3.4. Empathy Mapping
 
 **Segmento objetivo 1:** Empresas (pequeñas, medianas y grandes)
 
-En esta sección se utiliza la herramienta del **Mapa de Empatía** para profundizar en los sentimientos, pensamientos y comportamientos de los usuarios de nuestros segmentos objetivo.  
-
-El objetivo es **comprender cómo viven los usuarios la situación problemática** (falta de confianza en servicios de arrendamiento, dificultad para gestionar contratos y equipos tecnológicos, problemas con proveedores poco confiables).  
-
-De esta manera podemos identificar no solo lo que dicen, sino también lo que **sienten, escuchan, ven y hacen** en torno a su experiencia con el servicio actual.
-
----
-
-![user_empathy_mapping 1.png](/assets/chapter2/user_journey_mapping_1.png)
-
-En esta imagen se analizan los sentimientos y la situación del usuario que representa al segmento de **empresas**. De este cuadro, se concluye que el usuario valora principalmente la **seguridad y confiabilidad** al momento de contratar servicios de arrendamiento de equipos tecnológicos. Actualmente experimenta **desesperación, desconfianza y presión** porque los proveedores disponibles no cumplen con las expectativas y suelen entregar equipos con fallas.  
-
-El usuario observa cómo otras compañías buscan proveedores más confiables y transparentes, lo que refuerza su percepción de estar en desventaja. Finalmente, aspira a contar con una plataforma que le permita **gestionar contratos de manera centralizada**, garantizar un soporte ágil y reducir los riesgos en la operación de su empresa.  
-
----
+![empathy_mapping 1.png](/assets/chapter2/empathy_mapping_1.png)
 
 **Segmento objetivo 2:** Instituciones Educativas (universidades, colegios, escuelas, institutos)
 
-![user_empathy_mapping 2.png](/assets/chapter2/user_journey_mapping_2.png)
-
-En esta imagen se analizan los sentimientos y la situación del usuario que representa al segmento de **instituciones educativas**. De este cuadro, se concluye que la usuaria valora la **modernización de sus aulas** para brindar a estudiantes y docentes un ambiente de aprendizaje dinámico y confiable. Sin embargo, siente **preocupación, desconfianza y presión** al notar que otras instituciones ya cuentan con equipos actualizados, mientras que ella enfrenta limitaciones presupuestales y proveedores poco confiables.  
-
-La usuaria observa cómo otras escuelas acceden a servicios de mayor calidad, lo que genera frustración y la sensación de quedarse atrás. Finalmente, aspira a tener un **sistema sencillo y transparente** que le permita **gestionar contratos, coordinar mantenimientos oportunos y optimizar el presupuesto institucional**, garantizando así un impacto positivo en la calidad educativa.  
-
----
+![empathy_mapping 2.png](/assets/chapter2/empathy_mapping_2.png)
 
 ### 2.4. Big Picture Event Storming
 
+Big Picture Event Storming es una técnica de modelado que busca ofrecer una "visión panorámica" de un software, señalando las piezas claves del negocio, identificar problemas y organizar la estructura básica de la gestión en una cronología. Para llevarlas a cabo, nuestro grupo tuvo reuniones virtuales para diálogar sobre eventos, objetos y la ubicación de estos, con respecto al negocio.
+
+A continuación, presentaremos los pasos que ejecutamos para llevar acabo la técnica Big Picture:
+
+**a. Unstructured Exploration**
+
+La exploración sin estructura consiste en exponer todo lo relacionado al negocio, sin tener una estructura definida. Para este caso, decidimos aceptar toda propuesta lanzada por los miembros del desarrollo, luego de un tiempo, fue actualizado conservando lo que se considero más pertinente.
+
+![UnstructuredExploration.png](/assets/chapter2/UnstructuredExploration.png)
+
+Dentro podemos ver eventos, acciones del usuario, acciones de los miembros del negocio y sistemas externos como los métodos de pago que se usarían en nuestro negocio.
+
+**b. Cronology**
+
+En la cronología, se ordenaron los elementos del negocio, según la manera que consideramos serían llamados.
+
+![Cronology.png](/assets/chapter2/Chronology.png)
+
+**c. Events**
+
+Separamos los eventos de los demás elementos para llevar mejor control en los siguientes pasos.
+
+![Events.png](/assets/chapter2/Events.png)
+
+**d. Pain points**
+
+Añadimos los puntos de dolor que consideramos que el cliente/usuario pueda experimentar con el uso del sistema
+
+![PainPoints.png](/assets/chapter2/PainPoints.png)
+
+**e. Bounded Context**
+
+Seccionamos los elementos del negocio, en este caso por gestionamientos del negocio.
+
+![BoundedContext-BPES.png](/assets/chapter2/BoundedContext-BPES.png)
+
+Una observación que podemos realizar es que los modelos presentados son prototipos planteados usando las técnicas de Big Picture Event Storming. Por ello, son diseños que podrán ser mejorados en los siguientes capítulos.
+
 ### 2.5. Ubiquitous Language
+
+- Cliente: persona, empresa o institución que requiere de equipamiento TI.
+- Contrato: documento digital que establece condiciones de arrendamiento o de compra.
+- Equipo: objeto técnologico (computadora, servidor, IoT, etc.) que forma parte de nuestro inventario y que el cliente requiere
+- Inventario: ubicación física donde los equipos son guardados hasta el proceso de venta o arrendamiento.
+- Incidencia: problema o requerimiento técnico que tiene el cliente.
+- Mantenimiento: acciones preventivas realizadas por el equipo de soporte y solicitada por el cliente.
+- Equipo de negocio: grupo encargado de la gestión de negocio, desde administración de usuarios, equipo de ventas, equipo de logística y soporte al cliente.
 
 # Capítulo III: Requirements Specification
 
@@ -895,21 +1325,21 @@ La usuaria observa cómo otras escuelas acceden a servicios de mayor calidad, lo
 
 **Tipografía**
 
-| Uso | Fuente | Ejemplo visual |
-|-----|--------|----------------|
-| Encabezados (H1, H2) | **Anton** | TÍTULO PRINCIPAL |
-| Subtítulos / Botones | **Antonio** | Subtítulo / Acción |
-| Texto general | Sans Serif del sistema | Texto de párrafo estándar |
+| Uso                  | Fuente                 | Ejemplo visual            |
+| -------------------- | ---------------------- | ------------------------- |
+| Encabezados (H1, H2) | **Anton**              | TÍTULO PRINCIPAL          |
+| Subtítulos / Botones | **Antonio**            | Subtítulo / Acción        |
+| Texto general        | Sans Serif del sistema | Texto de párrafo estándar |
 
 **Paleta de Colores**
 
-| Color | Hex | Uso |
-|--------|------|-----|
-| Azul principal | `#1A3458` | Headers, barra de navegación, botones primarios |
-| Azul base claro | `#F2F6FF` | Fondos generales, secciones amplias, cards |
-| Negro | `#000000` | Texto sobre fondos claros |
-| Blanco | `#FFFFFF` | Texto sobre fondos oscuros, íconos |
-| Escala de grises | `#333333` ‒ `#DDDDDD` | Wireframes, bordes, placeholders |
+| Color            | Hex                   | Uso                                             |
+| ---------------- | --------------------- | ----------------------------------------------- |
+| Azul principal   | `#1A3458`             | Headers, barra de navegación, botones primarios |
+| Azul base claro  | `#F2F6FF`             | Fondos generales, secciones amplias, cards      |
+| Negro            | `#000000`             | Texto sobre fondos claros                       |
+| Blanco           | `#FFFFFF`             | Texto sobre fondos oscuros, íconos              |
+| Escala de grises | `#333333` ‒ `#DDDDDD` | Wireframes, bordes, placeholders                |
 
 **Espaciado y consistencia**
 
@@ -923,14 +1353,14 @@ La usuaria observa cómo otras escuelas acceden a servicios de mayor calidad, lo
 
 **Componentes principales**
 
-| Componente | Estilo visual |
-|------------|----------------|
-| Botón primario | Fondo `#1A3458`, texto `#FFFFFF`, borde redondeado 8 px |
-| Botón secundario | Fondo `#F2F6FF`, texto `#1A3458` |
-| Enlace | Texto `#1A3458`, subrayado al pasar el cursor |
-| Tarjeta (Card) | Fondo `#F2F6FF`, título en Anton, contenido en negro, sombra ligera |
-| Barra de navegación | Fondo `#1A3458`, texto y logo en blanco |
-| Footer | Fondo gris oscuro (`#333333`), texto en blanco |
+| Componente          | Estilo visual                                                       |
+| ------------------- | ------------------------------------------------------------------- |
+| Botón primario      | Fondo `#1A3458`, texto `#FFFFFF`, borde redondeado 8 px             |
+| Botón secundario    | Fondo `#F2F6FF`, texto `#1A3458`                                    |
+| Enlace              | Texto `#1A3458`, subrayado al pasar el cursor                       |
+| Tarjeta (Card)      | Fondo `#F2F6FF`, título en Anton, contenido en negro, sombra ligera |
+| Barra de navegación | Fondo `#1A3458`, texto y logo en blanco                             |
+| Footer              | Fondo gris oscuro (`#333333`), texto en blanco                      |
 
 **Accesibilidad**
 
@@ -944,7 +1374,7 @@ La usuaria observa cómo otras escuelas acceden a servicios de mayor calidad, lo
 
 ### 4.2.1. Organization Systems
 
-En esta sección se definen los sistemas de organización que permitirán estructurar y etiquetar el contenido de manera que resulte comprensible y fácil de encontrar para los usuarios. La organización de la información en *PcPedia* busca adaptarse a las necesidades tanto de estudiantes de ingeniería, técnicos de soporte como de usuarios entusiastas de hardware.
+En esta sección se definen los sistemas de organización que permitirán estructurar y etiquetar el contenido de manera que resulte comprensible y fácil de encontrar para los usuarios. La organización de la información en _PcPedia_ busca adaptarse a las necesidades tanto de estudiantes de ingeniería, técnicos de soporte como de usuarios entusiastas de hardware.
 
 **Jerarquía de contenido:**  
 Se aplica una jerarquía visual que da prioridad a los componentes principales que los usuarios buscan con mayor frecuencia. Las secciones destacadas en la interfaz incluyen categorías como Procesadores, Tarjetas Gráficas, Memorias RAM, Almacenamiento, Placas Base y Periféricos. Cada categoría cuenta con subcategorías; por ejemplo, dentro de Procesadores, se diferencian líneas como Intel Core i3, i5, i7 e i9, así como AMD Ryzen 5, 7 y 9. Esta jerarquía ayuda al usuario a identificar rápidamente dónde debe dirigirse según su necesidad.
@@ -959,7 +1389,7 @@ Se complementa con un menú y estructura de navegación que permiten combinar di
 
 ### 4.2.2. Labeling Systems
 
-En *PcPedia*, los sistemas de etiquetado son fundamentales para asegurar claridad y consistencia en la experiencia de navegación. Todas las secciones utilizan labels simples y familiares para la audiencia: “Procesadores”, “Tarjetas Gráficas”, “Almacenamiento” y “Comparador” se ubican en el menú superior, evitando términos técnicos confusos o redundantes.
+En _PcPedia_, los sistemas de etiquetado son fundamentales para asegurar claridad y consistencia en la experiencia de navegación. Todas las secciones utilizan labels simples y familiares para la audiencia: “Procesadores”, “Tarjetas Gráficas”, “Almacenamiento” y “Comparador” se ubican en el menú superior, evitando términos técnicos confusos o redundantes.
 
 Cada ficha de producto incluye etiquetas técnicas claras como “Frecuencia (GHz)”, “Número de núcleos”, “VRAM” o “Tipo de memoria”. Estas etiquetas permiten que tanto un usuario novato como un experto comprendan la información sin ambigüedades. Asimismo, los botones de acción presentan mensajes directos como “Comparar”, “Ver más” o “Agregar a favoritos”, reforzando la orientación en cada paso.
 
@@ -969,21 +1399,21 @@ Gracias a este sistema, el usuario puede navegar de manera fluida y sin necesida
 
 ### 4.2.3. SEO Tags and Meta Tags
 
-La plataforma *PcPedia* incorpora metaetiquetas que mejoran su posicionamiento en motores de búsqueda y aseguran que la información se interprete correctamente en navegadores.
+La plataforma _PcPedia_ incorpora metaetiquetas que mejoran su posicionamiento en motores de búsqueda y aseguran que la información se interprete correctamente en navegadores.
 
-- **Title:** cada página cuenta con un título descriptivo, por ejemplo: *“PcPedia – Comparador de Procesadores y Hardware de PC”*.
+- **Title:** cada página cuenta con un título descriptivo, por ejemplo: _“PcPedia – Comparador de Procesadores y Hardware de PC”_.
 - **Codificación de caracteres:** se utiliza UTF-8 para mostrar adecuadamente caracteres especiales y símbolos técnicos.
-- **Description:** cada página integra un resumen breve y atractivo, como *“Encuentra y compara procesadores Intel y AMD con especificaciones actualizadas y comparaciones en tiempo real”*.
+- **Description:** cada página integra un resumen breve y atractivo, como _“Encuentra y compara procesadores Intel y AMD con especificaciones actualizadas y comparaciones en tiempo real”_.
 - **Keywords:** se incluyen términos clave como “procesadores”, “tarjetas gráficas”, “comparador de hardware” para mejorar la indexación.
 - **Author y Copyright:** detallan el equipo desarrollador y derechos reservados.
 
-Estas prácticas garantizan que *PcPedia* sea visible en búsquedas relevantes y transmita confianza a sus usuarios desde el primer contacto.
+Estas prácticas garantizan que _PcPedia_ sea visible en búsquedas relevantes y transmita confianza a sus usuarios desde el primer contacto.
 
 ---
 
 ### 4.2.4. Searching Systems
 
-Uno de los aspectos más relevantes de *PcPedia* es la capacidad de localizar rápidamente componentes específicos dentro de un catálogo amplio. Para ello, se ha diseñado un sistema de búsqueda con varias funcionalidades:
+Uno de los aspectos más relevantes de _PcPedia_ es la capacidad de localizar rápidamente componentes específicos dentro de un catálogo amplio. Para ello, se ha diseñado un sistema de búsqueda con varias funcionalidades:
 
 - **Barra de búsqueda global:** permite ingresar directamente el nombre del componente (ej. “Ryzen 7 5800X”).
 - **Autocompletado con sugerencias:** mientras el usuario escribe, se despliegan coincidencias relevantes como modelos y marcas.
@@ -997,7 +1427,7 @@ Este sistema asegura que los usuarios no pierdan tiempo navegando por múltiples
 
 ### 4.2.5. Navigation Systems
 
-La navegación en *PcPedia* está diseñada para ser clara, responsiva y adaptada a distintos dispositivos. El menú principal superior incluye accesos a las secciones más relevantes: Inicio, Categorías, Comparador, Noticias y Ayuda. Esta estructura permite un acceso rápido a las funciones esenciales sin saturar al usuario.
+La navegación en _PcPedia_ está diseñada para ser clara, responsiva y adaptada a distintos dispositivos. El menú principal superior incluye accesos a las secciones más relevantes: Inicio, Categorías, Comparador, Noticias y Ayuda. Esta estructura permite un acceso rápido a las funciones esenciales sin saturar al usuario.
 
 En categorías extensas, se incluyen **submenús desplegables** y **breadcrumbs (migas de pan)** que indican la ruta actual del usuario (ej. Inicio > Tarjetas Gráficas > NVIDIA). Esto ayuda a que siempre sepan dónde se encuentran dentro de la jerarquía.
 
@@ -1014,7 +1444,6 @@ Finalmente, los botones de acción (ej. “Comparar ahora”, “Agregar a favor
 Los wireframes son representaciones de baja fidelidad que muestran la estructura y disposición de los elementos principales de la aplicación web.
 
 A continuación, presentaremos los wireframe de nuestra landing page como guía del diseño que haremos en los siguientes paso:
-
 
 - Captura 1
 
@@ -1062,7 +1491,6 @@ Este mock-up refleja la versión estilizada que un usuario final verá al ingres
 
 Para más detalle, revisar el anexo 1.
 
-
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
@@ -1081,7 +1509,7 @@ En primer lugar, mostraremos los elementos que se podran encontrar en nuestra we
 - Vista de contratos listados como tarjetas.
 - Perfil Avatar Datos Configuración
 - Página de perfil con información y opciones de configuración.
-- Partners Novedades 
+- Partners Novedades
 - Sección de socios y novedades corporativas.
 
 **Vista 1**
@@ -1109,7 +1537,6 @@ En primer lugar, mostraremos los elementos que se podran encontrar en nuestra we
 ![WireframeWeb6.png](/Assets/Chapter4/WireframeWeb6.png)
 
 Para más detalle, revisar el anexo 1.
-
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
@@ -1155,7 +1582,7 @@ Finalmente, presentamos el modelo de alta fidelidad de nuestra pagina web:
 
 El prototipo de la aplicación web adjunta la representación visual anteriomente mostrada y la vuelve interactiva, pero sin tener código real detrás.
 
-Para este proyecto, usamos figma para hacer el prototipo de la aplicación web. Véase el anexo 2 para mayor información. 
+Para este proyecto, usamos figma para hacer el prototipo de la aplicación web. Véase el anexo 2 para mayor información.
 
 ## 4.6. Domain-Driven Software Architecture
 
@@ -1301,20 +1728,20 @@ En esta sección, se incluirá los productos de software que se usaron en el pro
 
 #### Product UX/UI Design:
 
-* Figma: Herramienta de diseño colaborativo para crear prototipos, wireframes y diseños de interfaces de usuario.
-* Canva: Plataforma de diseño colaborativo de funcion múltiple.
-* Visual Paradigm: Herramienta de modelado UML y diseño de software.
-* PlantText: Herramienta de modela UML.
+- Figma: Herramienta de diseño colaborativo para crear prototipos, wireframes y diseños de interfaces de usuario.
+- Canva: Plataforma de diseño colaborativo de funcion múltiple.
+- Visual Paradigm: Herramienta de modelado UML y diseño de software.
+- PlantText: Herramienta de modela UML.
 
 #### Software Development:
 
-* WebStorm: IDE para desarrollo web, soporta HTML, CSS, JavaScript y frameworks modernos.
-* GitHub: Plataforma de alojamiento de código fuente y control de versiones utilizando Git.
-* Visual Studio Code: Editor utilizado únicamente para la exportación del reporte de formato markdown a PDF.
+- WebStorm: IDE para desarrollo web, soporta HTML, CSS, JavaScript y frameworks modernos.
+- GitHub: Plataforma de alojamiento de código fuente y control de versiones utilizando Git.
+- Visual Studio Code: Editor utilizado únicamente para la exportación del reporte de formato markdown a PDF.
 
 #### Software Deployment:
 
-* GitHub Pages: Servicio de alojamiento web estático proporcionado por GitHub, ideal para desplegar sitios web y documentación.
+- GitHub Pages: Servicio de alojamiento web estático proporcionado por GitHub, ideal para desplegar sitios web y documentación.
 
 ### 5.1.2. Source Code Management
 
@@ -1322,19 +1749,19 @@ Para la gestion del código fuente se utilizó GitHub, una plataforma de alojami
 
 El repositorio se estructuró de la siguiente manera:
 
-* Organización en Github: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia
-* Repositorio del informe final: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Report-PcPedia
-* Repositorio de la Landing Page: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/LandingPage
+- Organización en Github: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia
+- Repositorio del informe final: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Report-PcPedia
+- Repositorio de la Landing Page: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/LandingPage
 
 #### Conventional Commits
 
-* `feat`: Para nuevas características o funcionalidades.
-* `fix`: Para correcciones de errores.
-* `docs`: Para cambios en la documentación.
-* `refactor`: Para cambios en el código que no agregan ni corrigen funcionalidades.
-* `add`: Para la adición de archivos, recursos o contenido nuevo (ej. imágenes, configs, assets).
-* `update`: Para modificaciones o mejoras sobre algo ya existente (ej. actualizar imágenes, texto, librerías, dependencias).
-* `chore`: Estructuración de contenido
+- `feat`: Para nuevas características o funcionalidades.
+- `fix`: Para correcciones de errores.
+- `docs`: Para cambios en la documentación.
+- `refactor`: Para cambios en el código que no agregan ni corrigen funcionalidades.
+- `add`: Para la adición de archivos, recursos o contenido nuevo (ej. imágenes, configs, assets).
+- `update`: Para modificaciones o mejoras sobre algo ya existente (ej. actualizar imágenes, texto, librerías, dependencias).
+- `chore`: Estructuración de contenido
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
@@ -1342,26 +1769,26 @@ Se optó por seguir las siguientes guías y convenciones de estilo de código pa
 
 #### HTML:
 
-* Archivos HTML deben tener la extensión `.html`.
-* Se incluye `alt` en todas las imágenes.
-* Usar comillas dobles para atributos.
-* Usar etiquetas semánticas (`<header>`, `<nav>`, `<main>`, `<footer>`, etc.).
-* Indentación de 2 espacios.
+- Archivos HTML deben tener la extensión `.html`.
+- Se incluye `alt` en todas las imágenes.
+- Usar comillas dobles para atributos.
+- Usar etiquetas semánticas (`<header>`, `<nav>`, `<main>`, `<footer>`, etc.).
+- Indentación de 2 espacios.
 
 #### CSS:
 
-* Archivos CSS deben tener la extensión `.css`.
-* Usar guiones para nombres de clases y IDs (e.g., `.main-header`).
-* Se agrupan estilos relacionados y se separan con comentarios.
+- Archivos CSS deben tener la extensión `.css`.
+- Usar guiones para nombres de clases y IDs (e.g., `.main-header`).
+- Se agrupan estilos relacionados y se separan con comentarios.
 
 #### JavaScript y TypeScript:
 
-* Archivos JS deben tener la extensión `.js` y TS `.ts`.
-* Usar camelCase para nombres de variables y funciones.
-* Usar `PascalCase` para nombres de clases y componentes: `MyComponent`, `UserProfile`.
-* Usar `const` y `let` en lugar de `var`.
-* Usar funciones flecha y nombres explícitos.
-* Los archivos deben tener una unica responsabilidad (Single Responsibility Principle).
+- Archivos JS deben tener la extensión `.js` y TS `.ts`.
+- Usar camelCase para nombres de variables y funciones.
+- Usar `PascalCase` para nombres de clases y componentes: `MyComponent`, `UserProfile`.
+- Usar `const` y `let` en lugar de `var`.
+- Usar funciones flecha y nombres explícitos.
+- Los archivos deben tener una unica responsabilidad (Single Responsibility Principle).
 
 ### 5.1.4. Software Deployment Configuration
 
@@ -1527,7 +1954,6 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
   </table>
 </section>
 
-
 #### 5.2.1.3. Sprint Backlog 1
 
 <table>
@@ -1647,8 +2073,6 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
   </div>
 </section>
 
-
-
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
 <p>El avance del sprint se evidencia en el repositorio de GitHub donde se subieron los siguientes archivos:</p>
@@ -1667,8 +2091,6 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
     <img src="landing5.png" alt="Landing Page 5">
   </div>
 </section>
-
-
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -1701,8 +2123,8 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
 
 ## Conclusiones y recomendaciones
 
-<<<<<<< HEAD
-=======
+# <<<<<<< HEAD
+
 <p>
 Durante el Sprint 1 del proyecto PcPedia, se lograron avances significativos en el diseño de la landing page, wireframes y mockups de la aplicación web, así como en la definición de la arquitectura de información, guías de estilo y análisis de competidores. Esto permitió establecer una base sólida y coherente para el desarrollo del producto, alineada con las necesidades de los usuarios y los objetivos estratégicos de la startup EcatLeasing. Se recomienda continuar con la validación temprana de la interfaz mediante pruebas de usabilidad, integrar retroalimentación constante del equipo y de usuarios, priorizar funcionalidades críticas como registro de usuarios, panel de administración y comparador de equipos, mantener la documentación actualizada en GitHub y utilizar herramientas ágiles para seguimiento de tareas, asegurando una coordinación efectiva y la calidad técnica del desarrollo en los siguientes sprints.
 </p>
@@ -1762,5 +2184,3 @@ Durante el Sprint 1 del proyecto PcPedia, se lograron avances significativos en 
     </li>
  
 </section>
-
->>>>>>> c244249ee1f9b3b7f82b7c2256fd40dfff1a9c2f
