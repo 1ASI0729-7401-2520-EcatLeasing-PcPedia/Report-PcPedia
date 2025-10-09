@@ -22,15 +22,15 @@
 
 **Integrantes**:
 
-Retuerto Rodríguez, Jorge Manuel - u202318612
-Hernández Poma, Sebastián Eduardo - u20231c996
-Condori Lozano, Alessandro Ramiro - u20211a118
-Armestar Heredia, Matias Gabriel - u20221a553
-Bendezu Navarro, Rubens Fitzgerald - u20231d390
+Retuerto Rodríguez, Jorge Manuel - u202318612<br>
+Hernández Poma, Sebastián Eduardo - u20231c996<br>
+Condori Lozano, Alessandro Ramiro - u20211a118<br>
+Armestar Heredia, Matias Gabriel - u20221a553<br>
+Bendezu Navarro, Rubens Fitzgerald - u20231d390<br>
 
 </div>
 
-**Agosto del 2025**
+**Octubre del 2025**
 
 </div>
 
@@ -47,9 +47,16 @@ Bendezu Navarro, Rubens Fitzgerald - u20231d390
     <tr>
         <td colspan="3">1era</td>
         <td colspan="3">30/08/2025</td>
-        <td colspan="10"></td>
-        <td colspan="5"></td>
+        <td colspan="10">Retuerto Rodríguez, Jorge Manuel <br> Hernández Poma, Sebastián Eduardo <br> Condori Lozano, Alessandro Ramiro <br> Armestar Heredia, Matias Gabriel <br> Bendezu Navarro, Rubens Fitzgerald </td>
+        <td colspan="5">Revision y entrega de cada punto, cada estudiante se repartio 1 capitulo del informe, luego de haber terminado, fue visto y corregidor por cada integrante, esto ocurrio posterior a la revision del docente, con el proposito de mejorar el informe y poder entregar un informe de acuerdo a la rubrica</td>
     </tr>
+    <tr>
+        <td colspan="3">2da</td>
+        <td colspan="3">8/10/2025</td>
+        <td colspan="10">Retuerto Rodríguez, Jorge Manuel <br> Hernández Poma, Sebastián Eduardo <br> Condori Lozano, Alessandro Ramiro <br> Armestar Heredia, Matias Gabriel <br> Bendezu Navarro, Rubens Fitzgerald </td>
+        <td colspan="5">Revision de los capitulos para lograr una correccion optima, posterior avance del front-end y del capitulo V</td>
+    </tr>
+
 </table>
 
 ---
@@ -87,6 +94,31 @@ Se llevaron a cabo reuniones periódicas para coordinar el avance de los puntos 
 
 ---
 
+**Entrega N°2: TP1**
+<br>
+
+Para este avance se completo el capitulo V y el desarrollo del front end y se subio la evidencia en el repositorio de Github en los siguientes enlaces:
+
+URL del repositorio para el reporte del proyecto: (https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Report-PcPedia/tree/master)<br>
+URL del repositorio para el Landing Page: (https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Landing-Page-PcPedia)<br>
+URL del repositorio para el desarrollo del frontend web applications: (https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia)<br>
+
+Cada miembro del equipo realizo cambios y mejoras en sus respectivas ramas de acuerdo a la distribucion del proyecto para poder completar la entrega, posteriormente tuvimos una reunion en el cual corregiriamos ciertos detalles para poder asi cumplir correctamente con la entrega del proyecto.
+
+**Contributors Insights report:**
+![Commits-report-tp1]()
+
+**Contributors Insights landing page:**
+![Commits-report-landing-page]()
+
+**Network Insights report:**
+![Network-report-tp1]()
+
+**Network Insights report:** <br>
+![Network-landing-tp1]()
+
+---
+
 # Student Outcome
 
 El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - Student Outcome 3** <br> Criterio: _Capacidad de comunicarse efectivamente con un rango de audiencias._
@@ -100,14 +132,42 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         <th colspan="10">Conclusiones</th>
     <tr>
         <td colspan="3">Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
-        <td colspan="10">"Nombre" tb1: </td>
-        <td colspan="10">"conclusiones"</td>
+        <td colspan="10">
+            <b>TB1:</b><br>
+            Retuerto Rodríguez, Jorge Manuel: Se acordo la particion del trabajo y se realizo el desarrollo del mismo para poder completar correctamente esta entrega.<br>
+            Hernández Poma, Sebastián Eduardo: Previo acuerdo con el grupo se realizo el analisis del proyecto y se avanzo de manera colaborativa y con comunicacion eficiente para esta entrega.<br>
+            Condori Lozano, Alessandro Ramiro: Con el equipo se tomo la decision de poder avanzar en conjunto para la realizacion del proyecto.<br>
+            Armestar Heredia, Matias Gabriel: Despues de una reunion con el equipo y expresar nuestras opiniones, nos pusimos de acuerdo para poder avanzar dicho proyecto.<br>
+            Bendezu Navarro, Rubens Fitzgerald: Despues de ponernos de acuerdo con el desarrollo del reporte pudimos empezar correctamente a desarrollarlo para asi cumplir con los puntos que nos piden.<br>
+            <br><b>TP1:</b><br>
+            Retuerto Rodríguez, Jorge Manuel: Se realizo la correccion del capitulo IV previa coordinacion con todos mis compañeros para el correcto desarrollo de esta entrega posteriormente se acordo con el grupo en previa reunion el avance del front-end.<br>
+            Hernández Poma, Sebastián Eduardo: Se realizo la correccion del capitulo V previa coordinacion con el grupo ademas de poder implementar y desarrollar el front-end para esta entrega.<br>
+            Condori Lozano, Alessandro Ramiro: Se realizo la correccion del capitulo III para asi posterior a eso poder desarrollar correctamente el front-end.<br>
+            Armestar Heredia, Matias Gabriel: Se realizo la correccion del capitulo I, logrando terminar con la correccion del informe se empezo el desarrollo del front-end.<br>
+            Bendezu Navarro, Rubens Fitzgerald: Se realizo la correccion del capitulo II, Una vez se acabo con la correccion se pudo empezar con el desarrollo en conjunto del front-end.<br>
+        </td>
+        <td colspan="10">Luego de la primera entrega que fue el TB1 el equipo pudo corregir los errores que se dieron en dicha entrega, para la siguiente entrega que fue el TP, se coordino y dio visto bueno para que despues de una reunion del equipo cada uno en su respectiva rama pudiese completar y corregir segun los comentarios del profesor</td>
     </tr>
     <tr>
-        <td colspan="3">Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
-        <td colspan="10">"Nombre" tb1: </td>
-        <td colspan="10">"conclusiones"</td>
-    </tr>
+    <td colspan="3">Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+    <td colspan="10">
+        <b>TB1:</b><br>
+        Retuerto Rodríguez, Jorge Manuel: Redacté de manera clara y objetiva los avances del proyecto, estructurando correctamente las ideas y resultados para que el informe sea comprensible por diferentes lectores. <br>
+        Hernández Poma, Sebastián Eduardo: Redacté de forma ordenada el análisis del proyecto, utilizando un lenguaje técnico comprensible para distintas especialidades y niveles jerárquicos. <br>
+        Condori Lozano, Alessandro Ramiro: Contribuí en la redacción colaborativa del documento, plasmando las ideas del grupo con objetividad y precisión técnica. <br>
+        Armestar Heredia, Matias Gabriel: Participé en la redacción conjunta del informe, plasmando de manera clara los avances del proyecto con un lenguaje técnico adecuado. <br>
+        Bendezu Navarro, Rubens Fitzgerald: Contribuí en la escritura del reporte, manteniendo un estilo formal y técnico que permita transmitir las ideas del grupo con claridad. <br>   
+        <br><b>TP1:</b><br>
+        Retuerto Rodríguez, Jorge Manuel: Elaboré la parte escrita del capítulo IV aplicando una redacción técnica precisa, con la finalidad de presentar resultados objetivos y bien argumentados en el informe final. <br>
+        Hernández Poma, Sebastián Eduardo: Desarrollé por escrito el capítulo V, asegurando una comunicación clara y coherente de los resultados obtenidos y su relación con los objetivos del proyecto. <br>
+        Condori Lozano, Alessandro Ramiro: Redacté el capítulo III con un enfoque técnico y estructurado, garantizando la coherencia del informe con los resultados del desarrollo del proyecto. <br>
+        Armestar Heredia, Matias Gabriel: Redacté el capítulo I con objetividad, asegurando que la información presentada refleje correctamente los avances y resultados del equipo. <br>
+        Bendezu Navarro, Rubens Fitzgerald: Desarrollé la redacción del capítulo II, asegurando que el contenido sea comprensible para públicos con diferentes especialidades. <br>
+    </td>
+    <td colspan="10">
+        El equipo logró consolidar la información escrita del proyecto con un enfoque técnico y coherente, ademas del desarrollo del front-end. Cada integrante redactó su parte con objetividad, garantizando una comunicación clara de los resultados y conclusiones. El trabajo colaborativo permitió mantener una redacción uniforme, precisa y comprensible en todo el informe parcial.
+    </td>
+</tr>
 
 </table>
 
