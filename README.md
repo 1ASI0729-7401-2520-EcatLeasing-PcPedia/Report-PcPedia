@@ -2071,27 +2071,230 @@ El objetivo principal de este sprint es desarrollar el front-end para la entrega
 
 #### 5.2.2.1. Sprint Planning 2.
 
-<p><strong>Fecha:</strong> 10 de abril de 2025</p>
-<p><strong>Hora:</strong> 3:30 PM</p>
-<p><strong>Ubicación:</strong> Modalidad remota</p>
-<p><strong>Preparado por:</strong> Sebastián Hernández</p>
-<p><strong>Asistentes:</strong> Rubens Bendezu, Alessandro Ramiro, Jorge Retuerto, Matías Armestar, Sebastián Hernández</p>
-<p><strong>Objetivo del Sprint:</strong><br>
-El objetivo principal de este sprint es desarrollar la Landing Page (versión 1) con HTML y CSS, a partir del diseño preliminar realizado en Figma. Esta página servirá como el punto de entrada principal para la presentación de la startup. Además, se desarrollarán los wireframes de la app web y la landing page.</p>
-<p><strong>Sprint Velocity:</strong> 15</p>
-<p><strong>Sumatoria de Story Points:</strong> 15</p>
+<table align="center"  border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 2</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            9/10/2025
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            10:00 PM
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad virtual por Discord
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Integrantes de EcatLeasing
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            - Retuerto Rodríguez, Jorge Manuel <br/>
+            - Hernández Poma, Sebastián Eduardo <br/>
+            - Condori Lozano, Alessandro Ramiro <br/>
+            - Armestar Heredia, Matias Gabriel <br/>    
+            - Bendezu Navarro, Rubens Fitzgerald <br/>
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint n - 2</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            Se implementó la primera parte del frontend, la visualización de las ventanas en la aplicación.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 2</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+Se aseguró de que los estudiantes sepan sus partes a resolver.
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 3 Goal</b>
+        </td>
+        <td>
+En este sprint se tiene como objetivo desarrollar el frontend de PcPedia porque creemos que permitirá al usuario sentirse confiado al momento de usarla debido a la facilidad de uso, se estructuró de una forma en que la navegación dentro sea entendible. Esto será confirmado cuando los usuarios ingresen a la aplicación web y puedan visualizar sus dispositivos disponibles.
+        </td>
+      <tr align="left">
+        <td>
+            <b>Sprint 2 Velocity</b>
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+</table>
 
 #### 5.2.2.2. Aspect Leaders and Collaborators.
 
 #### 5.2.2.3. Sprint Backlog 2.
 
+<!-- ================== SPRINT BACKLOG 2 ================== -->
+<h2>🚀 Sprint Backlog 2 – ECAT Leasing Web App</h2>
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th><strong>User Story</strong></th>
+    <th><strong>Work-item/Task</strong></th>
+    <th><strong>Description</strong></th>
+    <th><strong>Estimation (Hours)</strong></th>
+    <th><strong>Assigned To</strong></th>
+    <th><strong>Status</strong></th>
+  </tr>
+  <tr>
+    <td><strong>HU01 - Autenticación de Usuario</strong></td>
+    <td>W01 - Login functionality and validation</td>
+    <td>Implementar el formulario de inicio de sesión con validación de credenciales generadas por la empresa.</td>
+    <td align="center">3</td>
+    <td>Sebastian</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><strong>HU02 - Pantalla de Inicio Informativa</strong></td>
+    <td>W02 - Home view and service overview</td>
+    <td>Desarrollar la vista de inicio que muestre información sobre el servicio “Conoce Smart Leasing” y los beneficios del arrendamiento.</td>
+    <td align="center">4</td>
+    <td>Rubens</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><strong>HU03 - Visualización de Activos del Cliente</strong></td>
+    <td>W03 - Active assets dashboard</td>
+    <td>Crear la sección “Mis Activos” donde se listan los equipos por modelo y marca, junto con su estado actual.</td>
+    <td align="center">4</td>
+    <td>Jorge</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><strong>HU04 - Gestión de Incidencias</strong></td>
+    <td>W04 - Incidents management module</td>
+    <td>Permitir visualizar y registrar incidencias asociadas a los equipos arrendados, mostrando su estado de atención.</td>
+    <td align="center">3</td>
+    <td>Matias</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><strong>HU05 - Consulta de Contratos Activos</strong></td>
+    <td>W05 - Contracts listing and detail view</td>
+    <td>Implementar la vista “Contratos” donde se muestren los contratos activos de cada cliente, con su respectiva información.</td>
+    <td align="center">3</td>
+    <td>Alessandro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><strong>HU06 - Detalle de Contrato Seleccionado</strong></td>
+    <td>W06 - Contract detail modal</td>
+    <td>Mostrar información detallada del contrato seleccionado, incluyendo fecha, duración y tipo de equipo arrendado.</td>
+    <td align="center">2.5</td>
+    <td>Sebastian</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><strong>HU07 - Edición de Información Personal</strong></td>
+    <td>W07 - User profile management</td>
+    <td>Crear la sección “Mi Perfil” para que el usuario pueda visualizar y actualizar su información personal básica.</td>
+    <td align="center">3</td>
+    <td>jorge</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><strong>HU08 - Gestión de Sesión</strong></td>
+    <td>W08 - Logout and session persistence</td>
+    <td>Implementar la funcionalidad para cerrar sesión y mantener persistencia de usuario autenticado.</td>
+    <td align="center">2</td>
+    <td>Alessandro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><strong>HU09 - Notificaciones de Incidencias y Contratos</strong></td>
+    <td>W09 - Notification center</td>
+    <td>Incorporar un módulo de notificaciones que informe sobre incidencias actualizadas o contratos próximos a vencer.</td>
+    <td align="center">2</td>
+    <td>Matias</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><strong>HU10 - Panel Administrativo (Interno)</strong></td>
+    <td>W10 - Admin credentials and asset setup</td>
+    <td>Permitir al personal de ECAT gestionar credenciales de clientes y registrar nuevos equipos dentro del sistema.</td>
+    <td align="center">4</td>
+    <td>Sebastian</td>
+    <td>Done</td>
+  </tr>
+</table>
+
 #### 5.2.2.4. Development Evidence for Sprint Review.
+
+<p>En esta entrega, el equipo se enfocó en el desarrollo del <strong>frontend</strong>, manteniendo una comunicación constante y efectiva a lo largo del proceso. El trabajo se realizó de manera <strong>remota</strong>, coordinando las actividades mediante reuniones semanales y el uso de herramientas colaborativas. <strong>GitHub</strong> fue utilizado para la gestión del código fuente y el control de versiones, mientras que <strong>Trello</strong> permitió organizar y monitorear el progreso de las tareas del sprint. Las actividades se completaron conforme a las estimaciones planificadas, garantizando un flujo de trabajo ordenado y una colaboración eficiente entre los miembros del equipo.</p>
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
-<p>No se implementaron servicios backend en este sprint, ya que el enfoque estuvo en el desarrollo en el front-end.</p>
+Para el desarrollo del Frontend en nuestra plataforma, utilizamos lo siguiente:
+
+- Angular: Este framework fue empleado para implementar el desarrollo del frontend de la aplicación web, permitiendo una estructura organizada y modular.
+
+- GitHub: Se utilizó como plataforma para almacenar y gestionar los avances del proyecto en un repositorio dedicado exclusivamente al frontend, lo que facilitó el seguimiento de los progresos y la identificación de los aportes de cada integrante del equipo.
+
+- WebStorm: Este IDE fue la herramienta principal utilizada para la creación y desarrollo del proyecto, ofreciendo un entorno eficiente y adaptado al trabajo con tecnologías web modernas.
+
+- Git: Se empleó como sistema de control de versiones, garantizando un registro ordenado de cada avance y permitiendo rastrear los cambios realizados a lo largo del desarrollo.
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
