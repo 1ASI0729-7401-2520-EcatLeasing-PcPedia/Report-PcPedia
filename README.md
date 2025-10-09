@@ -2285,11 +2285,15 @@ En este sprint se tiene como objetivo desarrollar el frontend de PcPedia porque 
 
 En este sprint, correspondiente a la segunda fase de nuestro producto final, se logró desarrollar la aplicación web utilizando Angular y Angular Material, lo que permitió implementar una interfaz moderna y funcional. Además, se empleó JSON Server para simular una API que facilitó la gestión y visualización de datos durante el desarrollo del frontend.
 
-![evidence1](/assets/sprints/evidence1.png)<br>
-![evidence2](/assets/sprints/evidence2.png)<br>
-![evidence3](/assets/sprints/evidence3.png)<br>
-![evidence4](/assets/sprints/evidence4.png)<br>
-![evidence5](/assets/sprints/evidence5.png)<br>
+![evidence1](/Assets/sprints/evidence1.png)<br>
+
+![evidence2](/Assets/sprints/evidence2.png)<br>
+
+![evidence3](/Assets/sprints/evidence3.png)<br>
+
+![evidence4](/Assets/sprints/evidence4.png)<br>
+
+![evidence5](/Assets/sprints/evidence5.png)<br>
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
