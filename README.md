@@ -1293,13 +1293,87 @@ Aquí se visualiza el diagrama de base de datos de ECAT Leasing. Este diagrama e
 
 ## 5.1. Software Configuration Management
 
+En esta sección se describen las herramientas y configuraciones utilizadas para gestionar el desarrollo del software, incluyendo el entorno de desarrollo, el control de versiones, las convenciones de estilo de código y la configuración del despliegue.
+
 ### 5.1.1. Software Development Environment Configuration
+
+En esta sección, se incluirá los productos de software que se usaron en el proyecto. Los enlaces a cada una de las herramientas se encuentran disponibles en los anexos.
+
+#### Product UX/UI Design:
+
+* Figma: Herramienta de diseño colaborativo para crear prototipos, wireframes y diseños de interfaces de usuario.
+* Canva: Plataforma de diseño colaborativo de funcion múltiple.
+* Visual Paradigm: Herramienta de modelado UML y diseño de software.
+* PlantText: Herramienta de modela UML.
+
+#### Software Development:
+
+* WebStorm: IDE para desarrollo web, soporta HTML, CSS, JavaScript y frameworks modernos.
+* GitHub: Plataforma de alojamiento de código fuente y control de versiones utilizando Git.
+* Visual Studio Code: Editor utilizado únicamente para la exportación del reporte de formato markdown a PDF.
+
+#### Software Deployment:
+
+* GitHub Pages: Servicio de alojamiento web estático proporcionado por GitHub, ideal para desplegar sitios web y documentación.
 
 ### 5.1.2. Source Code Management
 
+Para la gestion del código fuente se utilizó GitHub, una plataforma de alojamiento de código fuente y control de versiones utilizando Git. Se creó un repositorio en la organización de GitHub, donde se almacenó todo el código fuente del proyecto.
+
+El repositorio se estructuró de la siguiente manera:
+
+* Organización en Github: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia
+* Repositorio del informe final: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Report-PcPedia
+* Repositorio de la Landing Page: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/LandingPage
+
+#### Conventional Commits
+
+* `feat`: Para nuevas características o funcionalidades.
+* `fix`: Para correcciones de errores.
+* `docs`: Para cambios en la documentación.
+* `refactor`: Para cambios en el código que no agregan ni corrigen funcionalidades.
+* `add`: Para la adición de archivos, recursos o contenido nuevo (ej. imágenes, configs, assets).
+* `update`: Para modificaciones o mejoras sobre algo ya existente (ej. actualizar imágenes, texto, librerías, dependencias).
+* `chore`: Estructuración de contenido
+
 ### 5.1.3. Source Code Style Guide & Conventions
 
+Se optó por seguir las siguientes guías y convenciones de estilo de código para asegurar la calidad y consistencia del código fuente, priorizando el uso del **inglés** cómo una buena práctica.
+
+#### HTML:
+
+* Archivos HTML deben tener la extensión `.html`.
+* Se incluye `alt` en todas las imágenes.
+* Usar comillas dobles para atributos.
+* Usar etiquetas semánticas (`<header>`, `<nav>`, `<main>`, `<footer>`, etc.).
+* Indentación de 2 espacios.
+
+#### CSS:
+
+* Archivos CSS deben tener la extensión `.css`.
+* Usar guiones para nombres de clases y IDs (e.g., `.main-header`).
+* Se agrupan estilos relacionados y se separan con comentarios.
+
+#### JavaScript y TypeScript:
+
+* Archivos JS deben tener la extensión `.js` y TS `.ts`.
+* Usar camelCase para nombres de variables y funciones.
+* Usar `PascalCase` para nombres de clases y componentes: `MyComponent`, `UserProfile`.
+* Usar `const` y `let` en lugar de `var`.
+* Usar funciones flecha y nombres explícitos.
+* Los archivos deben tener una unica responsabilidad (Single Responsibility Principle).
+
 ### 5.1.4. Software Deployment Configuration
+
+En esta sección se describen las configuraciones y herramientas utilizadas para el despliegue del software desarrollado. El objetivo es asegurar que el proceso de despliegue sea eficiente, automatizado y confiable.
+
+#### Despliegue de la Landing Page:
+
+La **Landing Page** fue desarrollada utilizando tecnologías web estándar como HTML, CSS y JavaScript. Y fue desplegada utilizando **GitHub Pages**, un servicio de alojamiento web estático proporcionado por GitHub.
+
+**Repositorio de la Landing Page**: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/LandingPage
+
+**Landing Page desplegada**: https://1asi0729-7401-2520-ecatleasing-pcpedia.github.io/LandingPage/
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
@@ -1307,19 +1381,306 @@ Aquí se visualiza el diagrama de base de datos de ECAT Leasing. Este diagrama e
 
 #### 5.2.1.1. Sprint Planning 1
 
+<p><strong>Fecha:</strong> 10 de abril de 2025</p>
+<p><strong>Hora:</strong> 3:30 PM</p>
+<p><strong>Ubicación:</strong> Modalidad remota</p>
+<p><strong>Preparado por:</strong> Sebastián Hernández</p>
+<p><strong>Asistentes:</strong> Rubens Bendezu, Alessandro Ramiro, Jorge Retuerto, Matías Armestar, Sebastián Hernández</p>
+<p><strong>Objetivo del Sprint:</strong><br>
+El objetivo principal de este sprint es desarrollar la Landing Page (versión 1) con HTML y CSS, a partir del diseño preliminar realizado en Figma. Esta página servirá como el punto de entrada principal para la presentación de la startup. Además, se desarrollarán los wireframes de la app web y la landing page.</p>
+<p><strong>Sprint Velocity:</strong> 15</p>
+<p><strong>Sumatoria de Story Points:</strong> 15</p>
+
 #### 5.2.1.2. Aspect Leaders and Collaborators
+
+<table>
+  <thead>
+    <tr>
+      <th>Integrante</th>
+      <th>Tareas Principales Realizadas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Rubens Bendezu Navarro</strong></td>
+      <td>Punto 4.1-4.2 (Style Guidelines & Information Architecture), Análisis de Competidores, Plan de Estrategia</td>
+    </tr>
+    <tr>
+      <td><strong>Alessandro Ramiro</strong></td>
+      <td>Mockup de la Landing Page, Desarrollo de la Landing Page Versión 1</td>
+    </tr>
+    <tr>
+      <td><strong>Sebastián Hernández </strong></td>
+      <td>Wireframes de la Landing Page y App Web, Mockup de la App Web (Versión 1), Introducción sobre el negocio, Entrevistas</td>
+    </tr>
+    <tr>
+      <td><strong>Jorge Retuerto Rodríguez</strong></td>
+      <td>Punto 2.4, 4.6.1 - 4.6.4 (Domain-Driven Design), Punto 4.7 (Software Object-Oriented Design)</td>
+    </tr>
+    <tr>
+      <td><strong>Matías Armestar</strong></td>
+      <td>Historias de Usuario (User Stories), User Personas, User Journey, Empathy Mapping</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- Aspect Leaders and Collaborators - Sprint 1 (Tabla) -->
+<section id="sprint1-aspect-leaders">
+  
+  <p>Distribución de responsabilidades durante el Sprint 1, indicando líderes de aspecto y sus colaboradores según las tareas asignadas:</p>
+  
+  <table>
+    <thead>
+      <tr>
+        <th>Miembro del Equipo</th>
+        <th>Rol / Aspecto</th>
+        <th>Responsabilidades</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Rubens Fitzgerald Bendezu Navarro</td>
+        <td>Aspect Leader</td>
+        <td>Style Guidelines, Information Architecture, Análisis de Competidores y Plan de Estrategia. Definición de estándares visuales, estructuración de información y evaluación de competencia.</td>
+      </tr>
+      <tr>
+        <td>Alessandro Ramiro Condori Lozano</td>
+        <td>Aspect Leader</td>
+        <td>Mock-up y Landing Page versión 1. Diseño visual de la Landing Page, asegurando coherencia con la identidad del proyecto.</td>
+      </tr>
+      <tr>
+        <td>Sebastián Eduardo Hernández Poma</td>
+        <td>Aspect Leader</td>
+        <td>Wireframes de Landing y App Web, Mock-up versión 1 de la App Web, Entrevistas y Introducción del Negocio. Documentación y diseño de la interfaz de usuario y estructura inicial del proyecto.</td>
+      </tr>
+      <tr>
+        <td>Jorge Manuel Retuerto Rodríguez</td>
+        <td>Aspect Leader</td>
+        <td>Design-Level Event Storming, Diagramas de Arquitectura (Context, Container, Component), Software Object-Oriented Design. Modelado del sistema y documentación técnica de arquitectura y diseño orientado a objetos.</td>
+      </tr>
+      <tr>
+        <td>Matías Gabriel Armestar Heredia</td>
+        <td>Aspect Leader</td>
+        <td>Historias de Usuario y Product Backlog. Definición, documentación y organización de las historias de usuario para planificación y trazabilidad del proyecto.</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- Aspect Leaders and Collaborators - Sprint 1 -->
+<section id="sprint1-aspect-leaders">
+  <p>Distribución de responsabilidades durante el Sprint 1 según las tareas asignadas:</p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Integrante</th>
+        <th>GitHub</th>
+        <th>UX/UI</th>
+        <th>Landing</th>
+        <th>Deploy</th>
+        <th>Documentación</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Sebastián Eduardo Hernández Poma</td>
+        <td>C</td>
+        <td>C</td>
+        <td>C</td>
+        <td>-</td>
+        <td>C</td>
+      </tr>
+      <tr>
+        <td>Rubens Fitzgerald Bendezu Navarro</td>
+        <td>C</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>C</td>
+      </tr>
+      <tr>
+        <td>Alessandro Ramiro Condori Lozano</td>
+        <td>C</td>
+        <td>-</td>
+        <td>C</td>
+        <td>C</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Jorge Manuel Retuerto Rodríguez</td>
+        <td>C</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>C</td>
+      </tr>
+      <tr>
+        <td>Matías Gabriel Armestar Heredia</td>
+        <td>C</td>
+        <td>C</td>
+        <td>-</td>
+        <td>-</td>
+        <td>C</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
 
 #### 5.2.1.3. Sprint Backlog 1
 
+<table>
+  <thead>
+    <tr>
+      <th>Tarea ID</th>
+      <th>Título</th>
+      <th>Estimación (Horas)</th>
+      <th>Asignado a</th>
+      <th>Estado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>UT01</td>
+      <td>Crear wireframes de la Landing Page</td>
+      <td>4</td>
+      <td>Sebastián Hernández</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>UT02</td>
+      <td>Crear wireframes de la App Web</td>
+      <td>6</td>
+      <td>Sebastián Hernández</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>UT03</td>
+      <td>Crear mockup de la App Web (Versión 1)</td>
+      <td>5</td>
+      <td>Sebastián Hernández</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>UT04</td>
+      <td>Crear mockup de la Landing Page (Versión 1)</td>
+      <td>4</td>
+      <td>Alessandro Ramiro</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>UT05</td>
+      <td>Desarrollo de la Landing Page (HTML/CSS)</td>
+      <td>8</td>
+      <td>Alessandro Ramiro</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>UT06</td>
+      <td>Análisis de Competidores y Plan de Estrategia</td>
+      <td>6</td>
+      <td>Rubens Bendezu</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>UT07</td>
+      <td>Redacción de Introducción sobre el negocio</td>
+      <td>3</td>
+      <td>Sebastián Hernández</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>UT08</td>
+      <td>Realizar entrevistas</td>
+      <td>7</td>
+      <td>Sebastián Hernández</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>UT09</td>
+      <td>Desarrollo del punto 4.1 (Style Guidelines)</td>
+      <td>5</td>
+      <td>Rubens Bendezu</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>UT10</td>
+      <td>Desarrollo del punto 4.2 (Information Architecture)</td>
+      <td>5</td>
+      <td>Rubens Bendezu</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>UT11</td>
+      <td>Desarrollo del punto 2.4 (Big Picture Event Storming)</td>
+      <td>5</td>
+      <td>Jorge Retuerto</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
+
 #### 5.2.1.4. Development Evidence for Sprint Review
+
+<p><strong>Repositorio:</strong> GitHub - EcatLeasing/PcPedia</p>
+<p><strong>Rama:</strong> develop</p>
+<!-- Sección Landing -->
+<section>
+  <h2>Elaboración de Landing</h2>
+  <img src="landing1.png" alt="Landing Page">
+</section>
+
+<hr>
+
+<!-- Sección Reportes -->
+<section>
+  <h2>Reportes</h2>
+  <div style="display: flex; flex-wrap: wrap; gap: 15px;">
+    <img src="report1.png" alt="Reporte 1">
+    <img src="report2.png" alt="Reporte 2">
+    <img src="report3.png" alt="Reporte 3">
+    <img src="report4.png" alt="Reporte 4">
+    <img src="report5.png" alt="Reporte 5">
+    <img src="report6.png" alt="Reporte 6">
+    <img src="report7.png" alt="Reporte 7">
+  </div>
+</section>
+
+
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
+<p>El avance del sprint se evidencia en el repositorio de GitHub donde se subieron los siguientes archivos:</p>
+<ul>
+  <li><strong>Landing Page (Versión 1)</strong>: HTML y CSS desplegados en <a href="https://1asi0729-7401-2520-ecatleasing-pcpedia.github.io/LandingPage/">GitHub Pages</a>.</li>
+  <li><strong>Wireframes y Mockups</strong>: Los wireframes de la landing page y la app web, junto con los mockups, están documentados en el repositorio.</li>
+</ul>
+
+<!-- Sección Demostración de ejecución de la Landing -->
+<section>
+  <h2>Demostración de ejecución de la Landing</h2>
+  <div style="display: flex; flex-wrap: wrap; gap: 15px;">
+    <img src="landing2.png" alt="Landing Page 2">
+    <img src="landing3.png" alt="Landing Page 3">
+    <img src="landing4.png" alt="Landing Page 4">
+    <img src="landing5.png" alt="Landing Page 5">
+  </div>
+</section>
+
+
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+<p>No se implementaron servicios backend en este sprint, ya que el enfoque estuvo en el desarrollo de la interfaz visual.</p>
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+<p>La Landing Page fue desplegada en GitHub Pages, y está accesible a través del siguiente enlace: <a href="https://1asi0729-7401-2520-ecatleasing-pcpedia.github.io/LandingPage/">Enlace a la Landing Page</a></p>
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+<p>Durante este sprint, se mantuvo una comunicación constante entre los miembros del equipo mediante reuniones semanales. Se utilizó <strong>GitHub</strong> para la gestión del código fuente y el seguimiento de tareas, y <strong>Trello</strong> para organizar el avance del sprint. Las tareas fueron gestionadas y completadas según las estimaciones, y la colaboración entre los miembros del equipo fue eficiente.</p>
 
 ## 5.3. Validation Interviews
 
@@ -1340,3 +1701,66 @@ Aquí se visualiza el diagrama de base de datos de ECAT Leasing. Este diagrama e
 
 ## Conclusiones y recomendaciones
 
+<<<<<<< HEAD
+=======
+<p>
+Durante el Sprint 1 del proyecto PcPedia, se lograron avances significativos en el diseño de la landing page, wireframes y mockups de la aplicación web, así como en la definición de la arquitectura de información, guías de estilo y análisis de competidores. Esto permitió establecer una base sólida y coherente para el desarrollo del producto, alineada con las necesidades de los usuarios y los objetivos estratégicos de la startup EcatLeasing. Se recomienda continuar con la validación temprana de la interfaz mediante pruebas de usabilidad, integrar retroalimentación constante del equipo y de usuarios, priorizar funcionalidades críticas como registro de usuarios, panel de administración y comparador de equipos, mantener la documentación actualizada en GitHub y utilizar herramientas ágiles para seguimiento de tareas, asegurando una coordinación efectiva y la calidad técnica del desarrollo en los siguientes sprints.
+</p>
+
+# Bibliografia
+
+<ul>
+  <li>Beck, K., & Andres, C. (2005). <em>Extreme Programming Explained: Embrace Change</em> (2nd ed.). Addison-Wesley Professional.</li>
+  <li>Driessen, V. (2010). <em>A successful Git branching model</em>. Disponible en: <a href="https://nvie.com/posts/a-successful-git-branching-model/" target="_blank">https://nvie.com/posts/a-successful-git-branching-model/</a></li>
+  <li>Cucumber. (s.f.). <em>Gherkin Reference</em>. Recuperado de: <a href="https://cucumber.io/docs/gherkin/" target="_blank">https://cucumber.io/docs/gherkin/</a></li>
+  <li>Figma. (s.f.). <em>Figma: Collaborative Interface Design Tool</em>. Recuperado de: <a href="https://www.figma.com/" target="_blank">https://www.figma.com/</a></li>
+  <li>Lucidchart. (s.f.). <em>Lucidchart: Diagramming & Visualization Software</em>. Recuperado de: <a href="https://www.lucidchart.com/" target="_blank">https://www.lucidchart.com/</a></li>
+  <li>Mozilla Developer Network. (s.f.). <em>HTML, CSS y JavaScript</em>. Recuperado de: <a href="https://developer.mozilla.org/es/docs/Web" target="_blank">https://developer.mozilla.org/es/docs/Web</a></li>
+  <li>GitHub. (s.f.). <em>GitHub: Where the world builds software</em>. Recuperado de: <a href="https://github.com/" target="_blank">https://github.com/</a></li>
+  <li>Microsoft. (s.f.). <em>Visual Studio Code</em>. Recuperado de: <a href="https://code.visualstudio.com/" target="_blank">https://code.visualstudio.com/</a></li>
+  <li>W3Schools. (s.f.). <em>HTML5 Syntax</em>. Recuperado de: <a href="https://www.w3schools.com/html/html5_syntax.asp" target="_blank">https://www.w3schools.com/html/html5_syntax.asp</a></li>
+</ul>
+
+# Anexos
+
+<!-- Anexos del Proyecto PcPedia - Sprint 1 -->
+<section id="anexos">
+  <h2>Anexos</h2>
+
+  <h3>1. Organización y Repositorios en GitHub</h3>
+  <p>El proyecto PcPedia se encuentra alojado bajo la organización de GitHub del curso 1ASI0729-7401-2520-EcatLeasing-PcPedia. A continuación se detallan los repositorios principales utilizados:</p>
+  <ul>
+    <li><strong>Repositorio de la Organización:</strong> 
+      <a href="https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia" target="_blank">
+        https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia
+      </a>
+    </li>
+    <li><strong>Repositorio del Informe Final:</strong> 
+      <a href="https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Report-PcPedia" target="_blank">
+        https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/report
+      </a>
+    </li>
+    <li><strong>Repositorio de la Landing Page:</strong> 
+      <a href="https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/LandingPage" target="_blank">
+        https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/LandingPage
+      </a>
+    </li>
+  </ul>
+
+  <h3>2. Despliegue de la Landing Page</h3>
+  <p>La Landing Page fue desarrollada por Alessandro Ramiro Condori Lozano y desplegada utilizando GitHub Pages. Esta página sirve como presentación inicial del producto PcPedia y permite a los usuarios interactuar con la interfaz de manera funcional.</p>
+  <ul>
+    <li><strong>Link de la Landing Page en producción:</strong> 
+      <a href="https://1asi0729-7401-2520-ecatleasing-pcpedia.github.io/LandingPage/" target="_blank">
+        https://1asi0729-7401-2520-ecatleasing-pcpedia.github.io/LandingPage/
+      </a>
+    </li>
+    <li><strong>Link del Mock-up en Figma:</strong> 
+      <a href="https://www.figma.com/design/oiLz93LcaZJmdmEKi6h46I/FIGMA-PCPEDIA?node-id=1-15&t=wvrVBChCM91tnOsZ-1" target="_blank">
+        https://www.figma.com/design/oiLz93LcaZJmdmEKi6h46I/FIGMA-PCPEDIA
+      </a>
+    </li>
+ 
+</section>
+
+>>>>>>> c244249ee1f9b3b7f82b7c2256fd40dfff1a9c2f
