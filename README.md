@@ -454,6 +454,60 @@ Debe transmitir confianza, modernidad y simplicidad, con una interfaz clara (si 
 
 ### 2.2.1. Diseño de entrevistas
 
+Este cuestionario está diseñado para levantar información de los segmentos objetivo de **PcPedia**: **Empresas** e **Instituciones educativas**.  
+Las preguntas fueron refinadas para identificar **problemas reales, cuellos de botella y necesidades**, alineados al contexto de gestión de contratos, equipos tecnológicos y soporte TI.
+
+---
+
+##  Segmento objetivo 1: Empresas
+
+###  Gestión de contratos
+- ¿Cómo gestionan actualmente los contratos de equipos tecnológicos?  
+- ¿Qué herramientas usan? (Excel, software especializado, papel, etc.)  
+- ¿Cómo acceden y almacenan esta información?  
+
+###  Verificación de procesos
+- ¿Cómo verifican el cumplimiento de los servicios contratados (mantenimiento, upgrades, soporte)?  
+- ¿En qué momentos suelen revisar los contratos (renovación, mantenimiento, auditorías)?  
+- ¿Qué problemas han tenido por no llevar un buen control contractual?  
+- ¿Cómo registran el historial de mantenimiento y soporte?  
+- ¿Cuál es su proceso actual para pedir soporte técnico y cuánto suele demorar?  
+
+###  Comunicación y presupuesto
+- ¿Qué canales de comunicación usan con sus contratistas o proveedores de TI?  
+- ¿Cómo manejan los presupuestos y pagos de contratos y mantenimiento?  
+
+###  Satisfacción y expectativas
+- ¿Qué tan satisfechos están con las prácticas actuales de gestión de contratos?  
+- ¿Qué funcionalidades les gustaría tener en una plataforma que centralice todo esto?  
+
+---
+
+##  Segmento objetivo 2: Instituciones educativas
+
+###  Gestión de equipos y contratos
+- ¿Cómo llevan el inventario de equipos tecnológicos?  
+- ¿Qué herramientas usan para controlar la vigencia de contratos?  
+- ¿Qué dificultades enfrentan al comprar equipos o renovar contratos?  
+- ¿Qué problemas tienen al buscar información contractual?  
+- ¿Qué pasos deben seguir para contratar, renovar o cancelar contratos?  
+- ¿Existen políticas internas o procesos burocráticos que retrasen estas gestiones?  
+- ¿Cómo afecta la gestión de contratos y equipos al dictado de clases o actividades académicas?  
+
+###  Soporte y mantenimiento
+- ¿Con qué frecuencia enfrentan problemas técnicos en los equipos?  
+- ¿Qué procesos siguen para solucionarlos?  
+- ¿Cómo coordinan con su proveedor de TI las reparaciones o mantenimientos?  
+
+###  Presupuesto y comunicación
+- ¿Cómo obtienen información sobre costos de equipos y servicios TI?  
+- ¿Cómo controlan facturas y pagos de estos servicios?  
+- ¿Han tenido experiencias negativas con proveedores de TI? ¿Cuáles?  
+
+###  Satisfacción y expectativas
+- ¿Qué tan satisfechos están con los procesos actuales de gestión de equipos y contratos?  
+- ¿Qué cambios o mejoras les gustaría ver? 
+
 ### 2.2.2. Registro de entrevistas
 
 ### 2.2.3. Análisis de entrevistas
@@ -467,6 +521,34 @@ Debe transmitir confianza, modernidad y simplicidad, con una interfaz clara (si 
 ### 2.3.3. User Journey Mapping
 
 ### 2.3.4. Empathy Mapping
+
+**Segmento objetivo 1:** Empresas (pequeñas, medianas y grandes)
+
+En esta sección se utiliza la herramienta del **Mapa de Empatía** para profundizar en los sentimientos, pensamientos y comportamientos de los usuarios de nuestros segmentos objetivo.  
+
+El objetivo es **comprender cómo viven los usuarios la situación problemática** (falta de confianza en servicios de arrendamiento, dificultad para gestionar contratos y equipos tecnológicos, problemas con proveedores poco confiables).  
+
+De esta manera podemos identificar no solo lo que dicen, sino también lo que **sienten, escuchan, ven y hacen** en torno a su experiencia con el servicio actual.
+
+---
+
+![user_empathy_mapping 1.png](/assets/chapter2/user_journey_mapping_1.png)
+
+En esta imagen se analizan los sentimientos y la situación del usuario que representa al segmento de **empresas**. De este cuadro, se concluye que el usuario valora principalmente la **seguridad y confiabilidad** al momento de contratar servicios de arrendamiento de equipos tecnológicos. Actualmente experimenta **desesperación, desconfianza y presión** porque los proveedores disponibles no cumplen con las expectativas y suelen entregar equipos con fallas.  
+
+El usuario observa cómo otras compañías buscan proveedores más confiables y transparentes, lo que refuerza su percepción de estar en desventaja. Finalmente, aspira a contar con una plataforma que le permita **gestionar contratos de manera centralizada**, garantizar un soporte ágil y reducir los riesgos en la operación de su empresa.  
+
+---
+
+**Segmento objetivo 2:** Instituciones Educativas (universidades, colegios, escuelas, institutos)
+
+![user_empathy_mapping 2.png](/assets/chapter2/user_journey_mapping_2.png)
+
+En esta imagen se analizan los sentimientos y la situación del usuario que representa al segmento de **instituciones educativas**. De este cuadro, se concluye que la usuaria valora la **modernización de sus aulas** para brindar a estudiantes y docentes un ambiente de aprendizaje dinámico y confiable. Sin embargo, siente **preocupación, desconfianza y presión** al notar que otras instituciones ya cuentan con equipos actualizados, mientras que ella enfrenta limitaciones presupuestales y proveedores poco confiables.  
+
+La usuaria observa cómo otras escuelas acceden a servicios de mayor calidad, lo que genera frustración y la sensación de quedarse atrás. Finalmente, aspira a tener un **sistema sencillo y transparente** que le permita **gestionar contratos, coordinar mantenimientos oportunos y optimizar el presupuesto institucional**, garantizando así un impacto positivo en la calidad educativa.  
+
+---
 
 ### 2.4. Big Picture Event Storming
 
