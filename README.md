@@ -1312,12 +1312,8 @@ Una observación que podemos realizar es que los modelos presentados son prototi
     </tr>
   </tbody>
 </table>
-<<<<<<< HEAD
-=======
 
 # Capítulo IV: Product Design
-
-> > > > > > > 116ea3d2770b9b36a2d9738608e216bd193ea8ef
 
 ## 4.1. Style Guidelines
 
