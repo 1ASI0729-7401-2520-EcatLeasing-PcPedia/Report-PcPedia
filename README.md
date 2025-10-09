@@ -295,16 +295,13 @@ Además, comprendemos que cada empresa tiene necesidades y presupuestos distinto
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
-<table>
-    <tr>
-        <th colspan="3"> "codigo"</th>
-        <th colspan="10"> "nombre"</th>
-    <tr>
-        <td colspan="3"> "foto"</td>
-        <td colspan="10">"Descripcion"</td>
-    </tr>
-
-</table>
+| Foto | Apellido y Nombre | Carrera | Acerca de |
+|------|-------------------|---------|-----------|
+| ![Perfil_Retuerto_Jorge.png](assets/Perfil_Retuerto_Jorge.jpeg) | Retuerto Rodríguez, Jorge Manuel - u202318612 | Ingeniería de Software | Mi nombre es Jorge Manuel Retuerto Rodríguez, tengo 20 años y estoy cursando el 5to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Mi conocimiento y habilidades de programación son intermedias en C++, HTML y CSS. Sin embargo, básicas en Python y Java. Me haré responsable de la comunicación del grupo, planificación y desarrollo junto a mi equipo. |
+| ![Perfil_Hernandez_Sebastian.png](assets/Perfil_Hernandez_Sebastian.png) | Hernández Poma, Sebastián Eduardo - u20231c996 |Ingeniería de Software   | Tengo 21 años y estoy cursando la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Mi objetivo es seguir desarrollando mis competencias en programación y especializarme en el área de desarrollo de software y soluciones tecnológicas innovadoras. Me caracterizo por ser una persona perseverante, con mentalidad de crecimiento y compromiso con el trabajo en equipo, buscando siempre aprender nuevas herramientas que fortalezcan mi futuro profesional y me permitan alcanzar proyectos de mayor impacto.
+| ![Perfil_Condori_Alessandro.png](assets/Perfil_Condori_Alessandro.jpg) | Condori Lozano, Alessandro Ramiro - u20211a118 | Ingeniería de Software | Tengo 21 años, actualmente me encuentro matriculado en la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Poseo un nivel intermedio de habilidades en programación, con conocimientos adicionales en desarrollo web. Me considero una persona competitiva, responsable y que sabe trabajar en equipo. |
+| ![Perfil_Armestar_Heredia.jpeg](assets/Perfil_Armestar_Matias.jpeg) | Armestar Heredia, Matias Gabriel - u20221A553 | Ingeniería de Software | Estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero un estudiante capaz de aportar significativamente a un equipo. |
+| ![Perfil_Bendezu_Rubens](assets/Perfil_Bendezu_Rubens.jpeg) | Bendezu Navarro, Rúbens Fitzgerald - u20231D390 | Ingeniería de Software | Mi nombre es Rúbens Bendezu, soy estudiante de Ingeniería de Software. Me considero una persona motivada por el aprendizaje continuo y el trabajo en equipo, ya que compartir ideas y experiencias enriquece tanto el desarrollo personal como el profesional. Tengo conocimientos en tecnologías de desarrollo web y frameworks modernos, y me interesa especialmente el desarrollo de aplicaciones web que aporten soluciones innovadoras y de impacto. |
 
 ## 1.2 Solution Profile
 
