@@ -80,18 +80,6 @@ Se crearon los artefactos necesarios usando las herramientas recomendadas, y se 
 
 Se llevaron a cabo reuniones periódicas para coordinar el avance de los puntos del informe. Estas reuniones también se utilizaron para comunicar el progreso alcanzado durante el Sprint 1, enfocado en el desarrollo de la Landing Page del proyecto.
 
-**Contributors Insights report:**
-![Commits-report-tb1]()
-
-**Contributors Insights landing page:**
-![Commits-report-landing-page]()
-
-**Network Insights report:**
-![Network-report-tb1]()
-
-**Network Insights report:** <br>
-![Network-landing-tb1]()
-
 ---
 
 **Entrega N°2: TP1**
@@ -105,17 +93,23 @@ URL del repositorio para el desarrollo del frontend web applications: (https://g
 
 Cada miembro del equipo realizo cambios y mejoras en sus respectivas ramas de acuerdo a la distribucion del proyecto para poder completar la entrega, posteriormente tuvimos una reunion en el cual corregiriamos ciertos detalles para poder asi cumplir correctamente con la entrega del proyecto.
 
-**Contributors Insights report:**
+**Contributors Insights report:** <br>
 ![Commits-report-tp1]()
 
-**Contributors Insights landing page:**
-![Commits-report-landing-page]()
+**Contributors Insights landing page:** <br>
+![Commits-landing-page-tp1](Contributors%20_insights_landing_tp.jpg)
 
-**Network Insights report:**
-![Network-report-tp1]()
+**Contributors Insights front end:** <br>
+![Commits-landing-page-tp1]()
 
 **Network Insights report:** <br>
-![Network-landing-tp1]()
+![Network-report-tp1](Network_graph_tb1.png)
+
+**Network Insights landing page:** <br>
+![Network-landing-page-tp](Network_graph_tb1_landing.png)
+
+**Contributors Insights front end:** <br>
+![Commits-front-end-tp1]()
 
 ---
 
@@ -293,13 +287,13 @@ Además, comprendemos que cada empresa tiene necesidades y presupuestos distinto
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
-| Foto | Apellido y Nombre | Carrera | Acerca de |
-|------|-------------------|---------|-----------|
-| ![Perfil_Retuerto_Jorge.png](assets/Perfil_Retuerto_Jorge.jpeg) | Retuerto Rodríguez, Jorge Manuel - u202318612 | Ingeniería de Software | Mi nombre es Jorge Manuel Retuerto Rodríguez, tengo 20 años y estoy cursando el 5to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Mi conocimiento y habilidades de programación son intermedias en C++, HTML y CSS. Sin embargo, básicas en Python y Java. Me haré responsable de la comunicación del grupo, planificación y desarrollo junto a mi equipo. |
-| ![Perfil_Hernandez_Sebastian.png](assets/Perfil_Hernandez_Sebastian.png) | Hernández Poma, Sebastián Eduardo - u20231c996 |Ingeniería de Software   | Tengo 21 años y estoy cursando la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Mi objetivo es seguir desarrollando mis competencias en programación y especializarme en el área de desarrollo de software y soluciones tecnológicas innovadoras. Me caracterizo por ser una persona perseverante, con mentalidad de crecimiento y compromiso con el trabajo en equipo, buscando siempre aprender nuevas herramientas que fortalezcan mi futuro profesional y me permitan alcanzar proyectos de mayor impacto.
-| ![Perfil_Condori_Alessandro.png](assets/Perfil_Condori_Alessandro.jpg) | Condori Lozano, Alessandro Ramiro - u20211a118 | Ingeniería de Software | Tengo 21 años, actualmente me encuentro matriculado en la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Poseo un nivel intermedio de habilidades en programación, con conocimientos adicionales en desarrollo web. Me considero una persona competitiva, responsable y que sabe trabajar en equipo. |
-| ![Perfil_Armestar_Heredia.jpeg](assets/Perfil_Armestar_Matias.jpeg) | Armestar Heredia, Matias Gabriel - u20221A553 | Ingeniería de Software | Estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero un estudiante capaz de aportar significativamente a un equipo. |
-| ![Perfil_Bendezu_Rubens](assets/Perfil_Bendezu_Rubens.jpeg) | Bendezu Navarro, Rúbens Fitzgerald - u20231D390 | Ingeniería de Software | Mi nombre es Rúbens Bendezu, soy estudiante de Ingeniería de Software. Me considero una persona motivada por el aprendizaje continuo y el trabajo en equipo, ya que compartir ideas y experiencias enriquece tanto el desarrollo personal como el profesional. Tengo conocimientos en tecnologías de desarrollo web y frameworks modernos, y me interesa especialmente el desarrollo de aplicaciones web que aporten soluciones innovadoras y de impacto. |
+| Foto                                                                     | Apellido y Nombre                               | Carrera                | Acerca de                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ------------------------------------------------------------------------ | ----------------------------------------------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Perfil_Retuerto_Jorge.png](assets/Perfil_Retuerto_Jorge.jpeg)          | Retuerto Rodríguez, Jorge Manuel - u202318612   | Ingeniería de Software | Mi nombre es Jorge Manuel Retuerto Rodríguez, tengo 20 años y estoy cursando el 5to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Mi conocimiento y habilidades de programación son intermedias en C++, HTML y CSS. Sin embargo, básicas en Python y Java. Me haré responsable de la comunicación del grupo, planificación y desarrollo junto a mi equipo.                                                                                                                                         |
+| ![Perfil_Hernandez_Sebastian.png](assets/Perfil_Hernandez_Sebastian.png) | Hernández Poma, Sebastián Eduardo - u20231c996  | Ingeniería de Software | Tengo 21 años y estoy cursando la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Mi objetivo es seguir desarrollando mis competencias en programación y especializarme en el área de desarrollo de software y soluciones tecnológicas innovadoras. Me caracterizo por ser una persona perseverante, con mentalidad de crecimiento y compromiso con el trabajo en equipo, buscando siempre aprender nuevas herramientas que fortalezcan mi futuro profesional y me permitan alcanzar proyectos de mayor impacto. |
+| ![Perfil_Condori_Alessandro.png](assets/Perfil_Condori_Alessandro.jpg)   | Condori Lozano, Alessandro Ramiro - u20211a118  | Ingeniería de Software | Tengo 21 años, actualmente me encuentro matriculado en la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Poseo un nivel intermedio de habilidades en programación, con conocimientos adicionales en desarrollo web. Me considero una persona competitiva, responsable y que sabe trabajar en equipo.                                                                                                                                                                                                            |
+| ![Perfil_Armestar_Heredia.jpeg](assets/Perfil_Armestar_Matias.jpeg)      | Armestar Heredia, Matias Gabriel - u20221A553   | Ingeniería de Software | Estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero un estudiante capaz de aportar significativamente a un equipo.                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ![Perfil_Bendezu_Rubens](assets/Perfil_Bendezu_Rubens.jpeg)              | Bendezu Navarro, Rúbens Fitzgerald - u20231D390 | Ingeniería de Software | Mi nombre es Rúbens Bendezu, soy estudiante de Ingeniería de Software. Me considero una persona motivada por el aprendizaje continuo y el trabajo en equipo, ya que compartir ideas y experiencias enriquece tanto el desarrollo personal como el profesional. Tengo conocimientos en tecnologías de desarrollo web y frameworks modernos, y me interesa especialmente el desarrollo de aplicaciones web que aporten soluciones innovadoras y de impacto.                                                                                           |
 
 ## 1.2 Solution Profile
 
@@ -516,54 +510,62 @@ Las preguntas fueron refinadas para identificar **problemas reales, cuellos de b
 
 ---
 
-##  Segmento objetivo 1: Empresas
+## Segmento objetivo 1: Empresas
 
-###  Gestión de contratos
-- ¿Cómo gestionan actualmente los contratos de equipos tecnológicos?  
-- ¿Qué herramientas usan? (Excel, software especializado, papel, etc.)  
-- ¿Cómo acceden y almacenan esta información?  
+### Gestión de contratos
 
-###  Verificación de procesos
-- ¿Cómo verifican el cumplimiento de los servicios contratados (mantenimiento, upgrades, soporte)?  
-- ¿En qué momentos suelen revisar los contratos (renovación, mantenimiento, auditorías)?  
-- ¿Qué problemas han tenido por no llevar un buen control contractual?  
-- ¿Cómo registran el historial de mantenimiento y soporte?  
-- ¿Cuál es su proceso actual para pedir soporte técnico y cuánto suele demorar?  
+- ¿Cómo gestionan actualmente los contratos de equipos tecnológicos?
+- ¿Qué herramientas usan? (Excel, software especializado, papel, etc.)
+- ¿Cómo acceden y almacenan esta información?
 
-###  Comunicación y presupuesto
-- ¿Qué canales de comunicación usan con sus contratistas o proveedores de TI?  
-- ¿Cómo manejan los presupuestos y pagos de contratos y mantenimiento?  
+### Verificación de procesos
 
-###  Satisfacción y expectativas
-- ¿Qué tan satisfechos están con las prácticas actuales de gestión de contratos?  
-- ¿Qué funcionalidades les gustaría tener en una plataforma que centralice todo esto?  
+- ¿Cómo verifican el cumplimiento de los servicios contratados (mantenimiento, upgrades, soporte)?
+- ¿En qué momentos suelen revisar los contratos (renovación, mantenimiento, auditorías)?
+- ¿Qué problemas han tenido por no llevar un buen control contractual?
+- ¿Cómo registran el historial de mantenimiento y soporte?
+- ¿Cuál es su proceso actual para pedir soporte técnico y cuánto suele demorar?
+
+### Comunicación y presupuesto
+
+- ¿Qué canales de comunicación usan con sus contratistas o proveedores de TI?
+- ¿Cómo manejan los presupuestos y pagos de contratos y mantenimiento?
+
+### Satisfacción y expectativas
+
+- ¿Qué tan satisfechos están con las prácticas actuales de gestión de contratos?
+- ¿Qué funcionalidades les gustaría tener en una plataforma que centralice todo esto?
 
 ---
 
-##  Segmento objetivo 2: Instituciones educativas
+## Segmento objetivo 2: Instituciones educativas
 
-###  Gestión de equipos y contratos
-- ¿Cómo llevan el inventario de equipos tecnológicos?  
-- ¿Qué herramientas usan para controlar la vigencia de contratos?  
-- ¿Qué dificultades enfrentan al comprar equipos o renovar contratos?  
-- ¿Qué problemas tienen al buscar información contractual?  
-- ¿Qué pasos deben seguir para contratar, renovar o cancelar contratos?  
-- ¿Existen políticas internas o procesos burocráticos que retrasen estas gestiones?  
-- ¿Cómo afecta la gestión de contratos y equipos al dictado de clases o actividades académicas?  
+### Gestión de equipos y contratos
 
-###  Soporte y mantenimiento
-- ¿Con qué frecuencia enfrentan problemas técnicos en los equipos?  
-- ¿Qué procesos siguen para solucionarlos?  
-- ¿Cómo coordinan con su proveedor de TI las reparaciones o mantenimientos?  
+- ¿Cómo llevan el inventario de equipos tecnológicos?
+- ¿Qué herramientas usan para controlar la vigencia de contratos?
+- ¿Qué dificultades enfrentan al comprar equipos o renovar contratos?
+- ¿Qué problemas tienen al buscar información contractual?
+- ¿Qué pasos deben seguir para contratar, renovar o cancelar contratos?
+- ¿Existen políticas internas o procesos burocráticos que retrasen estas gestiones?
+- ¿Cómo afecta la gestión de contratos y equipos al dictado de clases o actividades académicas?
 
-###  Presupuesto y comunicación
-- ¿Cómo obtienen información sobre costos de equipos y servicios TI?  
-- ¿Cómo controlan facturas y pagos de estos servicios?  
-- ¿Han tenido experiencias negativas con proveedores de TI? ¿Cuáles?  
+### Soporte y mantenimiento
 
-###  Satisfacción y expectativas
-- ¿Qué tan satisfechos están con los procesos actuales de gestión de equipos y contratos?  
-- ¿Qué cambios o mejoras les gustaría ver? 
+- ¿Con qué frecuencia enfrentan problemas técnicos en los equipos?
+- ¿Qué procesos siguen para solucionarlos?
+- ¿Cómo coordinan con su proveedor de TI las reparaciones o mantenimientos?
+
+### Presupuesto y comunicación
+
+- ¿Cómo obtienen información sobre costos de equipos y servicios TI?
+- ¿Cómo controlan facturas y pagos de estos servicios?
+- ¿Han tenido experiencias negativas con proveedores de TI? ¿Cuáles?
+
+### Satisfacción y expectativas
+
+- ¿Qué tan satisfechos están con los procesos actuales de gestión de equipos y contratos?
+- ¿Qué cambios o mejoras les gustaría ver?
 
 ### 2.2.2. Registro de entrevistas
 
@@ -581,9 +583,9 @@ Las preguntas fueron refinadas para identificar **problemas reales, cuellos de b
 
 **Segmento objetivo 1:** Empresas (pequeñas, medianas y grandes)
 
-En esta sección se utiliza la herramienta del **Mapa de Empatía** para profundizar en los sentimientos, pensamientos y comportamientos de los usuarios de nuestros segmentos objetivo.  
+En esta sección se utiliza la herramienta del **Mapa de Empatía** para profundizar en los sentimientos, pensamientos y comportamientos de los usuarios de nuestros segmentos objetivo.
 
-El objetivo es **comprender cómo viven los usuarios la situación problemática** (falta de confianza en servicios de arrendamiento, dificultad para gestionar contratos y equipos tecnológicos, problemas con proveedores poco confiables).  
+El objetivo es **comprender cómo viven los usuarios la situación problemática** (falta de confianza en servicios de arrendamiento, dificultad para gestionar contratos y equipos tecnológicos, problemas con proveedores poco confiables).
 
 De esta manera podemos identificar no solo lo que dicen, sino también lo que **sienten, escuchan, ven y hacen** en torno a su experiencia con el servicio actual.
 
@@ -591,9 +593,9 @@ De esta manera podemos identificar no solo lo que dicen, sino también lo que **
 
 ![user_empathy_mapping 1.png](/assets/chapter2/user_journey_mapping_1.png)
 
-En esta imagen se analizan los sentimientos y la situación del usuario que representa al segmento de **empresas**. De este cuadro, se concluye que el usuario valora principalmente la **seguridad y confiabilidad** al momento de contratar servicios de arrendamiento de equipos tecnológicos. Actualmente experimenta **desesperación, desconfianza y presión** porque los proveedores disponibles no cumplen con las expectativas y suelen entregar equipos con fallas.  
+En esta imagen se analizan los sentimientos y la situación del usuario que representa al segmento de **empresas**. De este cuadro, se concluye que el usuario valora principalmente la **seguridad y confiabilidad** al momento de contratar servicios de arrendamiento de equipos tecnológicos. Actualmente experimenta **desesperación, desconfianza y presión** porque los proveedores disponibles no cumplen con las expectativas y suelen entregar equipos con fallas.
 
-El usuario observa cómo otras compañías buscan proveedores más confiables y transparentes, lo que refuerza su percepción de estar en desventaja. Finalmente, aspira a contar con una plataforma que le permita **gestionar contratos de manera centralizada**, garantizar un soporte ágil y reducir los riesgos en la operación de su empresa.  
+El usuario observa cómo otras compañías buscan proveedores más confiables y transparentes, lo que refuerza su percepción de estar en desventaja. Finalmente, aspira a contar con una plataforma que le permita **gestionar contratos de manera centralizada**, garantizar un soporte ágil y reducir los riesgos en la operación de su empresa.
 
 ---
 
@@ -601,9 +603,9 @@ El usuario observa cómo otras compañías buscan proveedores más confiables y 
 
 ![user_empathy_mapping 2.png](/assets/chapter2/user_journey_mapping_2.png)
 
-En esta imagen se analizan los sentimientos y la situación del usuario que representa al segmento de **instituciones educativas**. De este cuadro, se concluye que la usuaria valora la **modernización de sus aulas** para brindar a estudiantes y docentes un ambiente de aprendizaje dinámico y confiable. Sin embargo, siente **preocupación, desconfianza y presión** al notar que otras instituciones ya cuentan con equipos actualizados, mientras que ella enfrenta limitaciones presupuestales y proveedores poco confiables.  
+En esta imagen se analizan los sentimientos y la situación del usuario que representa al segmento de **instituciones educativas**. De este cuadro, se concluye que la usuaria valora la **modernización de sus aulas** para brindar a estudiantes y docentes un ambiente de aprendizaje dinámico y confiable. Sin embargo, siente **preocupación, desconfianza y presión** al notar que otras instituciones ya cuentan con equipos actualizados, mientras que ella enfrenta limitaciones presupuestales y proveedores poco confiables.
 
-La usuaria observa cómo otras escuelas acceden a servicios de mayor calidad, lo que genera frustración y la sensación de quedarse atrás. Finalmente, aspira a tener un **sistema sencillo y transparente** que le permita **gestionar contratos, coordinar mantenimientos oportunos y optimizar el presupuesto institucional**, garantizando así un impacto positivo en la calidad educativa.  
+La usuaria observa cómo otras escuelas acceden a servicios de mayor calidad, lo que genera frustración y la sensación de quedarse atrás. Finalmente, aspira a tener un **sistema sencillo y transparente** que le permita **gestionar contratos, coordinar mantenimientos oportunos y optimizar el presupuesto institucional**, garantizando así un impacto positivo en la calidad educativa.
 
 ---
 
@@ -952,21 +954,21 @@ La usuaria observa cómo otras escuelas acceden a servicios de mayor calidad, lo
 
 **Tipografía**
 
-| Uso | Fuente | Ejemplo visual |
-|-----|--------|----------------|
-| Encabezados (H1, H2) | **Anton** | TÍTULO PRINCIPAL |
-| Subtítulos / Botones | **Antonio** | Subtítulo / Acción |
-| Texto general | Sans Serif del sistema | Texto de párrafo estándar |
+| Uso                  | Fuente                 | Ejemplo visual            |
+| -------------------- | ---------------------- | ------------------------- |
+| Encabezados (H1, H2) | **Anton**              | TÍTULO PRINCIPAL          |
+| Subtítulos / Botones | **Antonio**            | Subtítulo / Acción        |
+| Texto general        | Sans Serif del sistema | Texto de párrafo estándar |
 
 **Paleta de Colores**
 
-| Color | Hex | Uso |
-|--------|------|-----|
-| Azul principal | `#1A3458` | Headers, barra de navegación, botones primarios |
-| Azul base claro | `#F2F6FF` | Fondos generales, secciones amplias, cards |
-| Negro | `#000000` | Texto sobre fondos claros |
-| Blanco | `#FFFFFF` | Texto sobre fondos oscuros, íconos |
-| Escala de grises | `#333333` ‒ `#DDDDDD` | Wireframes, bordes, placeholders |
+| Color            | Hex                   | Uso                                             |
+| ---------------- | --------------------- | ----------------------------------------------- |
+| Azul principal   | `#1A3458`             | Headers, barra de navegación, botones primarios |
+| Azul base claro  | `#F2F6FF`             | Fondos generales, secciones amplias, cards      |
+| Negro            | `#000000`             | Texto sobre fondos claros                       |
+| Blanco           | `#FFFFFF`             | Texto sobre fondos oscuros, íconos              |
+| Escala de grises | `#333333` ‒ `#DDDDDD` | Wireframes, bordes, placeholders                |
 
 **Espaciado y consistencia**
 
@@ -980,14 +982,14 @@ La usuaria observa cómo otras escuelas acceden a servicios de mayor calidad, lo
 
 **Componentes principales**
 
-| Componente | Estilo visual |
-|------------|----------------|
-| Botón primario | Fondo `#1A3458`, texto `#FFFFFF`, borde redondeado 8 px |
-| Botón secundario | Fondo `#F2F6FF`, texto `#1A3458` |
-| Enlace | Texto `#1A3458`, subrayado al pasar el cursor |
-| Tarjeta (Card) | Fondo `#F2F6FF`, título en Anton, contenido en negro, sombra ligera |
-| Barra de navegación | Fondo `#1A3458`, texto y logo en blanco |
-| Footer | Fondo gris oscuro (`#333333`), texto en blanco |
+| Componente          | Estilo visual                                                       |
+| ------------------- | ------------------------------------------------------------------- |
+| Botón primario      | Fondo `#1A3458`, texto `#FFFFFF`, borde redondeado 8 px             |
+| Botón secundario    | Fondo `#F2F6FF`, texto `#1A3458`                                    |
+| Enlace              | Texto `#1A3458`, subrayado al pasar el cursor                       |
+| Tarjeta (Card)      | Fondo `#F2F6FF`, título en Anton, contenido en negro, sombra ligera |
+| Barra de navegación | Fondo `#1A3458`, texto y logo en blanco                             |
+| Footer              | Fondo gris oscuro (`#333333`), texto en blanco                      |
 
 **Accesibilidad**
 
@@ -1001,7 +1003,7 @@ La usuaria observa cómo otras escuelas acceden a servicios de mayor calidad, lo
 
 ### 4.2.1. Organization Systems
 
-En esta sección se definen los sistemas de organización que permitirán estructurar y etiquetar el contenido de manera que resulte comprensible y fácil de encontrar para los usuarios. La organización de la información en *PcPedia* busca adaptarse a las necesidades tanto de estudiantes de ingeniería, técnicos de soporte como de usuarios entusiastas de hardware.
+En esta sección se definen los sistemas de organización que permitirán estructurar y etiquetar el contenido de manera que resulte comprensible y fácil de encontrar para los usuarios. La organización de la información en _PcPedia_ busca adaptarse a las necesidades tanto de estudiantes de ingeniería, técnicos de soporte como de usuarios entusiastas de hardware.
 
 **Jerarquía de contenido:**  
 Se aplica una jerarquía visual que da prioridad a los componentes principales que los usuarios buscan con mayor frecuencia. Las secciones destacadas en la interfaz incluyen categorías como Procesadores, Tarjetas Gráficas, Memorias RAM, Almacenamiento, Placas Base y Periféricos. Cada categoría cuenta con subcategorías; por ejemplo, dentro de Procesadores, se diferencian líneas como Intel Core i3, i5, i7 e i9, así como AMD Ryzen 5, 7 y 9. Esta jerarquía ayuda al usuario a identificar rápidamente dónde debe dirigirse según su necesidad.
@@ -1016,7 +1018,7 @@ Se complementa con un menú y estructura de navegación que permiten combinar di
 
 ### 4.2.2. Labeling Systems
 
-En *PcPedia*, los sistemas de etiquetado son fundamentales para asegurar claridad y consistencia en la experiencia de navegación. Todas las secciones utilizan labels simples y familiares para la audiencia: “Procesadores”, “Tarjetas Gráficas”, “Almacenamiento” y “Comparador” se ubican en el menú superior, evitando términos técnicos confusos o redundantes.
+En _PcPedia_, los sistemas de etiquetado son fundamentales para asegurar claridad y consistencia en la experiencia de navegación. Todas las secciones utilizan labels simples y familiares para la audiencia: “Procesadores”, “Tarjetas Gráficas”, “Almacenamiento” y “Comparador” se ubican en el menú superior, evitando términos técnicos confusos o redundantes.
 
 Cada ficha de producto incluye etiquetas técnicas claras como “Frecuencia (GHz)”, “Número de núcleos”, “VRAM” o “Tipo de memoria”. Estas etiquetas permiten que tanto un usuario novato como un experto comprendan la información sin ambigüedades. Asimismo, los botones de acción presentan mensajes directos como “Comparar”, “Ver más” o “Agregar a favoritos”, reforzando la orientación en cada paso.
 
@@ -1026,21 +1028,21 @@ Gracias a este sistema, el usuario puede navegar de manera fluida y sin necesida
 
 ### 4.2.3. SEO Tags and Meta Tags
 
-La plataforma *PcPedia* incorpora metaetiquetas que mejoran su posicionamiento en motores de búsqueda y aseguran que la información se interprete correctamente en navegadores.
+La plataforma _PcPedia_ incorpora metaetiquetas que mejoran su posicionamiento en motores de búsqueda y aseguran que la información se interprete correctamente en navegadores.
 
-- **Title:** cada página cuenta con un título descriptivo, por ejemplo: *“PcPedia – Comparador de Procesadores y Hardware de PC”*.
+- **Title:** cada página cuenta con un título descriptivo, por ejemplo: _“PcPedia – Comparador de Procesadores y Hardware de PC”_.
 - **Codificación de caracteres:** se utiliza UTF-8 para mostrar adecuadamente caracteres especiales y símbolos técnicos.
-- **Description:** cada página integra un resumen breve y atractivo, como *“Encuentra y compara procesadores Intel y AMD con especificaciones actualizadas y comparaciones en tiempo real”*.
+- **Description:** cada página integra un resumen breve y atractivo, como _“Encuentra y compara procesadores Intel y AMD con especificaciones actualizadas y comparaciones en tiempo real”_.
 - **Keywords:** se incluyen términos clave como “procesadores”, “tarjetas gráficas”, “comparador de hardware” para mejorar la indexación.
 - **Author y Copyright:** detallan el equipo desarrollador y derechos reservados.
 
-Estas prácticas garantizan que *PcPedia* sea visible en búsquedas relevantes y transmita confianza a sus usuarios desde el primer contacto.
+Estas prácticas garantizan que _PcPedia_ sea visible en búsquedas relevantes y transmita confianza a sus usuarios desde el primer contacto.
 
 ---
 
 ### 4.2.4. Searching Systems
 
-Uno de los aspectos más relevantes de *PcPedia* es la capacidad de localizar rápidamente componentes específicos dentro de un catálogo amplio. Para ello, se ha diseñado un sistema de búsqueda con varias funcionalidades:
+Uno de los aspectos más relevantes de _PcPedia_ es la capacidad de localizar rápidamente componentes específicos dentro de un catálogo amplio. Para ello, se ha diseñado un sistema de búsqueda con varias funcionalidades:
 
 - **Barra de búsqueda global:** permite ingresar directamente el nombre del componente (ej. “Ryzen 7 5800X”).
 - **Autocompletado con sugerencias:** mientras el usuario escribe, se despliegan coincidencias relevantes como modelos y marcas.
@@ -1054,7 +1056,7 @@ Este sistema asegura que los usuarios no pierdan tiempo navegando por múltiples
 
 ### 4.2.5. Navigation Systems
 
-La navegación en *PcPedia* está diseñada para ser clara, responsiva y adaptada a distintos dispositivos. El menú principal superior incluye accesos a las secciones más relevantes: Inicio, Categorías, Comparador, Noticias y Ayuda. Esta estructura permite un acceso rápido a las funciones esenciales sin saturar al usuario.
+La navegación en _PcPedia_ está diseñada para ser clara, responsiva y adaptada a distintos dispositivos. El menú principal superior incluye accesos a las secciones más relevantes: Inicio, Categorías, Comparador, Noticias y Ayuda. Esta estructura permite un acceso rápido a las funciones esenciales sin saturar al usuario.
 
 En categorías extensas, se incluyen **submenús desplegables** y **breadcrumbs (migas de pan)** que indican la ruta actual del usuario (ej. Inicio > Tarjetas Gráficas > NVIDIA). Esto ayuda a que siempre sepan dónde se encuentran dentro de la jerarquía.
 
@@ -1071,7 +1073,6 @@ Finalmente, los botones de acción (ej. “Comparar ahora”, “Agregar a favor
 Los wireframes son representaciones de baja fidelidad que muestran la estructura y disposición de los elementos principales de la aplicación web.
 
 A continuación, presentaremos los wireframe de nuestra landing page como guía del diseño que haremos en los siguientes paso:
-
 
 - Captura 1
 
@@ -1119,7 +1120,6 @@ Este mock-up refleja la versión estilizada que un usuario final verá al ingres
 
 Para más detalle, revisar el anexo 1.
 
-
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
@@ -1138,7 +1138,7 @@ En primer lugar, mostraremos los elementos que se podran encontrar en nuestra we
 - Vista de contratos listados como tarjetas.
 - Perfil Avatar Datos Configuración
 - Página de perfil con información y opciones de configuración.
-- Partners Novedades 
+- Partners Novedades
 - Sección de socios y novedades corporativas.
 
 **Vista 1**
@@ -1166,7 +1166,6 @@ En primer lugar, mostraremos los elementos que se podran encontrar en nuestra we
 ![WireframeWeb6.png](/Assets/Chapter4/WireframeWeb6.png)
 
 Para más detalle, revisar el anexo 1.
-
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
@@ -1212,7 +1211,7 @@ Finalmente, presentamos el modelo de alta fidelidad de nuestra pagina web:
 
 El prototipo de la aplicación web adjunta la representación visual anteriomente mostrada y la vuelve interactiva, pero sin tener código real detrás.
 
-Para este proyecto, usamos figma para hacer el prototipo de la aplicación web. Véase el anexo 2 para mayor información. 
+Para este proyecto, usamos figma para hacer el prototipo de la aplicación web. Véase el anexo 2 para mayor información.
 
 ## 4.6. Domain-Driven Software Architecture
 
@@ -1358,20 +1357,20 @@ En esta sección, se incluirá los productos de software que se usaron en el pro
 
 #### Product UX/UI Design:
 
-* Figma: Herramienta de diseño colaborativo para crear prototipos, wireframes y diseños de interfaces de usuario.
-* Canva: Plataforma de diseño colaborativo de funcion múltiple.
-* Visual Paradigm: Herramienta de modelado UML y diseño de software.
-* PlantText: Herramienta de modela UML.
+- Figma: Herramienta de diseño colaborativo para crear prototipos, wireframes y diseños de interfaces de usuario.
+- Canva: Plataforma de diseño colaborativo de funcion múltiple.
+- Visual Paradigm: Herramienta de modelado UML y diseño de software.
+- PlantText: Herramienta de modela UML.
 
 #### Software Development:
 
-* WebStorm: IDE para desarrollo web, soporta HTML, CSS, JavaScript y frameworks modernos.
-* GitHub: Plataforma de alojamiento de código fuente y control de versiones utilizando Git.
-* Visual Studio Code: Editor utilizado únicamente para la exportación del reporte de formato markdown a PDF.
+- WebStorm: IDE para desarrollo web, soporta HTML, CSS, JavaScript y frameworks modernos.
+- GitHub: Plataforma de alojamiento de código fuente y control de versiones utilizando Git.
+- Visual Studio Code: Editor utilizado únicamente para la exportación del reporte de formato markdown a PDF.
 
 #### Software Deployment:
 
-* GitHub Pages: Servicio de alojamiento web estático proporcionado por GitHub, ideal para desplegar sitios web y documentación.
+- GitHub Pages: Servicio de alojamiento web estático proporcionado por GitHub, ideal para desplegar sitios web y documentación.
 
 ### 5.1.2. Source Code Management
 
@@ -1379,19 +1378,19 @@ Para la gestion del código fuente se utilizó GitHub, una plataforma de alojami
 
 El repositorio se estructuró de la siguiente manera:
 
-* Organización en Github: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia
-* Repositorio del informe final: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Report-PcPedia
-* Repositorio de la Landing Page: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/LandingPage
+- Organización en Github: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia
+- Repositorio del informe final: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Report-PcPedia
+- Repositorio de la Landing Page: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/LandingPage
 
 #### Conventional Commits
 
-* `feat`: Para nuevas características o funcionalidades.
-* `fix`: Para correcciones de errores.
-* `docs`: Para cambios en la documentación.
-* `refactor`: Para cambios en el código que no agregan ni corrigen funcionalidades.
-* `add`: Para la adición de archivos, recursos o contenido nuevo (ej. imágenes, configs, assets).
-* `update`: Para modificaciones o mejoras sobre algo ya existente (ej. actualizar imágenes, texto, librerías, dependencias).
-* `chore`: Estructuración de contenido
+- `feat`: Para nuevas características o funcionalidades.
+- `fix`: Para correcciones de errores.
+- `docs`: Para cambios en la documentación.
+- `refactor`: Para cambios en el código que no agregan ni corrigen funcionalidades.
+- `add`: Para la adición de archivos, recursos o contenido nuevo (ej. imágenes, configs, assets).
+- `update`: Para modificaciones o mejoras sobre algo ya existente (ej. actualizar imágenes, texto, librerías, dependencias).
+- `chore`: Estructuración de contenido
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
@@ -1399,26 +1398,26 @@ Se optó por seguir las siguientes guías y convenciones de estilo de código pa
 
 #### HTML:
 
-* Archivos HTML deben tener la extensión `.html`.
-* Se incluye `alt` en todas las imágenes.
-* Usar comillas dobles para atributos.
-* Usar etiquetas semánticas (`<header>`, `<nav>`, `<main>`, `<footer>`, etc.).
-* Indentación de 2 espacios.
+- Archivos HTML deben tener la extensión `.html`.
+- Se incluye `alt` en todas las imágenes.
+- Usar comillas dobles para atributos.
+- Usar etiquetas semánticas (`<header>`, `<nav>`, `<main>`, `<footer>`, etc.).
+- Indentación de 2 espacios.
 
 #### CSS:
 
-* Archivos CSS deben tener la extensión `.css`.
-* Usar guiones para nombres de clases y IDs (e.g., `.main-header`).
-* Se agrupan estilos relacionados y se separan con comentarios.
+- Archivos CSS deben tener la extensión `.css`.
+- Usar guiones para nombres de clases y IDs (e.g., `.main-header`).
+- Se agrupan estilos relacionados y se separan con comentarios.
 
 #### JavaScript y TypeScript:
 
-* Archivos JS deben tener la extensión `.js` y TS `.ts`.
-* Usar camelCase para nombres de variables y funciones.
-* Usar `PascalCase` para nombres de clases y componentes: `MyComponent`, `UserProfile`.
-* Usar `const` y `let` en lugar de `var`.
-* Usar funciones flecha y nombres explícitos.
-* Los archivos deben tener una unica responsabilidad (Single Responsibility Principle).
+- Archivos JS deben tener la extensión `.js` y TS `.ts`.
+- Usar camelCase para nombres de variables y funciones.
+- Usar `PascalCase` para nombres de clases y componentes: `MyComponent`, `UserProfile`.
+- Usar `const` y `let` en lugar de `var`.
+- Usar funciones flecha y nombres explícitos.
+- Los archivos deben tener una unica responsabilidad (Single Responsibility Principle).
 
 ### 5.1.4. Software Deployment Configuration
 
@@ -1584,7 +1583,6 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
   </table>
 </section>
 
-
 #### 5.2.1.3. Sprint Backlog 1
 
 <table>
@@ -1704,8 +1702,6 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
   </div>
 </section>
 
-
-
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
 <p>El avance del sprint se evidencia en el repositorio de GitHub donde se subieron los siguientes archivos:</p>
@@ -1724,8 +1720,6 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
     <img src="landing5.png" alt="Landing Page 5">
   </div>
 </section>
-
-
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -1758,8 +1752,8 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
 
 ## Conclusiones y recomendaciones
 
-<<<<<<< HEAD
-=======
+# <<<<<<< HEAD
+
 <p>
 Durante el Sprint 1 del proyecto PcPedia, se lograron avances significativos en el diseño de la landing page, wireframes y mockups de la aplicación web, así como en la definición de la arquitectura de información, guías de estilo y análisis de competidores. Esto permitió establecer una base sólida y coherente para el desarrollo del producto, alineada con las necesidades de los usuarios y los objetivos estratégicos de la startup EcatLeasing. Se recomienda continuar con la validación temprana de la interfaz mediante pruebas de usabilidad, integrar retroalimentación constante del equipo y de usuarios, priorizar funcionalidades críticas como registro de usuarios, panel de administración y comparador de equipos, mantener la documentación actualizada en GitHub y utilizar herramientas ágiles para seguimiento de tareas, asegurando una coordinación efectiva y la calidad técnica del desarrollo en los siguientes sprints.
 </p>
@@ -1820,4 +1814,4 @@ Durante el Sprint 1 del proyecto PcPedia, se lograron avances significativos en 
  
 </section>
 
->>>>>>> c244249ee1f9b3b7f82b7c2256fd40dfff1a9c2f
+> > > > > > > c244249ee1f9b3b7f82b7c2256fd40dfff1a9c2f
