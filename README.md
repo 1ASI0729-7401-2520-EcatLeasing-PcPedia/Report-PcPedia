@@ -106,7 +106,7 @@ Cada miembro del equipo realizo cambios y mejoras en sus respectivas ramas de ac
 ![Network-report-tp1](Network_graph_tb1.png)
 
 **Network Insights landing page:** <br>
-![Network-landing-page-tp](Network_graph_tb1_landing.png)
+![Network-landing-page-tp](Network_graph_tb1_landing.PNG)
 
 **Contributors Insights front end:** <br>
 ![Commits-front-end-tp1]()
@@ -1312,12 +1312,8 @@ Una observación que podemos realizar es que los modelos presentados son prototi
     </tr>
   </tbody>
 </table>
-<<<<<<< HEAD
-=======
 
 # Capítulo IV: Product Design
-
-> > > > > > > 116ea3d2770b9b36a2d9738608e216bd193ea8ef
 
 ## 4.1. Style Guidelines
 
@@ -1808,13 +1804,13 @@ La **Landing Page** fue desarrollada utilizando tecnologías web estándar como 
 
 #### 5.2.1.1. Sprint Planning 1
 
-<p><strong>Fecha:</strong> 10 de abril de 2025</p>
+<p><strong>Fecha:</strong> 8 de octubre de 2025</p>
 <p><strong>Hora:</strong> 3:30 PM</p>
 <p><strong>Ubicación:</strong> Modalidad remota</p>
 <p><strong>Preparado por:</strong> Sebastián Hernández</p>
 <p><strong>Asistentes:</strong> Rubens Bendezu, Alessandro Ramiro, Jorge Retuerto, Matías Armestar, Sebastián Hernández</p>
 <p><strong>Objetivo del Sprint:</strong><br>
-El objetivo principal de este sprint es desarrollar la Landing Page (versión 1) con HTML y CSS, a partir del diseño preliminar realizado en Figma. Esta página servirá como el punto de entrada principal para la presentación de la startup. Además, se desarrollarán los wireframes de la app web y la landing page.</p>
+El objetivo principal de este sprint es desarrollar el front-end para la entrega de dicha version del informe, se modifico el figma para cumplir con las correcciones del profesor.</p>
 <p><strong>Sprint Velocity:</strong> 15</p>
 <p><strong>Sumatoria de Story Points:</strong> 15</p>
 
@@ -1830,23 +1826,23 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
   <tbody>
     <tr>
       <td><strong>Rubens Bendezu Navarro</strong></td>
-      <td>Punto 4.1-4.2 (Style Guidelines & Information Architecture), Análisis de Competidores, Plan de Estrategia</td>
+      <td>Capitulo II, segun las correcciones del profesora, Correccion y visualizacion de cada entrevista, ademas de colaborar con las vistas del front end</td>
     </tr>
     <tr>
       <td><strong>Alessandro Ramiro</strong></td>
-      <td>Mockup de la Landing Page, Desarrollo de la Landing Page Versión 1</td>
+      <td>Actualizar el sprint 2, revisar el reporte, reestrucutarar las ramas para que se vean ordenadas y correctas, aporto en la distribucion y implementacion del front end</td>
     </tr>
     <tr>
       <td><strong>Sebastián Hernández </strong></td>
-      <td>Wireframes de la Landing Page y App Web, Mockup de la App Web (Versión 1), Introducción sobre el negocio, Entrevistas</td>
+      <td>Inicio la plantilla para el front end, oriento a la vistas del front, ademas de la correccion del capitulo V</td>
     </tr>
     <tr>
       <td><strong>Jorge Retuerto Rodríguez</strong></td>
-      <td>Punto 2.4, 4.6.1 - 4.6.4 (Domain-Driven Design), Punto 4.7 (Software Object-Oriented Design)</td>
+      <td>Restructuro el capitulo III, ademas de implementar codigo en el front-end, reviso y corrigio en las vistas del front y en el informe</td>
     </tr>
     <tr>
       <td><strong>Matías Armestar</strong></td>
-      <td>Historias de Usuario (User Stories), User Personas, User Journey, Empathy Mapping</td>
+      <td>Restrucutracion y correccion del capitulo I ademas de colaborar y corregir el front end para su respectivo desarrollo</td>
     </tr>
   </tbody>
 </table>
@@ -1854,7 +1850,7 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
 <!-- Aspect Leaders and Collaborators - Sprint 1 (Tabla) -->
 <section id="sprint1-aspect-leaders">
   
-  <p>Distribución de responsabilidades durante el Sprint 1, indicando líderes de aspecto y sus colaboradores según las tareas asignadas:</p>
+  <p>Distribución de responsabilidades durante el Sprint 2, indicando líderes de aspecto y sus colaboradores según las tareas asignadas:</p>
   
   <table>
     <thead>
@@ -1907,6 +1903,7 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
         <th>Landing</th>
         <th>Deploy</th>
         <th>Documentación</th>
+        <th>Fron-end</th>
       </tr>
     </thead>
     <tbody>
@@ -1917,6 +1914,7 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
         <td>C</td>
         <td>-</td>
         <td>C</td>
+        <td>C</td>
       </tr>
       <tr>
         <td>Rubens Fitzgerald Bendezu Navarro</td>
@@ -1924,6 +1922,7 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
         <td>-</td>
         <td>-</td>
         <td>-</td>
+        <td>C</td>
         <td>C</td>
       </tr>
       <tr>
@@ -1933,6 +1932,7 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
         <td>C</td>
         <td>C</td>
         <td>-</td>
+        <td>C</td>
       </tr>
       <tr>
         <td>Jorge Manuel Retuerto Rodríguez</td>
@@ -1941,6 +1941,7 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
         <td>-</td>
         <td>-</td>
         <td>C</td>
+        <td>C</td>
       </tr>
       <tr>
         <td>Matías Gabriel Armestar Heredia</td>
@@ -1948,6 +1949,7 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
         <td>C</td>
         <td>-</td>
         <td>-</td>
+        <td>C</td>
         <td>C</td>
       </tr>
     </tbody>
@@ -2049,48 +2051,7 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
-<p><strong>Repositorio:</strong> GitHub - EcatLeasing/PcPedia</p>
-<p><strong>Rama:</strong> develop</p>
-<!-- Sección Landing -->
-<section>
-  <h2>Elaboración de Landing</h2>
-  <img src="landing1.png" alt="Landing Page">
-</section>
-
-<hr>
-
-<!-- Sección Reportes -->
-<section>
-  <h2>Reportes</h2>
-  <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-    <img src="report1.png" alt="Reporte 1">
-    <img src="report2.png" alt="Reporte 2">
-    <img src="report3.png" alt="Reporte 3">
-    <img src="report4.png" alt="Reporte 4">
-    <img src="report5.png" alt="Reporte 5">
-    <img src="report6.png" alt="Reporte 6">
-    <img src="report7.png" alt="Reporte 7">
-  </div>
-</section>
-
 #### 5.2.1.5. Execution Evidence for Sprint Review
-
-<p>El avance del sprint se evidencia en el repositorio de GitHub donde se subieron los siguientes archivos:</p>
-<ul>
-  <li><strong>Landing Page (Versión 1)</strong>: HTML y CSS desplegados en <a href="https://1asi0729-7401-2520-ecatleasing-pcpedia.github.io/LandingPage/">GitHub Pages</a>.</li>
-  <li><strong>Wireframes y Mockups</strong>: Los wireframes de la landing page y la app web, junto con los mockups, están documentados en el repositorio.</li>
-</ul>
-
-<!-- Sección Demostración de ejecución de la Landing -->
-<section>
-  <h2>Demostración de ejecución de la Landing</h2>
-  <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-    <img src="landing2.png" alt="Landing Page 2">
-    <img src="landing3.png" alt="Landing Page 3">
-    <img src="landing4.png" alt="Landing Page 4">
-    <img src="landing5.png" alt="Landing Page 5">
-  </div>
-</section>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -2098,21 +2059,292 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-<p>La Landing Page fue desplegada en GitHub Pages, y está accesible a través del siguiente enlace: <a href="https://1asi0729-7401-2520-ecatleasing-pcpedia.github.io/LandingPage/">Enlace a la Landing Page</a></p>
-
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
-<p>Durante este sprint, se mantuvo una comunicación constante entre los miembros del equipo mediante reuniones semanales. Se utilizó <strong>GitHub</strong> para la gestión del código fuente y el seguimiento de tareas, y <strong>Trello</strong> para organizar el avance del sprint. Las tareas fueron gestionadas y completadas según las estimaciones, y la colaboración entre los miembros del equipo fue eficiente.</p>
+<p>En esta entrega, el equipo se enfocó en el desarrollo del <strong>frontend</strong>, manteniendo una comunicación constante y efectiva a lo largo del proceso. El trabajo se realizó de manera <strong>remota</strong>, coordinando las actividades mediante reuniones semanales y el uso de herramientas colaborativas. <strong>GitHub</strong> fue utilizado para la gestión del código fuente y el control de versiones, mientras que <strong>Trello</strong> permitió organizar y monitorear el progreso de las tareas del sprint. Las actividades se completaron conforme a las estimaciones planificadas, garantizando un flujo de trabajo ordenado y una colaboración eficiente entre los miembros del equipo.</p>
 
-## 5.3. Validation Interviews
+### 5.2.2. Sprint 2
 
-### 5.3.1. Diseño de Entrevistas
+#### 5.2.2.1. Sprint Planning 2.
 
-### 5.3.2. Registro de Entrevistas
+<table align="center"  border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 2</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            9/10/2025
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            10:00 PM
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad virtual por Discord
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Integrantes de EcatLeasing
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            - Retuerto Rodríguez, Jorge Manuel <br/>
+            - Hernández Poma, Sebastián Eduardo <br/>
+            - Condori Lozano, Alessandro Ramiro <br/>
+            - Armestar Heredia, Matias Gabriel <br/>    
+            - Bendezu Navarro, Rubens Fitzgerald <br/>
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint n - 2</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            Se implementó la primera parte del frontend, la visualización de las ventanas en la aplicación.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 2</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+Se aseguró de que los estudiantes sepan sus partes a resolver.
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 3 Goal</b>
+        </td>
+        <td>
+En este sprint se tiene como objetivo desarrollar el frontend de PcPedia porque creemos que permitirá al usuario sentirse confiado al momento de usarla debido a la facilidad de uso, se estructuró de una forma en que la navegación dentro sea entendible. Esto será confirmado cuando los usuarios ingresen a la aplicación web y puedan visualizar sus dispositivos disponibles.
+        </td>
+      <tr align="left">
+        <td>
+            <b>Sprint 2 Velocity</b>
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+</table>
 
-### 5.3.3. Evaluaciones según heurísticas
+#### 5.2.2.2. Aspect Leaders and Collaborators.
 
-## 5.4. Video About-the-Product
+#### 5.2.2.3. Sprint Backlog 2.
+
+<!-- ================== SPRINT BACKLOG 2 ================== -->
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th><strong>User Story</strong></th>
+    <th><strong>Work-item/Task</strong></th>
+    <th><strong>Description</strong></th>
+    <th><strong>Estimation (Hours)</strong></th>
+    <th><strong>Assigned To</strong></th>
+    <th><strong>Status</strong></th>
+  </tr>
+  <tr>
+    <td><strong>HU01 - Autenticación de Usuario</strong></td>
+    <td>W01 - Login functionality and validation</td>
+    <td>Implementar el formulario de inicio de sesión con validación de credenciales generadas por la empresa.</td>
+    <td align="center">3</td>
+    <td>Sebastian</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><strong>HU02 - Pantalla de Inicio Informativa</strong></td>
+    <td>W02 - Home view and service overview</td>
+    <td>Desarrollar la vista de inicio que muestre información sobre el servicio “Conoce Smart Leasing” y los beneficios del arrendamiento.</td>
+    <td align="center">4</td>
+    <td>Rubens</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><strong>HU03 - Visualización de Activos del Cliente</strong></td>
+    <td>W03 - Active assets dashboard</td>
+    <td>Crear la sección “Mis Activos” donde se listan los equipos por modelo y marca, junto con su estado actual.</td>
+    <td align="center">4</td>
+    <td>Jorge</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><strong>HU04 - Gestión de Incidencias</strong></td>
+    <td>W04 - Incidents management module</td>
+    <td>Permitir visualizar y registrar incidencias asociadas a los equipos arrendados, mostrando su estado de atención.</td>
+    <td align="center">3</td>
+    <td>Matias</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><strong>HU05 - Consulta de Contratos Activos</strong></td>
+    <td>W05 - Contracts listing and detail view</td>
+    <td>Implementar la vista “Contratos” donde se muestren los contratos activos de cada cliente, con su respectiva información.</td>
+    <td align="center">3</td>
+    <td>Alessandro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><strong>HU06 - Detalle de Contrato Seleccionado</strong></td>
+    <td>W06 - Contract detail modal</td>
+    <td>Mostrar información detallada del contrato seleccionado, incluyendo fecha, duración y tipo de equipo arrendado.</td>
+    <td align="center">2.5</td>
+    <td>Sebastian</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><strong>HU07 - Edición de Información Personal</strong></td>
+    <td>W07 - User profile management</td>
+    <td>Crear la sección “Mi Perfil” para que el usuario pueda visualizar y actualizar su información personal básica.</td>
+    <td align="center">3</td>
+    <td>jorge</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><strong>HU08 - Gestión de Sesión</strong></td>
+    <td>W08 - Logout and session persistence</td>
+    <td>Implementar la funcionalidad para cerrar sesión y mantener persistencia de usuario autenticado.</td>
+    <td align="center">2</td>
+    <td>Alessandro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><strong>HU09 - Notificaciones de Incidencias y Contratos</strong></td>
+    <td>W09 - Notification center</td>
+    <td>Incorporar un módulo de notificaciones que informe sobre incidencias actualizadas o contratos próximos a vencer.</td>
+    <td align="center">2</td>
+    <td>Matias</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><strong>HU10 - Panel Administrativo (Interno)</strong></td>
+    <td>W10 - Admin credentials and asset setup</td>
+    <td>Permitir al personal de ECAT gestionar credenciales de clientes y registrar nuevos equipos dentro del sistema.</td>
+    <td align="center">4</td>
+    <td>Sebastian</td>
+    <td>Done</td>
+  </tr>
+</table>
+
+#### 5.2.2.4. Development Evidence for Sprint Review.
+
+<p>En esta entrega, el equipo se enfocó en el desarrollo del <strong>frontend</strong>, manteniendo una comunicación constante y efectiva a lo largo del proceso. El trabajo se realizó de manera <strong>remota</strong>, coordinando las actividades mediante reuniones semanales y el uso de herramientas colaborativas. <strong>GitHub</strong> fue utilizado para la gestión del código fuente y el control de versiones, mientras que <strong>Trello</strong> permitió organizar y monitorear el progreso de las tareas del sprint. Las actividades se completaron conforme a las estimaciones planificadas, garantizando un flujo de trabajo ordenado y una colaboración eficiente entre los miembros del equipo.</p>
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+En este sprint, correspondiente a la segunda fase de nuestro producto final, se logró desarrollar la aplicación web utilizando Angular y Angular Material, lo que permitió implementar una interfaz moderna y funcional. Además, se empleó JSON Server para simular una API que facilitó la gestión y visualización de datos durante el desarrollo del frontend.
+
+![evidence1](/Assets/sprints/evidence1.png)<br>
+
+![evidence2](/Assets/sprints/evidence2.png)<br>
+
+![evidence3](/Assets/sprints/evidence3.png)<br>
+
+![evidence4](/Assets/sprints/evidence4.png)<br>
+
+![evidence5](/Assets/sprints/evidence5.png)<br>
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+Para el desarrollo del Frontend en nuestra plataforma, utilizamos lo siguiente:
+
+- Angular: Este framework fue empleado para implementar el desarrollo del frontend de la aplicación web, permitiendo una estructura organizada y modular.
+
+- GitHub: Se utilizó como plataforma para almacenar y gestionar los avances del proyecto en un repositorio dedicado exclusivamente al frontend, lo que facilitó el seguimiento de los progresos y la identificación de los aportes de cada integrante del equipo.
+
+- WebStorm: Este IDE fue la herramienta principal utilizada para la creación y desarrollo del proyecto, ofreciendo un entorno eficiente y adaptado al trabajo con tecnologías web modernas.
+
+- Git: Se empleó como sistema de control de versiones, garantizando un registro ordenado de cada avance y permitiendo rastrear los cambios realizados a lo largo del desarrollo.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+A continuación, se presenta una descripción detallada del trabajo colaborativo realizado por el equipo durante este sprint. En esta etapa, se priorizó la comunicación constante, la organización de tareas y la cooperación en un entorno remoto. Se utilizaron diversas herramientas que facilitaron la coordinación, el seguimiento del progreso y la resolución oportuna de problemas, garantizando que todos los integrantes se mantuvieran alineados con los objetivos establecidos y comprometidos con la calidad del resultado final.
+
+Distribución de aportes en el informe:
+En esta sección se especifican las contribuciones individuales de cada miembro del equipo, destacando las responsabilidades asumidas y las tareas desarrolladas por cada uno durante el sprint.
+
+URL del repositorio para el Project Report:
+[1ASI0729-7401-2520-EcatLeasing-PcPedia/Report-PcPedia/tree/master](https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Report-PcPedia/tree/master)
+
+¿Cómo se han desarrollado las actividades de elaboración del informe?
+
+Para el desarrollo del sprint, se tuvo una reunion el cual el equipo decidio avanzar distintos puntos a la vez logrando maximixar el tiempo, posterior a eso se tuvo una reunion para poder observar los cambios y asi estar todos de acuerdo en la entrega del trabajo parcial.
+
+<table border="1" cellspacing="0" cellpadding="0">
+  <tr>
+    <th><strong>Integrante</strong></th>
+    <th><strong>Aporte en el informe</strong></th>
+  </tr>
+  <tr>
+    <td><strong>Jorge</strong></td>
+    <td>Revision y correccion del Capitulo IV y demas capitulos</td>
+  </tr>
+  <tr>
+    <td><strong>Sebastian</strong></td>
+    <td>Revision y correccion del Capitulo V y demas capitulos</td>
+  </tr>
+  <tr>
+    <td><strong>Alessandro</strong></td>
+    <td>Revision y correccion del Capitulo III y demas capitulos</td>
+  </tr>
+  <tr>
+    <td><strong>Matias</strong></td>
+    <td>Revision y correccion del Capitulo I y demas capitulos</td>
+  </tr>
+  <tr>
+    <td><strong>Rubens</strong></td>
+    <td>Revision y correccion del Capitulo II y demas capitulos</td>
+  </tr>
+</table>
 
 # Bibliografia
 
@@ -2122,8 +2354,6 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
 - Anexo 2: [Prototipo de Web](https://www.figma.com/proto/goeqlKKoDYuKbrXX4b2CPS/Untitled?node-id=86-2&p=f&t=Ijrku1hfs8lgLsyp-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=86%3A2)
 
 ## Conclusiones y recomendaciones
-
-# <<<<<<< HEAD
 
 <p>
 Durante el Sprint 1 del proyecto PcPedia, se lograron avances significativos en el diseño de la landing page, wireframes y mockups de la aplicación web, así como en la definición de la arquitectura de información, guías de estilo y análisis de competidores. Esto permitió establecer una base sólida y coherente para el desarrollo del producto, alineada con las necesidades de los usuarios y los objetivos estratégicos de la startup EcatLeasing. Se recomienda continuar con la validación temprana de la interfaz mediante pruebas de usabilidad, integrar retroalimentación constante del equipo y de usuarios, priorizar funcionalidades críticas como registro de usuarios, panel de administración y comparador de equipos, mantener la documentación actualizada en GitHub y utilizar herramientas ágiles para seguimiento de tareas, asegurando una coordinación efectiva y la calidad técnica del desarrollo en los siguientes sprints.
