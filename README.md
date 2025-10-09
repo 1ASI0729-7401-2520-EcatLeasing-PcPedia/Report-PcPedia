@@ -207,8 +207,6 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
   - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
 - [5.4. Video About-the-Product](#54-video-about-the-product)
 
-### [Conclusiones](#conclusiones)
-
 #### [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 
 #### [Video About-the-Team](#video-about-the-team)
@@ -827,7 +825,7 @@ Aquí se visualiza el diagrama de base de datos de ECAT Leasing. Este diagrama e
 # Anexo
 
 - Anexo 1: [Wireframe y Mock-up](https://www.figma.com/design/goeqlKKoDYuKbrXX4b2CPS/Untitled?node-id=0-1&t=e6PofK0oCr2471Qh-1)
-- Anexo 2: [Prototipo de Web](https://www.figma.com/proto/goeqlKKoDYuKbrXX4b2CPS/Untitled?node-id=48-653&p=f&t=tkI6cxLLsYZUxYM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=48%3A653)
+- Anexo 2: [Prototipo de Web](https://www.figma.com/proto/goeqlKKoDYuKbrXX4b2CPS/Untitled?node-id=86-2&p=f&t=Ijrku1hfs8lgLsyp-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=86%3A2)
 
 ## Conclusiones y recomendaciones
 
