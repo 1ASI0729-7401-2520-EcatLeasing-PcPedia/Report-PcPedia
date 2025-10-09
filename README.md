@@ -2104,6 +2104,17 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
 
 <p>Durante este sprint, se mantuvo una comunicación constante entre los miembros del equipo mediante reuniones semanales. Se utilizó <strong>GitHub</strong> para la gestión del código fuente y el seguimiento de tareas, y <strong>Trello</strong> para organizar el avance del sprint. Las tareas fueron gestionadas y completadas según las estimaciones, y la colaboración entre los miembros del equipo fue eficiente.</p>
 
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2
+#### 5.2.2.2. Aspect Leaders and Collaborators
+#### 5.2.2.3. Sprint Backlog 2
+#### 5.2.2.4. Development Evidence for Sprint Review
+#### 5.2.2.5. Execution Evidence for Sprint Review
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
 ## 5.3. Validation Interviews
 
 ### 5.3.1. Diseño de Entrevistas
