@@ -106,7 +106,7 @@ Cada miembro del equipo realizo cambios y mejoras en sus respectivas ramas de ac
 ![Network-report-tp1](Network_graph_tb1.png)
 
 **Network Insights landing page:** <br>
-![Network-landing-page-tp](Network_graph_tb1_landing.png)
+![Network-landing-page-tp](Network_graph_tb1_landing.PNG)
 
 **Contributors Insights front end:** <br>
 ![Commits-front-end-tp1]()
@@ -1808,13 +1808,13 @@ La **Landing Page** fue desarrollada utilizando tecnologías web estándar como 
 
 #### 5.2.1.1. Sprint Planning 1
 
-<p><strong>Fecha:</strong> 10 de abril de 2025</p>
+<p><strong>Fecha:</strong> 8 de octubre de 2025</p>
 <p><strong>Hora:</strong> 3:30 PM</p>
 <p><strong>Ubicación:</strong> Modalidad remota</p>
 <p><strong>Preparado por:</strong> Sebastián Hernández</p>
 <p><strong>Asistentes:</strong> Rubens Bendezu, Alessandro Ramiro, Jorge Retuerto, Matías Armestar, Sebastián Hernández</p>
 <p><strong>Objetivo del Sprint:</strong><br>
-El objetivo principal de este sprint es desarrollar la Landing Page (versión 1) con HTML y CSS, a partir del diseño preliminar realizado en Figma. Esta página servirá como el punto de entrada principal para la presentación de la startup. Además, se desarrollarán los wireframes de la app web y la landing page.</p>
+El objetivo principal de este sprint es desarrollar el front-end para la entrega de dicha version del informe, se modifico el figma para cumplir con las correcciones del profesor.</p>
 <p><strong>Sprint Velocity:</strong> 15</p>
 <p><strong>Sumatoria de Story Points:</strong> 15</p>
 
@@ -1830,23 +1830,23 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
   <tbody>
     <tr>
       <td><strong>Rubens Bendezu Navarro</strong></td>
-      <td>Punto 4.1-4.2 (Style Guidelines & Information Architecture), Análisis de Competidores, Plan de Estrategia</td>
+      <td>Capitulo II, segun las correcciones del profesora, Correccion y visualizacion de cada entrevista, ademas de colaborar con las vistas del front end</td>
     </tr>
     <tr>
       <td><strong>Alessandro Ramiro</strong></td>
-      <td>Mockup de la Landing Page, Desarrollo de la Landing Page Versión 1</td>
+      <td>Actualizar el sprint 2, revisar el reporte, reestrucutarar las ramas para que se vean ordenadas y correctas, aporto en la distribucion y implementacion del front end</td>
     </tr>
     <tr>
       <td><strong>Sebastián Hernández </strong></td>
-      <td>Wireframes de la Landing Page y App Web, Mockup de la App Web (Versión 1), Introducción sobre el negocio, Entrevistas</td>
+      <td>Inicio la plantilla para el front end, oriento a la vistas del front, ademas de la correccion del capitulo V</td>
     </tr>
     <tr>
       <td><strong>Jorge Retuerto Rodríguez</strong></td>
-      <td>Punto 2.4, 4.6.1 - 4.6.4 (Domain-Driven Design), Punto 4.7 (Software Object-Oriented Design)</td>
+      <td>Restructuro el capitulo III, ademas de implementar codigo en el front-end, reviso y corrigio en las vistas del front y en el informe</td>
     </tr>
     <tr>
       <td><strong>Matías Armestar</strong></td>
-      <td>Historias de Usuario (User Stories), User Personas, User Journey, Empathy Mapping</td>
+      <td>Restrucutracion y correccion del capitulo I ademas de colaborar y corregir el front end para su respectivo desarrollo</td>
     </tr>
   </tbody>
 </table>
@@ -1854,7 +1854,7 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
 <!-- Aspect Leaders and Collaborators - Sprint 1 (Tabla) -->
 <section id="sprint1-aspect-leaders">
   
-  <p>Distribución de responsabilidades durante el Sprint 1, indicando líderes de aspecto y sus colaboradores según las tareas asignadas:</p>
+  <p>Distribución de responsabilidades durante el Sprint 2, indicando líderes de aspecto y sus colaboradores según las tareas asignadas:</p>
   
   <table>
     <thead>
@@ -1907,6 +1907,7 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
         <th>Landing</th>
         <th>Deploy</th>
         <th>Documentación</th>
+        <th>Fron-end</th>
       </tr>
     </thead>
     <tbody>
@@ -1917,6 +1918,7 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
         <td>C</td>
         <td>-</td>
         <td>C</td>
+        <td>C</td>
       </tr>
       <tr>
         <td>Rubens Fitzgerald Bendezu Navarro</td>
@@ -1924,6 +1926,7 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
         <td>-</td>
         <td>-</td>
         <td>-</td>
+        <td>C</td>
         <td>C</td>
       </tr>
       <tr>
@@ -1933,6 +1936,7 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
         <td>C</td>
         <td>C</td>
         <td>-</td>
+        <td>C</td>
       </tr>
       <tr>
         <td>Jorge Manuel Retuerto Rodríguez</td>
@@ -1941,6 +1945,7 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
         <td>-</td>
         <td>-</td>
         <td>C</td>
+        <td>C</td>
       </tr>
       <tr>
         <td>Matías Gabriel Armestar Heredia</td>
@@ -1948,6 +1953,7 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
         <td>C</td>
         <td>-</td>
         <td>-</td>
+        <td>C</td>
         <td>C</td>
       </tr>
     </tbody>
@@ -2049,48 +2055,7 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
-<p><strong>Repositorio:</strong> GitHub - EcatLeasing/PcPedia</p>
-<p><strong>Rama:</strong> develop</p>
-<!-- Sección Landing -->
-<section>
-  <h2>Elaboración de Landing</h2>
-  <img src="landing1.png" alt="Landing Page">
-</section>
-
-<hr>
-
-<!-- Sección Reportes -->
-<section>
-  <h2>Reportes</h2>
-  <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-    <img src="report1.png" alt="Reporte 1">
-    <img src="report2.png" alt="Reporte 2">
-    <img src="report3.png" alt="Reporte 3">
-    <img src="report4.png" alt="Reporte 4">
-    <img src="report5.png" alt="Reporte 5">
-    <img src="report6.png" alt="Reporte 6">
-    <img src="report7.png" alt="Reporte 7">
-  </div>
-</section>
-
 #### 5.2.1.5. Execution Evidence for Sprint Review
-
-<p>El avance del sprint se evidencia en el repositorio de GitHub donde se subieron los siguientes archivos:</p>
-<ul>
-  <li><strong>Landing Page (Versión 1)</strong>: HTML y CSS desplegados en <a href="https://1asi0729-7401-2520-ecatleasing-pcpedia.github.io/LandingPage/">GitHub Pages</a>.</li>
-  <li><strong>Wireframes y Mockups</strong>: Los wireframes de la landing page y la app web, junto con los mockups, están documentados en el repositorio.</li>
-</ul>
-
-<!-- Sección Demostración de ejecución de la Landing -->
-<section>
-  <h2>Demostración de ejecución de la Landing</h2>
-  <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-    <img src="landing2.png" alt="Landing Page 2">
-    <img src="landing3.png" alt="Landing Page 3">
-    <img src="landing4.png" alt="Landing Page 4">
-    <img src="landing5.png" alt="Landing Page 5">
-  </div>
-</section>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -2098,21 +2063,39 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-<p>La Landing Page fue desplegada en GitHub Pages, y está accesible a través del siguiente enlace: <a href="https://1asi0729-7401-2520-ecatleasing-pcpedia.github.io/LandingPage/">Enlace a la Landing Page</a></p>
-
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
-<p>Durante este sprint, se mantuvo una comunicación constante entre los miembros del equipo mediante reuniones semanales. Se utilizó <strong>GitHub</strong> para la gestión del código fuente y el seguimiento de tareas, y <strong>Trello</strong> para organizar el avance del sprint. Las tareas fueron gestionadas y completadas según las estimaciones, y la colaboración entre los miembros del equipo fue eficiente.</p>
+<p>En esta entrega, el equipo se enfocó en el desarrollo del <strong>frontend</strong>, manteniendo una comunicación constante y efectiva a lo largo del proceso. El trabajo se realizó de manera <strong>remota</strong>, coordinando las actividades mediante reuniones semanales y el uso de herramientas colaborativas. <strong>GitHub</strong> fue utilizado para la gestión del código fuente y el control de versiones, mientras que <strong>Trello</strong> permitió organizar y monitorear el progreso de las tareas del sprint. Las actividades se completaron conforme a las estimaciones planificadas, garantizando un flujo de trabajo ordenado y una colaboración eficiente entre los miembros del equipo.</p>
 
-## 5.3. Validation Interviews
+### 5.2.2. Sprint 2
 
-### 5.3.1. Diseño de Entrevistas
+#### 5.2.2.1. Sprint Planning 2.
 
-### 5.3.2. Registro de Entrevistas
+<p><strong>Fecha:</strong> 10 de abril de 2025</p>
+<p><strong>Hora:</strong> 3:30 PM</p>
+<p><strong>Ubicación:</strong> Modalidad remota</p>
+<p><strong>Preparado por:</strong> Sebastián Hernández</p>
+<p><strong>Asistentes:</strong> Rubens Bendezu, Alessandro Ramiro, Jorge Retuerto, Matías Armestar, Sebastián Hernández</p>
+<p><strong>Objetivo del Sprint:</strong><br>
+El objetivo principal de este sprint es desarrollar la Landing Page (versión 1) con HTML y CSS, a partir del diseño preliminar realizado en Figma. Esta página servirá como el punto de entrada principal para la presentación de la startup. Además, se desarrollarán los wireframes de la app web y la landing page.</p>
+<p><strong>Sprint Velocity:</strong> 15</p>
+<p><strong>Sumatoria de Story Points:</strong> 15</p>
 
-### 5.3.3. Evaluaciones según heurísticas
+#### 5.2.2.2. Aspect Leaders and Collaborators.
 
-## 5.4. Video About-the-Product
+#### 5.2.2.3. Sprint Backlog 2.
+
+#### 5.2.2.4. Development Evidence for Sprint Review.
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+<p>No se implementaron servicios backend en este sprint, ya que el enfoque estuvo en el desarrollo en el front-end.</p>
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
 
 # Bibliografia
 
