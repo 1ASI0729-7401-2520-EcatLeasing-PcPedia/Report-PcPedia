@@ -2108,17 +2108,98 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
 
 #### 5.2.2.1. Sprint Planning 2
 
-<p><strong>Fecha:</strong> 01 de octubre de 2025</p>
-<p><strong>Hora:</strong> 3:30 PM</p>
-<p><strong>Ubicación:</strong> Modalidad remota</p>
-<p><strong>Preparado por:</strong> Sebastián Hernández</p>
-<p><strong>Asistentes:</strong> Rubens Bendezu, Alessandro Ramiro, Jorge Retuerto, Matías Armestar, Sebastián Hernández</p>
-<p><strong>Objetivo del Sprint:</strong><br>
-Desarrollar las funcionalidades principales del frontend de PcPedia, incluyendo visualización de informers, listado de contratos y configuración de perfile.</p>
-<p><strong>Sprint Velocity:</strong> 15</p>
-<p><strong>Sumatoria de Story Points:</strong> 15</p>
-
 #### 5.2.2.2. Aspect Leaders and Collaborators
+
+<table>
+  <thead>
+    <tr>
+      <th>Integrante</th>
+      <th>Tareas Principales Realizadas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Rúbens Bendezu Navarro</strong></td>
+      <td>Desarrollo del apartado de Contratos</td>
+    </tr>
+    <tr>
+      <td><strong>Alessandro Condori</strong></td>
+      <td>Mockup de la Landing Page, Desarrollo de la Landing Page Versión 1</td>
+    </tr>
+    <tr>
+      <td><strong>Sebastián Hernández </strong></td>
+      <td>Desarrollo del apartado de Login e Inicio (vista principal)</td>
+    </tr>
+    <tr>
+      <td><strong>Jorge Retuerto Rodríguez</strong></td>
+      <td>Desarrollo del apartado de Informes</td>
+    </tr>
+    <tr>
+      <td><strong>Matias Armestar</strong></td>
+      <td>Desarrollo del apartado de Perfil e implementación de Language Switcher</td>
+    </tr>
+  </tbody>
+</table>
+
+<section id="sprint2-aspect-leaders">
+  <p>Distribución de responsabilidades durante el Sprint 1 según las tareas asignadas:</p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Integrante</th>
+        <th>GitHub</th>
+        <th>UI Design</th>
+        <th>Front-end</th>
+        <th>Deployment</th>
+        <th>Documentación</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Sebastián Eduardo Hernández Poma</td>
+        <td>C</td>
+        <td>L</td>
+        <td>C</td>
+        <td>-</td>
+        <td>C</td>
+      </tr>
+      <tr>
+        <td>Rubens Fitzgerald Bendezu Navarro</td>
+        <td>C</td>
+        <td>-</td>
+        <td>C</td>
+        <td>-</td>
+        <td>C</td>
+      </tr>
+      <tr>
+        <td>Alessandro Ramiro Condori Lozano</td>
+        <td>C</td>
+        <td>-</td>
+        <td>C</td>
+        <td>-</td>
+        <td>C</td>
+      </tr>
+      <tr>
+        <td>Jorge Manuel Retuerto Rodríguez</td>
+        <td>C</td>
+        <td>L</td>
+        <td>C</td>
+        <td>L</td>
+        <td>C</td>
+      </tr>
+      <tr>
+        <td>Matías Gabriel Armestar Heredia</td>
+        <td>C</td>
+        <td>-</td>
+        <td>C</td>
+        <td>-</td>
+        <td>C</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
 #### 5.2.2.3. Sprint Backlog 2
 #### 5.2.2.4. Development Evidence for Sprint Review
 #### 5.2.2.5. Execution Evidence for Sprint Review
