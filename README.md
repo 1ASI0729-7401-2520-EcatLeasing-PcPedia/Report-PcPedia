@@ -2185,7 +2185,6 @@ En este sprint se tiene como objetivo desarrollar el frontend de PcPedia porque 
 #### 5.2.2.3. Sprint Backlog 2.
 
 <!-- ================== SPRINT BACKLOG 2 ================== -->
-<h2>🚀 Sprint Backlog 2 – ECAT Leasing Web App</h2>
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
@@ -2307,6 +2306,45 @@ Para el desarrollo del Frontend en nuestra plataforma, utilizamos lo siguiente:
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+A continuación, se presenta una descripción detallada del trabajo colaborativo realizado por el equipo durante este sprint. En esta etapa, se priorizó la comunicación constante, la organización de tareas y la cooperación en un entorno remoto. Se utilizaron diversas herramientas que facilitaron la coordinación, el seguimiento del progreso y la resolución oportuna de problemas, garantizando que todos los integrantes se mantuvieran alineados con los objetivos establecidos y comprometidos con la calidad del resultado final.
+
+Distribución de aportes en el informe:
+En esta sección se especifican las contribuciones individuales de cada miembro del equipo, destacando las responsabilidades asumidas y las tareas desarrolladas por cada uno durante el sprint.
+
+URL del repositorio para el Project Report:
+[1ASI0729-7401-2520-EcatLeasing-PcPedia/Report-PcPedia/tree/master](https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Report-PcPedia/tree/master)
+
+¿Cómo se han desarrollado las actividades de elaboración del informe?
+
+Para el desarrollo del sprint, se tuvo una reunion el cual el equipo decidio avanzar distintos puntos a la vez logrando maximixar el tiempo, posterior a eso se tuvo una reunion para poder observar los cambios y asi estar todos de acuerdo en la entrega del trabajo parcial.
+
+<table border="1" cellspacing="0" cellpadding="0">
+  <tr>
+    <th><strong>Integrante</strong></th>
+    <th><strong>Aporte en el informe</strong></th>
+  </tr>
+  <tr>
+    <td><strong>Jorge</strong></td>
+    <td>Revision y correccion del Capitulo IV y demas capitulos</td>
+  </tr>
+  <tr>
+    <td><strong>Sebastian</strong></td>
+    <td>Revision y correccion del Capitulo V y demas capitulos</td>
+  </tr>
+  <tr>
+    <td><strong>Alessandro</strong></td>
+    <td>Revision y correccion del Capitulo III y demas capitulos</td>
+  </tr>
+  <tr>
+    <td><strong>Matias</strong></td>
+    <td>Revision y correccion del Capitulo I y demas capitulos</td>
+  </tr>
+  <tr>
+    <td><strong>Rubens</strong></td>
+    <td>Revision y correccion del Capitulo II y demas capitulos</td>
+  </tr>
+</table>
 
 # Bibliografia
 
