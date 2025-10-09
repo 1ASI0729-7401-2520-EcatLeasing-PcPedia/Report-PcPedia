@@ -207,8 +207,6 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
   - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
 - [5.4. Video About-the-Product](#54-video-about-the-product)
 
-### [Conclusiones](#conclusiones)
-
 #### [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 
 #### [Video About-the-Team](#video-about-the-team)
@@ -709,55 +707,401 @@ _Estadística de la problemática_
 
 ### 4.1.1. General Style Guidelines
 
+**Tipografía**
+
+| Uso | Fuente | Ejemplo visual |
+|-----|--------|----------------|
+| Encabezados (H1, H2) | **Anton** | TÍTULO PRINCIPAL |
+| Subtítulos / Botones | **Antonio** | Subtítulo / Acción |
+| Texto general | Sans Serif del sistema | Texto de párrafo estándar |
+
+**Paleta de Colores**
+
+| Color | Hex | Uso |
+|--------|------|-----|
+| Azul principal | `#1A3458` | Headers, barra de navegación, botones primarios |
+| Azul base claro | `#F2F6FF` | Fondos generales, secciones amplias, cards |
+| Negro | `#000000` | Texto sobre fondos claros |
+| Blanco | `#FFFFFF` | Texto sobre fondos oscuros, íconos |
+| Escala de grises | `#333333` ‒ `#DDDDDD` | Wireframes, bordes, placeholders |
+
+**Espaciado y consistencia**
+
+- Márgenes y paddings en múltiplos de 8 px.
+- Bordes redondeados de 8 px para botones y tarjetas.
+- Sombras suaves (“box-shadow” ligero) para elementos elevados como cards o modales.
+
+---
+
 ### 4.1.2. Web Style Guidelines
+
+**Componentes principales**
+
+| Componente | Estilo visual |
+|------------|----------------|
+| Botón primario | Fondo `#1A3458`, texto `#FFFFFF`, borde redondeado 8 px |
+| Botón secundario | Fondo `#F2F6FF`, texto `#1A3458` |
+| Enlace | Texto `#1A3458`, subrayado al pasar el cursor |
+| Tarjeta (Card) | Fondo `#F2F6FF`, título en Anton, contenido en negro, sombra ligera |
+| Barra de navegación | Fondo `#1A3458`, texto y logo en blanco |
+| Footer | Fondo gris oscuro (`#333333`), texto en blanco |
+
+**Accesibilidad**
+
+- Contraste de al menos **4.5:1** entre texto y fondo.
+- Tipografía legible, tamaño mínimo 16px para textos largos.
+- Asegurar buen contraste también en estados hover/focus.
+
+---
 
 ## 4.2. Information Architecture
 
 ### 4.2.1. Organization Systems
 
+En esta sección se definen los sistemas de organización que permitirán estructurar y etiquetar el contenido de manera que resulte comprensible y fácil de encontrar para los usuarios. La organización de la información en *PcPedia* busca adaptarse a las necesidades tanto de estudiantes de ingeniería, técnicos de soporte como de usuarios entusiastas de hardware.
+
+**Jerarquía de contenido:**  
+Se aplica una jerarquía visual que da prioridad a los componentes principales que los usuarios buscan con mayor frecuencia. Las secciones destacadas en la interfaz incluyen categorías como Procesadores, Tarjetas Gráficas, Memorias RAM, Almacenamiento, Placas Base y Periféricos. Cada categoría cuenta con subcategorías; por ejemplo, dentro de Procesadores, se diferencian líneas como Intel Core i3, i5, i7 e i9, así como AMD Ryzen 5, 7 y 9. Esta jerarquía ayuda al usuario a identificar rápidamente dónde debe dirigirse según su necesidad.
+
+**Organización secuencial:**  
+El flujo de interacción acompaña al usuario en pasos lógicos: buscar un componente, revisar sus especificaciones técnicas, compararlo con otro producto y finalmente visualizar recomendaciones relacionadas. Este proceso está diseñado para ser intuitivo, de manera que los usuarios puedan tomar decisiones rápidas sin perderse entre pantallas o exceso de información.
+
+**Organización matricial:**  
+Se complementa con un menú y estructura de navegación que permiten combinar distintas dimensiones de filtrado. Por ejemplo, un usuario puede entrar a la categoría “Laptops”, aplicar un filtro por marca “ASUS” y luego ajustar por rango de precio. De esta forma, un mismo producto puede encontrarse a través de múltiples caminos, garantizando accesibilidad para diferentes perfiles de usuario.
+
+---
+
 ### 4.2.2. Labeling Systems
+
+En *PcPedia*, los sistemas de etiquetado son fundamentales para asegurar claridad y consistencia en la experiencia de navegación. Todas las secciones utilizan labels simples y familiares para la audiencia: “Procesadores”, “Tarjetas Gráficas”, “Almacenamiento” y “Comparador” se ubican en el menú superior, evitando términos técnicos confusos o redundantes.
+
+Cada ficha de producto incluye etiquetas técnicas claras como “Frecuencia (GHz)”, “Número de núcleos”, “VRAM” o “Tipo de memoria”. Estas etiquetas permiten que tanto un usuario novato como un experto comprendan la información sin ambigüedades. Asimismo, los botones de acción presentan mensajes directos como “Comparar”, “Ver más” o “Agregar a favoritos”, reforzando la orientación en cada paso.
+
+Gracias a este sistema, el usuario puede navegar de manera fluida y sin necesidad de decodificar terminología compleja.
+
+---
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+La plataforma *PcPedia* incorpora metaetiquetas que mejoran su posicionamiento en motores de búsqueda y aseguran que la información se interprete correctamente en navegadores.
+
+- **Title:** cada página cuenta con un título descriptivo, por ejemplo: *“PcPedia – Comparador de Procesadores y Hardware de PC”*.
+- **Codificación de caracteres:** se utiliza UTF-8 para mostrar adecuadamente caracteres especiales y símbolos técnicos.
+- **Description:** cada página integra un resumen breve y atractivo, como *“Encuentra y compara procesadores Intel y AMD con especificaciones actualizadas y comparaciones en tiempo real”*.
+- **Keywords:** se incluyen términos clave como “procesadores”, “tarjetas gráficas”, “comparador de hardware” para mejorar la indexación.
+- **Author y Copyright:** detallan el equipo desarrollador y derechos reservados.
+
+Estas prácticas garantizan que *PcPedia* sea visible en búsquedas relevantes y transmita confianza a sus usuarios desde el primer contacto.
+
+---
+
 ### 4.2.4. Searching Systems
 
+Uno de los aspectos más relevantes de *PcPedia* es la capacidad de localizar rápidamente componentes específicos dentro de un catálogo amplio. Para ello, se ha diseñado un sistema de búsqueda con varias funcionalidades:
+
+- **Barra de búsqueda global:** permite ingresar directamente el nombre del componente (ej. “Ryzen 7 5800X”).
+- **Autocompletado con sugerencias:** mientras el usuario escribe, se despliegan coincidencias relevantes como modelos y marcas.
+- **Filtros dinámicos:** posibilitan refinar los resultados por precio, fabricante, fecha de lanzamiento o nivel de rendimiento.
+- **Historial de búsqueda:** los usuarios registrados pueden guardar búsquedas previas y repetirlas con un solo clic.
+- **Comparación directa:** desde la búsqueda, los resultados pueden enviarse al comparador sin necesidad de pasos adicionales.
+
+Este sistema asegura que los usuarios no pierdan tiempo navegando por múltiples menús y puedan acceder a la información que necesitan de forma inmediata.
+
+---
+
 ### 4.2.5. Navigation Systems
+
+La navegación en *PcPedia* está diseñada para ser clara, responsiva y adaptada a distintos dispositivos. El menú principal superior incluye accesos a las secciones más relevantes: Inicio, Categorías, Comparador, Noticias y Ayuda. Esta estructura permite un acceso rápido a las funciones esenciales sin saturar al usuario.
+
+En categorías extensas, se incluyen **submenús desplegables** y **breadcrumbs (migas de pan)** que indican la ruta actual del usuario (ej. Inicio > Tarjetas Gráficas > NVIDIA). Esto ayuda a que siempre sepan dónde se encuentran dentro de la jerarquía.
+
+Para dispositivos móviles se implementa un **menú hamburguesa**, donde las opciones aparecen en un panel lateral optimizado para pantallas pequeñas. En el footer se añaden accesos a contacto, políticas de privacidad, redes sociales y mapa del sitio, lo que refuerza la usabilidad.
+
+Finalmente, los botones de acción (ej. “Comparar ahora”, “Agregar a favoritos”) se distribuyen en posiciones estratégicas para que la navegación no solo sea informativa, sino también orientada a la interacción constante del usuario.
+
+---
 
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
 
+Los wireframes son representaciones de baja fidelidad que muestran la estructura y disposición de los elementos principales de la aplicación web.
+
+A continuación, presentaremos los wireframe de nuestra landing page como guía del diseño que haremos en los siguientes paso:
+
+
+- Captura 1
+
+![Wireframe1.png](/Assets/Chapter4/Wireframe-1.png)
+
+- Captura 2
+
+![Wireframe2.png](/Assets/Chapter4/Wireframe-2.png)
+
+- Captura 3
+
+![Wireframe3.png](/Assets/Chapter4/Wireframe-3.png)
+
+- Captura 4
+
+![Wireframe4.png](/Assets/Chapter4/Wireframe-4.png)
+
+- Captura 5
+
+![Wireframe5.png](/Assets/Chapter4/Wireframe-5.png)
+
+Para más detalle, revisar el anexo 1.
+
 ### 4.3.2. Landing Page Mock-up.
+
+El Mock-up de la Landing Page es una representación de alta fidelidad de la página de inicio, donde se aplican colores, tipografía, iconografía y estilos que transmiten la identidad visual corporativa. Este mock-up permite visualizar cómo se verán realmente los componentes descritos en el wireframe.
+
+Este mock-up refleja la versión estilizada que un usuario final verá al ingresar, integrando la experiencia visual con la navegación lateral.
+
+- Captura 1
+
+![MockUp1.png](/Assets/Chapter4/Mock-up1.png)
+
+- Captura 2
+
+![MockUp2.png](/Assets/Chapter4/Mock-up2.png)
+
+- Captura 3
+
+![MockUp3.png](/Assets/Chapter4/Mock-up3.png)
+
+- Captura 4
+
+![MockUp4.png](/Assets/Chapter4/Mock-up4.png)
+
+Para más detalle, revisar el anexo 1.
+
 
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
 
+Anteriormente se mostraron los wireframes de la landing page del proyecto, ahora mostraremos el diseño de bajo nivel de fidelidad de la web de nuestro proyecto.
+
+En primer lugar, mostraremos los elementos que se podran encontrar en nuestra web.
+
+- Login, Usuario, Contraseña y Botón de acceso
+- Pantalla de inicio de sesión con campos básicos de autenticación.
+- Inicio Bienvenida Historia Servicios
+- Landing de bienvenida con mensaje principal, historia y servicios.
+- Dashboard Gráfico por modelo Gráfico por marca Exportar
+- Panel de control con métricas de activos y opción de exportar.
+- Contratos Tarjetas Estados
+- Vista de contratos listados como tarjetas.
+- Perfil Avatar Datos Configuración
+- Página de perfil con información y opciones de configuración.
+- Partners Novedades 
+- Sección de socios y novedades corporativas.
+
+**Vista 1**
+
+![WireframeWeb1.png](/Assets/Chapter4/WireframeWeb1.png)
+
+**Vista 2**
+
+![WireframeWeb2.png](/Assets/Chapter4/WireframeWeb2.png)
+
+**Vista 3**
+
+![WireframeWeb3.png](/Assets/Chapter4/WireframeWeb3.png)
+
+**Vista 4**
+
+![WireframeWeb4.png](/Assets/Chapter4/WireframeWeb4.png)
+
+**Vista 5**
+
+![WireframeWeb5.png](/Assets/Chapter4/WireframeWeb5.png)
+
+**Vista 6**
+
+![WireframeWeb6.png](/Assets/Chapter4/WireframeWeb6.png)
+
+Para más detalle, revisar el anexo 1.
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+![WireframeWeb.png](/Assets/Chapter4/WireframeWeb.png)
 
 ### 4.4.3. Web Applications Mock-ups
 
+Finalmente, presentamos el modelo de alta fidelidad de nuestra pagina web:
+
+**Vista 1**
+
+![Mock-upWeb1.png](/Assets/Chapter4/Mock-upWeb1.png)
+
+**Vista 2**
+
+![Mock-upWeb2.png](/Assets/Chapter4/Mock-upWeb2.png)
+
+**Vista 3**
+
+![Mock-upWeb3.png](/Assets/Chapter4/Mock-upWeb3.png)
+
+**Vista 4**
+
+![Mock-upWeb4.png](/Assets/Chapter4/Mock-upWeb4.png)
+
+**Vista 5**
+
+![Mock-upWeb5.png](/Assets/Chapter4/Mock-upWeb5.png)
+
+**Vista 6**
+
+![Mock-upWeb6.png](/Assets/Chapter4/Mock-upWeb6.png)
+
+**Vista 7**
+
+![Mock-upWeb7.png](/Assets/Chapter4/Mock-upWeb7.png)
+
 ### 4.4.4. Web Applications User Flow Diagrams
 
+![Mock-upWeb.png](/Assets/Chapter4/Mock-upWeb.png)
+
 ## 4.5. Web Applications Prototyping
+
+El prototipo de la aplicación web adjunta la representación visual anteriomente mostrada y la vuelve interactiva, pero sin tener código real detrás.
+
+Para este proyecto, usamos figma para hacer el prototipo de la aplicación web. Véase el anexo 2 para mayor información. 
 
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Design-Level Event Storming
 
+El diseño por niveles del Event Storming es una técnica colaborativa, similar al Big Picture, pero más profunda que busca especificar los Bounded Context pertenecientes al negocio. En otras palabras, DLES es una técnica perteneciente al Domain Driven Design que nos permitirá entender los microservicios de nuestro negocio a un nivel mucho más específico que en un Big Picture.
+
+A continuación, presentaremos los pasos a seguir para ejecutar la técnica:
+
+En los primeros pasos, reutilizamos lo planteado en el Big Picture Event Storming.
+
+**a. Unstructured Exploration**
+
+![UnstructuredExploration.png](/Assets/Chapter2/UnstructuredExploration.png)
+
+**b. Chronology**
+
+![Chronology.png](/Assets/Chapter2/Chronology.png)
+
+**c. Pain Points**
+
+![PainPoints.png](/Assets/Chapter2/PainPoints.png)
+
+Para los siguientes pasos, nos tuvimos que reunir nuevamente para asignar roles a los elementos del negocio.
+
+**d. Commands**
+
+Los comandos son acciones que nosotros o el usuario podría hacer dentro del sistema, en su mayoría, resultando en eventos. Siguiendo las técnicas su color es "azul".
+
+Los comandos más importante en nuestro negocio serán la generación de incidentes, devoluciones y compras que desencadenan la mayoría de eventos y relaciones en nuestro sistema.
+
+![Commands.png](/Assets/Chapter4/Commands.png)
+
+**e. Pivotal**
+
+Pivotal es un término usado para denotar los eventos importantes sucedidos en el negocio. Siguiendo la técnica su color es "rojo" y se denota con una línea en el evento designado.
+
+En nuestro sistema, notamos momentos Pivotal en los eventos de creación de usuario, la validación de compra, cuando se solucionan incidentes y cuando finalizan los procesos de devolución o mantenimiento. Debido a que se relacionan con la validación de datos, finanzas y experiencia del cliente.
+
+![Pivotal.png](/Assets/Chapter4/Pivotal.png)
+
+**f. Policies**
+
+Policies se refiere a las políticas de nuestro sistema, en que cosas estaremos obligados a hacer. Siguiendo la técnica su color es "morado".
+
+En nuestro sistema, la manera en la que hemos hecho las políticas son siguiendo un orden causal: si sucede "x", entonces debemos hacer "y". Por ejemplo, si se inicializa una compra, debemos informar a nuestro usuario mediante los canales prestados: SMS o correoeléctronico, la razón de esta politica sería para ofrecer un método de seguridad y protección a la cuenta de nuestro usuario y sus finanzas.
+
+![Policies.png](/Assets/Chapter4/Policies.png)
+
+**g. Read Models**
+
+Read Models, en sí, no tienen lógica dentro del negocio, sino que son etiquetas que buscan apoyar la descripción de datos del sistema. Siguiendo la técnica son de color "verde".
+
+En nuestro sistema, usamos este tipo de etiquetas para funciones sencillas como describir datos que ingresa el usuario, como interactua un comando y descripciones de eventos más detallada.
+
+![ReadModels.png](/Assets/Chapter4/ReadModels.png)
+
+**h. External System**
+
+External System, como su nombre dice, son sistemas externos de los cuales nuestra aplicación se podrá apoyar. Siguiendo la técnica su color es "rojo pálido".
+
+En nuestro sistema, usaremos Outlook y Visa como sistemas externos como medio de comunicación y método de pago respectivamente.
+
+![ExternalSystem.png](/Assets/Chapter4/ExternalSystem.png)
+
+**i. Aggregates**
+
+Aggregates es una etiqueta muy especial, pues es una de las más importantes dentro del DDD y Event Storming. Representa a un objeto el cual podrá hacer los comandos, pero se diferencia de una entidad, debidoa a que estará compuestos de otros elemetos. Siguiendo la técnica su color es "amarillo" y tiene una forma alargada.
+
+Dentro del sistema, podemos denotar aggregates como Usuario, Incidente, Mantenimiento, Devolución y Orden de compra. Todos son aggregates, debido a que están compuestos de elementos anteriores a su existencia como información de usuario, incidente, mantenimiento, devolución y compra respectivamente.
+
+![Aggregates.png](/Assets/Chapter4/Aggregates.png)
+
+**j. Bounded Context**
+
+Finalmente, Bounded Context es el décimo y último paso de este tipo de diseño, se encargará de seccionar los elementos y crear un contexto en el que cada uno pueda desarrollarse.
+
+Dentro de nuestro sistema, encontramos 4 bounded context que son los siguientes:
+
+![BoundedContext,png](/Assets/Chapter4/BoundedContext.png)
+
+- **Bounded Context: Gestión de Usuario**
+
+![BoundedContextU.png](/Assets/Chapter4/BoundedContextGestUsuario.png)
+
+- **Bounded Context: Gestión de Inventario**
+
+![BoundedContextI.png](/Assets/Chapter4/BoundedContextGestInventario.png)
+
+- **Bounded Context: Gestión de Ventas**
+
+![BoundedContextV.png](/Assets/Chapter4/BoundedContextGestVentas.png)
+
+- **Bounded Context: Gestión de Servicio al cliente**
+
+![BoundedContextS.png](/Assets/Chapter4/BoundedContextGestServicio.png)
+
 ### 4.6.2. Software Architecture Context Diagram
+
+El diagrama de contexto es uno que trata en alto nivel, o sea de manera superficial el negocio. Por ejemplo, en nuestro caso, podemos ver las personas que interactuaran con nuestro sistema, el sistema y los sistemas externos que nos ayudaran a conseguir los objetivos del negocio.
+
+![Diagram_C1.png](/Assets/Chapter4/Diagram_C1.png)
 
 ### 4.6.3. Software Architecture Container Diagrams
 
+El diagrama de contenedores es similar al de contexto, pero descomponiendo nuestro sistema en los servicios que lo compondran. En este caso, nuestro sistema estara compuesto por 2 páginas web: Customer y Staff, separamos a los clientes de la web en la que se trabajará en el negocio.
+
+![Diagram_C2.png](/Assets/Chapter4/Diagram_C2.png)
+
 ### 4.6.4. Software Architecture Components Diagrams
+
+Finalmente, el diagrama de componentes nos ayuda a describir a los componentes internos, siendo el que decidimos elegir como el más importante el API.
+
+Dentro podemos ver modulos o, interpretandolo con el DDD, bounded context donde se seguiria la misma logica mostrada en el Event Storming.
+
+![Diagram_C3.png](/Assets/Chapter4/Diagram_C3.png)
 
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
 
+Aquí se visualiza el diagrama de clases de ECAT Leasing. Este diagrama es una representación gráfica estática que muestra la estructura de un sistema de software, detallando las clases, sus atributos, operaciones y las relaciones existentes entre ellas.
+
+![ClassDiagram.png](/Assets/Chapter4/Class_Diagram.png)
+
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
+
+Aquí se visualiza el diagrama de base de datos de ECAT Leasing. Este diagrama es una representación visual que muestra la estructura, las tablas, columnas y las relaciones entre ellos dentro de un sistema de base de datos, también se le conoce como esquema de base de datos.
+
+![DataBaseDiagram.png](/Assets/Chapter4/Database_Diagram.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -801,6 +1145,12 @@ _Estadística de la problemática_
 
 ## 5.4. Video About-the-Product
 
-# Conclusiones
+# Bibliografia
+
+# Anexo
+
+- Anexo 1: [Wireframe y Mock-up](https://www.figma.com/design/goeqlKKoDYuKbrXX4b2CPS/Untitled?node-id=0-1&t=e6PofK0oCr2471Qh-1)
+- Anexo 2: [Prototipo de Web](https://www.figma.com/proto/goeqlKKoDYuKbrXX4b2CPS/Untitled?node-id=86-2&p=f&t=Ijrku1hfs8lgLsyp-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=86%3A2)
 
 ## Conclusiones y recomendaciones
+
