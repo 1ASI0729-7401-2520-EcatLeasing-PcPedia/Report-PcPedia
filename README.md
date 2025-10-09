@@ -223,9 +223,13 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 ### 1.1.1 Descripción de la Startup
 
-**Misión**:
+ECAT Leasing es una startup dedicada a transformar la manera en que las organizaciones acceden y gestionan su tecnología. Nuestro producto principal, Smart Leasing, ofrece un modelo de arrendamiento inteligente que garantiza a empresas y al sector educativo contar siempre con equipos actualizados, evitando la carga de la obsolescencia tecnológica. A través de planes flexibles, brindamos no solo el acceso a hardware moderno, sino también un ecosistema de servicios de valor agregado que incluye soporte técnico especializado, mantenimiento preventivo y correctivo, gestión de garantías y atención ágil a incidencias.
 
-**Visión**:
+Además, comprendemos que cada empresa tiene necesidades y presupuestos distintos. Por ello, incorporamos dentro de Smart Leasing el servicio que evalúa los recursos, procesos y objetivos de cada cliente para recomendar los equipos más eficientes y rentables, asegurando que inviertan solo en lo que realmente necesitan. De esta manera, ECAT Leasing se convierte en un socio estratégico que simplifica la gestión de TI, optimiza los costos y permite que nuestros clientes se concentren en lo más importante: el crecimiento de su negocio.
+
+**Misión**: Facilitar la vida de las empresas haciéndonos cargo de sus activos de TI, brindando equipos siempre actualizados con nuestro servicio de Smart Leasing, junto con soporte, mantenimiento y gestión de garantías, para que nuestros clientes se concentren en crecer sin preocuparse por la tecnología.
+
+**Visión**: Ser la empresa referente en Latinoamérica en servicios de arrendamiento tecnológico inteligente, simplificando la gestión de activos TI y ayudando a las organizaciones a enfocarse en su crecimiento, mientras nosotros garantizamos que su tecnología esté siempre actualizada, optimizada y respaldada.
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
@@ -246,97 +250,197 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 Para realizar los antecedentes y problemáticas, se realizó con anticipación la técnica 5 ‘W’s & 2 ‘H’s:
 
-**What**:
+**What**: El problema de la rápida obsolescencia tecnológica que enfrentan empresas y organizaciones, obligadas a invertir constantemente en nuevos equipos y a gestionar activos de TI de manera compleja y costosa.
 
-**When**:
+**When**: Actualmente, en un contexto donde los ciclos de actualización tecnológica se reducen a 1–2 años y las aplicaciones requieren hardware cada vez más potente.
 
-**Where**:
+**Where**: En empresas de distintos tamaños (pequeñas, medianas y grandes) y en instituciones educativas, especialmente en el Perú y con proyección a Latinoamérica.
 
-**Who**:
+**Who**: Los principales afectados son las organizaciones que no cuentan con presupuestos flexibles ni con áreas de TI especializadas para gestionar correctamente la elección, uso y renovación de sus equipos.
 
-**Why**:
+**Why**: Porque la constante necesidad de actualización genera altos costos, dificulta la gestión de activos y provoca que muchas empresas gasten de más en equipos que no aprovechan, o compren dispositivos insuficientes para sus necesidades reales.
 
-**How**:
+**How**: Las empresas suelen comprar equipos sin una evaluación estratégica, gestionando por sí mismas la garantía, el mantenimiento y la reposición, lo que aumenta el tiempo y los recursos dedicados a la administración de TI.
 
-**How much**:
-
-_Estadística de la problemática_
+**How much**: El impacto se traduce en gastos significativos de capital (CapEx), sobrecostos en soporte y mantenimiento, pérdida de productividad y baja eficiencia en el aprovechamiento de la inversión tecnológica.
 
 ### 1.2.2 Lean UX Process
+
+A continuacion se presentara la solucion al Lean UX que usaremos para poder desarrollar adecuadamente nuestro proyecto y ademas poder definir nuestro mercado objetivo.
 
 #### 1.2.2.1. Lean UX Problem Statements
 
 **Problem Statement 1:**
 
+Actualmente las empresas en el Peru y latinoamerica estan enfrentando una alta obsolescencia tecnologica, esto esta obligando a invertir rapidamente en actualizaciones, cambios y compras de nuevos equipos costosos y de mayor gama. Estas situaciones generan gastos altos de capital, reduce la productividad comprometiendo la competitividad, ya que muchas organizaciones adquieren dispositivos baratos sin cubrir verdaderamente sus necesidades actuales y a futuro, sin poder tener una escalabilidad correcta.
+
 **Problem Statement 2:**
+
+Una gran mayoria de organizaciones no ven necesario contar con un area TI especializada y de un modelo estrategico para poder administrar sus equipos. Esto genera a comprar equipos sin realmente cubrir sus necesidades, dificultades en la gestion de garantias y mantenimientos, asi como sobrecostos ocultos en soporte y reposicion de equipos, lo que distra a las empresas de su objetivo principal: crecer.
 
 #### 1.2.2.2. Lean UX Assumptions
 
 **Business Outcomes:**
 
-- **Creemos que mis usuarios necesitan**
+- **Creemos que mis usuarios necesitan** gestionar correctamente sus activos de TI, contando con equipos actualizados sin hacer grandes inversiones iniciales y optimizar sus presupuestos de tecnolgia.
 
-- **Estas necesidades se pueden resolver**
+- **Estas necesidades se pueden resolver** ofreciendo un modelo de servicio Smart Leasing la cual incluye arrendamiento tecnologico inteligente, soportem mantenimiento y gestion de garantias en un solo servicio.
 
-- **Nuestros clientes iniciales son**
+- **Nuestros clientes iniciales son** pequeñas y medianas empresas en Peru, las cuales carecen de n area de TI robusta, ademas de instituciones educativas que requieren actualizar equipos constantemente.
 
-- **El valor #1 que un cliente requiere de nuestro servicio es**
+- **El valor #1 que un cliente requiere de nuestro servicio es** reducir cosotos de inversion en tecnologia logrando garantizar que sus equipos esten constantemente actualizados.
 
-- **El cliente también puede obtener estos beneficios adicionales**
+- **El cliente también puede obtener estos beneficios adicionales** como ahorro en tiempo y recursos de gestion de TI, soporte especializado, mantemiento preventivo y correctivo, optimizacion de productividad y flexibilidad para escalar su infraestructura tecnologica.
 
-- **Adquiriremos a nuestros clientes a través del**
+- **Adquiriremos a nuestros clientes a través del** marketing digital (LinkedIn, Google Ads, redes sociales), alianzas con proveedores de software y hardware, networking en eventos empresariales y referencias de clientes actuales.
 
-- **Haremos dinero a través de**
+- **Haremos dinero a través de** contratos de arrendamiento mensual de equipos (modelo SaaS/Leasing), servicios adicionales de soporte premium y acuerdos de mantenimiento extendido.
 
-- **Nuestra competencia de mercado serán**
+- **Nuestra competencia de mercado serán** empresas de leasing financiero, distribuidores tradicionales de hardware y proveedores de outsourcing de TI.
 
-- **Los venceremos debido a que**
+- **Los venceremos debido a que** ofreceremos servicios integrales enfocados en un valor estrategico, no solo entregando equipos, sino en la optimizacion de recursos, un soporte continuo y una festion completa del ciclo de vida tecnologico.
 
-- **Nuestros mayores riesgos son**
+- **Nuestros mayores riesgos son**la falta de confianza inicial en el modelo de leasing tecnológico, la resistencia de empresas acostumbradas a comprar equipos, y la competencia de grandes proveedores nacionales e internacionales.
 
-- **Resolveremos esto mediante**
+- **Resolveremos esto mediante** campañas educativas, casos de éxito, pruebas piloto con clientes, y diferenciación en servicio al cliente y soporte local personalizado.
 
 - **Sabremos que hemos tenido éxito cuando uno de estos cambios en el comportamiento de nuestro cliente:**
 
+  - Prefiera arrendar equipos en lugar de comprar.
+  - Se reduzca sus costos de TI reinvirtiendo en crecimiento de su negocio.
+  - Confie en PcPedia como socio estrategico de TI.
+
 - **Qué otras suposiciones tenemos que, de probarse falsas pueden causar que nuestro proyecto fracase:**
+
+  - Las empresas estén dispuestas a migrar de un modelo de compra a uno de leasing.
+  - Los beneficios de costo y productividad sean lo suficientemente evidentes.
+  - Podamos mantener alianzas sólidas con proveedores de hardware de calidad.
 
 **User Outcomes**
 
 **¿Quiénes serán nuestros usuarios?**
 
+Directores financieros, gerentes de operaciones, responsables de TI, y administradores de instituciones educativas que necesitan equipos actualizados sin grandes desembolsos.
+
 **¿Dónde encaja nuestro producto en su vida o trabajo?**
+
+En la planeación y gestión de su infraestructura tecnológica, ayudándoles a enfocarse en su negocio sin preocuparse por la obsolescencia ni la gestión de equipos.
 
 **¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**
 
 **Problemas:**
 
+- Desconfianza en el modelo de arrendamiento.
+
+- Necesidad de flexibilidad contractual.
+
+- Adaptación a diferentes presupuestos.
+
 **Soluciones:**
+
+- Casos de éxito, contratos transparentes y soporte personalizado.
+
+- Modelos de leasing flexibles según necesidad y tamaño de la empresa.
+
+- Planes escalables y ajustables en el tiempo.
 
 **¿Cómo y cuándo es usado nuestro producto?**
 
+En el ciclo operativo diario de las empresas: al adquirir nuevos equipos, al renovar tecnología obsoleta, y en la gestión continua de TI (mantenimiento, soporte, garantías).
+
 **¿Qué características son importantes?**
+
+- Flexibilidad en planes de arrendamiento.
+- Gestión centralizada de soporte y garantías.
+- Reportes de costos y eficiencia tecnológica.
+- Equipos actualizados según necesidad real.
 
 **¿Cómo debe verse y comportarse nuestro producto?**
 
+Debe transmitir confianza, modernidad y simplicidad, con una interfaz clara (si es digital), y un servicio que se perciba ágil, transparente y estratégico.
+
 **Features**
 
-#### 1.2.2.3. Lean UX Hypothesis Statements
+**_Desde la cuenta de la empresa cliente:_**
 
-- **Creemos que**
+- Las empresas deben tener acceso a un panel donde visualicen todos los equipos arrendados, organizados por área o departamento. Esto les permitirá un control ordenado y evitar pérdidas o duplicidades.
 
-  **Sabremos que**
+- Un historial de mantenimiento y soporte estará disponible para cada equipo, lo que garantiza transparencia en las intervenciones técnicas y ayuda a tomar decisiones futuras.
 
-- **Creemos que**
+- Contarán con un sistema de alertas automáticas para notificar cuándo un equipo está próximo a su renovación o si requiere atención especial, evitando interrupciones en su productividad.
 
-  **Sabremos que**
+- El cliente podrá solicitar upgrades de hardware de forma ágil desde su cuenta, ajustando los recursos a sus necesidades reales en tiempo casi inmediato.
 
-- **Creemos que**
+- Un dashboard de costos consolidado permitirá analizar el gasto mensual en TI y medir el ahorro frente a un modelo tradicional de compra.
 
-  **Sabremos que**
+**_Desde la cuenta de administración de PcPedia:_**
+
+- Los administradores tendrán un sistema centralizado para monitorear en tiempo real todos los equipos en uso por los clientes, junto con su estado de garantía y mantenimientos programados.
+
+- Contarán con herramientas de análisis predictivo para recomendar a cada cliente los equipos más rentables según su patrón de uso.
+
+- Se dispondrá de un módulo para gestionar contratos y facturación de manera automatizada, evitando errores manuales.
+
+- La plataforma permitirá registrar casos de soporte y asignar técnicos rápidamente, reduciendo los tiempos de respuesta.
+
+- Un repositorio de métricas de clientes servirá para identificar patrones, generar reportes y mejorar continuamente el servicio de Smart Leasing.
+
+<!-- 1.2.2.3. Lean UX Hypothesis Statements -->
+<section>
+  <h3>1.2.2.3. Lean UX Hypothesis Statements</h3>
+
+  <table style="width:100%; border-collapse:collapse; font-family:Arial, Helvetica, sans-serif; font-size:14px;">
+    <thead>
+      <tr style="background:#0b5fff; color:#fff;">
+        <th style="text-align:left; padding:10px; border:1px solid #e5e7eb;">Creemos que</th>
+        <th style="text-align:left; padding:10px; border:1px solid #e5e7eb;">Sabremos que</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background:#f8fafc;">
+        <td style="vertical-align:top; padding:10px; border:1px solid #e5e7eb;">
+          Las empresas y organizaciones que hoy compran equipos estarán dispuestas a migrar a un modelo de
+          arrendamiento tecnológico inteligente si les demostramos ahorros en costos, equipos siempre actualizados
+          y soporte especializado.
+        </td>
+        <td style="vertical-align:top; padding:10px; border:1px solid #e5e7eb;">
+          Esto es cierto cuando reduzcan compras directas de hardware y firmen contratos de Smart Leasing,
+          evidenciando crecimiento sostenido de la base de clientes.
+        </td>
+      </tr>
+      <tr>
+        <td style="vertical-align:top; padding:10px; border:1px solid #e5e7eb;">
+          Nuestros usuarios valoran más la simplicidad en la gestión de TI: un servicio único que incluya
+          arrendamiento, mantenimiento y gestión de garantías.
+        </td>
+        <td style="vertical-align:top; padding:10px; border:1px solid #e5e7eb;">
+          Esto es cierto cuando usen con frecuencia el panel de control, soliciten upgrades desde la plataforma
+          y reporten satisfacción por la reducción de tiempo y recursos en gestión de TI.
+        </td>
+      </tr>
+      <tr style="background:#f8fafc;">
+        <td style="vertical-align:top; padding:10px; border:1px solid #e5e7eb;">
+          La principal barrera de entrada es la desconfianza hacia el leasing tecnológico, pero podremos superarla
+          con campañas educativas, casos de éxito y pruebas piloto.
+        </td>
+        <td style="vertical-align:top; padding:10px; border:1px solid #e5e7eb;">
+          Esto es cierto cuando los participantes de pilotos escalen a contratos permanentes, compartan testimonios
+          positivos y recomienden el servicio a otras empresas.
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</section>
 
 #### 1.2.2.4. Lean UX Canvas
 
+![lean_ux_canvas.png](/assets/lean_ux_canvas.png)
+
 ## 1.3. Segmentos objetivo
+
+1. **Empresas (pequeñas, medianas y grandes):** Cualquier organización que dependa de la tecnología para su funcionamiento, sin importar el sector al que pertenezca. Pueden ser entidades financieras, compañías de retail, industrias manufactureras, estudios contables, empresas de servicios o startups. En general, todas aquellas que requieren equipos tecnológicos para operar de forma eficiente en un mercado competitivo.
+
+2. **Instituciones Educativas (universidades, colegios, escuelas, institutos):** Organizaciones dedicadas a la enseñanza, investigación o formación profesional que necesitan equipos tecnológicos para actividades académicas, administrativas y de apoyo a sus estudiantes y docentes. Incluye tanto instituciones de gran escala como universidades, así como colegios e institutos que buscan modernizar sus recursos tecnológicos.
 
 ## Capítulo II: Requirements Elicitation & Analysis
 
