@@ -1808,7 +1808,7 @@ La **Landing Page** fue desarrollada utilizando tecnologías web estándar como 
 
 #### 5.2.1.1. Sprint Planning 1
 
-<p><strong>Fecha:</strong> 10 de abril de 2025</p>
+<p><strong>Fecha:</strong> 10 de septiembre de 2025</p>
 <p><strong>Hora:</strong> 3:30 PM</p>
 <p><strong>Ubicación:</strong> Modalidad remota</p>
 <p><strong>Preparado por:</strong> Sebastián Hernández</p>
@@ -2107,6 +2107,17 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
 ### 5.2.2. Sprint 2
 
 #### 5.2.2.1. Sprint Planning 2
+
+<p><strong>Fecha:</strong> 01 de octubre de 2025</p>
+<p><strong>Hora:</strong> 3:30 PM</p>
+<p><strong>Ubicación:</strong> Modalidad remota</p>
+<p><strong>Preparado por:</strong> Sebastián Hernández</p>
+<p><strong>Asistentes:</strong> Rubens Bendezu, Alessandro Ramiro, Jorge Retuerto, Matías Armestar, Sebastián Hernández</p>
+<p><strong>Objetivo del Sprint:</strong><br>
+Desarrollar las funcionalidades principales del frontend de PcPedia, incluyendo visualización de informers, listado de contratos y configuración de perfile.</p>
+<p><strong>Sprint Velocity:</strong> 15</p>
+<p><strong>Sumatoria de Story Points:</strong> 15</p>
+
 #### 5.2.2.2. Aspect Leaders and Collaborators
 #### 5.2.2.3. Sprint Backlog 2
 #### 5.2.2.4. Development Evidence for Sprint Review
