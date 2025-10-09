@@ -2355,8 +2355,6 @@ Para el desarrollo del sprint, se tuvo una reunion el cual el equipo decidio ava
 
 ## Conclusiones y recomendaciones
 
-# <<<<<<< HEAD
-
 <p>
 Durante el Sprint 1 del proyecto PcPedia, se lograron avances significativos en el diseño de la landing page, wireframes y mockups de la aplicación web, así como en la definición de la arquitectura de información, guías de estilo y análisis de competidores. Esto permitió establecer una base sólida y coherente para el desarrollo del producto, alineada con las necesidades de los usuarios y los objetivos estratégicos de la startup EcatLeasing. Se recomienda continuar con la validación temprana de la interfaz mediante pruebas de usabilidad, integrar retroalimentación constante del equipo y de usuarios, priorizar funcionalidades críticas como registro de usuarios, panel de administración y comparador de equipos, mantener la documentación actualizada en GitHub y utilizar herramientas ágiles para seguimiento de tareas, asegurando una coordinación efectiva y la calidad técnica del desarrollo en los siguientes sprints.
 </p>
