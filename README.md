@@ -569,15 +569,211 @@ Las preguntas fueron refinadas para identificar **problemas reales, cuellos de b
 
 ### 2.2.2. Registro de entrevistas
 
+Sector 1: Empresas
+
+Entrevista 1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c996_upc_edu_pe/EWyPqHwq8ytFk0N_SQ-fNE4B-alpLDQrpDIi8Ew5h76iLA?e=bGrqa2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Entrevista 2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c996_upc_edu_pe/EX6JGgjKVRpDqRnGsSmuHI0BW4YvMS9JmuiqSS9W6gFuoQ?e=7egtCv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Entrevista 3: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c996_upc_edu_pe/EdfTLQJ-tXxAu4BRPaYVbfQBzbuharjGDN5G7Dy5zj3Yrg?e=mc1hZj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+Sector 2: Sector Educativo
+
+Entrevista 1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c996_upc_edu_pe/EbhdZiD5MHVKk77PNiA09p4BVqpHBVpNQ2OtCsMNvAgnGw?e=RAMMex&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Entrevista 2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c996_upc_edu_pe/EQ8j2xFR8R9BivyEeXpBMXEBd_zudM9QoMEzeumBKOX0Kg?e=thpoX3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Entrevista 3:https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c996_upc_edu_pe/EQ8j2xFR8R9BivyEeXpBMXEBd_zudM9QoMEzeumBKOX0Kg?e=thpoX3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 ### 2.2.3. Análisis de entrevistas
+
+<h3>Hallazgos principales</h3>
+<ul>
+<li><strong>Gestión de contratos y documentación:</strong> uso de OneDrive/Drive; aún se manejan copias físicas. Empresas grandes usan integraciones con SharePoint.</li>
+<li><strong>Procesos y dificultades:</strong> microempresas con procesos lentos y desordenados; empresas grandes con procesos ágiles y claros.</li>
+<li><strong>Soporte y mantenimiento:</strong> microempresas con demoras y mala comunicación; grandes con soporte interno y escalamiento eficiente.</li>
+<li><strong>Comunicación con proveedores:</strong> correo, WhatsApp y llamadas; en microempresas predomina la informalidad.</li>
+<li><strong>Nivel de satisfacción:</strong> alto en empresas grandes, bajo en microempresas.</li>
+</ul>
+
+
+<h2>3. Comparativo Educativo vs Empresarial</h2>
+<table>
+<thead>
+<tr>
+<th>Aspecto</th>
+<th>Sector Educativo</th>
+<th>Sector Empresarial</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Gestión de contratos</td>
+<td>Dispersa (físico + digital). Uso de RPE, SharePoint, OneDrive.</td>
+<td>Drive/OneDrive en microempresas; SharePoint en grandes.</td>
+</tr>
+<tr>
+<td>Procesos</td>
+<td>Burocráticos, lentos en compras y renovaciones.</td>
+<td>Microempresas lentos/desordenados; grandes más ágiles.</td>
+</tr>
+<tr>
+<td>Mantenimiento</td>
+<td>Incidencias moderadas, gestionadas con tickets.</td>
+<td>Microempresas con problemas de soporte; grandes con control interno.</td>
+</tr>
+<tr>
+<td>Comunicación</td>
+<td>Principalmente formal (correo, tickets).</td>
+<td>Mixto: correo, WhatsApp, llamadas; informalidad en microempresas.</td>
+</tr>
+<tr>
+<td>Satisfacción</td>
+<td>Media: procesos funcionan pero con burocracia.</td>
+<td>Alta en grandes, baja en microempresas.</td>
+</tr>
+</tbody>
+</table>
+
+
+<div class="conclusion">
+<h3>Conclusiones y Oportunidades</h3>
+<p>Existe una necesidad común de <strong>centralizar y digitalizar</strong> los procesos de inventario, contratos y soporte. En el sector educativo, se prioriza reducir la burocracia y agilizar compras. En el sector empresarial, las microempresas requieren soluciones básicas y fáciles de implementar, mientras que las grandes buscan mejorar la integración y eficiencia de sus sistemas ya existentes.</p>
+</div>
 
 ### 2.3. Needfinding
 
+A partir de las entrevistas realizadas en los sectores educativo y empresarial, se identificaron las siguientes necesidades principales:
+
+Centralización de la información
+Tanto en instituciones educativas como en empresas, la gestión de inventarios, contratos y mantenimientos se encuentra fragmentada entre documentos físicos, hojas de cálculo y repositorios digitales. Existe la necesidad de una plataforma unificada que integre inventario, contratos y soporte en un solo lugar.
+
+Agilidad en los procesos de compras y renovaciones
+El sector educativo resalta la burocracia y las demoras en aprobaciones de compras. Se requiere un sistema que reduzca tiempos de cotización y validación, agilizando las decisiones de adquisición o leasing de equipos.
+
+Gestión más eficiente del mantenimiento
+En el sector empresarial, especialmente en microempresas, los procesos de soporte son lentos, desordenados y poco confiables. Se necesita un mecanismo ágil para registrar incidencias, coordinar técnicos y dar seguimiento con trazabilidad clara.
+
+Mejor comunicación con proveedores
+Si bien se usan correos y WhatsApp, los entrevistados expresan la necesidad de contar con canales más formales, integrados a los sistemas de gestión, para garantizar rapidez y respaldo en la comunicación.
+
+Optimización del presupuesto y control de gastos
+Varias organizaciones reconocen que los imprevistos y la falta de herramientas para planificación generan sobrecostos. Se necesita un módulo de control presupuestal y de facturación que permita prever gastos y registrar pagos de manera ordenada.
+
+Nivel de satisfacción y expectativas
+
+En el sector educativo: satisfacción intermedia; los procesos funcionan, pero se busca mayor agilidad.
+
+En microempresas: insatisfacción por la falta de control y eficiencia.
+
+En empresas grandes: satisfacción alta, aunque esperan mayor integración tecnológica.
+
+Conclusión del Needfinding:
+Existe una necesidad transversal de digitalización integral y centralización de procesos, acompañada de funcionalidades que reduzcan burocracia, optimicen la comunicación con proveedores y brinden control financiero. La solución ideal debe adaptarse tanto a microempresas (simplicidad y facilidad de adopción) como a instituciones educativas y empresas grandes (integración avanzada y escalabilidad).
+
 ### 2.3.1. User Personas
+
+**Segmento objetivo 1:** Empresas (pequeñas, medianas y grandes)
+
+![user persona 1.png](/assets/chapter2/user_persona_1.png)
+
+**Segmento objetivo 2:** Instituciones Educativas (universidades, colegios, escuelas, institutos)
+
+![user persona 2.png](/assets/chapter2/user_persona_2.png)
 
 ### 2.3.2. User Task Matrix
 
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2">Actividades</th>
+      <th colspan="2">Rodrigo Zevallos (Empresas)</th>
+      <th colspan="2">Carmen Paredes (Instituciones educativas)</th>
+    </tr>
+    <tr>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Registrar cuenta en la plataforma</td>
+      <td>Una vez</td>
+      <td>Muy alta</td>
+      <td>Una vez</td>
+      <td>Muy alta</td>
+    </tr>
+    <tr>
+      <td>Conocer información de equipos</td>
+      <td>Rara vez</td>
+      <td>Muy alta</td>
+      <td>Usualmente</td>
+      <td>Muy alta</td>
+    </tr>
+    <tr>
+      <td>Visualizar la disponibilidad de los equipos</td>
+      <td>Rara vez</td>
+      <td>Alta</td>
+      <td>Rara vez</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Aprender del uso de la plataforma</td>
+      <td>Rara vez</td>
+      <td>Media</td>
+      <td>Rara vez</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Escribir reseñas sobre el servicio</td>
+      <td>Rara vez</td>
+      <td>Baja</td>
+      <td>Rara vez</td>
+      <td>Baja</td>
+    </tr>
+    <tr>
+      <td>Reportar inconvenientes con el servicio</td>
+      <td>Rara vez</td>
+      <td>Alta</td>
+      <td>Usualmente</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Acordar de auditorías</td>
+      <td>Una vez</td>
+      <td>Alta</td>
+      <td>Una vez</td>
+      <td>Muy alta</td>
+    </tr>
+    <tr>
+      <td>Solicitar servicio técnico</td>
+      <td>Rara vez</td>
+      <td>Alta</td>
+      <td>Usualmente</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Realizar pago del servicio</td>
+      <td>Siempre</td>
+      <td>Muy alta</td>
+      <td>Siempre</td>
+      <td>Muy alta</td>
+    </tr>
+  </tbody>
+</table>
+
 ### 2.3.3. User Journey Mapping
+
+**Segmento objetivo 1:** Empresas (pequeñas, medianas y grandes)
+
+![user journey_mapping_1.png](/assets/chapter2/user_journey_mapping_1.png)
+
+**Segmento objetivo 2:** Instituciones Educativas (universidades, colegios, escuelas, institutos)
+
+![user journey_mapping_2.png](/assets/chapter2/user_journey_mapping_2.png)
 
 ### 2.3.4. Empathy Mapping
 
@@ -607,11 +803,56 @@ En esta imagen se analizan los sentimientos y la situación del usuario que repr
 
 La usuaria observa cómo otras escuelas acceden a servicios de mayor calidad, lo que genera frustración y la sensación de quedarse atrás. Finalmente, aspira a tener un **sistema sencillo y transparente** que le permita **gestionar contratos, coordinar mantenimientos oportunos y optimizar el presupuesto institucional**, garantizando así un impacto positivo en la calidad educativa.
 
----
 
 ### 2.4. Big Picture Event Storming
 
+Big Picture Event Storming es una técnica de modelado que busca ofrecer una "visión panorámica" de un software, señalando las piezas claves del negocio, identificar problemas y organizar la estructura básica de la gestión en una cronología. Para llevarlas a cabo, nuestro grupo tuvo reuniones virtuales para diálogar sobre eventos, objetos y la ubicación de estos, con respecto al negocio.   
+
+A continuación, presentaremos los pasos que ejecutamos para llevar acabo la técnica Big Picture:
+
+**a. Unstructured Exploration**
+
+La exploración sin estructura consiste en exponer todo lo relacionado al negocio, sin tener una estructura definida. Para este caso, decidimos aceptar toda propuesta lanzada por los miembros del desarrollo, luego de un tiempo, fue actualizado conservando lo que se considero más pertinente.
+
+![UnstructuredExploration.png](/assets/chapter2/UnstructuredExploration.png)
+
+Dentro podemos ver eventos, acciones del usuario, acciones de los miembros del negocio y sistemas externos como los métodos de pago que se usarían en nuestro negocio.
+
+**b. Cronology**
+
+En la cronología, se ordenaron los elementos del negocio, según la manera que consideramos serían llamados.
+
+![Cronology.png](/assets/chapter2/Chronology.png)
+
+**c. Events**
+
+Separamos los eventos de los demás elementos para llevar mejor control en los siguientes pasos.
+
+![Events.png](/assets/chapter2/Events.png)
+
+**d. Pain points**
+
+Añadimos los puntos de dolor que consideramos que el cliente/usuario pueda experimentar con el uso del sistema
+
+![PainPoints.png](/assets/chapter2/PainPoints.png)
+
+**e. Bounded Context**
+
+Seccionamos los elementos del negocio, en este caso por gestionamientos del negocio.
+
+![BoundedContext-BPES.png](/assets/chapter2/BoundedContext-BPES.png)
+
+Una observación que podemos realizar es que los modelos presentados son prototipos planteados usando las técnicas de Big Picture Event Storming. Por ello, son diseños que podrán ser mejorados en los siguientes capítulos.
+
 ### 2.5. Ubiquitous Language
+
+- Cliente: persona, empresa o institución que requiere de equipamiento TI.
+- Contrato: documento digital que establece condiciones de arrendamiento o de compra.
+- Equipo: objeto técnologico (computadora, servidor, IoT, etc.) que forma parte de nuestro inventario y que el cliente requiere
+- Inventario: ubicación física donde los equipos son guardados hasta el proceso de venta o arrendamiento.
+- Incidencia: problema o requerimiento técnico que tiene el cliente.
+- Mantenimiento: acciones preventivas realizadas por el equipo de soporte y solicitada por el cliente.
+- Equipo de negocio: grupo encargado de la gestión de negocio, desde administración de usuarios, equipo de ventas, equipo de logística y soporte al cliente. 
 
 # Capítulo III: Requirements Specification
 
