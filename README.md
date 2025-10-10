@@ -1580,15 +1580,15 @@ En los primeros pasos, reutilizamos lo planteado en el Big Picture Event Stormin
 
 **a. Unstructured Exploration**
 
-![UnstructuredExploration.png](/Assets/Chapter2/UnstructuredExploration.png)
+![UnstructuredExploration.png](/assets/chapter2/UnstructuredExploration.png)
 
 **b. Chronology**
 
-![Chronology.png](/Assets/Chapter2/Chronology.png)
+![Chronology.png](/assets/chapter2/Chronology.png)
 
 **c. Pain Points**
 
-![PainPoints.png](/Assets/Chapter2/PainPoints.png)
+![PainPoints.png](/assets/chapter2/PainPoints.png)
 
 Para los siguientes pasos, nos tuvimos que reunir nuevamente para asignar roles a los elementos del negocio.
 
