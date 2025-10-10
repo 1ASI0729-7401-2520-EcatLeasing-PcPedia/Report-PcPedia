@@ -2478,19 +2478,6 @@ Para el desarrollo del sprint, se tuvo una reunion el cual el equipo decidio ava
 
 # Bibliografia
 
-# Anexo
-
-- Anexo 1: [Wireframe y Mock-up](https://www.figma.com/design/goeqlKKoDYuKbrXX4b2CPS/Untitled?node-id=0-1&t=e6PofK0oCr2471Qh-1)
-- Anexo 2: [Prototipo de Web](https://www.figma.com/proto/goeqlKKoDYuKbrXX4b2CPS/Untitled?node-id=86-2&p=f&t=Ijrku1hfs8lgLsyp-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=86%3A2)
-
-## Conclusiones y recomendaciones
-
-<p>
-Durante el Sprint 1 del proyecto PcPedia, se lograron avances significativos en el diseño de la landing page, wireframes y mockups de la aplicación web, así como en la definición de la arquitectura de información, guías de estilo y análisis de competidores. Esto permitió establecer una base sólida y coherente para el desarrollo del producto, alineada con las necesidades de los usuarios y los objetivos estratégicos de la startup EcatLeasing. Se recomienda continuar con la validación temprana de la interfaz mediante pruebas de usabilidad, integrar retroalimentación constante del equipo y de usuarios, priorizar funcionalidades críticas como registro de usuarios, panel de administración y comparador de equipos, mantener la documentación actualizada en GitHub y utilizar herramientas ágiles para seguimiento de tareas, asegurando una coordinación efectiva y la calidad técnica del desarrollo en los siguientes sprints.
-</p>
-
-# Bibliografia
-
 <ul>
   <li>Beck, K., & Andres, C. (2005). <em>Extreme Programming Explained: Embrace Change</em> (2nd ed.). Addison-Wesley Professional.</li>
   <li>Driessen, V. (2010). <em>A successful Git branching model</em>. Disponible en: <a href="https://nvie.com/posts/a-successful-git-branching-model/" target="_blank">https://nvie.com/posts/a-successful-git-branching-model/</a></li>
@@ -2505,10 +2492,7 @@ Durante el Sprint 1 del proyecto PcPedia, se lograron avances significativos en 
 
 # Anexos
 
-<!-- Anexos del Proyecto PcPedia - Sprint 1 -->
 <section id="anexos">
-  <h2>Anexos</h2>
-
   <h3>1. Organización y Repositorios en GitHub</h3>
   <p>El proyecto PcPedia se encuentra alojado bajo la organización de GitHub del curso 1ASI0729-7401-2520-EcatLeasing-PcPedia. A continuación se detallan los repositorios principales utilizados:</p>
   <ul>
@@ -2542,5 +2526,20 @@ Durante el Sprint 1 del proyecto PcPedia, se lograron avances significativos en 
         https://www.figma.com/design/oiLz93LcaZJmdmEKi6h46I/FIGMA-PCPEDIA
       </a>
     </li>
- 
+  </ul>
+  <h3>3. Despliegue de el Front-end</h3>
+  <p>La Landing Page fue desarrollada por Alessandro Ramiro Condori Lozano y desplegada utilizando GitHub Pages. Esta página sirve como presentación inicial del producto PcPedia y permite a los usuarios interactuar con la interfaz de manera funcional.</p>
+  <ul>
+    <li><strong>Link de el Front-end en producción:</strong> 
+      <a href="https://dreamy-sunshine-e3be2b.netlify.app/" target="_blank">
+        https://dreamy-sunshine-e3be2b.netlify.app/
+      </a>
+    </li>
+  </ul>
 </section>
+
+## Conclusiones y recomendaciones
+
+<p>
+Durante el Sprint 1 del proyecto PcPedia, se lograron avances significativos en el diseño de la landing page, wireframes y mockups de la aplicación web, así como en la definición de la arquitectura de información, guías de estilo y análisis de competidores. Esto permitió establecer una base sólida y coherente para el desarrollo del producto, alineada con las necesidades de los usuarios y los objetivos estratégicos de la startup EcatLeasing. Se recomienda continuar con la validación temprana de la interfaz mediante pruebas de usabilidad, integrar retroalimentación constante del equipo y de usuarios, priorizar funcionalidades críticas como registro de usuarios, panel de administración y comparador de equipos, mantener la documentación actualizada en GitHub y utilizar herramientas ágiles para seguimiento de tareas, asegurando una coordinación efectiva y la calidad técnica del desarrollo en los siguientes sprints.
+</p>
