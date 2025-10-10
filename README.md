@@ -1431,23 +1431,23 @@ A continuación, presentaremos los wireframe de nuestra landing page como guía 
 
 - Captura 1
 
-![Wireframe1.png](/Assets/Chapter4/Wireframe-1.png)
+![Wireframe1.png](/assets/chapter4/Wireframe-1.png)
 
 - Captura 2
 
-![Wireframe2.png](/Assets/Chapter4/Wireframe-2.png)
+![Wireframe2.png](/assets/chapter4/Wireframe-2.png)
 
 - Captura 3
 
-![Wireframe3.png](/Assets/Chapter4/Wireframe-3.png)
+![Wireframe3.png](/assets/chapter4/Wireframe-3.png)
 
 - Captura 4
 
-![Wireframe4.png](/Assets/Chapter4/Wireframe-4.png)
+![Wireframe4.png](/assets/chapter4/Wireframe-4.png)
 
 - Captura 5
 
-![Wireframe5.png](/Assets/Chapter4/Wireframe-5.png)
+![Wireframe5.png](/assets/chapter4/Wireframe-5.png)
 
 Para más detalle, revisar el anexo 1.
 
@@ -1459,19 +1459,19 @@ Este mock-up refleja la versión estilizada que un usuario final verá al ingres
 
 - Captura 1
 
-![MockUp1.png](/Assets/Chapter4/Mock-up1.png)
+![MockUp1.png](/assets/chapter4/Mock-up1.png)
 
 - Captura 2
 
-![MockUp2.png](/Assets/Chapter4/Mock-up2.png)
+![MockUp2.png](/assets/chapter4/Mock-up2.png)
 
 - Captura 3
 
-![MockUp3.png](/Assets/Chapter4/Mock-up3.png)
+![MockUp3.png](/assets/chapter4/Mock-up3.png)
 
 - Captura 4
 
-![MockUp4.png](/Assets/Chapter4/Mock-up4.png)
+![MockUp4.png](/assets/chapter4/Mock-up4.png)
 
 Para más detalle, revisar el anexo 1.
 
@@ -1498,33 +1498,33 @@ En primer lugar, mostraremos los elementos que se podran encontrar en nuestra we
 
 **Vista 1**
 
-![WireframeWeb1.png](/Assets/Chapter4/WireframeWeb1.png)
+![WireframeWeb1.png](/assets/chapter4/WireframeWeb1.png)
 
 **Vista 2**
 
-![WireframeWeb2.png](/Assets/Chapter4/WireframeWeb2.png)
+![WireframeWeb2.png](/assets/chapter4/WireframeWeb2.png)
 
 **Vista 3**
 
-![WireframeWeb3.png](/Assets/Chapter4/WireframeWeb3.png)
+![WireframeWeb3.png](/assets/chapter4/WireframeWeb3.png)
 
 **Vista 4**
 
-![WireframeWeb4.png](/Assets/Chapter4/WireframeWeb4.png)
+![WireframeWeb4.png](/assets/chapter4/WireframeWeb4.png)
 
 **Vista 5**
 
-![WireframeWeb5.png](/Assets/Chapter4/WireframeWeb5.png)
+![WireframeWeb5.png](/assets/chapter4/WireframeWeb5.png)
 
 **Vista 6**
 
-![WireframeWeb6.png](/Assets/Chapter4/WireframeWeb6.png)
+![WireframeWeb6.png](/assets/chapter4/WireframeWeb6.png)
 
 Para más detalle, revisar el anexo 1.
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-![WireframeWeb.png](/Assets/Chapter4/WireframeWeb.png)
+![WireframeWeb.png](/assets/chapter4/WireframeWeb.png)
 
 ### 4.4.3. Web Applications Mock-ups
 
@@ -1532,35 +1532,35 @@ Finalmente, presentamos el modelo de alta fidelidad de nuestra pagina web:
 
 **Vista 1**
 
-![Mock-upWeb1.png](/Assets/Chapter4/Mock-upWeb1.png)
+![Mock-upWeb1.png](/assets/chapter4/Mock-upWeb1.png)
 
 **Vista 2**
 
-![Mock-upWeb2.png](/Assets/Chapter4/Mock-upWeb2.png)
+![Mock-upWeb2.png](/assets/chapter4/Mock-upWeb2.png)
 
 **Vista 3**
 
-![Mock-upWeb3.png](/Assets/Chapter4/Mock-upWeb3.png)
+![Mock-upWeb3.png](/assets/chapter4/Mock-upWeb3.png)
 
 **Vista 4**
 
-![Mock-upWeb4.png](/Assets/Chapter4/Mock-upWeb4.png)
+![Mock-upWeb4.png](/assets/chapter4/Mock-upWeb4.png)
 
 **Vista 5**
 
-![Mock-upWeb5.png](/Assets/Chapter4/Mock-upWeb5.png)
+![Mock-upWeb5.png](/assets/chapter4/Mock-upWeb5.png)
 
 **Vista 6**
 
-![Mock-upWeb6.png](/Assets/Chapter4/Mock-upWeb6.png)
+![Mock-upWeb6.png](/assets/chapter4/Mock-upWeb6.png)
 
 **Vista 7**
 
-![Mock-upWeb7.png](/Assets/Chapter4/Mock-upWeb7.png)
+![Mock-upWeb7.png](/assets/chapter4/Mock-upWeb7.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
-![Mock-upWeb.png](/Assets/Chapter4/Mock-upWeb.png)
+![Mock-upWeb.png](/assets/chapter4/Mock-upWeb.png)
 
 ## 4.5. Web Applications Prototyping
 
@@ -1598,7 +1598,7 @@ Los comandos son acciones que nosotros o el usuario podría hacer dentro del sis
 
 Los comandos más importante en nuestro negocio serán la generación de incidentes, devoluciones y compras que desencadenan la mayoría de eventos y relaciones en nuestro sistema.
 
-![Commands.png](/Assets/Chapter4/Commands.png)
+![Commands.png](/assets/chapter4/Commands.png)
 
 **e. Pivotal**
 
@@ -1606,7 +1606,7 @@ Pivotal es un término usado para denotar los eventos importantes sucedidos en e
 
 En nuestro sistema, notamos momentos Pivotal en los eventos de creación de usuario, la validación de compra, cuando se solucionan incidentes y cuando finalizan los procesos de devolución o mantenimiento. Debido a que se relacionan con la validación de datos, finanzas y experiencia del cliente.
 
-![Pivotal.png](/Assets/Chapter4/Pivotal.png)
+![Pivotal.png](/assets/chapter4/Pivotal.png)
 
 **f. Policies**
 
@@ -1614,7 +1614,7 @@ Policies se refiere a las políticas de nuestro sistema, en que cosas estaremos 
 
 En nuestro sistema, la manera en la que hemos hecho las políticas son siguiendo un orden causal: si sucede "x", entonces debemos hacer "y". Por ejemplo, si se inicializa una compra, debemos informar a nuestro usuario mediante los canales prestados: SMS o correoeléctronico, la razón de esta politica sería para ofrecer un método de seguridad y protección a la cuenta de nuestro usuario y sus finanzas.
 
-![Policies.png](/Assets/Chapter4/Policies.png)
+![Policies.png](/assets/chapter4/Policies.png)
 
 **g. Read Models**
 
@@ -1622,7 +1622,7 @@ Read Models, en sí, no tienen lógica dentro del negocio, sino que son etiqueta
 
 En nuestro sistema, usamos este tipo de etiquetas para funciones sencillas como describir datos que ingresa el usuario, como interactua un comando y descripciones de eventos más detallada.
 
-![ReadModels.png](/Assets/Chapter4/ReadModels.png)
+![ReadModels.png](/assets/chapter4/ReadModels.png)
 
 **h. External System**
 
@@ -1630,7 +1630,7 @@ External System, como su nombre dice, son sistemas externos de los cuales nuestr
 
 En nuestro sistema, usaremos Outlook y Visa como sistemas externos como medio de comunicación y método de pago respectivamente.
 
-![ExternalSystem.png](/Assets/Chapter4/ExternalSystem.png)
+![ExternalSystem.png](/assets/chapter4/ExternalSystem.png)
 
 **i. Aggregates**
 
@@ -1638,7 +1638,7 @@ Aggregates es una etiqueta muy especial, pues es una de las más importantes den
 
 Dentro del sistema, podemos denotar aggregates como Usuario, Incidente, Mantenimiento, Devolución y Orden de compra. Todos son aggregates, debido a que están compuestos de elementos anteriores a su existencia como información de usuario, incidente, mantenimiento, devolución y compra respectivamente.
 
-![Aggregates.png](/Assets/Chapter4/Aggregates.png)
+![Aggregates.png](/assets/chapter4/Aggregates.png)
 
 **j. Bounded Context**
 
@@ -1646,35 +1646,35 @@ Finalmente, Bounded Context es el décimo y último paso de este tipo de diseño
 
 Dentro de nuestro sistema, encontramos 4 bounded context que son los siguientes:
 
-![BoundedContext,png](/Assets/Chapter4/BoundedContext.png)
+![BoundedContext,png](/assets/chapter4/BoundedContext.png)
 
 - **Bounded Context: Gestión de Usuario**
 
-![BoundedContextU.png](/Assets/Chapter4/BoundedContextGestUsuario.png)
+![BoundedContextU.png](/assets/chapter4/BoundedContextGestUsuario.png)
 
 - **Bounded Context: Gestión de Inventario**
 
-![BoundedContextI.png](/Assets/Chapter4/BoundedContextGestInventario.png)
+![BoundedContextI.png](/assets/chapter4/BoundedContextGestInventario.png)
 
 - **Bounded Context: Gestión de Ventas**
 
-![BoundedContextV.png](/Assets/Chapter4/BoundedContextGestVentas.png)
+![BoundedContextV.png](/assets/chapter4/BoundedContextGestVentas.png)
 
 - **Bounded Context: Gestión de Servicio al cliente**
 
-![BoundedContextS.png](/Assets/Chapter4/BoundedContextGestServicio.png)
+![BoundedContextS.png](/assets/chapter4/BoundedContextGestServicio.png)
 
 ### 4.6.2. Software Architecture Context Diagram
 
 El diagrama de contexto es uno que trata en alto nivel, o sea de manera superficial el negocio. Por ejemplo, en nuestro caso, podemos ver las personas que interactuaran con nuestro sistema, el sistema y los sistemas externos que nos ayudaran a conseguir los objetivos del negocio.
 
-![Diagram_C1.png](/Assets/Chapter4/Diagram_C1.png)
+![Diagram_C1.png](/assets/chapter4/Diagram_C1.png)
 
 ### 4.6.3. Software Architecture Container Diagrams
 
 El diagrama de contenedores es similar al de contexto, pero descomponiendo nuestro sistema en los servicios que lo compondran. En este caso, nuestro sistema estara compuesto por 2 páginas web: Customer y Staff, separamos a los clientes de la web en la que se trabajará en el negocio.
 
-![Diagram_C2.png](/Assets/Chapter4/Diagram_C2.png)
+![Diagram_C2.png](/assets/chapter4/Diagram_C2.png)
 
 ### 4.6.4. Software Architecture Components Diagrams
 
@@ -1682,7 +1682,7 @@ Finalmente, el diagrama de componentes nos ayuda a describir a los componentes i
 
 Dentro podemos ver modulos o, interpretandolo con el DDD, bounded context donde se seguiria la misma logica mostrada en el Event Storming.
 
-![Diagram_C3.png](/Assets/Chapter4/Diagram_C3.png)
+![Diagram_C3.png](/assets/chapter4/Diagram_C3.png)
 
 ## 4.7. Software Object-Oriented Design
 
@@ -1690,7 +1690,7 @@ Dentro podemos ver modulos o, interpretandolo con el DDD, bounded context donde 
 
 Aquí se visualiza el diagrama de clases de ECAT Leasing. Este diagrama es una representación gráfica estática que muestra la estructura de un sistema de software, detallando las clases, sus atributos, operaciones y las relaciones existentes entre ellas.
 
-![ClassDiagram.png](/Assets/Chapter4/Class_Diagram.png)
+![ClassDiagram.png](/assets/chapter4/Class_Diagram.png)
 
 ## 4.8. Database Design
 
@@ -1698,7 +1698,7 @@ Aquí se visualiza el diagrama de clases de ECAT Leasing. Este diagrama es una r
 
 Aquí se visualiza el diagrama de base de datos de ECAT Leasing. Este diagrama es una representación visual que muestra la estructura, las tablas, columnas y las relaciones entre ellos dentro de un sistema de base de datos, también se le conoce como esquema de base de datos.
 
-![DataBaseDiagram.png](/Assets/Chapter4/Database_Diagram.png)
+![DataBaseDiagram.png](/assets/chapter4/Database_Diagram.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
