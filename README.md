@@ -2038,7 +2038,7 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
 <!-- Sección Landing -->
 <section>
   <h2>Elaboración de Landing</h2>
-  <img src="landing1.png" alt="Landing Page">
+  <img src="/assets/chapter5/commits_landing_1.png" alt="Landing Page">
 </section>
 
 <hr>
@@ -2047,13 +2047,13 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
 <section>
   <h2>Reportes</h2>
   <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-    <img src="report1.png" alt="Reporte 1">
-    <img src="report2.png" alt="Reporte 2">
-    <img src="report3.png" alt="Reporte 3">
-    <img src="report4.png" alt="Reporte 4">
-    <img src="report5.png" alt="Reporte 5">
-    <img src="report6.png" alt="Reporte 6">
-    <img src="report7.png" alt="Reporte 7">
+    <img src="/assets/chapter5/commits_report_1.png" alt="Reporte 1">
+    <img src="/assets/chapter5/commits_report_2.png" alt="Reporte 2">
+    <img src="/assets/chapter5/commits_report_3.png" alt="Reporte 3">
+    <img src="/assets/chapter5/commits_report_4.png" alt="Reporte 4">
+    <img src="/assets/chapter5/commits_report_5.png" alt="Reporte 5">
+    <img src="/assets/chapter5/commits_report_6.png" alt="Reporte 6">
+    <img src="/assets/chapter5/commits_report_7.png" alt="Reporte 7">
   </div>
 </section>
 
@@ -2069,10 +2069,10 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
 <section>
   <h2>Demostración de ejecución de la Landing</h2>
   <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-    <img src="landing2.png" alt="Landing Page 2">
-    <img src="landing3.png" alt="Landing Page 3">
-    <img src="landing4.png" alt="Landing Page 4">
-    <img src="landing5.png" alt="Landing Page 5">
+    <img src="/assets/chapter5/evidence_landing_1.png" alt="Landing Page 2">
+    <img src="/assets/chapter5/evidence_landing_2.png" alt="Landing Page 3">
+    <img src="/assets/chapter5/evidence_landing_3.png" alt="Landing Page 4">
+    <img src="/assets/chapter5/evidence_landing_4.png" alt="Landing Page 5">
   </div>
 </section>
 
