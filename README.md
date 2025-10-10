@@ -2425,6 +2425,16 @@ Para el desarrollo del Frontend en nuestra plataforma, utilizamos lo siguiente:
 - Git: Se empleó como sistema de control de versiones, garantizando un registro ordenado de cada avance y permitiendo rastrear los cambios realizados a lo largo del desarrollo.
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+El frontend de PcPedia fue desplegado utilizando Netlify, una plataforma de despliegue optimizada para aplicaciones frontend.
+
+**URL desplegada:** [PcPedia Front-end](https://dreamy-sunshine-e3be2b.netlify.app/)
+
+![evidence_deployment_1.jpeg](./assets/chapter5/evidence_deployment_1.jpeg)
+![evidence_deployment_2.jpeg](./assets/chapter5/evidence_deployment_2.jpeg)
+![evidence_deployment_3.jpeg](./assets/chapter5/evidence_deployment_3.jpeg)
+![evidence_deployment_4.jpeg](./assets/chapter5/evidence_deployment_4.jpeg)
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
 A continuación, se presenta una descripción detallada del trabajo colaborativo realizado por el equipo durante este sprint. En esta etapa, se priorizó la comunicación constante, la organización de tareas y la cooperación en un entorno remoto. Se utilizaron diversas herramientas que facilitaron la coordinación, el seguimiento del progreso y la resolución oportuna de problemas, garantizando que todos los integrantes se mantuvieran alineados con los objetivos establecidos y comprometidos con la calidad del resultado final.
