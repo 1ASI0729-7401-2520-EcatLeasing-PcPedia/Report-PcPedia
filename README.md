@@ -2387,6 +2387,17 @@ En este sprint se tiene como objetivo desarrollar el frontend de PcPedia porque 
 </table>
 
 #### 5.2.2.4. Development Evidence for Sprint Review
+
+Enlace al repositorio de la Landing Page: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia
+
+| Repository           | Branch | Commit Id | Commit Message                      | Commit Message Body | Commited on (Date) |
+|----------------------|--------|-----------|-------------------------------------|---------------------|--------------------|
+| 1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia | feature/sprint2-alessandro | dd436b1 | update: add complete app | | 9/10/2025 |
+| 1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia | feature/sprint2-jorge | f4abc07 | feature(assets) | | 9/10/2025 |
+| 1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia | feature/sprint2-matias | b0d3ab2 | feat: add profile component | | 8/10/2025 |
+| 1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia | feature/sprint2-rubens | a16af88 | Feat - reports |  | 8/10/2025 |
+| 1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia | feature/sprint2-sebastian | 52d97f6 | feat: agrega login, home dinámico y estructura de vistas principales | | 9/10/2025 |
+
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
 En este sprint, correspondiente a la segunda fase de nuestro producto final, se logró desarrollar la aplicación web utilizando Angular y Angular Material, lo que permitió implementar una interfaz moderna y funcional. Además, se empleó JSON Server para simular una API que facilitó la gestión y visualización de datos durante el desarrollo del frontend.
