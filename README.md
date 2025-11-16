@@ -1851,7 +1851,6 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
   </tbody>
 </table>
 
-<!-- Aspect Leaders and Collaborators - Sprint 1 (Tabla) -->
 <section id="sprint1-aspect-leaders">
   
   <p>Distribución de responsabilidades durante el Sprint 1, indicando líderes de aspecto y sus colaboradores según las tareas asignadas:</p>
@@ -2050,7 +2049,7 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
 
 <p><strong>Repositorio:</strong> GitHub - EcatLeasing/PcPedia</p>
 <p><strong>Rama:</strong> develop</p>
-<!-- Sección Landing -->
+
 <section>
   <h2>Elaboración de Landing</h2>
   <img src="/assets/chapter5/commits_landing_1.png" alt="Landing Page">
@@ -2058,7 +2057,6 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
 
 <hr>
 
-<!-- Sección Reportes -->
 <section>
   <h2>Reportes</h2>
   <div style="display: flex; flex-wrap: wrap; gap: 15px;">
@@ -2080,7 +2078,6 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
   <li><strong>Wireframes y Mockups</strong>: Los wireframes de la landing page y la app web, junto con los mockups, están documentados en el repositorio.</li>
 </ul>
 
-<!-- Sección Demostración de ejecución de la Landing -->
 <section>
   <h2>Demostración de ejecución de la Landing</h2>
   <div style="display: flex; flex-wrap: wrap; gap: 15px;">
@@ -2605,6 +2602,59 @@ Para el desarrollo del sprint, se tuvo una reunion el cual el equipo decidio ava
 </table>
 
 #### 5.2.3.2. Aspect Leaders and Collaborators.
+
+<section id="sprint2-aspect-leaders">
+  <p>Distribución de responsabilidades durante el Sprint 1 según las tareas asignadas:</p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Integrante</th>
+        <th>Frontend</th>
+        <th>Backend</th>
+        <th>Deployment</th>
+        <th>Documentación</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Sebastián Eduardo Hernández Poma</td>
+        <td>L</td>
+        <td>-</td>
+        <td>C</td>
+        <td>C</td>
+      </tr>
+      <tr>
+        <td>Rubens Fitzgerald Bendezu Navarro</td>
+        <td>C</td>
+        <td>C</td>
+        <td>-</td>
+        <td>L</td>
+      </tr>
+      <tr>
+        <td>Alessandro Ramiro Condori Lozano</td>
+        <td>C</td>
+        <td>C</td>
+        <td>-</td>
+        <td>L</td>
+      </tr>
+      <tr>
+        <td>Jorge Manuel Retuerto Rodríguez</td>
+        <td>-</td>
+        <td>L</td>
+        <td>L</td>
+        <td>C</td>
+      </tr>
+      <tr>
+        <td>Matías Gabriel Armestar Heredia</td>
+        <td>L</td>
+        <td>C</td>
+        <td>-</td>
+        <td>C</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
 
 #### 5.2.3.3. Sprint Backlog 3.
 
