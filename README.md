@@ -1894,7 +1894,6 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
   </table>
 </section>
 
-<!-- Aspect Leaders and Collaborators - Sprint 1 -->
 <section id="sprint1-aspect-leaders">
   <p>Distribución de responsabilidades durante el Sprint 1 según las tareas asignadas:</p>
 
@@ -2158,7 +2157,7 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
     </tr>
        <tr align="left">
         <td>
-            <b>Attendess (to planning meeting)</b>
+            <b>Attendees (to planning meeting)</b>
         </td>
         <td>
             - Retuerto Rodríguez, Jorge Manuel <br/>
@@ -2495,6 +2494,115 @@ Para el desarrollo del sprint, se tuvo una reunion el cual el equipo decidio ava
 ### 5.2.3. Sprint 3
 
 #### 5.2.3.1. Sprint Planning 3.
+
+<table align="center"  border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 3</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            5/11/2025
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            10:00 PM
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad virtual por Discord
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Integrantes de EcatLeasing
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendees (to planning meeting)</b>
+        </td>
+        <td>
+            - Retuerto Rodríguez, Jorge Manuel <br/>
+            - Hernández Poma, Sebastián Eduardo <br/>
+            - Condori Lozano, Alessandro Ramiro <br/>
+            - Armestar Heredia, Matias Gabriel <br/>    
+            - Bendezu Navarro, Rubens Fitzgerald <br/>
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint n - 3</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            Se complementó el desarrollo el frontend, así también se desarrolló el backend.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 3</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+            Se aseguró de que los estudiantes conozcan sus respectivas tareas a desarrollar.
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 3 Goal</b>
+        </td>
+        <td>
+            Nuestro objetivo en esta tercera entrega es la optimización del frontend anteriormente desarrollado y la creación del apartado backend. Durante este sprint, desplegaremos este último apartado aspirando a integrarlo con el frontend para así finalmente lograr una solución consistente. 
+        </td>
+      <tr align="left">
+        <td>
+            <b>Sprint 3 Velocity</b>
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+</table>
 
 #### 5.2.3.2. Aspect Leaders and Collaborators.
 
