@@ -2656,17 +2656,142 @@ Para el desarrollo del sprint, se tuvo una reunion el cual el equipo decidio ava
   </table>
 </section>
 
-#### 5.2.3.3. Sprint Backlog 3.
+<h2>5.2.3.3. Sprint Backlog 3</h2>
+<p>
+Durante el Sprint Backlog 3 el objetivo principal fue diseñar e implementar el backend del
+sistema <strong>ECAT Leasing / PcPedia</strong> siguiendo una arquitectura basada en 
+<strong>Domain-Driven Design (DDD)</strong> sobre <strong>Spring Boot + JPA</strong>.
+</p>
 
-#### 5.2.3.4. Development Evidence for Sprint Review.
+<ul>
+  <li>Definir el modelo de dominio para los agregados: <em>Users, Articles, Orders, Leases, Complaints, Payments</em>.</li>
+  <li>Implementación de capas DDD:
+    <ul>
+      <li>domain.model: aggregates, entities, valueobject, commands, queries, services</li>
+      <li>application.dto para Requests/Responses</li>
+      <li>interfaces.rest como capa REST</li>
+      <li>infrastructure.persistence.jpa para repositorios</li>
+    </ul>
+  </li>
+  <li>Implementación de casos de uso principales para registro, actualización, pagos y consultas.</li>
+  <li>Configuración de persistencia en MySQL con nombres <em>snake_case</em>.</li>
+  <li>Exposición de API documentada con OpenAPI/Swagger.</li>
+  <li>Creación de Dockerfile y despliegue en Render:
+    <br>URL: <strong>https://backendpcpedia.onrender.com</strong>
+  </li>
+</ul>
 
-#### 5.2.3.5. Execution Evidence for Sprint Review.
+<h2>5.2.3.4. Development Evidence for Sprint Review</h2>
+<p>Evidencias de desarrollo durante el sprint:</p>
 
-#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+<ul>
+  <li><strong>Modelo de dominio DDD implementado:</strong>
+    <ul>
+      <li>Agregados en <code>domain.model.aggregates</code> y <code>entities</code>.</li>
+      <li>Comandos como: <code>RegisterUserCommand</code>, <code>RegisterArticleCommand</code>,
+      <code>RegisteredOrderCommand</code>, <code>RegisteredLeaseCommand</code>,
+      <code>UpdateComplaintStatusCommand</code>, <code>UpdateOrdersStatusCommand</code>, etc.</li>
+      <li>Consultas como: <code>GetUserByIdQuery</code>, <code>GetListUsersQuery</code>,
+      <code>GetOrderByIdQuery</code>, <code>GetListOrdersQuery</code>, etc.</li>
+    </ul>
+  </li>
 
-#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+  <li><strong>Servicios de dominio (handlers):</strong>
+    <ul>
+      <li>Handlers de registro: <code>RegisterUserHandler</code>, <code>RegisterArticleHandler</code>,
+      <code>RegisteredLeaseHandler</code>, <code>RegisteredComplaintHandler</code>, etc.</li>
+      <li>Handlers de actualización: <code>UpdateLeaseStatusHandler</code>,
+      <code>UpdateOrdersStatusHandler</code>, <code>UpdateUserPasswordHandler</code>.</li>
+      <li>Handlers de lectura: <code>GetUserByIdHandler</code>, <code>GetListOrderHandler</code>,
+      <code>GetComplaintByIdHandler</code>, etc.</li>
+    </ul>
+  </li>
 
-#### 5.2.3.8. Team Collaboration Insights during Sprint.
+  <li><strong>DTOs implementados:</strong> 
+    <em>UsersRequest/Response, ArticlesRequest/Response, OrdersRequest/Response,
+    LeasesRequest/Response, ComplaintsRequest/Response, LeasePaymentRequest, ErrorResponse</em>.</li>
+
+  <li><strong>Controladores REST:</strong>
+    <code>UsersController</code>, <code>ArticlesController</code>, 
+    <code>OrdersController</code>, <code>LeasesController</code>, <code>ComplaintsController</code>.
+  </li>
+</ul>
+
+<h2>5.2.3.5. Execution Evidence for Sprint Review</h2>
+
+<p>Evidencia de ejecución durante el Sprint:</p>
+
+<ul>
+  <li>API ejecutada localmente y luego desplegada en Render.</li>
+  <li>Pruebas reales usando Postman y navegador:
+    <ul>
+      <li><code>POST /api/users</code>, <code>GET /api/users</code></li>
+      <li><code>POST /api/articles</code>, <code>PUT /api/articles/{id}</code>, <code>GET /api/articles</code></li>
+      <li><code>POST /api/orders</code>, <code>GET /api/orders</code></li>
+      <li><code>POST /api/leases</code>, <code>GET /api/leases</code></li>
+      <li><code>POST /api/payments</code> para pagos de arrendamiento</li>
+      <li><code>POST /api/complaints</code>, <code>GET /api/complaints</code></li>
+    </ul>
+  </li>
+  <li>Validación con respuestas HTTP 200/201 y errores gestionados por <code>ErrorResponse</code>.</li>
+</ul>
+
+<h2>5.2.3.6. Services Documentation Evidence for Sprint Review</h2>
+
+<ul>
+  <li>Swagger/OpenAPI habilitado mediante <code>ApiConfiguration</code>.</li>
+  <li>Documentación disponible en:
+    <ul>
+      <li><code>/v3/api-docs</code></li>
+      <li><code>/swagger-ui.html</code> o <code>/swagger-ui/index.html</code></li>
+    </ul>
+  </li>
+  <li>Propiedades configuradas en <code>application.properties</code> para versión, descripción y licencia.</li>
+  <li><code>SecurityConfig</code> permite acceso público a la documentación.</li>
+</ul>
+
+<h2>5.2.3.7. Software Deployment Evidence for Sprint Review</h2>
+
+<p>Evidencias del despliegue:</p>
+
+<ul>
+  <li><strong>Dockerfile implementado (multi-stage):</strong>
+    <ul>
+      <li>Stage builder basado en <code>eclipse-temurin:21-jdk</code></li>
+      <li>Compilación con <code>./mvnw -q -B package -DskipTests</code></li>
+      <li>Stage runtime con <code>eclipse-temurin:21-jre</code></li>
+    </ul>
+  </li>
+  <li><strong>Despliegue en Render.com:</strong></li>
+  <ul>
+    <li>Aplicación corriendo en contenedor Docker.</li>
+    <li>URL pública: <strong>https://backendpcpedia.onrender.com</strong></li>
+    <li>Acceso validado a rutas REST y Swagger durante el Sprint Review.</li>
+  </ul>
+</ul>
+
+<h2>5.2.3.8. Team Collaboration Insights during Sprint</h2>
+
+<ul>
+  <li><strong>Alineamiento del modelo de dominio:</strong> 
+  Se definieron agregados clave para soportar flujos de leasing.</li>
+
+  <li><strong>División del trabajo por capas:</strong> 
+    <ul>
+      <li>Un grupo desarrolló comandos/queries/handlers.</li>
+      <li>Otro grupo trabajó controladores y DTOs.</li>
+      <li>Otro grupo configuró JPA, repositorios y Docker.</li>
+    </ul>
+  </li>
+
+  <li><strong>Integración continua con Git:</strong> uso de ramas de feature y merges controlados.</li>
+
+  <li><strong>Coordinación con frontend:</strong> 
+  definición de rutas, DTOs y validación conjunta del flujo <em>Catálogo → Pedido → Contrato → Pago</em>.</li>
+
+  <li><strong>Revisión colaborativa:</strong> pruebas, validaciones y ajustes según retroalimentación del equipo.</li>
+</ul>
+
 
 ## 5.3. Validation Interviews
 
