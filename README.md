@@ -2637,7 +2637,7 @@ sistema <strong>ECAT Leasing / PcPedia</strong> siguiendo una arquitectura basad
   <li>Configuración de persistencia en MySQL con nombres <em>snake_case</em>.</li>
   <li>Exposición de API documentada con OpenAPI/Swagger.</li>
   <li>Creación de Dockerfile y despliegue en Render:
-    <br>URL: <strong>[https://backendpcpedia.onrender.com](https://backendpcpedia.onrender.com/swagger-ui/index.html)</strong>
+    <br>URL: <strong>https://backendpcpedia.onrender.com/swagger-ui/index.html</strong>
   </li>
 </ul>
 
@@ -2891,6 +2891,11 @@ sistema <strong>ECAT Leasing / PcPedia</strong> siguiendo una arquitectura basad
       </a>
     </li>
   </ul>
+  <li><strong>Despliegue de el Backend:</strong> 
+      <a href="https://backendpcpedia.onrender.com/swagger-ui/index.html" target="_blank">
+        [https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Back-end-EcatLeasing](https://backendpcpedia.onrender.com/swagger-ui/index.html)
+      </a>
+    </li>
 </section>
 
 ## Conclusiones y recomendaciones
