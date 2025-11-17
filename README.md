@@ -119,53 +119,13 @@ El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - S
 
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
 
-<table>
-    <tr>
-        <th colspan="3">Criterio especifico</th>
-        <th colspan="10">Acciones realizadas</th>
-        <th colspan="10">Conclusiones</th>
-    <tr>
-        <td colspan="3">Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
-        <td colspan="10">
-            <b>TB1:</b><br>
-            Retuerto Rodríguez, Jorge Manuel: Se acordo la particion del trabajo y se realizo el desarrollo del mismo para poder completar correctamente esta entrega.<br>
-            Hernández Poma, Sebastián Eduardo: Previo acuerdo con el grupo se realizo el analisis del proyecto y se avanzo de manera colaborativa y con comunicacion eficiente para esta entrega.<br>
-            Condori Lozano, Alessandro Ramiro: Con el equipo se tomo la decision de poder avanzar en conjunto para la realizacion del proyecto.<br>
-            Armestar Heredia, Matias Gabriel: Despues de una reunion con el equipo y expresar nuestras opiniones, nos pusimos de acuerdo para poder avanzar dicho proyecto.<br>
-            Bendezu Navarro, Rubens Fitzgerald: Despues de ponernos de acuerdo con el desarrollo del reporte pudimos empezar correctamente a desarrollarlo para asi cumplir con los puntos que nos piden.<br>
-            <br><b>TP1:</b><br>
-            Retuerto Rodríguez, Jorge Manuel: Se realizo la correccion del capitulo IV previa coordinacion con todos mis compañeros para el correcto desarrollo de esta entrega posteriormente se acordo con el grupo en previa reunion el avance del front-end.<br>
-            Hernández Poma, Sebastián Eduardo: Se realizo la correccion del capitulo V previa coordinacion con el grupo ademas de poder implementar y desarrollar el front-end para esta entrega.<br>
-            Condori Lozano, Alessandro Ramiro: Se realizo la correccion del capitulo III para asi posterior a eso poder desarrollar correctamente el front-end.<br>
-            Armestar Heredia, Matias Gabriel: Se realizo la correccion del capitulo I, logrando terminar con la correccion del informe se empezo el desarrollo del front-end.<br>
-            Bendezu Navarro, Rubens Fitzgerald: Se realizo la correccion del capitulo II, Una vez se acabo con la correccion se pudo empezar con el desarrollo en conjunto del front-end.<br>
-        </td>
-        <td colspan="10">Luego de la primera entrega que fue el TB1 el equipo pudo corregir los errores que se dieron en dicha entrega, para la siguiente entrega que fue el TP, se coordino y dio visto bueno para que despues de una reunion del equipo cada uno en su respectiva rama pudiese completar y corregir segun los comentarios del profesor</td>
-    </tr>
-    <tr>
-    <td colspan="3">Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
-    <td colspan="10">
-        <b>TB1:</b><br>
-        Retuerto Rodríguez, Jorge Manuel: Redacté de manera clara y objetiva los avances del proyecto, estructurando correctamente las ideas y resultados para que el informe sea comprensible por diferentes lectores. <br>
-        Hernández Poma, Sebastián Eduardo: Redacté de forma ordenada el análisis del proyecto, utilizando un lenguaje técnico comprensible para distintas especialidades y niveles jerárquicos. <br>
-        Condori Lozano, Alessandro Ramiro: Contribuí en la redacción colaborativa del documento, plasmando las ideas del grupo con objetividad y precisión técnica. <br>
-        Armestar Heredia, Matias Gabriel: Participé en la redacción conjunta del informe, plasmando de manera clara los avances del proyecto con un lenguaje técnico adecuado. <br>
-        Bendezu Navarro, Rubens Fitzgerald: Contribuí en la escritura del reporte, manteniendo un estilo formal y técnico que permita transmitir las ideas del grupo con claridad. <br>   
-        <br><b>TP1:</b><br>
-        Retuerto Rodríguez, Jorge Manuel: Elaboré la parte escrita del capítulo IV aplicando una redacción técnica precisa, con la finalidad de presentar resultados objetivos y bien argumentados en el informe final. <br>
-        Hernández Poma, Sebastián Eduardo: Desarrollé por escrito el capítulo V, asegurando una comunicación clara y coherente de los resultados obtenidos y su relación con los objetivos del proyecto. <br>
-        Condori Lozano, Alessandro Ramiro: Redacté el capítulo III con un enfoque técnico y estructurado, garantizando la coherencia del informe con los resultados del desarrollo del proyecto. <br>
-        Armestar Heredia, Matias Gabriel: Redacté el capítulo I con objetividad, asegurando que la información presentada refleje correctamente los avances y resultados del equipo. <br>
-        Bendezu Navarro, Rubens Fitzgerald: Desarrollé la redacción del capítulo II, asegurando que el contenido sea comprensible para públicos con diferentes especialidades. <br>
-    </td>
-    <td colspan="10">
-        El equipo logró consolidar la información escrita del proyecto con un enfoque técnico y coherente, ademas del desarrollo del front-end. Cada integrante redactó su parte con objetividad, garantizando una comunicación clara de los resultados y conclusiones. El trabajo colaborativo permitió mantener una redacción uniforme, precisa y comprensible en todo el informe parcial.
-    </td>
-</tr>
-
-</table>
+| **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
+|-------------------------|-------------------------|------------------|
+| **Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.** | **TB1:**<br>• *Retuerto Rodríguez, Jorge Manuel:* Se acordó la partición del trabajo y se desarrolló en conjunto para completar correctamente la entrega.<br>• *Hernández Poma, Sebastián Eduardo:* Se realizó el análisis del proyecto y se avanzó de forma colaborativa manteniendo comunicación constante.<br>• *Condori Lozano, Alessandro Ramiro:* Se decidió avanzar en conjunto para cumplir objetivos del proyecto.<br>• *Armestar Heredia, Matias Gabriel:* Tras reunión grupal se acordó el enfoque de desarrollo del proyecto.<br>• *Bendezu Navarro, Rubens Fitzgerald:* Se definió el plan de desarrollo y se inició el reporte en equipo.<br><br>**TP1:**<br>• *Retuerto Rodríguez, Jorge Manuel:* Coordinó corrección del capítulo IV y apoyó en el avance del front-end.<br>• *Hernández Poma, Sebastián Eduardo:* Corrigió el capítulo V y aportó en el desarrollo del front-end.<br>• *Condori Lozano, Alessandro Ramiro:* Corrigió el capítulo III y continuó el desarrollo del front-end.<br>• *Armestar Heredia, Matias Gabriel:* Corrigió el capítulo I y apoyó en la implementación del front-end.<br>• *Bendezu Navarro, Rubens Fitzgerald:* Corrigió el capítulo II y colaboró en el desarrollo del front-end.<br><br>**TB2:**<br>• *Retuerto Rodríguez, Jorge Manuel:* Participó en la presentación del despliegue del backend, detallando la arquitectura del sistema y resultados obtenidos.<br>• *Hernández Poma, Sebastián Eduardo:* Explicó la integración entre el front-end y backend, destacando la correcta conexión con la base de datos.<br>• *Condori Lozano, Alessandro Ramiro:* Comunicó los avances en la implementación del backend y su funcionamiento en entorno productivo.<br>• *Armestar Heredia, Matias Gabriel:* Expuso el proceso de validación mediante entrevistas con usuarios reales y recopiló feedback.<br>• *Bendezu Navarro, Rubens Fitzgerald:* Presentó el flujo de despliegue en servidor, asegurando su correcto funcionamiento en línea. | Luego del TB1 se identificaron mejoras necesarias y fueron corregidas en TP1. Para TB2 el equipo logró la **implementación completa del backend, su despliegue funcional y el desarrollo del front-end corregido**, además de la ejecución de entrevistas de validación para obtener retroalimentación real del segmento objetivo. |
+| **Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.** | **TB1:**<br>• *Retuerto Rodríguez, Jorge Manuel:* Redactó avances del proyecto con enfoque claro y técnico.<br>• *Hernández Poma, Sebastián Eduardo:* Escribió el análisis del proyecto utilizando lenguaje técnico adecuado.<br>• *Condori Lozano, Alessandro Ramiro:* Redacción colaborativa con precisión y objetividad.<br>• *Armestar Heredia, Matias Gabriel:* Redacción clara de avances con lenguaje técnico.<br>• *Bendezu Navarro, Rubens Fitzgerald:* Redactó manteniendo estilo formal y comprensible.<br><br>**TP1:**<br>• *Retuerto Rodríguez, Jorge Manuel:* Escribió capítulo IV con precisión técnica y argumentativa.<br>• *Hernández Poma, Sebastián Eduardo:* Desarrolló el capítulo V con comunicación objetiva de resultados.<br>• *Condori Lozano, Alessandro Ramiro:* Redacción estructurada del capítulo III.<br>• *Armestar Heredia, Matias Gabriel:* Elaboración del capítulo I con objetividad.<br>• *Bendezu Navarro, Rubens Fitzgerald:* Redacción del capítulo II para público técnico diverso.<br><br>**TB2:**<br>• *Retuerto Rodríguez, Jorge Manuel:* Documentó la arquitectura del backend y el despliegue del sistema en el informe escrito.<br>• *Hernández Poma, Sebastián Eduardo:* Redactó la sección técnica sobre integración full-stack y funcionamiento en producción.<br>• *Condori Lozano, Alessandro Ramiro:* Describió la implementación del backend y los procesos de conexión con API.<br>• *Armestar Heredia, Matias Gabriel:* Sistematizó los resultados de las entrevistas de validación, presentando conclusiones objetivas.<br>• *Bendezu Navarro, Rubens Fitzgerald:* Redactó el apartado de despliegue, procesos de entorno y pruebas en servidor. | El equipo consolidó un documento completo, técnico y coherente. En TB2 se amplió el informe incluyendo **implementación total del backend, despliegue, validación con usuarios y ajuste del front-end**, garantizando claridad en la comunicación de resultados y un lenguaje comprensible para lectores de distintas especialidades. |
 
 ---
+
 
 # Contenido
 
