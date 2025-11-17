@@ -2732,7 +2732,25 @@ sistema <strong>ECAT Leasing / PcPedia</strong> siguiendo una arquitectura basad
 
 <h2>5.2.3.8. Team Collaboration Insights during Sprint</h2>
 
+<ul>
+  <li><strong>Alineamiento del modelo de dominio:</strong> 
+  Se definieron agregados clave para soportar flujos de leasing.</li>
 
+  <li><strong>División del trabajo por capas:</strong> 
+    <ul>
+      <li>Un grupo desarrolló comandos/queries/handlers.</li>
+      <li>Otro grupo trabajó controladores y DTOs.</li>
+      <li>Otro grupo configuró JPA, repositorios y Docker.</li>
+    </ul>
+  </li>
+
+  <li><strong>Integración continua con Git:</strong> uso de ramas de feature y merges controlados.</li>
+
+  <li><strong>Coordinación con frontend:</strong> 
+  definición de rutas, DTOs y validación conjunta del flujo <em>Catálogo → Pedido → Contrato → Pago</em>.</li>
+
+  <li><strong>Revisión colaborativa:</strong> pruebas, validaciones y ajustes según retroalimentación del equipo.</li>
+</ul>
 
 ## 5.3. Validation Interviews
 
