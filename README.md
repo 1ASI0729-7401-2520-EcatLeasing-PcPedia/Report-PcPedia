@@ -94,19 +94,19 @@ URL del repositorio para el desarrollo del frontend web applications: (https://g
 Cada miembro del equipo realizo cambios y mejoras en sus respectivas ramas de acuerdo a la distribucion del proyecto para poder completar la entrega, posteriormente tuvimos una reunion en el cual corregiriamos ciertos detalles para poder asi cumplir correctamente con la entrega del proyecto.
 
 **Contributors Insights report:** <br>
-![Commits-report-tp1](/assets/caratula/contributors_insights_report_tp.jpg)
+![Commits-report-tp1](./assets/caratula/contributors_insights_report_tp.jpg)
 
 **Contributors Insights landing page:** <br>
-![Commits-landing-page-tp1](/assets/caratula/contributors_insights_landing_tp.jpg)
+![Commits-landing-page-tp1](./assets/caratula/contributors_insights_landing_tp.jpg)
 
 **Contributors Insights front end:** <br>
 ![Commits-landing-page-tp1]()
 
 **Network Insights report:** <br>
-![Network-report-tb1](/assets/caratula/network_graph_tb1_report.png)
+![Network-report-tb1](./assets/caratula/network_graph_tb1_report.png)
 
 **Network Insights landing page:** <br>
-![Network-landing-page-tb1](/assets/caratula/network_graph_tb1_landing.PNG)
+![Network-landing-page-tb1](./assets/caratula/network_graph_tb1_landing.PNG)
 
 **Contributors Insights front end:** <br>
 ![Commits-front-end-tp1]()
@@ -463,7 +463,7 @@ Debe transmitir confianza, modernidad y simplicidad, con una interfaz clara (si 
 
 #### 1.2.2.4. Lean UX Canvas
 
-![lean_ux_canvas.png](/assets/chapter1/lean_ux_canvas.png)
+![lean_ux_canvas.png](./assets/chapter1/lean_ux_canvas.png)
 
 ## 1.3. Segmentos objetivo
 
@@ -803,11 +803,11 @@ Existe una necesidad transversal de digitalización integral y centralización d
 
 **Segmento objetivo 1:** Empresas (pequeñas, medianas y grandes)
 
-![user persona 1.png](/assets/chapter2/user_persona_1.png)
+![user persona 1.png](./assets/chapter2/user_persona_1.png)
 
 **Segmento objetivo 2:** Instituciones Educativas (universidades, colegios, escuelas, institutos)
 
-![user persona 2.png](/assets/chapter2/user_persona_2.png)
+![user persona 2.png](./assets/chapter2/user_persona_2.png)
 
 ### 2.3.2. User Task Matrix
 
@@ -896,21 +896,21 @@ Existe una necesidad transversal de digitalización integral y centralización d
 
 **Segmento objetivo 1:** Empresas (pequeñas, medianas y grandes)
 
-![user journey_mapping_1.png](/assets/chapter2/user_journey_mapping_1.png)
+![user journey_mapping_1.png](./assets/chapter2/user_journey_mapping_1.png)
 
 **Segmento objetivo 2:** Instituciones Educativas (universidades, colegios, escuelas, institutos)
 
-![user journey_mapping_2.png](/assets/chapter2/user_journey_mapping_2.png)
+![user journey_mapping_2.png](./assets/chapter2/user_journey_mapping_2.png)
 
 ### 2.3.4. Empathy Mapping
 
 **Segmento objetivo 1:** Empresas (pequeñas, medianas y grandes)
 
-![empathy_mapping 1.png](/assets/chapter2/empathy_mapping_1.png)
+![empathy_mapping 1.png](./assets/chapter2/empathy_mapping_1.png)
 
 **Segmento objetivo 2:** Instituciones Educativas (universidades, colegios, escuelas, institutos)
 
-![empathy_mapping 2.png](/assets/chapter2/empathy_mapping_2.png)
+![empathy_mapping 2.png](./assets/chapter2/empathy_mapping_2.png)
 
 ### 2.4. Big Picture Event Storming
 
@@ -922,7 +922,7 @@ A continuación, presentaremos los pasos que ejecutamos para llevar acabo la té
 
 La exploración sin estructura consiste en exponer todo lo relacionado al negocio, sin tener una estructura definida. Para este caso, decidimos aceptar toda propuesta lanzada por los miembros del desarrollo, luego de un tiempo, fue actualizado conservando lo que se considero más pertinente.
 
-![UnstructuredExploration.png](/assets/chapter2/UnstructuredExploration.png)
+![UnstructuredExploration.png](./assets/chapter2/UnstructuredExploration.png)
 
 Dentro podemos ver eventos, acciones del usuario, acciones de los miembros del negocio y sistemas externos como los métodos de pago que se usarían en nuestro negocio.
 
@@ -930,25 +930,25 @@ Dentro podemos ver eventos, acciones del usuario, acciones de los miembros del n
 
 En la cronología, se ordenaron los elementos del negocio, según la manera que consideramos serían llamados.
 
-![Cronology.png](/assets/chapter2/Chronology.png)
+![Cronology.png](./assets/chapter2/Chronology.png)
 
 **c. Events**
 
 Separamos los eventos de los demás elementos para llevar mejor control en los siguientes pasos.
 
-![Events.png](/assets/chapter2/Events.png)
+![Events.png](./assets/chapter2/Events.png)
 
 **d. Pain points**
 
 Añadimos los puntos de dolor que consideramos que el cliente/usuario pueda experimentar con el uso del sistema
 
-![PainPoints.png](/assets/chapter2/PainPoints.png)
+![PainPoints.png](./assets/chapter2/PainPoints.png)
 
 **e. Bounded Context**
 
 Seccionamos los elementos del negocio, en este caso por gestionamientos del negocio.
 
-![BoundedContext-BPES.png](/assets/chapter2/BoundedContext-BPES.png)
+![BoundedContext-BPES.png](./assets/chapter2/BoundedContext-BPES.png)
 
 Una observación que podemos realizar es que los modelos presentados son prototipos planteados usando las técnicas de Big Picture Event Storming. Por ello, son diseños que podrán ser mejorados en los siguientes capítulos.
 
@@ -1159,7 +1159,7 @@ Una observación que podemos realizar es que los modelos presentados son prototi
 
 ## 3.2. Impact Mapping
 
-![impact_mapping.png](/assets/chapter3/impact_mapping.png)
+![impact_mapping.png](./assets/chapter3/impact_mapping.png)
 
 ## 3.3. Product Backlog
 
@@ -1407,23 +1407,23 @@ A continuación, presentaremos los wireframe de nuestra landing page como guía 
 
 - Captura 1
 
-![Wireframe1.png](/assets/chapter4/Wireframe-1.png)
+![Wireframe1.png](./assets/chapter4/Wireframe-1.png)
 
 - Captura 2
 
-![Wireframe2.png](/assets/chapter4/Wireframe-2.png)
+![Wireframe2.png](./assets/chapter4/Wireframe-2.png)
 
 - Captura 3
 
-![Wireframe3.png](/assets/chapter4/Wireframe-3.png)
+![Wireframe3.png](./assets/chapter4/Wireframe-3.png)
 
 - Captura 4
 
-![Wireframe4.png](/assets/chapter4/Wireframe-4.png)
+![Wireframe4.png](./assets/chapter4/Wireframe-4.png)
 
 - Captura 5
 
-![Wireframe5.png](/assets/chapter4/Wireframe-5.png)
+![Wireframe5.png](./assets/chapter4/Wireframe-5.png)
 
 Para más detalle, revisar el anexo 1.
 
@@ -1435,19 +1435,19 @@ Este mock-up refleja la versión estilizada que un usuario final verá al ingres
 
 - Captura 1
 
-![MockUp1.png](/assets/chapter4/Mock-up1.png)
+![MockUp1.png](./assets/chapter4/Mock-up1.png)
 
 - Captura 2
 
-![MockUp2.png](/assets/chapter4/Mock-up2.png)
+![MockUp2.png](./assets/chapter4/Mock-up2.png)
 
 - Captura 3
 
-![MockUp3.png](/assets/chapter4/Mock-up3.png)
+![MockUp3.png](./assets/chapter4/Mock-up3.png)
 
 - Captura 4
 
-![MockUp4.png](/assets/chapter4/Mock-up4.png)
+![MockUp4.png](./assets/chapter4/Mock-up4.png)
 
 Para más detalle, revisar el anexo 1.
 
@@ -1474,33 +1474,33 @@ En primer lugar, mostraremos los elementos que se podran encontrar en nuestra we
 
 **Vista 1**
 
-![WireframeWeb1.png](/assets/chapter4/WireframeWeb1.png)
+![WireframeWeb1.png](./assets/chapter4/WireframeWeb1.png)
 
 **Vista 2**
 
-![WireframeWeb2.png](/assets/chapter4/WireframeWeb2.png)
+![WireframeWeb2.png](./assets/chapter4/WireframeWeb2.png)
 
 **Vista 3**
 
-![WireframeWeb3.png](/assets/chapter4/WireframeWeb3.png)
+![WireframeWeb3.png](./assets/chapter4/WireframeWeb3.png)
 
 **Vista 4**
 
-![WireframeWeb4.png](/assets/chapter4/WireframeWeb4.png)
+![WireframeWeb4.png](./assets/chapter4/WireframeWeb4.png)
 
 **Vista 5**
 
-![WireframeWeb5.png](/assets/chapter4/WireframeWeb5.png)
+![WireframeWeb5.png](./assets/chapter4/WireframeWeb5.png)
 
 **Vista 6**
 
-![WireframeWeb6.png](/assets/chapter4/WireframeWeb6.png)
+![WireframeWeb6.png](./assets/chapter4/WireframeWeb6.png)
 
 Para más detalle, revisar el anexo 1.
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-![WireframeWeb.png](/assets/chapter4/WireframeWeb.png)
+![WireframeWeb.png](./assets/chapter4/WireframeWeb.png)
 
 ### 4.4.3. Web Applications Mock-ups
 
@@ -1508,35 +1508,35 @@ Finalmente, presentamos el modelo de alta fidelidad de nuestra pagina web:
 
 **Vista 1**
 
-![Mock-upWeb1.png](/assets/chapter4/Mock-upWeb1.png)
+![Mock-upWeb1.png](./assets/chapter4/Mock-upWeb1.png)
 
 **Vista 2**
 
-![Mock-upWeb2.png](/assets/chapter4/Mock-upWeb2.png)
+![Mock-upWeb2.png](./assets/chapter4/Mock-upWeb2.png)
 
 **Vista 3**
 
-![Mock-upWeb3.png](/assets/chapter4/Mock-upWeb3.png)
+![Mock-upWeb3.png](./assets/chapter4/Mock-upWeb3.png)
 
 **Vista 4**
 
-![Mock-upWeb4.png](/assets/chapter4/Mock-upWeb4.png)
+![Mock-upWeb4.png](./assets/chapter4/Mock-upWeb4.png)
 
 **Vista 5**
 
-![Mock-upWeb5.png](/assets/chapter4/Mock-upWeb5.png)
+![Mock-upWeb5.png](./assets/chapter4/Mock-upWeb5.png)
 
 **Vista 6**
 
-![Mock-upWeb6.png](/assets/chapter4/Mock-upWeb6.png)
+![Mock-upWeb6.png](./assets/chapter4/Mock-upWeb6.png)
 
 **Vista 7**
 
-![Mock-upWeb7.png](/assets/chapter4/Mock-upWeb7.png)
+![Mock-upWeb7.png](./assets/chapter4/Mock-upWeb7.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
-![Mock-upWeb.png](/assets/chapter4/Mock-upWeb.png)
+![Mock-upWeb.png](./assets/chapter4/Mock-upWeb.png)
 
 ## 4.5. Web Applications Prototyping
 
@@ -1556,15 +1556,15 @@ En los primeros pasos, reutilizamos lo planteado en el Big Picture Event Stormin
 
 **a. Unstructured Exploration**
 
-![UnstructuredExploration.png](/assets/chapter2/UnstructuredExploration.png)
+![UnstructuredExploration.png](./assets/chapter2/UnstructuredExploration.png)
 
 **b. Chronology**
 
-![Chronology.png](/assets/chapter2/Chronology.png)
+![Chronology.png](./assets/chapter2/Chronology.png)
 
 **c. Pain Points**
 
-![PainPoints.png](/assets/chapter2/PainPoints.png)
+![PainPoints.png](./assets/chapter2/PainPoints.png)
 
 Para los siguientes pasos, nos tuvimos que reunir nuevamente para asignar roles a los elementos del negocio.
 
@@ -1574,7 +1574,7 @@ Los comandos son acciones que nosotros o el usuario podría hacer dentro del sis
 
 Los comandos más importante en nuestro negocio serán la generación de incidentes, devoluciones y compras que desencadenan la mayoría de eventos y relaciones en nuestro sistema.
 
-![Commands.png](/assets/chapter4/Commands.png)
+![Commands.png](./assets/chapter4/Commands.png)
 
 **e. Pivotal**
 
@@ -1582,7 +1582,7 @@ Pivotal es un término usado para denotar los eventos importantes sucedidos en e
 
 En nuestro sistema, notamos momentos Pivotal en los eventos de creación de usuario, la validación de compra, cuando se solucionan incidentes y cuando finalizan los procesos de devolución o mantenimiento. Debido a que se relacionan con la validación de datos, finanzas y experiencia del cliente.
 
-![Pivotal.png](/assets/chapter4/Pivotal.png)
+![Pivotal.png](./assets/chapter4/Pivotal.png)
 
 **f. Policies**
 
@@ -1590,7 +1590,7 @@ Policies se refiere a las políticas de nuestro sistema, en que cosas estaremos 
 
 En nuestro sistema, la manera en la que hemos hecho las políticas son siguiendo un orden causal: si sucede "x", entonces debemos hacer "y". Por ejemplo, si se inicializa una compra, debemos informar a nuestro usuario mediante los canales prestados: SMS o correoeléctronico, la razón de esta politica sería para ofrecer un método de seguridad y protección a la cuenta de nuestro usuario y sus finanzas.
 
-![Policies.png](/assets/chapter4/Policies.png)
+![Policies.png](./assets/chapter4/Policies.png)
 
 **g. Read Models**
 
@@ -1598,7 +1598,7 @@ Read Models, en sí, no tienen lógica dentro del negocio, sino que son etiqueta
 
 En nuestro sistema, usamos este tipo de etiquetas para funciones sencillas como describir datos que ingresa el usuario, como interactua un comando y descripciones de eventos más detallada.
 
-![ReadModels.png](/assets/chapter4/ReadModels.png)
+![ReadModels.png](./assets/chapter4/ReadModels.png)
 
 **h. External System**
 
@@ -1606,7 +1606,7 @@ External System, como su nombre dice, son sistemas externos de los cuales nuestr
 
 En nuestro sistema, usaremos Outlook y Visa como sistemas externos como medio de comunicación y método de pago respectivamente.
 
-![ExternalSystem.png](/assets/chapter4/ExternalSystem.png)
+![ExternalSystem.png](./assets/chapter4/ExternalSystem.png)
 
 **i. Aggregates**
 
@@ -1614,7 +1614,7 @@ Aggregates es una etiqueta muy especial, pues es una de las más importantes den
 
 Dentro del sistema, podemos denotar aggregates como Usuario, Incidente, Mantenimiento, Devolución y Orden de compra. Todos son aggregates, debido a que están compuestos de elementos anteriores a su existencia como información de usuario, incidente, mantenimiento, devolución y compra respectivamente.
 
-![Aggregates.png](/assets/chapter4/Aggregates.png)
+![Aggregates.png](./assets/chapter4/Aggregates.png)
 
 **j. Bounded Context**
 
@@ -1622,35 +1622,35 @@ Finalmente, Bounded Context es el décimo y último paso de este tipo de diseño
 
 Dentro de nuestro sistema, encontramos 4 bounded context que son los siguientes:
 
-![BoundedContext,png](/assets/chapter4/BoundedContext.png)
+![BoundedContext,png](./assets/chapter4/BoundedContext.png)
 
 - **Bounded Context: Gestión de Usuario**
 
-![BoundedContextU.png](/assets/chapter4/BoundedContextGestUsuario.png)
+![BoundedContextU.png](./assets/chapter4/BoundedContextGestUsuario.png)
 
 - **Bounded Context: Gestión de Inventario**
 
-![BoundedContextI.png](/assets/chapter4/BoundedContextGestInventario.png)
+![BoundedContextI.png](./assets/chapter4/BoundedContextGestInventario.png)
 
 - **Bounded Context: Gestión de Ventas**
 
-![BoundedContextV.png](/assets/chapter4/BoundedContextGestVentas.png)
+![BoundedContextV.png](./assets/chapter4/BoundedContextGestVentas.png)
 
 - **Bounded Context: Gestión de Servicio al cliente**
 
-![BoundedContextS.png](/assets/chapter4/BoundedContextGestServicio.png)
+![BoundedContextS.png](./assets/chapter4/BoundedContextGestServicio.png)
 
 ### 4.6.2. Software Architecture Context Diagram
 
 El diagrama de contexto es uno que trata en alto nivel, o sea de manera superficial el negocio. Por ejemplo, en nuestro caso, podemos ver las personas que interactuaran con nuestro sistema, el sistema y los sistemas externos que nos ayudaran a conseguir los objetivos del negocio.
 
-![Diagram_C1.png](/assets/chapter4/Diagram_C1.png)
+![Diagram_C1.png](./assets/chapter4/Diagram_C1.png)
 
 ### 4.6.3. Software Architecture Container Diagrams
 
 El diagrama de contenedores es similar al de contexto, pero descomponiendo nuestro sistema en los servicios que lo compondran. En este caso, nuestro sistema estara compuesto por 2 páginas web: Customer y Staff, separamos a los clientes de la web en la que se trabajará en el negocio.
 
-![Diagram_C2.png](/assets/chapter4/Diagram_C2.png)
+![Diagram_C2.png](./assets/chapter4/Diagram_C2.png)
 
 ### 4.6.4. Software Architecture Components Diagrams
 
@@ -1658,7 +1658,7 @@ Finalmente, el diagrama de componentes nos ayuda a describir a los componentes i
 
 Dentro podemos ver modulos o, interpretandolo con el DDD, bounded context donde se seguiria la misma logica mostrada en el Event Storming.
 
-![Diagram_C3.png](/assets/chapter4/Diagram_C3.png)
+![Diagram_C3.png](./assets/chapter4/Diagram_C3.png)
 
 ## 4.7. Software Object-Oriented Design
 
@@ -1666,7 +1666,7 @@ Dentro podemos ver modulos o, interpretandolo con el DDD, bounded context donde 
 
 Aquí se visualiza el diagrama de clases de ECAT Leasing. Este diagrama es una representación gráfica estática que muestra la estructura de un sistema de software, detallando las clases, sus atributos, operaciones y las relaciones existentes entre ellas.
 
-![ClassDiagram.png](/assets/chapter4/Class_Diagram.png)
+![ClassDiagram.png](./assets/chapter4/Class_Diagram.png)
 
 ## 4.8. Database Design
 
@@ -1674,7 +1674,7 @@ Aquí se visualiza el diagrama de clases de ECAT Leasing. Este diagrama es una r
 
 Aquí se visualiza el diagrama de base de datos de ECAT Leasing. Este diagrama es una representación visual que muestra la estructura, las tablas, columnas y las relaciones entre ellos dentro de un sistema de base de datos, también se le conoce como esquema de base de datos.
 
-![DataBaseDiagram.png](/assets/chapter4/Database_Diagram.png)
+![DataBaseDiagram.png](./assets/chapter4/Database_Diagram.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -2012,7 +2012,7 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
 
 <section>
   <h2>Elaboración de Landing</h2>
-  <img src="/assets/chapter5/commits_landing_1.png" alt="Landing Page">
+  <img src="./assets/chapter5/commits_landing_1.png" alt="Landing Page">
 </section>
 
 <hr>
@@ -2020,13 +2020,13 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
 <section>
   <h2>Reportes</h2>
   <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-    <img src="/assets/chapter5/commits_report_1.png" alt="Reporte 1">
-    <img src="/assets/chapter5/commits_report_2.png" alt="Reporte 2">
-    <img src="/assets/chapter5/commits_report_3.png" alt="Reporte 3">
-    <img src="/assets/chapter5/commits_report_4.png" alt="Reporte 4">
-    <img src="/assets/chapter5/commits_report_5.png" alt="Reporte 5">
-    <img src="/assets/chapter5/commits_report_6.png" alt="Reporte 6">
-    <img src="/assets/chapter5/commits_report_7.png" alt="Reporte 7">
+    <img src="./assets/chapter5/commits_report_1.png" alt="Reporte 1">
+    <img src="./assets/chapter5/commits_report_2.png" alt="Reporte 2">
+    <img src="./assets/chapter5/commits_report_3.png" alt="Reporte 3">
+    <img src="./assets/chapter5/commits_report_4.png" alt="Reporte 4">
+    <img src="./assets/chapter5/commits_report_5.png" alt="Reporte 5">
+    <img src="./assets/chapter5/commits_report_6.png" alt="Reporte 6">
+    <img src="./assets/chapter5/commits_report_7.png" alt="Reporte 7">
   </div>
 </section>
 
@@ -2041,10 +2041,10 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
 <section>
   <h2>Demostración de ejecución de la Landing</h2>
   <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-    <img src="/assets/chapter5/evidence_landing_1.png" alt="Landing Page 2">
-    <img src="/assets/chapter5/evidence_landing_2.png" alt="Landing Page 3">
-    <img src="/assets/chapter5/evidence_landing_3.png" alt="Landing Page 4">
-    <img src="/assets/chapter5/evidence_landing_4.png" alt="Landing Page 5">
+    <img src="./assets/chapter5/evidence_landing_1.png" alt="Landing Page 2">
+    <img src="./assets/chapter5/evidence_landing_2.png" alt="Landing Page 3">
+    <img src="./assets/chapter5/evidence_landing_3.png" alt="Landing Page 4">
+    <img src="./assets/chapter5/evidence_landing_4.png" alt="Landing Page 5">
   </div>
 </section>
 
@@ -2374,15 +2374,15 @@ Enlace al repositorio de la Landing Page: https://github.com/1ASI0729-7401-2520-
 
 En este sprint, correspondiente a la segunda fase de nuestro producto final, se logró desarrollar la aplicación web utilizando Angular y Angular Material, lo que permitió implementar una interfaz moderna y funcional. Además, se empleó JSON Server para simular una API que facilitó la gestión y visualización de datos durante el desarrollo del frontend.
 
-![evidence1](/assets/chapter5/evidence_frontend_1.png)<br>
+![evidence1](./assets/chapter5/evidence_frontend_1.png)<br>
 
-![evidence2](/assets/chapter5/evidence_frontend_2.png)<br>
+![evidence2](./assets/chapter5/evidence_frontend_2.png)<br>
 
-![evidence3](/assets/chapter5/evidence_frontend_3.png)<br>
+![evidence3](./assets/chapter5/evidence_frontend_3.png)<br>
 
-![evidence4](/assets/chapter5/evidence_frontend_4.png)<br>
+![evidence4](./assets/chapter5/evidence_frontend_4.png)<br>
 
-![evidence5](/assets/chapter5/evidence_frontend_5.png)<br>
+![evidence5](./assets/chapter5/evidence_frontend_5.png)<br>
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -2402,10 +2402,10 @@ El frontend de PcPedia fue desplegado utilizando Netlify, una plataforma de desp
 
 **URL desplegada:** [PcPedia Front-end](https://dreamy-sunshine-e3be2b.netlify.app/)
 
-![evidence_deployment_1.jpeg](./assets/chapter5/evidence_deployment_1.jpeg)
-![evidence_deployment_2.jpeg](./assets/chapter5/evidence_deployment_2.jpeg)
-![evidence_deployment_3.jpeg](./assets/chapter5/evidence_deployment_3.jpeg)
-![evidence_deployment_4.jpeg](./assets/chapter5/evidence_deployment_4.jpeg)
+![evidence_deployment_1.jpeg](../assets/chapter5/evidence_deployment_1.jpeg)
+![evidence_deployment_2.jpeg](../assets/chapter5/evidence_deployment_2.jpeg)
+![evidence_deployment_3.jpeg](../assets/chapter5/evidence_deployment_3.jpeg)
+![evidence_deployment_4.jpeg](../assets/chapter5/evidence_deployment_4.jpeg)
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
