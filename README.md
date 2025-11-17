@@ -2670,11 +2670,88 @@ Para el desarrollo del sprint, se tuvo una reunion el cual el equipo decidio ava
 
 ## 5.3. Validation Interviews
 
+---
+
 ### 5.3.1. Diseño de Entrevistas
+
+**Objetivo:** Validar la usabilidad, percepción y aceptación del aplicativo por parte del segmento objetivo.
+
+**Guion de Entrevista**
+
+1. **Datos generales**
+   - ¿Cuál es tu nombre?
+   - ¿Qué edad tienes?
+   - ¿Dónde vives actualmente?
+   - ¿A qué te dedicas?
+
+2. **Percepción del aplicativo**
+   - ¿Qué característica te llama más la atención del aplicativo? ¿Por qué?
+   - ¿Qué opinas sobre el diseño de nuestro panel de control y las múltiples herramientas que ofrece?
+   - ¿Qué funcionalidades le agregarías a la aplicación?
+   - ¿Hay alguna cosa que le quitarías a la aplicación?
+   - Como (segmento objetivo), ¿tienes alguna recomendación que ayude a mejorar la experiencia de uso?
+
+---
 
 ### 5.3.2. Registro de Entrevistas
 
-### 5.3.3. Evaluaciones según heurísticas
+**Entrevista 1 – Juan Diego Carranza (26 años)**  
+📍Edad: 26 años  
+💼 Ocupación: Dueño de una empresa de tecnologia
+ Comentarios principales:  
+- Le agrada la interfaz visual y considera que la plataforma tiene buena estructura.  
+- Considera positivo que las herramientas estén agrupadas en un panel de control.  
+- Sugiere añadir más opciones de personalización del usuario.  
+- No quitaría nada por ahora, pero recomienda simplificar algunos botones para hacerlo más intuitivo.  
+🎥 Video: https://youtu.be/bIFjkc5LXRU
+
+---
+
+**Entrevista 2 – Ingrid Ysa (21 años)**  
+📍Edad: 21 años  
+💼 Ocupación: Project manager de una startup
+ Comentarios principales:  
+- Encuentra la plataforma moderna y amigable.  
+- Le gusta que se pueda navegar fácilmente entre opciones.  
+- Agregaría tutoriales o mensajes explicativos para nuevos usuarios.  
+- Recomienda incluir un modo oscuro.  
+🎥 Video: https://youtu.be/yxxVXOc1Xos
+
+---
+
+**Entrevista 3 – Jimmy Sandoval (28 años)**  
+📍Edad: 28 años  
+💼 Ocupación: Dueño de una agencia de diseño web
+ Comentarios principales:  
+- Considera que la plataforma es funcional y cumple con lo prometido.  
+- Destaca la variedad de herramientas en un solo lugar.  
+- Sugiere mejorar la velocidad de carga de algunas secciones.  
+- Recomienda integrar funciones de automatización.  
+🎥 Video: https://youtu.be/smTyQuUE534
+
+---
+
+### 5.3.3. Evaluaciones Según Heurísticas
+
+> **¿Qué son las heurísticas?**  
+> Son un conjunto de principios utilizados para evaluar la usabilidad de una interfaz. Las más conocidas son las **10 heurísticas de Jakob Nielsen**, aplicadas en diseño UX.
+
+**Resumen aplicado a nuestro proyecto**
+
+| Heurística | Evaluación |
+|------------|------------|
+| **Visibilidad del estado del sistema** | La plataforma muestra estados claros durante navegación. Se recomienda añadir indicadores de carga. |
+| **Correspondencia entre el sistema y el mundo real** | El lenguaje es comprensible y cercano. Puede mejorar mediante íconos más representativos. |
+| **Control y libertad del usuario** | El usuario puede retroceder fácilmente. Sugerencia: añadir botón de “deshacer”. |
+| **Consistencia y estándares** | Los estilos son coherentes. Debe unificarse el tamaño de botones. |
+| **Prevención de errores** | Aún no existen alertas preventivas. Sugerencia: mensajes de confirmación antes de eliminar datos. |
+| **Reconocimiento antes que recuerdo** | La navegación es intuitiva. Se podrían incorporar etiquetas explicativas. |
+| **Flexibilidad y eficiencia de uso** | Usuarios avanzados podrían aprovechar atajos, pero aún no existen. |
+| **Diseño estético y minimalista** | La interfaz es limpia. Se sugiere minimizar texto en algunas pantallas. |
+| **Ayuda a los usuarios a reconocer errores** | No hay mensajes claros de error. Recomendación: incluir alertas descriptivas. |
+| **Ayuda y documentación** | No cuenta con tutoriales. Se sugiere un onboarding inicial.|
+
+---
 
 ## 5.4. Video About-the-Product
 
