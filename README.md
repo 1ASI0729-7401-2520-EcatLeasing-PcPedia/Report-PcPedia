@@ -2713,6 +2713,16 @@ Para el desarrollo del sprint, se tuvo una reunion el cual el equipo decidio ava
         https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/LandingPage
       </a>
     </li>
+    <li><strong>Repositorio de el Frontend:</strong> 
+      <a href="https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia" target="_blank">
+        https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia
+      </a>
+    </li>
+    <li><strong>Repositorio de el Backend:</strong> 
+      <a href="https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Back-end-EcatLeasing" target="_blank">
+        https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Back-end-EcatLeasing
+      </a>
+    </li>
   </ul>
 
   <h3>2. Despliegue de la Landing Page</h3>
