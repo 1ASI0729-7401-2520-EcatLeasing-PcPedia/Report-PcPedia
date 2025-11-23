@@ -2402,10 +2402,10 @@ El frontend de PcPedia fue desplegado utilizando Netlify, una plataforma de desp
 
 **URL desplegada:** [PcPedia Front-end](https://dreamy-sunshine-e3be2b.netlify.app/)
 
-![evidence_deployment_1.jpeg](../assets/chapter5/evidence_deployment_1.jpeg)
-![evidence_deployment_2.jpeg](../assets/chapter5/evidence_deployment_2.jpeg)
-![evidence_deployment_3.jpeg](../assets/chapter5/evidence_deployment_3.jpeg)
-![evidence_deployment_4.jpeg](../assets/chapter5/evidence_deployment_4.jpeg)
+![evidence_deployment_1.jpeg](./assets/chapter5/evidence_deployment_1.jpeg)
+![evidence_deployment_2.jpeg](./assets/chapter5/evidence_deployment_2.jpeg)
+![evidence_deployment_3.jpeg](./assets/chapter5/evidence_deployment_3.jpeg)
+![evidence_deployment_4.jpeg](./assets/chapter5/evidence_deployment_4.jpeg)
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
