@@ -6,11 +6,11 @@
 
 **Carrera**: Ingeniería de Software
 
-**Ciclo**: 2025-02
+**Ciclo**: 2025-20
 
 **Curso**: Desarrollo de Aplicaciones Open Source
 
-**Sección**: 1ASI0729-7401-2520
+**NRC**: 7401
 
 **Profesor**: Mori Paiva, Hugo Allan
 
@@ -30,7 +30,7 @@ Bendezu Navarro, Rubens Fitzgerald - u20231d390<br>
 
 </div>
 
-**Octubre del 2025**
+**Diciembre del 2025**
 
 </div>
 
@@ -48,15 +48,20 @@ Bendezu Navarro, Rubens Fitzgerald - u20231d390<br>
         <td colspan="3">1era</td>
         <td colspan="3">30/08/2025</td>
         <td colspan="10">Retuerto Rodríguez, Jorge Manuel <br> Hernández Poma, Sebastián Eduardo <br> Condori Lozano, Alessandro Ramiro <br> Armestar Heredia, Matias Gabriel <br> Bendezu Navarro, Rubens Fitzgerald </td>
-        <td colspan="5">Revision y entrega de cada punto, cada estudiante se repartio 1 capitulo del informe, luego de haber terminado, fue visto y corregidor por cada integrante, esto ocurrio posterior a la revision del docente, con el proposito de mejorar el informe y poder entregar un informe de acuerdo a la rubrica</td>
+        <td colspan="5">Revision y entrega de cada punto, cada estudiante se repartio 1 capitulo del informe, luego de haber terminado, fue visto y corregidor por cada integrante, esto ocurrio posterior a la revision del docente, con el proposito de mejorar el informe y poder entregar un informe de acuerdo a la rúbrica</td>
     </tr>
     <tr>
         <td colspan="3">2da</td>
         <td colspan="3">8/10/2025</td>
         <td colspan="10">Retuerto Rodríguez, Jorge Manuel <br> Hernández Poma, Sebastián Eduardo <br> Condori Lozano, Alessandro Ramiro <br> Armestar Heredia, Matias Gabriel <br> Bendezu Navarro, Rubens Fitzgerald </td>
-        <td colspan="5">Revision de los capitulos para lograr una correccion optima, posterior avance del front-end y del capitulo V</td>
+        <td colspan="5">Revision de los capitulos para lograr una correccion optima, posterior avance del frontend y del Sprint 2</td>
     </tr>
-
+    <tr>
+        <td colspan="3">3era</td>
+        <td colspan="3">16/11/2025</td>
+        <td colspan="10">Retuerto Rodríguez, Jorge Manuel <br> Hernández Poma, Sebastián Eduardo <br> Condori Lozano, Alessandro Ramiro <br> Armestar Heredia, Matias Gabriel <br> Bendezu Navarro, Rubens Fitzgerald </td>
+        <td colspan="5">Revision de los capitulos para lograr una correccion optima, posterior avance del backend y del Sprint 3</td>
+    </tr>
 </table>
 
 ---
