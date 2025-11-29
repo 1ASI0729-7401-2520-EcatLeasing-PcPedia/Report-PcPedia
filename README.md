@@ -2,8 +2,6 @@
 
 **Universidad Peruana de Ciencias Aplicadas**
 
-</div>
-
 **Carrera**: Ingeniería de Software
 
 **Periodo**: 2025-20
@@ -22,17 +20,13 @@
 
 **Integrantes**:
 
-Retuerto Rodríguez, Jorge Manuel - u202318612<br>
-Hernández Poma, Sebastián Eduardo - u20231c996<br>
-Condori Lozano, Alessandro Ramiro - u20211a118<br>
-Armestar Heredia, Matias Gabriel - u20221a553<br>
-Bendezu Navarro, Rubens Fitzgerald - u20231d390<br>
+Retuerto Rodríguez, Jorge Manuel - u202318612  
+Hernández Poma, Sebastián Eduardo - u20231c996  
+Condori Lozano, Alessandro Ramiro - u20211a118  
+Armestar Heredia, Matias Gabriel - u20221a553  
+Bendezu Navarro, Rubens Fitzgerald - u20231d390  
 
-</div>
-
-**Diciembre del 2025**
-
-</div>
+**Diciembre del 2025**  
 
 ---
 
@@ -70,36 +64,32 @@ Bendezu Navarro, Rubens Fitzgerald - u20231d390<br>
 
 A continuación, se detalla el proceso de elaboración del informe para cada entrega, junto con capturas de pantalla que muestran los análisis de colaboración y commits en GitHub para el repositorio del informe:
 
-**URL del Repositorio del Informe:** https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia
+**URL del Repositorio del Informe:** https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia  
 
-**Entrega N°1: TB1**
-<br>
+**Entrega N°1: TB1**  
 
-Se han desarrollado las tareas asignadas para la entrega TB1 en el repositorio de Github de la organización del equipo, accesible mediante el enlace: (https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia)
+Se han desarrollado las tareas asignadas para la entrega TB1 en el repositorio de Github de la organización del equipo, accesible mediante el enlace: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia  
 
-Para la creación del informe, se realizaron las siguientes actividades:
+Para la creación del informe, se realizaron las siguientes actividades:  
 
-Cada miembro del equipo redactó y generó gráficos en formato Markdown según los puntos asignados, y luego se hicieron commits para registrar el progreso en el repositorio.
+- Cada miembro del equipo redactó y generó gráficos en formato Markdown según los puntos asignados, y luego se hicieron commits para registrar el progreso en el repositorio.  
+- Se crearon los artefactos necesarios usando las herramientas recomendadas, y se obtuvieron los enlaces de las imágenes correspondientes a través de la funcionalidad de "Issues" en el repositorio del informe.  
+- Se llevaron a cabo reuniones periódicas para coordinar el avance de los puntos del informe. Estas reuniones también se utilizaron para comunicar el progreso alcanzado durante el Sprint 1, enfocado en el desarrollo de la Landing Page del proyecto.
 
-Se crearon los artefactos necesarios usando las herramientas recomendadas, y se obtuvieron los enlaces de las imágenes correspondientes a través de la funcionalidad de "Issues" en el repositorio del informe.
-
-Se llevaron a cabo reuniones periódicas para coordinar el avance de los puntos del informe. Estas reuniones también se utilizaron para comunicar el progreso alcanzado durante el Sprint 1, enfocado en el desarrollo de la Landing Page del proyecto.
-
-URL del repositorio orientado a el informe: (https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Report-PcPedia)  
-URL del repositorio orientado a la landing page: (https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Landing-Page-PcPedia)  
+URL del repositorio orientado a el informe: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Report-PcPedia    
+URL del repositorio orientado a la landing page: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Landing-Page-PcPedia  
 
 Cada miembro del equipo realizo cambios y mejoras en sus respectivas ramas de acuerdo a la distribucion del proyecto para poder completar la entrega, posteriormente tuvimos una reunion en el cual corregiriamos ciertos detalles para poder asi cumplir correctamente con la entrega del proyecto.
 
-**Contributors Insights landing page:** <br>
+**Contributors Insights Landing Page:** <br>
 ![Commits-landing-page-tp1](./assets/caratula/contributors_insights_landing_tp.jpg)
 
-**Network Insights landing page:** <br>
+**Network Insights Landing Page:** <br>
 ![Network-landing-page-tb1](./assets/caratula/network_graph_tb1_landing.PNG)
 
 ---
 
-**Entrega N°2: TP1**
-<br>
+**Entrega N°2: TP1**  
 
 Para este avance se desarrolló el capitulo V en su primer sprint, como también el frontend y se documentó el proceso en el repositorio de Github, accesible mediante los siguientes enlaces:
 
@@ -1409,7 +1399,7 @@ Finalmente, los botones de acción (ej. “Comparar ahora”, “Agregar a favor
 
 Los wireframes son representaciones de baja fidelidad que muestran la estructura y disposición de los elementos principales de la aplicación web.
 
-A continuación, presentaremos los wireframe de nuestra landing page como guía del diseño que haremos en los siguientes paso:
+A continuación, presentaremos los wireframe de nuestra Landing Page como guía del diseño que haremos en los siguientes paso:
 
 - Captura 1
 
@@ -1461,7 +1451,7 @@ Para más detalle, revisar el anexo 1.
 
 ### 4.4.1. Web Applications Wireframes
 
-Anteriormente se mostraron los wireframes de la landing page del proyecto, ahora mostraremos el diseño de bajo nivel de fidelidad de la web de nuestro proyecto.
+Anteriormente se mostraron los wireframes de la Landing Page del proyecto, ahora mostraremos el diseño de bajo nivel de fidelidad de la web de nuestro proyecto.
 
 En primer lugar, mostraremos los elementos que se podran encontrar en nuestra web.
 
@@ -1717,7 +1707,7 @@ El repositorio se estructuró de la siguiente manera:
 
 - Organización en Github: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia
 - Repositorio del informe final: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Report-PcPedia
-- Repositorio de la Landing Page: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/LandingPage
+- Repositorio de la Landing Page: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Landing-Page-PcPedia
 
 #### Conventional Commits
 
@@ -1764,9 +1754,9 @@ En esta sección se describen las configuraciones y herramientas utilizadas para
 
 La **Landing Page** fue desarrollada utilizando tecnologías web estándar como HTML, CSS y JavaScript. Y fue desplegada utilizando **GitHub Pages**, un servicio de alojamiento web estático proporcionado por GitHub.
 
-**Repositorio de la Landing Page**: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/LandingPage
+**Repositorio de la Landing Page**: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Landing-Page-PcPedia
 
-**Landing Page desplegada**: https://1asi0729-7401-2520-ecatleasing-pcpedia.github.io/LandingPage/
+**Landing Page desplegada**: https://1asi0729-7401-2520-ecatleasing-pcpedia.github.io/Landing-Page-PcPedia/
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
@@ -1868,7 +1858,7 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
         <th>Integrante</th>
         <th>GitHub</th>
         <th>UX/UI</th>
-        <th>Landing</th>
+        <th>Landing Page</th>
         <th>Deploy</th>
         <th>Documentación</th>
       </tr>
@@ -2017,7 +2007,7 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
 <p><strong>Rama:</strong> develop</p>
 
 <section>
-  <h2>Elaboración de Landing</h2>
+  <h2>Elaboración de Landing Page</h2>
   <img src="./assets/chapter5/commits_landing_1.png" alt="Landing Page">
 </section>
 
@@ -2040,12 +2030,12 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
 
 <p>El avance del sprint se evidencia en el repositorio de GitHub donde se subieron los siguientes archivos:</p>
 <ul>
-  <li><strong>Landing Page (Versión 1)</strong>: HTML y CSS desplegados en <a href="https://1asi0729-7401-2520-ecatleasing-pcpedia.github.io/LandingPage/">GitHub Pages</a>.</li>
-  <li><strong>Wireframes y Mockups</strong>: Los wireframes de la landing page y la app web, junto con los mockups, están documentados en el repositorio.</li>
+  <li><strong>Landing Page (Versión 1)</strong>: HTML y CSS desplegados en <a href="https://1asi0729-7401-2520-ecatleasing-pcpedia.github.io/Landing-Page-PcPedia/">GitHub Pages</a>.</li>
+  <li><strong>Wireframes y Mockups</strong>: Los wireframes de la Landing Page y la app web, junto con los mockups, están documentados en el repositorio.</li>
 </ul>
 
 <section>
-  <h2>Demostración de ejecución de la Landing</h2>
+  <h2>Demostración de ejecución de la Landing Page</h2>
   <div style="display: flex; flex-wrap: wrap; gap: 15px;">
     <img src="./assets/chapter5/evidence_landing_1.png" alt="Landing Page 2">
     <img src="./assets/chapter5/evidence_landing_2.png" alt="Landing Page 3">
@@ -2060,7 +2050,7 @@ El objetivo principal de este sprint es desarrollar la Landing Page (versión 1)
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-<p>La Landing Page fue desplegada en GitHub Pages, y está accesible a través del siguiente enlace: <a href="https://1asi0729-7401-2520-ecatleasing-pcpedia.github.io/LandingPage/">Enlace a la Landing Page</a></p>
+<p>La Landing Page fue desplegada en GitHub Pages, y está accesible a través del siguiente enlace: <a href="https://1asi0729-7401-2520-ecatleasing-pcpedia.github.io/Landing-Page-PcPedia/">Enlace a la Landing Page</a></p>
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
@@ -2366,7 +2356,7 @@ En este sprint se tiene como objetivo desarrollar el frontend de PcPedia porque 
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
-Enlace al repositorio de la Landing Page: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia
+Enlace al repositorio de el Frontend: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia
 
 | Repository           | Branch | Commit Id | Commit Message                      | Commit Message Body | Commited on (Date) |
 |----------------------|--------|-----------|-------------------------------------|---------------------|--------------------|
@@ -2875,8 +2865,8 @@ sistema <strong>ECAT Leasing / PcPedia</strong> siguiendo una arquitectura basad
       </a>
     </li>
     <li><strong>Repositorio de la Landing Page:</strong> 
-      <a href="https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/LandingPage" target="_blank">
-        https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/LandingPage
+      <a href="https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Landing-Page-PcPedia" target="_blank">
+        https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Landing-Page-PcPedia
       </a>
     </li>
     <li><strong>Repositorio de el Frontend:</strong> 
@@ -2895,8 +2885,8 @@ sistema <strong>ECAT Leasing / PcPedia</strong> siguiendo una arquitectura basad
   <p>La Landing Page fue desarrollada por Alessandro Ramiro Condori Lozano y desplegada utilizando GitHub Pages. Esta página sirve como presentación inicial del producto PcPedia.</p>
   <ul>
     <li><strong>Despliegue de la Landing Page en producción:</strong> 
-      <a href="https://1asi0729-7401-2520-ecatleasing-pcpedia.github.io/LandingPage/" target="_blank">
-        https://1asi0729-7401-2520-ecatleasing-pcpedia.github.io/LandingPage/
+      <a href="https://1asi0729-7401-2520-ecatleasing-pcpedia.github.io/Landing-Page-PcPedia/" target="_blank">
+        https://1asi0729-7401-2520-ecatleasing-pcpedia.github.io/Landing-Page-PcPedia/
       </a>
     </li>
     <li><strong>Link del Mock-up en Figma:</strong> 
