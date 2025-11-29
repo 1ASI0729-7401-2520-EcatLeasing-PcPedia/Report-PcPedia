@@ -64,48 +64,48 @@ Bendezu Navarro, Rubens Fitzgerald - u20231d390
 
 A continuación, se detalla el proceso de elaboración del informe para cada entrega, junto con capturas de pantalla que muestran los análisis de colaboración y commits en GitHub para el repositorio del informe:
 
-**URL del Repositorio del Informe:** https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia  
+**URL de la Organización:** https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia  
+**URL del Repositorio del Informe:** https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Report-PcPedia  
 
 **Entrega N°1: TB1**  
 
-Se han desarrollado las tareas asignadas para la entrega TB1 en el repositorio de Github de la organización del equipo, accesible mediante el enlace: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia  
+En este primer avance se desarrolló los capítulos I, II, III, IV, así también el capítulo V en su primer sprint, enfocado a la Landing Page.  
 
 Para la creación del informe, se realizaron las siguientes actividades:  
 
 - Cada miembro del equipo redactó y generó gráficos en formato Markdown según los puntos asignados, y luego se hicieron commits para registrar el progreso en el repositorio.  
 - Se crearon los artefactos necesarios usando las herramientas recomendadas, y se obtuvieron los enlaces de las imágenes correspondientes a través de la funcionalidad de "Issues" en el repositorio del informe.  
 - Se llevaron a cabo reuniones periódicas para coordinar el avance de los puntos del informe. Estas reuniones también se utilizaron para comunicar el progreso alcanzado durante el Sprint 1, enfocado en el desarrollo de la Landing Page del proyecto.
+  
+**URL del repositorio orientado a la Landing Page:** https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Landing-Page-PcPedia  
 
-URL del repositorio orientado a el informe: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Report-PcPedia    
-URL del repositorio orientado a la landing page: https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Landing-Page-PcPedia  
+**Report Contributors Insights (TB1)**  
 
-Cada miembro del equipo realizo cambios y mejoras en sus respectivas ramas de acuerdo a la distribucion del proyecto para poder completar la entrega, posteriormente tuvimos una reunion en el cual corregiriamos ciertos detalles para poder asi cumplir correctamente con la entrega del proyecto.
-
-**Contributors Insights Landing Page:** <br>
-![Commits-landing-page-tp1](./assets/caratula/contributors_insights_landing_tp.jpg)
-
-**Network Insights Landing Page:** <br>
-![Network-landing-page-tb1](./assets/caratula/network_graph_tb1_landing.PNG)
+![report_contributors_insights_tb1](./assets/caratula/report_contributors_insights_tb1.png)  
 
 ---
 
 **Entrega N°2: TP1**  
 
-Para este avance se desarrolló el capitulo V en su primer sprint, como también el frontend y se documentó el proceso en el repositorio de Github, accesible mediante los siguientes enlaces:
+Para este avance se desarrolló el capitulo V en su segundo sprint, enfocado a el Frontend.
 
-URL del repositorio orientado a el informe: (https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Report-PcPedia)  
-URL del repositorio para el desarrollo del frontend: (https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia)  
+**URL del repositorio orientado al Frontend:** https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia  
 
-Cada miembro del equipo realizo cambios y mejoras en sus respectivas ramas de acuerdo a la distribucion del proyecto para poder completar la entrega, posteriormente tuvimos una reunion en el cual corregiriamos ciertos detalles para poder asi cumplir correctamente con la entrega del proyecto.
+**Report Contributors Insights (TP1)**  
 
-**Contributors Insights report:**  
-![Commits-report-tp1](./assets/caratula/contributors_insights_report_tp.jpg)  
+![report_contributors_insights_tp1](./assets/caratula/report_contributors_insights_tp1.png)  
 
-**Network Insights report:**  
-![Network-report-tb1](./assets/caratula/network_graph_tb1_report.png)  
+---
 
-**Contributors Insights frontend:**  
-![Commits-front-end-tp1]()  
+**Entrega N°3: TB2**  
+
+Para este avance se desarrolló el capitulo V en su tercer sprint, enfocado a el Backend.
+
+**URL del repositorio orientado al Backend:**  
+
+**Report Contributors Insights (TB2)**  
+
+![report_contributors_insights_tb2](./assets/caratula/report_contributors_insights_tb2.png)  
 
 ---
 
