@@ -6,7 +6,7 @@
 
 **Carrera**: Ingeniería de Software
 
-**Ciclo**: 2025-20
+**Periodo**: 2025-20
 
 **Curso**: Desarrollo de Aplicaciones Open Source
 
@@ -75,7 +75,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 **Entrega N°1: TB1**
 <br>
 
-Se han completado las tareas asignadas para la entrega TB1 en el repositorio de Github de la organización del equipo, accesible mediante el enlace: Informe-TB1-Web.
+Se han desarrollado las tareas asignadas para la entrega TB1 en el repositorio de Github de la organización del equipo, accesible mediante el enlace: (https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia)
 
 Para la creación del informe, se realizaron las siguientes actividades:
 
@@ -85,36 +85,37 @@ Se crearon los artefactos necesarios usando las herramientas recomendadas, y se 
 
 Se llevaron a cabo reuniones periódicas para coordinar el avance de los puntos del informe. Estas reuniones también se utilizaron para comunicar el progreso alcanzado durante el Sprint 1, enfocado en el desarrollo de la Landing Page del proyecto.
 
+URL del repositorio orientado a el informe: (https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Report-PcPedia)  
+URL del repositorio orientado a la landing page: (https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Landing-Page-PcPedia)  
+
+Cada miembro del equipo realizo cambios y mejoras en sus respectivas ramas de acuerdo a la distribucion del proyecto para poder completar la entrega, posteriormente tuvimos una reunion en el cual corregiriamos ciertos detalles para poder asi cumplir correctamente con la entrega del proyecto.
+
+**Contributors Insights landing page:** <br>
+![Commits-landing-page-tp1](./assets/caratula/contributors_insights_landing_tp.jpg)
+
+**Network Insights landing page:** <br>
+![Network-landing-page-tb1](./assets/caratula/network_graph_tb1_landing.PNG)
+
 ---
 
 **Entrega N°2: TP1**
 <br>
 
-Para este avance se completo el capitulo V y el desarrollo del front end y se subio la evidencia en el repositorio de Github en los siguientes enlaces:
+Para este avance se desarrolló el capitulo V en su primer sprint, como también el frontend y se documentó el proceso en el repositorio de Github, accesible mediante los siguientes enlaces:
 
-URL del repositorio para el reporte del proyecto: (https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Report-PcPedia/tree/master)<br>
-URL del repositorio para el Landing Page: (https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Landing-Page-PcPedia)<br>
-URL del repositorio para el desarrollo del frontend web applications: (https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia)<br>
+URL del repositorio orientado a el informe: (https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Report-PcPedia)  
+URL del repositorio para el desarrollo del frontend: (https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia)  
 
 Cada miembro del equipo realizo cambios y mejoras en sus respectivas ramas de acuerdo a la distribucion del proyecto para poder completar la entrega, posteriormente tuvimos una reunion en el cual corregiriamos ciertos detalles para poder asi cumplir correctamente con la entrega del proyecto.
 
-**Contributors Insights report:** <br>
-![Commits-report-tp1](./assets/caratula/contributors_insights_report_tp.jpg)
+**Contributors Insights report:**  
+![Commits-report-tp1](./assets/caratula/contributors_insights_report_tp.jpg)  
 
-**Contributors Insights landing page:** <br>
-![Commits-landing-page-tp1](./assets/caratula/contributors_insights_landing_tp.jpg)
+**Network Insights report:**  
+![Network-report-tb1](./assets/caratula/network_graph_tb1_report.png)  
 
-**Contributors Insights front end:** <br>
-![Commits-landing-page-tp1]()
-
-**Network Insights report:** <br>
-![Network-report-tb1](./assets/caratula/network_graph_tb1_report.png)
-
-**Network Insights landing page:** <br>
-![Network-landing-page-tb1](./assets/caratula/network_graph_tb1_landing.PNG)
-
-**Contributors Insights front end:** <br>
-![Commits-front-end-tp1]()
+**Contributors Insights frontend:**  
+![Commits-front-end-tp1]()  
 
 ---
 
@@ -2847,7 +2848,6 @@ sistema <strong>ECAT Leasing / PcPedia</strong> siguiendo una arquitectura basad
 # Bibliografia
 
 <ul>
-  <li>Beck, K., & Andres, C. (2005). <em>Extreme Programming Explained: Embrace Change</em> (2nd ed.). Addison-Wesley Professional.</li>
   <li>Driessen, V. (2010). <em>A successful Git branching model</em>. Disponible en: <a href="https://nvie.com/posts/a-successful-git-branching-model/" target="_blank">https://nvie.com/posts/a-successful-git-branching-model/</a></li>
   <li>Cucumber. (s.f.). <em>Gherkin Reference</em>. Recuperado de: <a href="https://cucumber.io/docs/gherkin/" target="_blank">https://cucumber.io/docs/gherkin/</a></li>
   <li>Figma. (s.f.). <em>Figma: Collaborative Interface Design Tool</em>. Recuperado de: <a href="https://www.figma.com/" target="_blank">https://www.figma.com/</a></li>
@@ -2892,9 +2892,9 @@ sistema <strong>ECAT Leasing / PcPedia</strong> siguiendo una arquitectura basad
   </ul>
 
   <h3>2. Despliegue de la Landing Page</h3>
-  <p>La Landing Page fue desarrollada por Alessandro Ramiro Condori Lozano y desplegada utilizando GitHub Pages. Esta página sirve como presentación inicial del producto PcPedia y permite a los usuarios interactuar con la interfaz de manera funcional.</p>
+  <p>La Landing Page fue desarrollada por Alessandro Ramiro Condori Lozano y desplegada utilizando GitHub Pages. Esta página sirve como presentación inicial del producto PcPedia.</p>
   <ul>
-    <li><strong>Link de la Landing Page en producción:</strong> 
+    <li><strong>Despliegue de la Landing Page en producción:</strong> 
       <a href="https://1asi0729-7401-2520-ecatleasing-pcpedia.github.io/LandingPage/" target="_blank">
         https://1asi0729-7401-2520-ecatleasing-pcpedia.github.io/LandingPage/
       </a>
@@ -2905,20 +2905,24 @@ sistema <strong>ECAT Leasing / PcPedia</strong> siguiendo una arquitectura basad
       </a>
     </li>
   </ul>
-  <h3>3. Despliegue de el Front-end</h3>
-  <p>La Landing Page fue desarrollada por Alessandro Ramiro Condori Lozano y desplegada utilizando GitHub Pages. Esta página sirve como presentación inicial del producto PcPedia y permite a los usuarios interactuar con la interfaz de manera funcional.</p>
+  <h3>3. Despliegue de el Frontend</h3>
+  <p>El Frontend fue desplegado utilizando Netlify. Esta página permite a los usuarios interactuar con la interfaz de manera satisfactoria.</p>
   <ul>
-    <li><strong>Link de el Front-end en producción:</strong> 
+    <li><strong>Despliegue de el Frontend en producción:</strong> 
       <a href="https://dreamy-sunshine-e3be2b.netlify.app/" target="_blank">
-        https://dreamy-sunshine-e3be2b.netlify.app/
+          https://dreamy-sunshine-e3be2b.netlify.app/
       </a>
     </li>
   </ul>
-  <li><strong>Despliegue de el Backend:</strong> 
+  <h3>4. Despliegue de el Backend</h3>
+  <p>El backend fue desplegado utilizando Render. Esta página contiene la lógica de negocio, el manejo de la base de datos y control de APIs.</p>
+  <ul>
+    <li><strong>Despliegue de el Backend:</strong> 
       <a href="https://backendpcpedia.onrender.com/swagger-ui/index.html" target="_blank">
-        [https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Back-end-EcatLeasing](https://backendpcpedia.onrender.com/swagger-ui/index.html)
+          https://backendpcpedia.onrender.com/swagger-ui/index.html
       </a>
     </li>
+  </ul>
 </section>
 
 ## Conclusiones y recomendaciones
