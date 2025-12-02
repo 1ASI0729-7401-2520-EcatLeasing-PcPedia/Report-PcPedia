@@ -109,6 +109,24 @@ Para este avance se desarrolló el capitulo V en su tercer sprint, enfocado a el
 
 ---
 
+**Entrega N°4: TF**  
+
+Para este avance se desarrolló el capitulo V en su cuerto sprint, enfocado a el Backend, Frontend, Deploy y retoques finales.
+
+**URL del repositorio orientado al FrontEnd:**  https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia/graphs/contributors?from=8%2F11%2F2025&to=29%2F11%2F2025
+
+**Report Contributors Insights (TF)** 
+
+![contributorfront_TF](./assets/caratula/contributorfront_TF.png)  
+
+**URL del repositorio orientado al BackEnd:**  https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Back-end-PcPedia
+
+**Report Contributors Insights (TF)**  
+
+![contributorbackend_TF](./assets/caratula/contributorbackend_TF.png)  
+
+---
+
 # Student Outcome
 
 El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - Student Outcome 3** <br> Criterio: _Capacidad de comunicarse efectivamente con un rango de audiencias._
@@ -2918,7 +2936,674 @@ sistema <strong>ECAT Leasing / PcPedia</strong> siguiendo una arquitectura basad
 ### 5.2.4. Sprint 4
 
 #### 5.2.4.1. Sprint Planning 4.
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 4</th>
+  </tr>
+  <tr>
+    <td><strong>Sprint planning background</strong></td>
+    <td>
+      En este sprint se realizará la integración completa del Backend y el Frontend del sistema.
+      Se finalizarán los endpoints pendientes (catálogo, carrito, pagos, órdenes y autenticación),
+      se corregirá la inestabilidad del backend desplegado y se actualizará el frontend para consumir la API real.
+      También se completará el video <em>About-the-Product</em> y se actualizarán las secciones observadas del informe 
+      (Team Collaboration Insights, Registro de Versiones, Conclusiones), además de corregir imágenes faltantes y errores de despliegue.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Date</strong></td>
+    <td>30/11/2025 y 01/12/2025</td>
+  </tr>
+  <tr>
+    <td><strong>Time</strong></td>
+    <td>10:00 AM</td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Reunión virtual mediante la plataforma <strong>Discord</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Prepared By</strong></td>
+    <td>Sebastián Hernández</td>
+  </tr>
+</table>
+
+<br>
+
+<h3>Sprint # – Sprint 4</h3>
+
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 4</th>
+  </tr>
+  <tr>
+    <td><strong>Attendees (to planning meeting)</strong></td>
+    <td>
+      Retuerto Rodríguez, Jorge Manuel. Hernández Poma, Sebastián Eduardo. Condori Lozano, 
+      Alessandro Ramiro .Armestar Heredia, Matías Gabriel .Bendezu Navarro, 
+      Rubens Fitzgerald y Bryan Eduardo Barba Estrada.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 3 Review Summary</strong></td>
+    <td>
+      En el Sprint 3 se logró deployar el backend con los primeros endpoints y se avanzó en la modificación del frontend.
+      Sin embargo, quedaron pendientes la integración del backend con el frontend y la creación del video 
+      <em>About-the-Product</em>. Las observaciones del profesor incluyeron: falta de videos, secciones del informe 
+      desactualizadas (Registro de Versiones, Team Collaboration, Student Outcome), imágenes que no se muestran y 
+      backend desplegado que no levantaba correctamente.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 3 Retrospective Summary</strong></td>
+    <td>
+      Se logró finalmente deployar correctamente el backend, resolviendo los tiempos excesivos de carga.
+      Aún era necesario mejorar los endpoints y completar la integración frontend-backend.
+      Para este Sprint 4 el equipo se enfocó en cerrar todos los endpoints, desplegar tanto backend como frontend 
+      correctamente, integrarlos por completo y resolver la deuda técnica previa.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Sprint Goal & User Stories</strong></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 4 Goal</strong></td>
+    <td>
+      Consolidar la integración completa entre Backend y Frontend, finalizando todos los endpoints funcionales 
+      (catálogo, carrito, pagos, órdenes y autenticación). Desplegar ambas aplicaciones correctamente, asegurar su 
+      integración y completar los entregables pendientes como el video <em>About-the-Product</em> y las secciones 
+      observadas del informe final.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 4 Velocity</strong></td>
+    <td>54</td>
+  </tr>
+  <tr>
+    <td><strong>Sum of story points</strong></td>
+    <td>54</td>
+  </tr>
+</table>
+
 #### 5.2.4.2. Aspect Leaders and Collaborators.
+
+<p>
+Ahora presentaremos nuestro LACX (Leadership-and-Collaboration Matrix), que nos ayudará a saber quién lidera y quién
+colabora en cada aspecto de este cuarto sprint.<br>
+Los aspectos que tomamos en cuenta para este sprint fueron el desarrollo del frontend y backend, la integración entre
+ambos, el despliegue de la solución y la elaboración de reportes y documentación.
+</p>
+
+<table>
+  <tr>
+    <th>Team Member<br>Last Name, First Name</th>
+    <th>GitHub Username</th>
+    <th>Frontend (Angular)<br>L/C</th>
+    <th>Backend (Spring Boot)<br>L/C</th>
+    <th>Integration Front–Back<br>L/C</th>
+    <th>Deployment<br>L/C</th>
+    <th>Reports &amp; Documentation<br>L/C</th>
+  </tr>
+
+  <tr>
+    <td>Hernández, Sebastián</td>
+    <td>M1sterDG</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+
+  <tr>
+    <td>Retuerto Rodríguez, Jorge Manuel</td>
+    <td>Calin1407</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+
+  <tr>
+    <td>Armestar, Matías</td>
+    <td>MatiasArmestar</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+
+  <tr>
+    <td>Condori Lozano, 
+      Alessandro Ramiro</td>
+    <td>AlessandroRCL</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+
+  <tr>
+    <td>Barba Estrada, Bryan Eduardo</td>
+    <td>br14nbe</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+
+  <tr>
+    <td>Fitzgerald, Rubens</td>
+    <td>Lucemz</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+</table>
+
+<p>
+  <strong>Nota.</strong> L = <em>Leader</em> (responsable principal del aspecto).<br>
+  C = <em>Collaborator</em> (apoya el desarrollo del aspecto).
+</p>
+
+<h3>5.2.4.3. Sprint Backlog 4</h3>
+
+<p>
+El objetivo principal de este Sprint fue completar la integración entre el Frontend y el Backend del sistema Smart Leasing,
+corregir errores en el flujo de autenticación y sesión, integrar los módulos de contratos, activos del cliente e incidencias
+con la API real y consolidar el panel administrativo. Este sprint permitió validar los flujos críticos de negocio en un
+entorno funcional.
+</p>
+
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 4</th>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="2">Work-Item / Task</th>
+    <th rowspan="2">Description</th>
+    <th rowspan="2">Estimation<br>(Hours)</th>
+    <th rowspan="2">Assigned To</th>
+    <th rowspan="2">Status</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+  </tr>
+
+  <!-- HU01 / HU08 – Login & Session -->
+  <tr>
+    <td>HU01 / HU08</td>
+    <td>Autenticación de Usuario y Gestión de Sesión</td>
+    <td>ET41</td>
+    <td>Integración Front–Back del Login</td>
+    <td>
+      Integrar el formulario de inicio de sesión del frontend con los endpoints existentes del backend,
+      manejando validación de credenciales, manejo de errores y redirección segura después del login.
+    </td>
+    <td>5</td>
+    <td>Matías Armestar (MatiasArmestar)</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td>HU01 / HU08</td>
+    <td>Autenticación de Usuario y Gestión de Sesión</td>
+    <td>ET42</td>
+    <td>Corrección de errores de sesión</td>
+    <td>
+      Ajustar el consumo de <code>/api/auth/me</code> y <code>/api/auth/logout</code> para asegurar persistencia
+      de sesión, cierre correcto y manejo de expiración de credenciales en el frontend.
+    </td>
+    <td>4</td>
+    <td>Sebastián Hernández (M1sterDG)</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- HU03 – Mis Activos -->
+  <tr>
+    <td>HU03</td>
+    <td>Visualización de Activos del Cliente</td>
+    <td>ET43</td>
+    <td>Integración módulo “Mis Activos”</td>
+    <td>
+      Conectar la vista “Mis Activos” con el endpoint <code>/api/my-equipment</code>, mostrando los equipos
+      arrendados por el cliente con su modelo, marca y estado actual.
+    </td>
+    <td>6</td>
+    <td>Matías Armestar (MatiasArmestar)</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- HU04 – Incidencias -->
+  <tr>
+    <td>HU04</td>
+    <td>Gestión de Incidencias</td>
+    <td>ET44</td>
+    <td>Integración de incidencias</td>
+    <td>
+      Integrar las pantallas de incidencias con los endpoints de tickets
+      (<code>/api/tickets</code>, <code>/api/tickets/{id}</code>, <code>/api/tickets/{id}/status</code>,
+      <code>/api/tickets/{id}/comments</code>), permitiendo registrar, visualizar y dar seguimiento a incidencias.
+    </td>
+    <td>6</td>
+    <td>Bryan Barba (br14nbe)</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- HU05 / HU06 – Contratos -->
+  <tr>
+    <td>HU05 / HU06</td>
+    <td>Consulta y Detalle de Contratos</td>
+    <td>ET45</td>
+    <td>Integración listado de contratos</td>
+    <td>
+      Integrar la vista “Contratos” con el endpoint <code>/api/contracts</code> para listar los contratos activos
+      asociados al cliente autenticado.
+    </td>
+    <td>6</td>
+    <td>Jorge Retuerto (Calin1407)</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td>HU05 / HU06</td>
+    <td>Consulta y Detalle de Contratos</td>
+    <td>ET46</td>
+    <td>Integración detalle de contrato</td>
+    <td>
+      Conectar la pantalla de detalle de contrato con <code>/api/contracts/{id}</code>, mostrando información
+      como equipo, fechas, duración, estado y condiciones del contrato seleccionado.
+    </td>
+    <td>6</td>
+    <td>Jorge Retuerto (Calin1407)</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- HU07 – Mi Perfil -->
+  <tr>
+    <td>HU07</td>
+    <td>Edición de Información Personal</td>
+    <td>ET47</td>
+    <td>Integración “Mi Perfil” con API</td>
+    <td>
+      Integrar la sección “Mi Perfil” con el endpoint <code>/api/users/{id}</code>, permitiendo visualizar y
+      actualizar datos personales básicos del cliente.
+    </td>
+    <td>5</td>
+    <td>Alessandro Condori (AlessandroRCL)</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- HU10 – Panel Administrativo -->
+  <tr>
+    <td>HU10</td>
+    <td>Panel Administrativo (Interno)</td>
+    <td>ET48</td>
+    <td>Integración del panel administrativo</td>
+    <td>
+      Integrar el panel administrativo interno con los módulos del backend (usuarios, inventario, contratos,
+      facturas y dashboard), restringiendo el acceso al personal de ECAT mediante autenticación.
+    </td>
+    <td>8</td>
+    <td>Sebastián Hernández (M1sterDG)</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- Frontend general – Rediseño e integración -->
+  <tr>
+    <td>HU02</td>
+    <td>Pantalla de Inicio Informativa</td>
+    <td>ET49</td>
+    <td>Rediseño de pantalla de inicio</td>
+    <td>
+      Rediseñar la vista de inicio “Conoce Smart Leasing”, alineando el contenido informativo, beneficios del
+      servicio y navegación principal con la estructura final del sistema integrado.
+    </td>
+    <td>5</td>
+    <td>Matías Armestar (MatiasArmestar)</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td>HU01–HU10</td>
+    <td>Ajustes de UI y componentes</td>
+    <td>ET50</td>
+    <td>Perfeccionamiento del frontend para integración</td>
+    <td>
+      Ajustar estilos, componentes compartidos y navegación del frontend para asegurar consistencia visual
+      y correcto consumo de los servicios del backend en todos los módulos integrados.
+    </td>
+    <td>6</td>
+    <td>Bryan Barba (br14nbe)</td>
+    <td>Done</td>
+  </tr>
+</table>
+
+<p><em>Trello Board – Sprint 4 Backlog</em></p>
+<!-- Aquí insertarás la captura de tu tablero Trello como imagen en el informe -->
+
+
+<h3>5.2.4.4. Development Evidence for Sprint Review</h3>
+
+<p>
+En esta sección se presentan los avances de implementación realizados durante el Sprint 4 en los dos
+productos de la solución: Aplicación Web (Frontend) y Web Services (Backend).
+A continuación se muestra la tabla con el formato requerido para registrar la evidencia de desarrollo.
+</p>
+
+<table>
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commit Message Body</th>
+    <th>Committed on (Date)</th>
+  </tr>
+
+  <!-- BACKEND -->
+
+  <tr>
+    <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Back-end-PcPedia</td>
+    <td>main</td>
+    <td>—</td>
+    <td>Merge pull request #4 from .../feature/jorge</td>
+    <td>
+      Integración del trabajo de Jorge para el contexto de <strong>Sales</strong> en la rama principal
+      del backend, consolidando los cambios del Sprint 4.
+    </td>
+    <td>2025/12/01</td>
+  </tr>
+
+  <tr>
+    <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Back-end-PcPedia</td>
+    <td>main</td>
+    <td>—</td>
+    <td>feat(sales): add sales Bounded Context</td>
+    <td>
+      Creación del Bounded Context de <strong>Sales</strong> incluyendo entidades, repositorios y servicios
+      para la gestión de cotizaciones y solicitudes de leasing.
+    </td>
+    <td>2025/12/01</td>
+  </tr>
+
+  <tr>
+    <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Back-end-PcPedia</td>
+    <td>main</td>
+    <td>—</td>
+    <td>Merge pull request #3 from .../feature/rubens</td>
+    <td>
+      Integración del trabajo de Rubens para el contexto de <strong>Inventory</strong>, unificando la rama
+      de características con la rama principal del backend.
+    </td>
+    <td>2025/12/01</td>
+  </tr>
+
+  <tr>
+    <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Back-end-PcPedia</td>
+    <td>main</td>
+    <td>—</td>
+    <td>feat inventory | domain models and enums</td>
+    <td>
+      Definición de modelos de dominio y enumeraciones del módulo de inventario para representar equipos,
+      estados y tipos de dispositivo.
+    </td>
+    <td>2025/12/01</td>
+  </tr>
+
+  <tr>
+    <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Back-end-PcPedia</td>
+    <td>main</td>
+    <td>—</td>
+    <td>feat inventory | add commands and queries for inventory use cases</td>
+    <td>
+      Implementación de comandos y consultas de aplicación para los casos de uso de inventario
+      (creación, actualización, listado y cambio de estado de equipos).
+    </td>
+    <td>2025/12/01</td>
+  </tr>
+
+  <tr>
+    <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Back-end-PcPedia</td>
+    <td>main</td>
+    <td>—</td>
+    <td>feat inventory | expose inventory rest</td>
+    <td>
+      Exposición de los endpoints REST de inventario (<code>/api/inventory</code>) para que puedan ser
+      consumidos por el frontend y el panel administrativo.
+    </td>
+    <td>2025/12/01</td>
+  </tr>
+
+  <tr>
+    <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Back-end-PcPedia</td>
+    <td>main</td>
+    <td>—</td>
+    <td>Merge pull request #2 from .../feature/sebastian</td>
+    <td>
+      Integración del trabajo de Sebastián en la rama principal, incorporando los módulos de
+      <strong>IAM</strong> y <strong>Billing</strong> al backend.
+    </td>
+    <td>2025/12/01</td>
+  </tr>
+
+  <tr>
+    <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Back-end-PcPedia</td>
+    <td>main</td>
+    <td>—</td>
+    <td>feat(billing): add payment processing (aggregate, service, controller)</td>
+    <td>
+      Implementación del flujo de procesamiento de pagos: agregado de dominio, servicio de aplicación y
+      controlador REST para registrar pagos de facturas.
+    </td>
+    <td>2025/12/01</td>
+  </tr>
+
+  <tr>
+    <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Back-end-PcPedia</td>
+    <td>main</td>
+    <td>—</td>
+    <td>Merge pull request #1 from .../feature/sebastian</td>
+    <td>
+      Integración inicial del módulo de <strong>IAM</strong> (gestión de usuarios y autenticación) en la
+      rama principal del backend.
+    </td>
+    <td>2025/12/01</td>
+  </tr>
+
+  <tr>
+    <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Back-end-PcPedia</td>
+    <td>main</td>
+    <td>—</td>
+    <td>feat(iam): implement full user authentication and management module</td>
+    <td>
+      Implementación completa del módulo de autenticación y gestión de usuarios (entidades, servicios
+      y controladores) para soporte de login, logout y administración.
+    </td>
+    <td>2025/12/01</td>
+  </tr>
+
+  <tr>
+    <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Back-end-PcPedia</td>
+    <td>main</td>
+    <td>—</td>
+    <td>feat(shared) structure from back</td>
+    <td>
+      Creación de la estructura <strong>shared</strong> del backend, centralizando clases y utilidades
+      compartidas entre los diferentes bounded contexts.
+    </td>
+    <td>2025/12/01</td>
+  </tr>
+
+  <!-- FRONTEND -->
+
+  <tr>
+    <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia</td>
+    <td>master</td>
+    <td>—</td>
+    <td>feat: add client.routes.ts</td>
+    <td>
+      Definición del archivo de rutas del cliente, configurando la navegación principal de la
+      aplicación para usuarios finales.
+    </td>
+    <td>2025/12/01</td>
+  </tr>
+
+  <tr>
+    <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia</td>
+    <td>master</td>
+    <td>—</td>
+    <td>feat: add quotes, requests &amp; tickets pages (client view)</td>
+    <td>
+      Creación de las vistas de cotizaciones, solicitudes y tickets del cliente, preparadas para
+      consumir los servicios del backend.
+    </td>
+    <td>2025/12/01</td>
+  </tr>
+
+  <tr>
+    <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia</td>
+    <td>master</td>
+    <td>—</td>
+    <td>feat: add equipment, invoices &amp; profile pages (client view)</td>
+    <td>
+      Implementación de las vistas de <em>Mis Activos</em>, facturas y perfil del cliente, conectadas a la
+      estructura de rutas del frontend.
+    </td>
+    <td>2025/12/01</td>
+  </tr>
+
+  <tr>
+    <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia</td>
+    <td>master</td>
+    <td>—</td>
+    <td>feat: add catalog, contracts &amp; dashboard pages (client view)</td>
+    <td>
+      Creación de las vistas del catálogo, contratos y dashboard del cliente, permitiendo navegar hacia
+      los módulos integrados con el backend.
+    </td>
+    <td>2025/12/01</td>
+  </tr>
+
+  <tr>
+    <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia</td>
+    <td>master</td>
+    <td>—</td>
+    <td>feat: add client layout</td>
+    <td>
+      Definición del layout principal del cliente (header, sidebar y contenedor de vistas) para
+      estandarizar la estructura visual de la aplicación.
+    </td>
+    <td>2025/12/01</td>
+  </tr>
+
+  <tr>
+    <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia</td>
+    <td>master</td>
+    <td>—</td>
+    <td>Merge pull request #3 from .../feature/bryan</td>
+    <td>
+      Integración del trabajo de Bryan en la rama principal del frontend, incorporando los componentes
+      y servicios de autenticación y manejo de errores.
+    </td>
+    <td>2025/12/01</td>
+  </tr>
+
+  <tr>
+    <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia</td>
+    <td>master</td>
+    <td>—</td>
+    <td>feat: implement AuthService for user authentication and session management</td>
+    <td>
+      Implementación del servicio de autenticación en Angular encargado de manejar login, logout y
+      persistencia de sesión del usuario.
+    </td>
+    <td>2025/12/01</td>
+  </tr>
+
+  <tr>
+    <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia</td>
+    <td>master</td>
+    <td>—</td>
+    <td>feat: add auth and user models for authentication and user management</td>
+    <td>
+      Creación de los modelos de autenticación y usuario para tipar las respuestas de la API y
+      soportar la gestión de usuarios en el frontend.
+    </td>
+    <td>2025/12/01</td>
+  </tr>
+
+  <tr>
+    <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia</td>
+    <td>master</td>
+    <td>—</td>
+    <td>feat: add guards for admin, client, auth, and no-auth routes</td>
+    <td>
+      Implementación de guards de rutas para controlar el acceso a vistas de administrador, cliente
+      y rutas públicas en función del estado de autenticación y rol.
+    </td>
+    <td>2025/12/01</td>
+  </tr>
+
+  <tr>
+    <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia</td>
+    <td>master</td>
+    <td>—</td>
+    <td>feat: add English and Spanish translation files for internationalization support</td>
+    <td>
+      Creación de archivos de traducción en inglés y español para soportar internacionalización
+      de textos de la interfaz.
+    </td>
+    <td>2025/12/01</td>
+  </tr>
+
+</table>
+
+
+<h4>Imagen desde repositorio Front</h4>
+
+![commitsfront_sp4](./assets/chapter5/commitsfront_sp4.png)  
+
+<h4>Imagen desde repositorio Back</h4>
+
+![commitsback_sp4](./assets/chapter5/commits%20back_sp4.png)
+
+<h3>5.2.4.5. .Execution Evidence for Sprint Review</h3>
+
+<h3>5.2.4.6.Services Documentation Evidence for Sprint Review</h3>
+
+<h3>5.2.4.7.Software Deployment Evidence for Sprint Review</h3>
+
+<h3>5.2.4.8.Team Collaboration Insights during Sprint</h3>
+
+
+
+![contributorfront_TF](./assets/caratula/contributorfront_TF.png)  
+
+
+
+![contributorbackend_TF](./assets/caratula/contributorbackend_TF.png)  
+
+
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
 ### 5.3.2. Registro de Entrevistas
@@ -3008,5 +3693,11 @@ sistema <strong>ECAT Leasing / PcPedia</strong> siguiendo una arquitectura basad
 ## Conclusiones y recomendaciones
 
 <p>
-Durante el Sprint 1 del proyecto PcPedia, se lograron avances significativos en el diseño de la landing page, wireframes y mockups de la aplicación web, así como en la definición de la arquitectura de información, guías de estilo y análisis de competidores. Esto permitió establecer una base sólida y coherente para el desarrollo del producto, alineada con las necesidades de los usuarios y los objetivos estratégicos de la startup EcatLeasing. Se recomienda continuar con la validación temprana de la interfaz mediante pruebas de usabilidad, integrar retroalimentación constante del equipo y de usuarios, priorizar funcionalidades críticas como registro de usuarios, panel de administración y comparador de equipos, mantener la documentación actualizada en GitHub y utilizar herramientas ágiles para seguimiento de tareas, asegurando una coordinación efectiva y la calidad técnica del desarrollo en los siguientes sprints.
+Durante el desarrollo del proyecto PcPedia, el equipo logró consolidar una solución web funcional que integra un frontend moderno y un backend robusto, implementados sobre una arquitectura modular basada en Domain-Driven Design (DDD). A lo largo de los sprints se definieron los contextos funcionales principales, se desarrollaron flujos críticos del negocio y se garantizó la comunicación efectiva entre los módulos de autenticación, catálogo, contratos, tickets, pagos, facturación e inventario.
+
+En este último sprint, el equipo alcanzó un hito fundamental: la integración completa del frontend con los servicios del backend, habilitando funcionalidades reales como login, gestión de sesión, visualización de activos, panel administrativo, consulta de contratos, manejo de incidencias y navegación fluida entre los distintos módulos. Asimismo, se realizó el despliegue exitoso tanto del frontend como del backend, lo que permite validar la operación del sistema en un entorno real.
+
+El trabajo colaborativo permitió reforzar las buenas prácticas de desarrollo: mensajes de commit consistentes, estructura clara de branches, revisión cruzada de código y un uso adecuado de herramientas ágiles para el seguimiento del progreso. La modularidad del sistema y la separación por contextos facilitaron la mantenibilidad del proyecto y permitieron que distintos miembros del equipo contribuyeran en paralelo sin afectar la estabilidad del código.
+
+Se recomienda, para etapas posteriores, ampliar la cobertura de pruebas automáticas, optimizar la experiencia de usuario mediante iteraciones basadas en feedback real, reforzar la seguridad de los módulos críticos y continuar con la documentación técnica y funcional del sistema. Los aprendizajes obtenidos en este proyecto fortalecen la capacidad del equipo para abordar nuevas funcionalidades y consolidan una base sólida para futuras mejoras y escalamiento de PcPedia como una plataforma integral de arrendamiento y gestión de equipos tecnológicos.
 </p>
