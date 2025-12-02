@@ -28,8 +28,6 @@ Bendezu Navarro, Rubens Fitzgerald - u20231d390
 
 **Diciembre del 2025**  
 
----
-
 # Registro de Versiones del Informe
 
 <table>
@@ -58,8 +56,6 @@ Bendezu Navarro, Rubens Fitzgerald - u20231d390
     </tr>
 </table>
 
----
-
 # Project Report Collaboration Insights
 
 A continuación, se detalla el proceso de elaboración del informe para cada entrega, junto con capturas de pantalla que muestran los análisis de colaboración y commits en GitHub para el repositorio del informe:
@@ -83,8 +79,6 @@ Para la creación del informe, se realizaron las siguientes actividades:
 
 ![report_contributors_insights_tb1](./assets/caratula/report_contributors_insights_tb1.png)  
 
----
-
 **Entrega N°2: TP1**  
 
 Para este avance se desarrolló el capitulo V en su segundo sprint, enfocado a el Frontend.
@@ -95,8 +89,6 @@ Para este avance se desarrolló el capitulo V en su segundo sprint, enfocado a e
 
 ![report_contributors_insights_tp1](./assets/caratula/report_contributors_insights_tp1.png)  
 
----
-
 **Entrega N°3: TB2**  
 
 Para este avance se desarrolló el capitulo V en su tercer sprint, enfocado a el Backend.
@@ -106,8 +98,6 @@ Para este avance se desarrolló el capitulo V en su tercer sprint, enfocado a el
 **Report Contributors Insights (TB2)**  
 
 ![report_contributors_insights_tb2](./assets/caratula/report_contributors_insights_tb2.png)  
-
----
 
 **Entrega N°4: TF**  
 
@@ -124,22 +114,6 @@ Para este avance se desarrolló el capitulo V en su cuerto sprint, enfocado a el
 **Report Contributors Insights (TF)**  
 
 ![contributorbackend_TF](./assets/caratula/contributorbackend_TF.png)  
-
----
-
-# Student Outcome
-
-El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - Student Outcome 3** <br> Criterio: _Capacidad de comunicarse efectivamente con un rango de audiencias._
-
-En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
-
-| **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
-|-------------------------|-------------------------|------------------|
-| **Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.** | **TB1:**<br>• *Retuerto Rodríguez, Jorge Manuel:* Se acordó la partición del trabajo y se desarrolló en conjunto para completar correctamente la entrega.<br>• *Hernández Poma, Sebastián Eduardo:* Se realizó el análisis del proyecto y se avanzó de forma colaborativa manteniendo comunicación constante.<br>• *Condori Lozano, Alessandro Ramiro:* Se decidió avanzar en conjunto para cumplir objetivos del proyecto.<br>• *Armestar Heredia, Matias Gabriel:* Tras reunión grupal se acordó el enfoque de desarrollo del proyecto.<br>• *Bendezu Navarro, Rubens Fitzgerald:* Se definió el plan de desarrollo y se inició el reporte en equipo.<br><br>**TP1:**<br>• *Retuerto Rodríguez, Jorge Manuel:* Coordinó corrección del capítulo IV y apoyó en el avance del front-end.<br>• *Hernández Poma, Sebastián Eduardo:* Corrigió el capítulo V y aportó en el desarrollo del front-end.<br>• *Condori Lozano, Alessandro Ramiro:* Corrigió el capítulo III y continuó el desarrollo del front-end.<br>• *Armestar Heredia, Matias Gabriel:* Corrigió el capítulo I y apoyó en la implementación del front-end.<br>• *Bendezu Navarro, Rubens Fitzgerald:* Corrigió el capítulo II y colaboró en el desarrollo del front-end.<br><br>**TB2:**<br>• *Retuerto Rodríguez, Jorge Manuel:* Participó en la presentación del despliegue del backend, detallando la arquitectura del sistema y resultados obtenidos.<br>• *Hernández Poma, Sebastián Eduardo:* Explicó la integración entre el front-end y backend, destacando la correcta conexión con la base de datos.<br>• *Condori Lozano, Alessandro Ramiro:* Comunicó los avances en la implementación del backend y su funcionamiento en entorno productivo.<br>• *Armestar Heredia, Matias Gabriel:* Expuso el proceso de validación mediante entrevistas con usuarios reales y recopiló feedback.<br>• *Bendezu Navarro, Rubens Fitzgerald:* Presentó el flujo de despliegue en servidor, asegurando su correcto funcionamiento en línea. | Luego del TB1 se identificaron mejoras necesarias y fueron corregidas en TP1. Para TB2 el equipo logró la **implementación completa del backend, su despliegue funcional y el desarrollo del front-end corregido**, además de la ejecución de entrevistas de validación para obtener retroalimentación real del segmento objetivo. |
-| **Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.** | **TB1:**<br>• *Retuerto Rodríguez, Jorge Manuel:* Redactó avances del proyecto con enfoque claro y técnico.<br>• *Hernández Poma, Sebastián Eduardo:* Escribió el análisis del proyecto utilizando lenguaje técnico adecuado.<br>• *Condori Lozano, Alessandro Ramiro:* Redacción colaborativa con precisión y objetividad.<br>• *Armestar Heredia, Matias Gabriel:* Redacción clara de avances con lenguaje técnico.<br>• *Bendezu Navarro, Rubens Fitzgerald:* Redactó manteniendo estilo formal y comprensible.<br><br>**TP1:**<br>• *Retuerto Rodríguez, Jorge Manuel:* Escribió capítulo IV con precisión técnica y argumentativa.<br>• *Hernández Poma, Sebastián Eduardo:* Desarrolló el capítulo V con comunicación objetiva de resultados.<br>• *Condori Lozano, Alessandro Ramiro:* Redacción estructurada del capítulo III.<br>• *Armestar Heredia, Matias Gabriel:* Elaboración del capítulo I con objetividad.<br>• *Bendezu Navarro, Rubens Fitzgerald:* Redacción del capítulo II para público técnico diverso.<br><br>**TB2:**<br>• *Retuerto Rodríguez, Jorge Manuel:* Documentó la arquitectura del backend y el despliegue del sistema en el informe escrito.<br>• *Hernández Poma, Sebastián Eduardo:* Redactó la sección técnica sobre integración full-stack y funcionamiento en producción.<br>• *Condori Lozano, Alessandro Ramiro:* Describió la implementación del backend y los procesos de conexión con API.<br>• *Armestar Heredia, Matias Gabriel:* Sistematizó los resultados de las entrevistas de validación, presentando conclusiones objetivas.<br>• *Bendezu Navarro, Rubens Fitzgerald:* Redactó el apartado de despliegue, procesos de entorno y pruebas en servidor. | El equipo consolidó un documento completo, técnico y coherente. En TB2 se amplió el informe incluyendo **implementación total del backend, despliegue, validación con usuarios y ajuste del front-end**, garantizando claridad en la comunicación de resultados y un lenguaje comprensible para lectores de distintas especialidades. |
-
----
-
 
 # Contenido
 
@@ -215,10 +189,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ### [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
 
 - [5.1. Software Configuration Management](#51-software-configuration-management)
-  - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
-  - [5.1.2. Source Code Management](#512-source-code-management)
-  - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
-  - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+    - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+    - [5.1.2. Source Code Management](#512-source-code-management)
+    - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
+    - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
 - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
     - [5.2.1. Sprint 1](#521-sprint-1)
         - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
@@ -247,19 +221,40 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
         - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
         - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 4](#524-sprint-4)
+        - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+        - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+        - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
+        - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+        - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+        - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+        - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+        - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
 - [5.3. Validation Interviews](#53-validation-interviews)
-  - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
-  - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
-  - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+    - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
+    - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+    - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
 - [5.4. Video About-the-Product](#54-video-about-the-product)
 
-#### [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
+### [Conclusiones](#conclusiones)
+- [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
+- [Video About-the-Team](#video-about-the-team)
 
-#### [Video About-the-Team](#video-about-the-team)
-
-### [Biblioteca](#biblioteca)
-
+### [Bibliografía](#bibliografia)
 ### [Anexos](#anexos)
+
+---
+
+# Student Outcome
+
+El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - Student Outcome 3** <br> Criterio: _Capacidad de comunicarse efectivamente con un rango de audiencias._
+
+En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
+
+| **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
+|-------------------------|-------------------------|------------------|
+| **Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.** | **TB1:**<br>• *Retuerto Rodríguez, Jorge Manuel:* Se acordó la partición del trabajo y se desarrolló en conjunto para completar correctamente la entrega.<br>• *Hernández Poma, Sebastián Eduardo:* Se realizó el análisis del proyecto y se avanzó de forma colaborativa manteniendo comunicación constante.<br>• *Condori Lozano, Alessandro Ramiro:* Se decidió avanzar en conjunto para cumplir objetivos del proyecto.<br>• *Armestar Heredia, Matias Gabriel:* Tras reunión grupal se acordó el enfoque de desarrollo del proyecto.<br>• *Bendezu Navarro, Rubens Fitzgerald:* Se definió el plan de desarrollo y se inició el reporte en equipo.<br><br>**TP1:**<br>• *Retuerto Rodríguez, Jorge Manuel:* Coordinó corrección del capítulo IV y apoyó en el avance del front-end.<br>• *Hernández Poma, Sebastián Eduardo:* Corrigió el capítulo V y aportó en el desarrollo del front-end.<br>• *Condori Lozano, Alessandro Ramiro:* Corrigió el capítulo III y continuó el desarrollo del front-end.<br>• *Armestar Heredia, Matias Gabriel:* Corrigió el capítulo I y apoyó en la implementación del front-end.<br>• *Bendezu Navarro, Rubens Fitzgerald:* Corrigió el capítulo II y colaboró en el desarrollo del front-end.<br><br>**TB2:**<br>• *Retuerto Rodríguez, Jorge Manuel:* Participó en la presentación del despliegue del backend, detallando la arquitectura del sistema y resultados obtenidos.<br>• *Hernández Poma, Sebastián Eduardo:* Explicó la integración entre el front-end y backend, destacando la correcta conexión con la base de datos.<br>• *Condori Lozano, Alessandro Ramiro:* Comunicó los avances en la implementación del backend y su funcionamiento en entorno productivo.<br>• *Armestar Heredia, Matias Gabriel:* Expuso el proceso de validación mediante entrevistas con usuarios reales y recopiló feedback.<br>• *Bendezu Navarro, Rubens Fitzgerald:* Presentó el flujo de despliegue en servidor, asegurando su correcto funcionamiento en línea. | Luego del TB1 se identificaron mejoras necesarias y fueron corregidas en TP1. Para TB2 el equipo logró la **implementación completa del backend, su despliegue funcional y el desarrollo del front-end corregido**, además de la ejecución de entrevistas de validación para obtener retroalimentación real del segmento objetivo. |
+| **Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.** | **TB1:**<br>• *Retuerto Rodríguez, Jorge Manuel:* Redactó avances del proyecto con enfoque claro y técnico.<br>• *Hernández Poma, Sebastián Eduardo:* Escribió el análisis del proyecto utilizando lenguaje técnico adecuado.<br>• *Condori Lozano, Alessandro Ramiro:* Redacción colaborativa con precisión y objetividad.<br>• *Armestar Heredia, Matias Gabriel:* Redacción clara de avances con lenguaje técnico.<br>• *Bendezu Navarro, Rubens Fitzgerald:* Redactó manteniendo estilo formal y comprensible.<br><br>**TP1:**<br>• *Retuerto Rodríguez, Jorge Manuel:* Escribió capítulo IV con precisión técnica y argumentativa.<br>• *Hernández Poma, Sebastián Eduardo:* Desarrolló el capítulo V con comunicación objetiva de resultados.<br>• *Condori Lozano, Alessandro Ramiro:* Redacción estructurada del capítulo III.<br>• *Armestar Heredia, Matias Gabriel:* Elaboración del capítulo I con objetividad.<br>• *Bendezu Navarro, Rubens Fitzgerald:* Redacción del capítulo II para público técnico diverso.<br><br>**TB2:**<br>• *Retuerto Rodríguez, Jorge Manuel:* Documentó la arquitectura del backend y el despliegue del sistema en el informe escrito.<br>• *Hernández Poma, Sebastián Eduardo:* Redactó la sección técnica sobre integración full-stack y funcionamiento en producción.<br>• *Condori Lozano, Alessandro Ramiro:* Describió la implementación del backend y los procesos de conexión con API.<br>• *Armestar Heredia, Matias Gabriel:* Sistematizó los resultados de las entrevistas de validación, presentando conclusiones objetivas.<br>• *Bendezu Navarro, Rubens Fitzgerald:* Redactó el apartado de despliegue, procesos de entorno y pruebas en servidor. | El equipo consolidó un documento completo, técnico y coherente. En TB2 se amplió el informe incluyendo **implementación total del backend, despliegue, validación con usuarios y ajuste del front-end**, garantizando claridad en la comunicación de resultados y un lenguaje comprensible para lectores de distintas especialidades. |
 
 ---
 
