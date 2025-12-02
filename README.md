@@ -2861,7 +2861,7 @@ sistema <strong>ECAT Leasing / PcPedia</strong> siguiendo una arquitectura basad
     </li>
     <li><strong>Repositorio del Informe Final:</strong> 
       <a href="https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Report-PcPedia" target="_blank">
-        https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/report
+        https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Report-PcPedia
       </a>
     </li>
     <li><strong>Repositorio de la Landing Page:</strong> 
@@ -2875,8 +2875,8 @@ sistema <strong>ECAT Leasing / PcPedia</strong> siguiendo una arquitectura basad
       </a>
     </li>
     <li><strong>Repositorio de el Backend:</strong> 
-      <a href="https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Back-end-EcatLeasing" target="_blank">
-        https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Back-end-EcatLeasing
+      <a href="https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Back-end-PcPedia" target="_blank">
+        https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia/Back-end-PcPedia
       </a>
     </li>
   </ul>
