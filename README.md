@@ -3372,6 +3372,232 @@ A continuación se muestra la tabla con el formato requerido para registrar la e
 
 #### 5.2.4.6.Services Documentation Evidence for Sprint Review
 
+<table>
+  <tr>
+    <th>Endpoint</th>
+    <th>Método</th>
+    <th>Descripción</th>
+    <th>Parámetros</th>
+    <th>Ejemplo de Request</th>
+  </tr>
+
+  <!-- AUTH -->
+  <tr>
+    <td>/api/auth/login</td>
+    <td>POST</td>
+    <td>Autentica al usuario con sus credenciales y genera el token de sesión.</td>
+    <td>
+      Body:<br>
+      - email (string)<br>
+      - password (string)
+    </td>
+    <td>
+      URL: /api/auth/login<br>
+      Body:<br>
+      { "email": "user@mail.com", "password": "123456" }<br>
+      200 OK
+    </td>
+  </tr>
+
+  <tr>
+    <td>/api/auth/me</td>
+    <td>GET</td>
+    <td>Retorna los datos del usuario autenticado.</td>
+    <td>Headers: Authorization: Bearer &lt;token&gt;</td>
+    <td>
+      URL: /api/auth/me<br>
+      200 OK
+    </td>
+  </tr>
+
+  <tr>
+    <td>/api/auth/logout</td>
+    <td>POST</td>
+    <td>Cierra la sesión activa del usuario.</td>
+    <td>Headers: Authorization</td>
+    <td>
+      URL: /api/auth/logout<br>
+      204 No Content
+    </td>
+  </tr>
+
+  <!-- MY EQUIPMENT -->
+  <tr>
+    <td>/api/my-equipment</td>
+    <td>GET</td>
+    <td>Obtiene la lista de equipos arrendados por el usuario autenticado.</td>
+    <td>Headers: Authorization</td>
+    <td>
+      URL: /api/my-equipment<br>
+      200 OK
+    </td>
+  </tr>
+
+  <tr>
+    <td>/api/my-equipment/{id}</td>
+    <td>GET</td>
+    <td>Obtiene el detalle de un equipo arrendado.</td>
+    <td>
+      Path: id (long)<br>
+      Headers: Authorization
+    </td>
+    <td>
+      URL: /api/my-equipment/12<br>
+      200 OK
+    </td>
+  </tr>
+
+  <!-- CONTRACTS -->
+  <tr>
+    <td>/api/contracts</td>
+    <td>GET</td>
+    <td>Lista los contratos del cliente autenticado.</td>
+    <td>Headers: Authorization</td>
+    <td>
+      URL: /api/contracts<br>
+      200 OK
+    </td>
+  </tr>
+
+  <tr>
+    <td>/api/contracts/{id}</td>
+    <td>GET</td>
+    <td>Obtiene el detalle de un contrato específico.</td>
+    <td>Path: id (long)</td>
+    <td>
+      URL: /api/contracts/5<br>
+      200 OK
+    </td>
+  </tr>
+
+  <tr>
+    <td>/api/contracts/{id}/renew</td>
+    <td>POST</td>
+    <td>Solicita la renovación de un contrato activo.</td>
+    <td>
+      Path: id (long)<br>
+      Body: reason (string)
+    </td>
+    <td>
+      URL: /api/contracts/5/renew<br>
+      Body: { "reason": "Extender uso del equipo" }<br>
+      201 Created
+    </td>
+  </tr>
+
+  <!-- TICKETS / INCIDENCIAS -->
+  <tr>
+    <td>/api/tickets</td>
+    <td>POST</td>
+    <td>Registra una nueva incidencia asociada a un equipo.</td>
+    <td>
+      Body:<br>
+      - title (string)<br>
+      - description (string)<br>
+      - equipmentId (long)<br>
+      - priority (string)
+    </td>
+    <td>
+      URL: /api/tickets<br>
+      Body:<br>
+      { "title":"Pantalla congelada","description":"Se congela al iniciar","equipmentId":20,"priority":"HIGH" }<br>
+      201 Created
+    </td>
+  </tr>
+
+  <tr>
+    <td>/api/tickets/{id}</td>
+    <td>GET</td>
+    <td>Obtiene el detalle de una incidencia registrada.</td>
+    <td>Path: id (long)</td>
+    <td>
+      URL: /api/tickets/10<br>
+      200 OK
+    </td>
+  </tr>
+
+  <tr>
+    <td>/api/tickets/{id}/status</td>
+    <td>PATCH</td>
+    <td>Actualiza el estado de una incidencia.</td>
+    <td>
+      Path: id (long)<br>
+      Body: status (string)
+    </td>
+    <td>
+      URL: /api/tickets/10/status<br>
+      Body: { "status": "IN_PROGRESS" }<br>
+      200 OK
+    </td>
+  </tr>
+
+  <tr>
+    <td>/api/tickets/{id}/comments</td>
+    <td>POST</td>
+    <td>Agrega un comentario a la incidencia.</td>
+    <td>
+      Path: id (long)<br>
+      Body: comment (string)
+    </td>
+    <td>
+      URL: /api/tickets/10/comments<br>
+      Body: { "comment": "Se reinició el equipo" }<br>
+      201 Created
+    </td>
+  </tr>
+
+  <!-- INVENTORY (ADMIN) -->
+  <tr>
+    <td>/api/inventory</td>
+    <td>GET</td>
+    <td>Obtiene la lista completa de equipos del inventario.</td>
+    <td>Query params opcionales: page, size</td>
+    <td>
+      URL: /api/inventory?page=0&size=10<br>
+      200 OK
+    </td>
+  </tr>
+
+  <tr>
+    <td>/api/inventory/{id}/status</td>
+    <td>PATCH</td>
+    <td>Actualiza el estado de un equipo del inventario.</td>
+    <td>
+      Path: id (long)<br>
+      Body: status (string)
+    </td>
+    <td>
+      URL: /api/inventory/15/status<br>
+      Body: { "status": "IN_USE" }<br>
+      200 OK
+    </td>
+  </tr>
+
+  <!-- CATALOG -->
+  <tr>
+    <td>/api/catalog</td>
+    <td>GET</td>
+    <td>Obtiene el catálogo general de equipos.</td>
+    <td>-</td>
+    <td>
+      URL: /api/catalog<br>
+      200 OK
+    </td>
+  </tr>
+
+  <tr>
+    <td>/api/catalog/{id}</td>
+    <td>GET</td>
+    <td>Obtiene el detalle de un producto del catálogo.</td>
+    <td>Path: id (long)</td>
+    <td>
+      URL: /api/catalog/3<br>
+      200 OK
+    </td>
+  </tr>
+</table>
+
+
 #### 5.2.4.7.Software Deployment Evidence for Sprint Review
 
 #### 5.2.4.8.Team Collaboration Insights during Sprint
