@@ -423,7 +423,6 @@ Debe transmitir confianza, modernidad y simplicidad, con una interfaz clara (si 
 
 - Un repositorio de métricas de clientes servirá para identificar patrones, generar reportes y mejorar continuamente el servicio de Smart Leasing.
 
-<!-- 1.2.2.3. Lean UX Hypothesis Statements -->
 <section>
   <h3>1.2.2.3. Lean UX Hypothesis Statements</h3>
 
@@ -514,8 +513,6 @@ Para ello, se utiliza el modelo de análisis **Competitive Analysis Landscape**,
   <tr>
     <th colspan="6">Competitive Analysis Landscape</th>
   </tr>
-
-  <!-- Motivo del análisis -->
   <tr>
     <td><b>¿Por qué llevar a cabo este análisis?</b></td>
     <td colspan="5">
@@ -523,8 +520,6 @@ Para ello, se utiliza el modelo de análisis **Competitive Analysis Landscape**,
       Comparar funcionalidades, posicionamiento y estrategia de Smart Leasing con otras plataformas similares en el mercado local e internacional.
     </td>
   </tr>
-
-  <!-- Fila de nombres (las 2 primeras celdas combinadas y vacías) -->
   <tr>
     <td colspan="2"></td>
     <td><b>Smart Leasing</b></td>
@@ -532,8 +527,6 @@ Para ello, se utiliza el modelo de análisis **Competitive Analysis Landscape**,
     <td><b>Thuntech</b></td>
     <td><b>CSI Leasing Perú</b></td>
   </tr>
-
-  <!-- PERFIL -->
   <tr>
     <td rowspan="2"><b>Perfil</b></td>
     <td>Overview</td>
@@ -549,8 +542,6 @@ Para ello, se utiliza el modelo de análisis **Competitive Analysis Landscape**,
     <td>Estabilidad contractual y escalabilidad. Valor: acceso a tecnología con planes de leasing a largo plazo.</td>
     <td>Respaldo financiero internacional y plataforma MyCSI. Valor: control de ciclo de vida, seguridad y soporte global.</td>
   </tr>
-
-  <!-- PERFIL DE MARKETING -->
   <tr>
     <td rowspan="2"><b>Perfil de Marketing</b></td>
     <td>Mercado objetivo</td>
@@ -566,8 +557,6 @@ Para ello, se utiliza el modelo de análisis **Competitive Analysis Landscape**,
     <td>Relaciones B2B, convenios corporativos, publicidad en entornos empresariales.</td>
     <td>Marketing corporativo global, relaciones con CIOs y CFOs.</td>
   </tr>
-
-  <!-- PERFIL DE PRODUCTO -->
   <tr>
     <td rowspan="3"><b>Perfil de Producto</b></td>
     <td>Productos & Servicios</td>
@@ -590,8 +579,6 @@ Para ello, se utiliza el modelo de análisis **Competitive Analysis Landscape**,
     <td>Página web y acuerdos directos con empresas.</td>
     <td>Plataforma MyCSI (web) y acuerdos globales.</td>
   </tr>
-
-  <!-- ANÁLISIS SWOT -->
   <tr>
     <td rowspan="4"><b>Análisis SWOT</b></td>
     <td>Fortalezas</td>
@@ -1283,8 +1270,6 @@ Una observación que podemos realizar es que los modelos presentados son prototi
     </tr>
   </tbody>
 </table>
-
-=======
 
 # Capítulo IV: Product Design
 
@@ -2459,7 +2444,7 @@ Para el desarrollo del sprint, se tuvo una reunion el cual el equipo decidio ava
 
 ### 5.2.3. Sprint 3
 
-#### 5.2.3.1. Sprint Planning 3.
+#### 5.2.3.1. Sprint Planning 3
 
 <table align="center"  border="1" width="90%" style="text-align:center;">
     <tr align="left">
@@ -2570,7 +2555,7 @@ Para el desarrollo del sprint, se tuvo una reunion el cual el equipo decidio ava
     </tr>
 </table>
 
-#### 5.2.3.2. Aspect Leaders and Collaborators.
+#### 5.2.3.2. Aspect Leaders and Collaborators
 
 <section id="sprint2-aspect-leaders">
   <p>Distribución de responsabilidades durante el Sprint 1 según las tareas asignadas:</p>
@@ -2625,7 +2610,8 @@ Para el desarrollo del sprint, se tuvo una reunion el cual el equipo decidio ava
   </table>
 </section>
 
-<h2>5.2.3.3. Sprint Backlog 3</h2>
+### 5.2.3.3. Sprint Backlog 3
+
 <p>
 Durante el Sprint Backlog 3 el objetivo principal fue diseñar e implementar el backend del
 sistema <strong>ECAT Leasing / PcPedia</strong> siguiendo una arquitectura basada en 
@@ -2650,7 +2636,8 @@ sistema <strong>ECAT Leasing / PcPedia</strong> siguiendo una arquitectura basad
   </li>
 </ul>
 
-<h2>5.2.3.4. Development Evidence for Sprint Review</h2>
+### 5.2.3.4. Development Evidence for Sprint Review
+
 <p>Evidencias de desarrollo durante el sprint:</p>
 
 <ul>
@@ -2686,7 +2673,7 @@ sistema <strong>ECAT Leasing / PcPedia</strong> siguiendo una arquitectura basad
   </li>
 </ul>
 
-<h2>5.2.3.5. Execution Evidence for Sprint Review</h2>
+### 5.2.3.5. Execution Evidence for Sprint Review
 
 <p>Evidencia de ejecución durante el Sprint:</p>
 
@@ -2705,7 +2692,7 @@ sistema <strong>ECAT Leasing / PcPedia</strong> siguiendo una arquitectura basad
   <li>Validación con respuestas HTTP 200/201 y errores gestionados por <code>ErrorResponse</code>.</li>
 </ul>
 
-<h2>5.2.3.6. Services Documentation Evidence for Sprint Review</h2>
+### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 <ul>
   <li>Swagger/OpenAPI habilitado mediante <code>ApiConfiguration</code>.</li>
@@ -2719,7 +2706,7 @@ sistema <strong>ECAT Leasing / PcPedia</strong> siguiendo una arquitectura basad
   <li><code>SecurityConfig</code> permite acceso público a la documentación.</li>
 </ul>
 
-<h2>5.2.3.7. Software Deployment Evidence for Sprint Review</h2>
+### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 <p>Evidencias del despliegue:</p>
 
@@ -2739,7 +2726,7 @@ sistema <strong>ECAT Leasing / PcPedia</strong> siguiendo una arquitectura basad
   </ul>
 </ul>
 
-<h2>5.2.3.8. Team Collaboration Insights during Sprint</h2>
+### 5.2.3.8. Team Collaboration Insights during Sprint
 
 <ul>
   <li><strong>Alineamiento del modelo de dominio:</strong> 
@@ -2761,97 +2748,10 @@ sistema <strong>ECAT Leasing / PcPedia</strong> siguiendo una arquitectura basad
   <li><strong>Revisión colaborativa:</strong> pruebas, validaciones y ajustes según retroalimentación del equipo.</li>
 </ul>
 
-## 5.3. Validation Interviews
-
----
-
-### 5.3.1. Diseño de Entrevistas
-
-**Objetivo:** Validar la usabilidad, percepción y aceptación del aplicativo por parte del segmento objetivo.
-
-**Guion de Entrevista**
-
-1. **Datos generales**
-   - ¿Cuál es tu nombre?
-   - ¿Qué edad tienes?
-   - ¿Dónde vives actualmente?
-   - ¿A qué te dedicas?
-
-2. **Percepción del aplicativo**
-   - ¿Qué característica te llama más la atención del aplicativo? ¿Por qué?
-   - ¿Qué opinas sobre el diseño de nuestro panel de control y las múltiples herramientas que ofrece?
-   - ¿Qué funcionalidades le agregarías a la aplicación?
-   - ¿Hay alguna cosa que le quitarías a la aplicación?
-   - Como (segmento objetivo), ¿tienes alguna recomendación que ayude a mejorar la experiencia de uso?
-
----
-
-### 5.3.2. Registro de Entrevistas
-
-**Entrevista 1 – Juan Diego Carranza (26 años)**  
-📍Edad: 26 años  
-💼 Ocupación: Dueño de una empresa de tecnologia
- Comentarios principales:  
-- Le agrada la interfaz visual y considera que la plataforma tiene buena estructura.  
-- Considera positivo que las herramientas estén agrupadas en un panel de control.  
-- Sugiere añadir más opciones de personalización del usuario.  
-- No quitaría nada por ahora, pero recomienda simplificar algunos botones para hacerlo más intuitivo.  
-🎥 Video: https://youtu.be/bIFjkc5LXRU
-
----
-
-**Entrevista 2 – Ingrid Ysa (21 años)**  
-📍Edad: 21 años  
-💼 Ocupación: Project manager de una startup
- Comentarios principales:  
-- Encuentra la plataforma moderna y amigable.  
-- Le gusta que se pueda navegar fácilmente entre opciones.  
-- Agregaría tutoriales o mensajes explicativos para nuevos usuarios.  
-- Recomienda incluir un modo oscuro.  
-🎥 Video: https://youtu.be/yxxVXOc1Xos
-
----
-
-**Entrevista 3 – Jimmy Sandoval (28 años)**  
-📍Edad: 28 años  
-💼 Ocupación: Dueño de una agencia de diseño web
- Comentarios principales:  
-- Considera que la plataforma es funcional y cumple con lo prometido.  
-- Destaca la variedad de herramientas en un solo lugar.  
-- Sugiere mejorar la velocidad de carga de algunas secciones.  
-- Recomienda integrar funciones de automatización.  
-🎥 Video: https://youtu.be/smTyQuUE534
-
----
-
-### 5.3.3. Evaluaciones Según Heurísticas
-
-> **¿Qué son las heurísticas?**  
-> Son un conjunto de principios utilizados para evaluar la usabilidad de una interfaz. Las más conocidas son las **10 heurísticas de Jakob Nielsen**, aplicadas en diseño UX.
-
-**Resumen aplicado a nuestro proyecto**
-
-| Heurística | Evaluación |
-|------------|------------|
-| **Visibilidad del estado del sistema** | La plataforma muestra estados claros durante navegación. Se recomienda añadir indicadores de carga. |
-| **Correspondencia entre el sistema y el mundo real** | El lenguaje es comprensible y cercano. Puede mejorar mediante íconos más representativos. |
-| **Control y libertad del usuario** | El usuario puede retroceder fácilmente. Sugerencia: añadir botón de “deshacer”. |
-| **Consistencia y estándares** | Los estilos son coherentes. Debe unificarse el tamaño de botones. |
-| **Prevención de errores** | Aún no existen alertas preventivas. Sugerencia: mensajes de confirmación antes de eliminar datos. |
-| **Reconocimiento antes que recuerdo** | La navegación es intuitiva. Se podrían incorporar etiquetas explicativas. |
-| **Flexibilidad y eficiencia de uso** | Usuarios avanzados podrían aprovechar atajos, pero aún no existen. |
-| **Diseño estético y minimalista** | La interfaz es limpia. Se sugiere minimizar texto en algunas pantallas. |
-| **Ayuda a los usuarios a reconocer errores** | No hay mensajes claros de error. Recomendación: incluir alertas descriptivas. |
-| **Ayuda y documentación** | No cuenta con tutoriales. Se sugiere un onboarding inicial.|
-
----
-
-## 5.4. Video About-the-Product
-
-
 ### 5.2.4. Sprint 4
 
-#### 5.2.4.1. Sprint Planning 4.
+#### 5.2.4.1. Sprint Planning 4
+
 <table>
   <tr>
     <th>Sprint #</th>
@@ -2944,7 +2844,7 @@ sistema <strong>ECAT Leasing / PcPedia</strong> siguiendo una arquitectura basad
   </tr>
 </table>
 
-#### 5.2.4.2. Aspect Leaders and Collaborators.
+#### 5.2.4.2. Aspect Leaders and Collaborators
 
 <p>
 Ahora presentaremos nuestro LACX (Leadership-and-Collaboration Matrix), que nos ayudará a saber quién lidera y quién
@@ -3031,7 +2931,7 @@ ambos, el despliegue de la solución y la elaboración de reportes y documentaci
   C = <em>Collaborator</em> (apoya el desarrollo del aspecto).
 </p>
 
-<h3>5.2.4.3. Sprint Backlog 4</h3>
+#### 5.2.4.3. Sprint Backlog 4
 
 <p>
 El objetivo principal de este Sprint fue completar la integración entre el Frontend y el Backend del sistema Smart Leasing,
@@ -3064,8 +2964,6 @@ entorno funcional.
     <th>Id</th>
     <th>Title</th>
   </tr>
-
-  <!-- HU01 / HU08 – Login & Session -->
   <tr>
     <td>HU01 / HU08</td>
     <td>Autenticación de Usuario y Gestión de Sesión</td>
@@ -3093,8 +2991,6 @@ entorno funcional.
     <td>Sebastián Hernández (M1sterDG)</td>
     <td>Done</td>
   </tr>
-
-  <!-- HU03 – Mis Activos -->
   <tr>
     <td>HU03</td>
     <td>Visualización de Activos del Cliente</td>
@@ -3108,8 +3004,6 @@ entorno funcional.
     <td>Matías Armestar (MatiasArmestar)</td>
     <td>Done</td>
   </tr>
-
-  <!-- HU04 – Incidencias -->
   <tr>
     <td>HU04</td>
     <td>Gestión de Incidencias</td>
@@ -3124,8 +3018,6 @@ entorno funcional.
     <td>Bryan Barba (br14nbe)</td>
     <td>Done</td>
   </tr>
-
-  <!-- HU05 / HU06 – Contratos -->
   <tr>
     <td>HU05 / HU06</td>
     <td>Consulta y Detalle de Contratos</td>
@@ -3153,8 +3045,6 @@ entorno funcional.
     <td>Jorge Retuerto (Calin1407)</td>
     <td>Done</td>
   </tr>
-
-  <!-- HU07 – Mi Perfil -->
   <tr>
     <td>HU07</td>
     <td>Edición de Información Personal</td>
@@ -3168,8 +3058,6 @@ entorno funcional.
     <td>Alessandro Condori (AlessandroRCL)</td>
     <td>Done</td>
   </tr>
-
-  <!-- HU10 – Panel Administrativo -->
   <tr>
     <td>HU10</td>
     <td>Panel Administrativo (Interno)</td>
@@ -3183,8 +3071,6 @@ entorno funcional.
     <td>Sebastián Hernández (M1sterDG)</td>
     <td>Done</td>
   </tr>
-
-  <!-- Frontend general – Rediseño e integración -->
   <tr>
     <td>HU02</td>
     <td>Pantalla de Inicio Informativa</td>
@@ -3215,10 +3101,8 @@ entorno funcional.
 </table>
 
 <p><em>Trello Board – Sprint 4 Backlog</em></p>
-<!-- Aquí insertarás la captura de tu tablero Trello como imagen en el informe -->
 
-
-<h3>5.2.4.4. Development Evidence for Sprint Review</h3>
+#### 5.2.4.4. Development Evidence for Sprint Review
 
 <p>
 En esta sección se presentan los avances de implementación realizados durante el Sprint 4 en los dos
@@ -3235,9 +3119,6 @@ A continuación se muestra la tabla con el formato requerido para registrar la e
     <th>Commit Message Body</th>
     <th>Committed on (Date)</th>
   </tr>
-
-  <!-- BACKEND -->
-
   <tr>
     <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Back-end-PcPedia</td>
     <td>main</td>
@@ -3345,7 +3226,6 @@ A continuación se muestra la tabla con el formato requerido para registrar la e
     </td>
     <td>2025/12/01</td>
   </tr>
-
   <tr>
     <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Back-end-PcPedia</td>
     <td>main</td>
@@ -3357,7 +3237,6 @@ A continuación se muestra la tabla con el formato requerido para registrar la e
     </td>
     <td>2025/12/01</td>
   </tr>
-
   <tr>
     <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Back-end-PcPedia</td>
     <td>main</td>
@@ -3369,9 +3248,6 @@ A continuación se muestra la tabla con el formato requerido para registrar la e
     </td>
     <td>2025/12/01</td>
   </tr>
-
-  <!-- FRONTEND -->
-
   <tr>
     <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia</td>
     <td>master</td>
@@ -3383,7 +3259,6 @@ A continuación se muestra la tabla con el formato requerido para registrar la e
     </td>
     <td>2025/12/01</td>
   </tr>
-
   <tr>
     <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia</td>
     <td>master</td>
@@ -3395,7 +3270,6 @@ A continuación se muestra la tabla con el formato requerido para registrar la e
     </td>
     <td>2025/12/01</td>
   </tr>
-
   <tr>
     <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia</td>
     <td>master</td>
@@ -3407,7 +3281,6 @@ A continuación se muestra la tabla con el formato requerido para registrar la e
     </td>
     <td>2025/12/01</td>
   </tr>
-
   <tr>
     <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia</td>
     <td>master</td>
@@ -3419,7 +3292,6 @@ A continuación se muestra la tabla con el formato requerido para registrar la e
     </td>
     <td>2025/12/01</td>
   </tr>
-
   <tr>
     <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia</td>
     <td>master</td>
@@ -3431,7 +3303,6 @@ A continuación se muestra la tabla con el formato requerido para registrar la e
     </td>
     <td>2025/12/01</td>
   </tr>
-
   <tr>
     <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia</td>
     <td>master</td>
@@ -3443,7 +3314,6 @@ A continuación se muestra la tabla con el formato requerido para registrar la e
     </td>
     <td>2025/12/01</td>
   </tr>
-
   <tr>
     <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia</td>
     <td>master</td>
@@ -3455,7 +3325,6 @@ A continuación se muestra la tabla con el formato requerido para registrar la e
     </td>
     <td>2025/12/01</td>
   </tr>
-
   <tr>
     <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia</td>
     <td>master</td>
@@ -3467,7 +3336,6 @@ A continuación se muestra la tabla con el formato requerido para registrar la e
     </td>
     <td>2025/12/01</td>
   </tr>
-
   <tr>
     <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia</td>
     <td>master</td>
@@ -3479,7 +3347,6 @@ A continuación se muestra la tabla con el formato requerido para registrar la e
     </td>
     <td>2025/12/01</td>
   </tr>
-
   <tr>
     <td>1ASI0729-7401-2520-EcatLeasing-PcPedia/Front-end-PcPedia</td>
     <td>master</td>
@@ -3491,9 +3358,7 @@ A continuación se muestra la tabla con el formato requerido para registrar la e
     </td>
     <td>2025/12/01</td>
   </tr>
-
 </table>
-
 
 <h4>Imagen desde repositorio Front</h4>
 
@@ -3503,28 +3368,108 @@ A continuación se muestra la tabla con el formato requerido para registrar la e
 
 ![commitsback_sp4](./assets/chapter5/commits%20back_sp4.png)
 
-<h3>5.2.4.5. .Execution Evidence for Sprint Review</h3>
+#### 5.2.4.5. .Execution Evidence for Sprint Review
 
-<h3>5.2.4.6.Services Documentation Evidence for Sprint Review</h3>
+#### 5.2.4.6.Services Documentation Evidence for Sprint Review
 
-<h3>5.2.4.7.Software Deployment Evidence for Sprint Review</h3>
+#### 5.2.4.7.Software Deployment Evidence for Sprint Review
 
-<h3>5.2.4.8.Team Collaboration Insights during Sprint</h3>
-
-
+#### 5.2.4.8.Team Collaboration Insights during Sprint
 
 ![contributorfront_TF](./assets/caratula/contributorfront_TF.png)  
 
-
-
 ![contributorbackend_TF](./assets/caratula/contributorbackend_TF.png)  
 
-
 ## 5.3. Validation Interviews
+
 ### 5.3.1. Diseño de Entrevistas
+
+**Objetivo:** Validar la usabilidad, percepción y aceptación del aplicativo por parte del segmento objetivo.
+
+**Guion de Entrevista**
+
+1. **Datos generales**
+   - ¿Cuál es tu nombre?
+   - ¿Qué edad tienes?
+   - ¿Dónde vives actualmente?
+   - ¿A qué te dedicas?
+
+2. **Percepción del aplicativo**
+   - ¿Qué característica te llama más la atención del aplicativo? ¿Por qué?
+   - ¿Qué opinas sobre el diseño de nuestro panel de control y las múltiples herramientas que ofrece?
+   - ¿Qué funcionalidades le agregarías a la aplicación?
+   - ¿Hay alguna cosa que le quitarías a la aplicación?
+   - Como (segmento objetivo), ¿tienes alguna recomendación que ayude a mejorar la experiencia de uso?
+
 ### 5.3.2. Registro de Entrevistas
+
+**Entrevista 1 – Juan Diego Carranza (26 años)**  
+📍Edad: 26 años  
+💼 Ocupación: Dueño de una empresa de tecnologia
+ Comentarios principales:  
+- Le agrada la interfaz visual y considera que la plataforma tiene buena estructura.  
+- Considera positivo que las herramientas estén agrupadas en un panel de control.  
+- Sugiere añadir más opciones de personalización del usuario.  
+- No quitaría nada por ahora, pero recomienda simplificar algunos botones para hacerlo más intuitivo.  
+🎥 Video: https://youtu.be/bIFjkc5LXRU
+
+**Entrevista 2 – Ingrid Ysa (21 años)**  
+📍Edad: 21 años  
+💼 Ocupación: Project manager de una startup
+ Comentarios principales:  
+- Encuentra la plataforma moderna y amigable.  
+- Le gusta que se pueda navegar fácilmente entre opciones.  
+- Agregaría tutoriales o mensajes explicativos para nuevos usuarios.  
+- Recomienda incluir un modo oscuro.  
+🎥 Video: https://youtu.be/yxxVXOc1Xos
+
+**Entrevista 3 – Jimmy Sandoval (28 años)**  
+📍Edad: 28 años  
+💼 Ocupación: Dueño de una agencia de diseño web
+ Comentarios principales:  
+- Considera que la plataforma es funcional y cumple con lo prometido.  
+- Destaca la variedad de herramientas en un solo lugar.  
+- Sugiere mejorar la velocidad de carga de algunas secciones.  
+- Recomienda integrar funciones de automatización.  
+🎥 Video: https://youtu.be/smTyQuUE534
+
 ### 5.3.3. Evaluaciones Según Heurísticas
+
+> **¿Qué son las heurísticas?**  
+> Son un conjunto de principios utilizados para evaluar la usabilidad de una interfaz. Las más conocidas son las **10 heurísticas de Jakob Nielsen**, aplicadas en diseño UX.
+
+**Resumen aplicado a nuestro proyecto**
+
+| Heurística | Evaluación |
+|------------|------------|
+| **Visibilidad del estado del sistema** | La plataforma muestra estados claros durante navegación. Se recomienda añadir indicadores de carga. |
+| **Correspondencia entre el sistema y el mundo real** | El lenguaje es comprensible y cercano. Puede mejorar mediante íconos más representativos. |
+| **Control y libertad del usuario** | El usuario puede retroceder fácilmente. Sugerencia: añadir botón de “deshacer”. |
+| **Consistencia y estándares** | Los estilos son coherentes. Debe unificarse el tamaño de botones. |
+| **Prevención de errores** | Aún no existen alertas preventivas. Sugerencia: mensajes de confirmación antes de eliminar datos. |
+| **Reconocimiento antes que recuerdo** | La navegación es intuitiva. Se podrían incorporar etiquetas explicativas. |
+| **Flexibilidad y eficiencia de uso** | Usuarios avanzados podrían aprovechar atajos, pero aún no existen. |
+| **Diseño estético y minimalista** | La interfaz es limpia. Se sugiere minimizar texto en algunas pantallas. |
+| **Ayuda a los usuarios a reconocer errores** | No hay mensajes claros de error. Recomendación: incluir alertas descriptivas. |
+| **Ayuda y documentación** | No cuenta con tutoriales. Se sugiere un onboarding inicial.|
+
 ## 5.4. Video About-the-Product
+
+## Conclusiones
+
+### Conclusiones Y Recomendaciones
+
+<p>
+Durante el desarrollo del proyecto PcPedia, el equipo logró consolidar una solución web funcional que integra un frontend moderno y un backend robusto, implementados sobre una arquitectura modular basada en Domain-Driven Design (DDD). A lo largo de los sprints se definieron los contextos funcionales principales, se desarrollaron flujos críticos del negocio y se garantizó la comunicación efectiva entre los módulos de autenticación, catálogo, contratos, tickets, pagos, facturación e inventario.
+
+En este último sprint, el equipo alcanzó un hito fundamental: la integración completa del frontend con los servicios del backend, habilitando funcionalidades reales como login, gestión de sesión, visualización de activos, panel administrativo, consulta de contratos, manejo de incidencias y navegación fluida entre los distintos módulos. Asimismo, se realizó el despliegue exitoso tanto del frontend como del backend, lo que permite validar la operación del sistema en un entorno real.
+
+El trabajo colaborativo permitió reforzar las buenas prácticas de desarrollo: mensajes de commit consistentes, estructura clara de branches, revisión cruzada de código y un uso adecuado de herramientas ágiles para el seguimiento del progreso. La modularidad del sistema y la separación por contextos facilitaron la mantenibilidad del proyecto y permitieron que distintos miembros del equipo contribuyeran en paralelo sin afectar la estabilidad del código.
+
+Se recomienda, para etapas posteriores, ampliar la cobertura de pruebas automáticas, optimizar la experiencia de usuario mediante iteraciones basadas en feedback real, reforzar la seguridad de los módulos críticos y continuar con la documentación técnica y funcional del sistema. Los aprendizajes obtenidos en este proyecto fortalecen la capacidad del equipo para abordar nuevas funcionalidades y consolidan una base sólida para futuras mejoras y escalamiento de PcPedia como una plataforma integral de arrendamiento y gestión de equipos tecnológicos.
+</p>
+
+### Video About-the-Team
 
 # Bibliografia
 
@@ -3605,15 +3550,3 @@ A continuación se muestra la tabla con el formato requerido para registrar la e
     </li>
   </ul>
 </section>
-
-## Conclusiones y recomendaciones
-
-<p>
-Durante el desarrollo del proyecto PcPedia, el equipo logró consolidar una solución web funcional que integra un frontend moderno y un backend robusto, implementados sobre una arquitectura modular basada en Domain-Driven Design (DDD). A lo largo de los sprints se definieron los contextos funcionales principales, se desarrollaron flujos críticos del negocio y se garantizó la comunicación efectiva entre los módulos de autenticación, catálogo, contratos, tickets, pagos, facturación e inventario.
-
-En este último sprint, el equipo alcanzó un hito fundamental: la integración completa del frontend con los servicios del backend, habilitando funcionalidades reales como login, gestión de sesión, visualización de activos, panel administrativo, consulta de contratos, manejo de incidencias y navegación fluida entre los distintos módulos. Asimismo, se realizó el despliegue exitoso tanto del frontend como del backend, lo que permite validar la operación del sistema en un entorno real.
-
-El trabajo colaborativo permitió reforzar las buenas prácticas de desarrollo: mensajes de commit consistentes, estructura clara de branches, revisión cruzada de código y un uso adecuado de herramientas ágiles para el seguimiento del progreso. La modularidad del sistema y la separación por contextos facilitaron la mantenibilidad del proyecto y permitieron que distintos miembros del equipo contribuyeran en paralelo sin afectar la estabilidad del código.
-
-Se recomienda, para etapas posteriores, ampliar la cobertura de pruebas automáticas, optimizar la experiencia de usuario mediante iteraciones basadas en feedback real, reforzar la seguridad de los módulos críticos y continuar con la documentación técnica y funcional del sistema. Los aprendizajes obtenidos en este proyecto fortalecen la capacidad del equipo para abordar nuevas funcionalidades y consolidan una base sólida para futuras mejoras y escalamiento de PcPedia como una plataforma integral de arrendamiento y gestión de equipos tecnológicos.
-</p>
