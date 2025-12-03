@@ -227,9 +227,9 @@ Para este avance se desarrolló el capitulo V en su cuerto sprint, enfocado a el
         - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
         - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
 - [5.3. Validation Interviews](#53-validation-interviews)
-    - [5.3.1. Diseño de Entrevistas](#diseño-de-entrevistas)
+    - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
-    - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-segun-heuristicas)
+    - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
 - [5.4. Video About-the-Product](#54-video-about-the-product)
 
 ### [Conclusiones](#conclusiones)
@@ -3407,7 +3407,7 @@ A continuación se muestra la tabla con el formato requerido para registrar la e
 
 ![commitsback_sp4](./assets/chapter5/commits%20back_sp4.png)
 
-#### 5.2.4.5. .Execution Evidence for Sprint Review
+#### 5.2.4.5. Execution Evidence for Sprint Review
 
 ![TFback1](./assets/chapter5/TFback1.png)
 ![TFback2](./assets/chapter5/TFback2.png)
@@ -3417,7 +3417,7 @@ A continuación se muestra la tabla con el formato requerido para registrar la e
 ![TFback6](./assets/chapter5/TFback6.png)
 ![TFback7](./assets/chapter5/TFback7.png)
 
-#### 5.2.4.6.Services Documentation Evidence for Sprint Review
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 <table>
   <tr>
@@ -3645,14 +3645,14 @@ A continuación se muestra la tabla con el formato requerido para registrar la e
 </table>
 
 
-#### 5.2.4.7.Software Deployment Evidence for Sprint Review
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
 ![netlifydeploy](./assets/chapter5/netlifydeploy.png)
 ![TFbackdeploy](./assets/chapter5/TFbackdeploy.png)
 ![TFbackdeploy2](./assets/chapter5/TFbackdeploy2.png)
 
 
-#### 5.2.4.8.Team Collaboration Insights during Sprint
+#### 5.2.4.8. Team Collaboration Insights during Sprint
 
 ![contributorfront_TF](./assets/caratula/contributorfront_TF.png)  
 
@@ -3711,7 +3711,7 @@ A continuación se muestra la tabla con el formato requerido para registrar la e
 - Recomienda integrar funciones de automatización.  
 🎥 Video: https://youtu.be/smTyQuUE534
 
-### 5.3.3. Evaluaciones Según Heurísticas
+### 5.3.3. Evaluaciones según Heurísticas
 
 > **¿Qué son las heurísticas?**  
 > Son un conjunto de principios utilizados para evaluar la usabilidad de una interfaz. Las más conocidas son las **10 heurísticas de Jakob Nielsen**, aplicadas en diseño UX.
