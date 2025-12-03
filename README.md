@@ -41,19 +41,25 @@ Barba Estrada, Bryan Eduardo - u202323479
         <td colspan="3">1era</td>
         <td colspan="3">30/08/2025</td>
         <td colspan="10">Retuerto Rodríguez, Jorge Manuel <br> Hernández Poma, Sebastián Eduardo <br> Condori Lozano, Alessandro Ramiro <br> Armestar Heredia, Matias Gabriel <br> Bendezu Navarro, Rubens Fitzgerald </td>
-        <td colspan="5">Revision y entrega de cada punto, cada estudiante se repartio 1 capitulo del informe, luego de haber terminado, fue visto y corregidor por cada integrante, esto ocurrio posterior a la revision del docente, con el proposito de mejorar el informe y poder entregar un informe de acuerdo a la rúbrica</td>
+        <td colspan="5">Revision y entrega de cada punto, cada estudiante se repartió 1 capitulo del informe, luego de haber terminado, fue visto y corregido por cada integrante, esto ocurrió posterior a la revisión del docente, con el propósito de mejorar el informe y poder entregar un informe de acuerdo a la rúbrica</td>
     </tr>
     <tr>
         <td colspan="3">2da</td>
         <td colspan="3">8/10/2025</td>
         <td colspan="10">Retuerto Rodríguez, Jorge Manuel <br> Hernández Poma, Sebastián Eduardo <br> Condori Lozano, Alessandro Ramiro <br> Armestar Heredia, Matias Gabriel <br> Bendezu Navarro, Rubens Fitzgerald </td>
-        <td colspan="5">Revision de los capitulos para lograr una correccion optima, posterior avance del frontend y del Sprint 2</td>
+        <td colspan="5">Revisión de los capítulos para lograr una correccion óptima, posterior avance del frontend y del Sprint 2</td>
     </tr>
     <tr>
         <td colspan="3">3era</td>
         <td colspan="3">16/11/2025</td>
         <td colspan="10">Retuerto Rodríguez, Jorge Manuel <br> Hernández Poma, Sebastián Eduardo <br> Condori Lozano, Alessandro Ramiro <br> Armestar Heredia, Matias Gabriel <br> Bendezu Navarro, Rubens Fitzgerald </td>
-        <td colspan="5">Revision de los capitulos para lograr una correccion optima, posterior avance del backend y del Sprint 3</td>
+        <td colspan="5">Revisión de los capítulos para lograr una corrección óptima, posterior avance del backend y del Sprint 3</td>
+    </tr>
+    <tr>
+        <td colspan="3">4ta</td>
+        <td colspan="3">04/12/2025</td>
+        <td colspan="10">Retuerto Rodríguez, Jorge Manuel <br> Hernández Poma, Sebastián Eduardo <br> Condori Lozano, Alessandro Ramiro <br> Armestar Heredia, Matias Gabriel <br> Bendezu Navarro, Rubens Fitzgerald, Barba Estrada, Bryan Eduardo </td>
+        <td colspan="5">Organización del reporte, optimización de los apartados frontend y backend y documentación del desarrollo correspondiente del Sprint 4</td>
     </tr>
 </table>
 
