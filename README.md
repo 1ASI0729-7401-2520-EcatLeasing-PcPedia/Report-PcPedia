@@ -2758,6 +2758,14 @@ Presentamos los avances del Sprint 3, divididos en la mejora de nuestro FrontEnd
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 
+## Collaboration to FrontEnd
+
+![collab_sprint3](./assets/chapter5/collab_sprint3_1.jpeg)
+
+## Collaboration to BackEnd
+
+![collab_sprint3](./assets/chapter5/collab_sprint3_2.jpeg)
+
 <ul>
   <li><strong>Alineamiento del modelo de dominio:</strong> 
   Se definieron agregados clave para soportar flujos de leasing.</li>
