@@ -2760,11 +2760,11 @@ Presentamos los avances del Sprint 3, divididos en la mejora de nuestro FrontEnd
 
 ## Collaboration to FrontEnd
 
-![collab_sprint3](./assets/chapter5/collab_sprint3_1.jpeg)
+![collab_sprint3](./assets/chapter5/collab_sprint3_2.jpeg)
 
 ## Collaboration to BackEnd
 
-![collab_sprint3](./assets/chapter5/collab_sprint3_2.jpeg)
+![collab_sprint3](./assets/chapter5/collab_sprint3_1.jpeg)
 
 <ul>
   <li><strong>Alineamiento del modelo de dominio:</strong> 
