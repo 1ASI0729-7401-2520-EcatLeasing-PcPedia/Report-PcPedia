@@ -2675,36 +2675,45 @@ sistema <strong>ECAT Leasing / PcPedia</strong> siguiendo una arquitectura basad
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
 
-<p>Evidencia de ejecución durante el Sprint:</p>
+Presentamos los avances del Sprint 3, divididos en la mejora de nuestro FrontEnd y la creación de nuestro BackEnd.
 
-<ul>
-  <li>API ejecutada localmente y luego desplegada en Render.</li>
-  <li>Pruebas reales usando Postman y navegador:
-    <ul>
-      <li><code>POST /api/users</code>, <code>GET /api/users</code></li>
-      <li><code>POST /api/articles</code>, <code>PUT /api/articles/{id}</code>, <code>GET /api/articles</code></li>
-      <li><code>POST /api/orders</code>, <code>GET /api/orders</code></li>
-      <li><code>POST /api/leases</code>, <code>GET /api/leases</code></li>
-      <li><code>POST /api/payments</code> para pagos de arrendamiento</li>
-      <li><code>POST /api/complaints</code>, <code>GET /api/complaints</code></li>
-    </ul>
-  </li>
-  <li>Validación con respuestas HTTP 200/201 y errores gestionados por <code>ErrorResponse</code>.</li>
-</ul>
+# BackEnd
+
+### Arranque funcional
+![Arranque funcional](./assets/chapter5/evidence_sprint3_1.PNG)
+
+### Swagger funcional
+![Swagger funcional](./assets/chapter5/evidence_sprint3_2.PNG)
+
+### Validación visual del API
+![Validación visual del API](./assets/chapter5/evidence_sprint3_3.PNG)
+![Validación visual del API](./assets/chapter5/evidence_sprint3_4.PNG)
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
-<ul>
-  <li>Swagger/OpenAPI habilitado mediante <code>ApiConfiguration</code>.</li>
-  <li>Documentación disponible en:
-    <ul>
-      <li><code>/v3/api-docs</code></li>
-      <li><code>/swagger-ui.html</code> o <code>/swagger-ui/index.html</code></li>
-    </ul>
-  </li>
-  <li>Propiedades configuradas en <code>application.properties</code> para versión, descripción y licencia.</li>
-  <li><code>SecurityConfig</code> permite acceso público a la documentación.</li>
-</ul>
+| Endpoint | Metodo | Descripcion | Parametros | Request | Response |
+| --- | --- | --- | --- | --- | --- |
+| `/api/users` | `GET` | `Retornar todos los usuarios registrados` | - | - | `{ "id": 1, "name": "Juan Perez", "email": "juan.perez@example.com", "phoneNumber": "999888777", "address": "Lima, Perú", "role": "CLIENT" }` |
+| `/api/users/{id}` | `GET` | `Buscar usuario por “id”` | `Path: id` | - | `{ id: 1, name: "Juan Perez", email: "juan.perez@example.com", phoneNumber: "999888777", address: "Lima, Perú", role: "CLIENT" }` |
+| `/api/users` | `POST` | `Registrar nuevo usuario` | `Body: name, email, password, phoneNumber, address, role` | `{ name: "Juan Perez", email: "juan.perez@example.com", password: "Password123123456789", phoneNumber: "999888777", address: "Lima, Perú", role: "CLIENT" }` | `{ id: 1, name: "Juan Perez", email: "juan.perez@example.com", phoneNumber: "999888777", address: "Lima, Perú", role: "CLIENT", createdAt: "2025-12-03T05:00:00Z" }` |
+| `/api/users/{id}/password` | `PUT` | `Cambiar contraseña` | `Path: id Body: currentPassword, newPassword` | `{ currentPassword: "Password123123456789", newPassword: "NewPassword2025!" }` | `{ "id": 0, "name": "string", "email": "string", "phoneNumber": "string", "address": "string", "role": "string" }` |
+| `/api/orders/{id}/status` | `PUT` | `Cambio de status de orden` | `Path: id` | `{ "status": "string" }` | `{ "id": 0, "userId": 0, "totalAmount": 0, "status": "string", "createAt": "2025-12-03T06:32:45.030Z", "items": [ { "articleId": 0, "articleName": "string", "quantity": 0, "unitPrice": 0, "subTotal": 0 } ] }` |
+| `/api/orders` | `GET` | `Retorna todas las ordenes: lista de ordenes` | - | - | `{ "id": 0, "userId": 0, "totalAmount": 0, "status": "string", "createAt": "2025-12-03T06:34:38.159Z", "items": [ { "articleId": 0, "articleName": "string", "quantity": 0, "unitPrice": 0, "subTotal": 0 } ] }` |
+| `/api/orders` | `POST` | `Se registra una nueva orden, vinculando usuario y articulos` | `Body: items, articleId, quantity` | `{ "userId": 0, "items": [ { "articleId": 0, "quantity": 0 } ] }` | `{ "id": 0, "userId": 0, "totalAmount": 0, "status": "string", "createAt": "2025-12-03T06:34:53.622Z", "items": [ { "articleId": 0, "articleName": "string", "quantity": 0, "unitPrice": 0, "subTotal": 0 } ] }` |
+| `/api/orders/{id}` | `GET` | `Retorno de orden por “id”` | `Path: id` | - | `{ "id": 0, "userId": 0, "totalAmount": 0, "status": "string", "createAt": "2025-12-03T06:34:38.159Z", "items": [ { "articleId": 0, "articleName": "string", "quantity": 0, "unitPrice": 0, "subTotal": 0 } ] }` |
+| `/api/leases/{id}/status` | `PUT` | `Actualizacion de estado de alquiler` | `Path: id` | `{ "status": "string" }` | `{ "id": 0, "userId": 0, "articleId": 0, "startDate": "2025-12-03", "endDate": "2025-12-03", "totalAmount": 0, "status": "string", "createdAt": "2025-12-03T15:09:31.160Z", "payments": [ { "id": 0, "amount": 0, "method": "string", "status": "string", "paymentDate": "2025-12-03T15:09:31.160Z" } ] }` |
+| `/api/leases` | `GET` | `Retorno de lista de alquileres` | `Path: page, pageSize, userId Body: status` | - | `{ "id": 0, "userId": 0, "articleId": 0, "startDate": "2025-12-03", "endDate": "2025-12-03", "totalAmount": 0, "status": "string", "createdAt": "2025-12-03T15:08:30.141Z", "payments": [ { "id": 0, "amount": 0, "method": "string", "status": "string", "paymentDate": "2025-12-03T15:08:30.141Z" } ] }` |
+| `/api/leases` | `POST` | `Registro de nuevo alquiler, asociando articulo y usuario` | `Body: userId, articleId, startDate` | `{ "userId": 0, "articleId": 0, "startDate": "2025-12-03", "endDate": "2025-12-03" }` | `{ "id": 0, "userId": 0, "articleId": 0, "startDate": "2025-12-03", "endDate": "2025-12-03", "totalAmount": 0, "status": "string", "createdAt": "2025-12-03T15:11:37.133Z", "payments": [ { "id": 0, "amount": 0, "method": "string", "status": "string", "paymentDate": "2025-12-03T15:11:37.133Z" } ] }` |
+| `/api/leases/{id}/payment` | `POST` | `Registro de orden de pago` | `Path: id` | `{ "amount": 0, "method": "string" }` | `{ "id": 0, "userId": 0, "articleId": 0, "startDate": "2025-12-03", "endDate": "2025-12-03", "totalAmount": 0, "status": "string", "createdAt": "2025-12-03T15:08:30.141Z", "payments": [ { "id": 0, "amount": 0, "method": "string", "status": "string", "paymentDate": "2025-12-03T15:08:30.141Z" } ] }` |
+| `/api/leases/{id}` | `GET` | `Retorno de alquiler por “id”` | `Path: id` | - | `{ "id": 0, "userId": 0, "articleId": 0, "startDate": "2025-12-03", "endDate": "2025-12-03", "totalAmount": 0, "status": "string", "createdAt": "2025-12-03T15:13:04.356Z", "payments": [ { "id": 0, "amount": 0, "method": "string", "status": "string", "paymentDate": "2025-12-03T15:13:04.357Z" } ] }` |
+| `/api/complaints/{id}/status` | `PUT` | `Cambio de estado de incidencia: completada o pendiente` | `Path: id Body: status` | `{ "status": "string" }` | `{ "id": 0, "userId": 0, "leaseId": 0, "articleId": 0, "type": "string", "status": "string", "description": "string", "createdAt": "2025-12-03T15:17:43.070Z", "updatedAt": "2025-12-03T15:17:43.070Z" }` |
+| `/api/complaints` | `GET` | `Retorno de lista de incidentes` | `Path: page, pageSize, userId` | - | `{ "id": 0, "userId": 0, "leaseId": 0, "articleId": 0, "type": "string", "status": "string", "description": "string", "createdAt": "2025-12-03T15:17:43.070Z", "updatedAt": "2025-12-03T15:17:43.070Z" }` |
+| `/api/complaints` | `POST` | `Registro de nuevas incidencias` | `Path: id Body: userId, leaseId, articleId, type, description` | `{ "userId": 0, "leaseId": 0, "articleId": 0, "type": "string", "description": "string" }` | `{ "id": 0, "userId": 0, "leaseId": 0, "articleId": 0, "type": "string", "status": "string", "description": "string", "createdAt": "2025-12-03T15:18:53.644Z", "updatedAt": "2025-12-03T15:18:53.644Z" }` |
+| `/api/complaints/{id}` | `GET` | `Retorno de incidencia por “id”` | `Path: id` | - | `{ "id": 0, "userId": 0, "leaseId": 0, "articleId": 0, "type": "string", "status": "string", "description": "string", "createdAt": "2025-12-03T15:19:44.704Z", "updatedAt": "2025-12-03T15:19:44.704Z" }` |
+| `/api/articles/{id}` | `GET` | `Retorno de articulo por “id”` | `Path: id` | - | `{ "id": 0, "name": "string", "description": "string", "category": "string", "price": 0, "status": "string" }` |
+| `/api/articles/id` | `PUT` | `Actualización de datos de articles` | `Path: id` | `{ "name": "string", "description": "string", "category": "string", "price": 0 }` | `{ "id": 0, "name": "string", "description": "string", "category": "string", "price": 0, "status": "string" }` |
+| `/api/articles` | `GET` | `Retorno de lista de articulos` | `Path: id, page, pageSize` | - | `{ "id": 0, "name": "string", "description": "string", "category": "string", "price": 0, "status": "string" }` |
+| `/api/articles` | `POST` | `Registro de nuevo articulo` | `Path: id` | `{ "name": "string", "description": "string", "category": "string", "price": 0 }` | `{ "id": 0, "name": "string", "description": "string", "category": "string", "price": 0, "status": "string" }` |
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
