@@ -2677,6 +2677,16 @@ sistema <strong>ECAT Leasing / PcPedia</strong> siguiendo una arquitectura basad
 
 Presentamos los avances del Sprint 3, divididos en la mejora de nuestro FrontEnd y la creación de nuestro BackEnd.
 
+# FrontEnd
+
+![Arranque funcional](./assets/chapter5/evidence_sprint3_5.PNG)
+
+![Arranque funcional](./assets/chapter5/evidence_sprint3_6.PNG)
+
+![Arranque funcional](./assets/chapter5/evidence_sprint3_7.PNG)
+
+![Arranque funcional](./assets/chapter5/evidence_sprint3_8.PNG)
+
 # BackEnd
 
 ### Arranque funcional
@@ -2719,7 +2729,16 @@ Presentamos los avances del Sprint 3, divididos en la mejora de nuestro FrontEnd
 
 <p>Evidencias del despliegue:</p>
 
-<ul>
+## Railway
+
+![Railway](./assets/chapter5/sprint3_deployevidence1.PNG)
+
+## Render
+
+![Render1](./assets/chapter5/sprint3_deployevidence2.PNG)
+![Render2](./assets/chapter5/sprint3_deployevidence3.PNG)
+
+<ul>    
   <li><strong>Dockerfile implementado (multi-stage):</strong>
     <ul>
       <li>Stage builder basado en <code>eclipse-temurin:21-jdk</code></li>
@@ -2727,9 +2746,11 @@ Presentamos los avances del Sprint 3, divididos en la mejora de nuestro FrontEnd
       <li>Stage runtime con <code>eclipse-temurin:21-jre</code></li>
     </ul>
   </li>
-  <li><strong>Despliegue en Render.com:</strong></li>
+    
   <ul>
     <li>Aplicación corriendo en contenedor Docker.</li>
+    <li>Proovedor usado para deploy de BackEnd: Render</li>
+    <li>Proovedor usado para Data Base: Railway</li>
     <li>URL pública: <strong>https://backendpcpedia.onrender.com</strong></li>
     <li>Acceso validado a rutas REST y Swagger durante el Sprint Review.</li>
   </ul>
