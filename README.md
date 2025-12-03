@@ -3370,6 +3370,14 @@ A continuación se muestra la tabla con el formato requerido para registrar la e
 
 #### 5.2.4.5. .Execution Evidence for Sprint Review
 
+![TFback1](./assets/chapter5/TFback1.png)
+![TFback2](./assets/chapter5/TFback2.png)
+![TFback3](./assets/chapter5/TFback3.png)
+![TFback4](./assets/chapter5/TFback4.png)
+![TFback5](./assets/chapter5/TFback5.png)
+![TFback6](./assets/chapter5/TFback6.png)
+![TFback7](./assets/chapter5/TFback7.png)
+
 #### 5.2.4.6.Services Documentation Evidence for Sprint Review
 
 <table>
@@ -3599,6 +3607,11 @@ A continuación se muestra la tabla con el formato requerido para registrar la e
 
 
 #### 5.2.4.7.Software Deployment Evidence for Sprint Review
+
+![netlifydeploy](./assets/chapter5/netlifydeploy.png)
+![TFbackdeploy](./assets/chapter5/TFbackdeploy.png)
+![TFbackdeploy2](./assets/chapter5/TFbackdeploy2.png)
+
 
 #### 5.2.4.8.Team Collaboration Insights during Sprint
 
