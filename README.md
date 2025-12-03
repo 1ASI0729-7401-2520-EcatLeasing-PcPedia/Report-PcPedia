@@ -3726,7 +3726,7 @@ A continuación se muestra la tabla con el formato requerido para registrar la e
 
 Como último artefacto del proyecto desarrollado, se ha desarrollado un video con orientación promocional e informativa, resumiendo el modelo de negocio, las características y beneficios del producto, incluyendo algunas escenas de interacción con el producto y al menos una opinión por cada segmento objetivo.  
 
-![pcpedia_about_the_product_thumbnail.png](../assets/chapter5/pcpedia_about_the_product_thumbnail.png)  
+![pcpedia_about_the_product_thumbnail.png](./assets/chapter5/pcpedia_about_the_product_thumbnail.png)  
 
 **URL en OneDrive:** [OneDrive](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a553_upc_edu_pe/IQDMIq-ktRmmRInkCK2IRzV1AXCy8kQNCCH14S3BM6ZQaAw)  
 **URL en YouTube:** [YouTube](https://youtu.be/2q87N3Umm0w)  
