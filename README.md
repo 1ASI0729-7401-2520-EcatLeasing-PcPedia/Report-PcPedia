@@ -3135,7 +3135,11 @@ entorno funcional.
   </tr>
 </table>
 
-<p><em>Trello Board – Sprint 4 Backlog</em></p>
+![jira1](./assets/chapter5/jira1.png)<br>
+
+![jira2](./assets/chapter5/jira2.png)<br>
+
+![jira3](./assets/chapter5/jira3.png)<br>
 
 #### 5.2.4.4. Development Evidence for Sprint Review
 
