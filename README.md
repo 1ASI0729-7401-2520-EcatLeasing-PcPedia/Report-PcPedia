@@ -2679,13 +2679,13 @@ Presentamos los avances del Sprint 3, divididos en la mejora de nuestro FrontEnd
 
 # FrontEnd
 
-![Arranque funcional](./assets/chapter5/evidence_sprint3_5.PNG)
+![Arranque funcional](./assets/chapter5/evidence_sprint3_5.jpeg)
 
-![Arranque funcional](./assets/chapter5/evidence_sprint3_6.PNG)
+![Arranque funcional](./assets/chapter5/evidence_sprint3_6.jpeg)
 
-![Arranque funcional](./assets/chapter5/evidence_sprint3_7.PNG)
+![Arranque funcional](./assets/chapter5/evidence_sprint3_7.jpeg)
 
-![Arranque funcional](./assets/chapter5/evidence_sprint3_8.PNG)
+![Arranque funcional](./assets/chapter5/evidence_sprint3_8.jpeg)
 
 # BackEnd
 
