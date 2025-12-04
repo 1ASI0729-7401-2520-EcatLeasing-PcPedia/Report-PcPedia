@@ -3872,7 +3872,7 @@ Se recomienda, para etapas posteriores, ampliar la cobertura de pruebas automát
 
 ### Video About-the-Team
 
-**URL de video About-The-Team** [Youtube](https://youtu.be/qiV-ZW8_nnM)
+**URL de video About-The-Team** [AboutTheTeam](https://youtu.be/qiV-ZW8_nnM)
 
 # Bibliografia
 
@@ -3952,4 +3952,6 @@ Se recomienda, para etapas posteriores, ampliar la cobertura de pruebas automát
       </a>
     </li>
   </ul>
+  <h3>5. Exposicion del proyecto TF</h3>
+  <p>https://youtu.be/jFJ_QsxzDIw</p>
 </section>
