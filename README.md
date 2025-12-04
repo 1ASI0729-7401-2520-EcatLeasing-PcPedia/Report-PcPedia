@@ -3938,8 +3938,8 @@ Se recomienda, para etapas posteriores, ampliar la cobertura de pruebas automát
   <p>El Frontend fue desplegado utilizando Netlify. Esta página permite a los usuarios interactuar con la interfaz de manera satisfactoria.</p>
   <ul>
     <li><strong>Despliegue de el Frontend en producción:</strong> 
-      <a href="https://dreamy-sunshine-e3be2b.netlify.app/" target="_blank">
-          https://dreamy-sunshine-e3be2b.netlify.app/
+      <a href="https://pcpedia.netlify.app" target="_blank">
+          https://pcpedia.netlify.app
       </a>
     </li>
   </ul>
@@ -3947,8 +3947,8 @@ Se recomienda, para etapas posteriores, ampliar la cobertura de pruebas automát
   <p>El backend fue desplegado utilizando Render. Esta página contiene la lógica de negocio, el manejo de la base de datos y control de APIs.</p>
   <ul>
     <li><strong>Despliegue de el Backend:</strong> 
-      <a href="https://backendpcpedia.onrender.com/swagger-ui/index.html" target="_blank">
-          https://backendpcpedia.onrender.com/swagger-ui/index.html
+      <a href="https://pcpediaapi-egd4b8frh3bqcsde.canadacentral-01.azurewebsites.net/swagger-ui/index.html" target="_blank">
+          https://pcpediaapi-egd4b8frh3bqcsde.canadacentral-01.azurewebsites.net/swagger-ui/index.html
       </a>
     </li>
   </ul>
