@@ -3517,7 +3517,7 @@ A continuación se muestra la tabla con el formato requerido para registrar la e
 ![commitsback_sp4](./assets/chapter5/commits%20back_sp4.png)
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
-
+![evidencefront](./assets/chapter5/evidencefront.png)
 ![TFback1](./assets/chapter5/TFback1.png)
 ![TFback2](./assets/chapter5/TFback2.png)
 ![TFback3](./assets/chapter5/TFback3.png)
