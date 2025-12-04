@@ -3872,6 +3872,8 @@ Se recomienda, para etapas posteriores, ampliar la cobertura de pruebas automát
 
 ### Video About-the-Team
 
+**URL de video About-The-Team** [Youtube](https://youtu.be/qiV-ZW8_nnM)
+
 # Bibliografia
 
 <ul>
