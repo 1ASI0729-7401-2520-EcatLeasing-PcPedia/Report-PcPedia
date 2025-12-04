@@ -2738,6 +2738,8 @@ sistema <strong>ECAT Leasing / PcPedia</strong> siguiendo una arquitectura basad
   </li>
 </ul>
 
+![backlogsp3](./assets/chapter5/backlogsp3.png)
+
 ### 5.2.3.4. Development Evidence for Sprint Review
 
 <p>Evidencias de desarrollo durante el sprint:</p>
@@ -2774,6 +2776,8 @@ sistema <strong>ECAT Leasing / PcPedia</strong> siguiendo una arquitectura basad
     <code>OrdersController</code>, <code>LeasesController</code>, <code>ComplaintsController</code>.
   </li>
 </ul>
+
+
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
 
